@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 7:46",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "մեկ այծ՝ շատ մազոտ, որպես խատատ։",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "այծ՝ շատ մազոտ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "այծերի"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "որպես խատատ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:15:14.117411277Z",
+  "model": "glm-5.3"
+}

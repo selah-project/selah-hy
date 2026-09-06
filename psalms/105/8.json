@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 105,
+  "translation": "Հիշեց հավիտյան իր Բրիթը, խոսքը, որ պատվիրեց հազար սերնդի։",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Հիշեց"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "հավիտյան"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "իր Բրիթը"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "պատվիրեց"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "հազար…-ի"
+    },
+    {
+      "surface": "דור",
+      "gloss": "սերնդի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:17:04.331709785Z",
+  "model": "glm-5.3"
+}

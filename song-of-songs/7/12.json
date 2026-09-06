@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Արի՛, իմ սիրելի՛, դուրս գնանք դաշտ, գիշերենք գյուղերում։",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Արի՛"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "իմ սիրելի՛"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "դուրս գնանք"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "դաշտ"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "գիշերենք"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "գյուղերում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:54:44.121809037Z",
+  "model": "glm-5.3"
+}

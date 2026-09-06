@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 26:17",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Բռնողը՝ շան ականջներից, անցնողն է՝ բարկանալով վեճի վրա, որ իրենը չէ։",
+  "tokens": [
+    {
+      "surface": "מחזיק",
+      "gloss": "Բռնողը"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ականջների"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "շան"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "անցնողն է"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "բարկանալով"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "վեճի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "իրենը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:49.039042154Z",
+  "model": "glm-5.3"
+}

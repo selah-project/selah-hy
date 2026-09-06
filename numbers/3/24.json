@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 3:24",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "և Գերշոնցիների հայրատան իշխանը՝ Էլյասաֆը, Լաելի որդին։",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "և իշխանը"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տան"
+    },
+    {
+      "surface": "אב",
+      "gloss": "հայրա"
+    },
+    {
+      "surface": "לגרשני",
+      "gloss": "Գերշոնցիների"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Էլյասաֆը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Լաելի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:12:39.068221496Z",
+  "model": "glm-5.3"
+}

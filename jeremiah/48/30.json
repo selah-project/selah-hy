@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 48:30",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 48,
+  "translation": "Ես գիտեմ իր բարկությունը՝ Յահվեի խոսքն է. և ոչ այնպես է, իր ստերը՝ այնպես չեն գործել։",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ես"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "գիտեմ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "խոսքն է"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "իր բարկությունը"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այնպես"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "իր ստերը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այնպես"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "գործել են"
+    }
+  ],
+  "timestamp": "2026-09-05T22:03:36.304342940Z",
+  "model": "glm-5.3"
+}

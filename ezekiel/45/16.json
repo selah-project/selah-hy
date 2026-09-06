@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 45:16",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 45,
+  "translation": "Երկրի ամբողջ ժողովուրդը լինի դեպի այս ընծան՝ Իսրայելի նահապետին։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովուրդը"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "ընծա"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "այս"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "նահապետին"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Իսրայելի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:28:48.915514098Z",
+  "model": "glm-5.3"
+}

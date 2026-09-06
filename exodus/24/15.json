@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Եվ բարձրացավ Մոշեն լեռը, և ծածկեց ամպը ⟨את⟩ լեռը։",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Եվ բարձրացավ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "լեռը"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "և ծածկեց"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ամպը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "լեռը"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "լեռը"
+    }
+  ],
+  "timestamp": "2026-09-05T18:45:40.085999873Z",
+  "model": "glm-5.3"
+}

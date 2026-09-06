@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 66,
+  "translation": "Ապարդյունություն՝ եթե տեսած լինեի իմ սրտում, Ադոնայ չէր լսի։",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "ապարդյունություն"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "տեսա"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "իմ սրտում"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "կլսի"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:06:43.237920564Z",
+  "model": "glm-5.3"
+}

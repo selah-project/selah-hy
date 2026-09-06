@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 19:7",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Այինը, Ռիմոնը, և Էթերը, և Աշանը. չորս քաղաք և դրանց գյուղերը",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "Այինը"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Ռիմոնը"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "և Էթերը"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "և Աշանը"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "քաղաք"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "չորս"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "և գյուղերը դրանց"
+    }
+  ],
+  "timestamp": "2026-09-05T19:57:24.762324038Z",
+  "model": "glm-5.3"
+}

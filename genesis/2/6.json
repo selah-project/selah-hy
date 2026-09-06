@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ գոլորշի էր բարձրանում երկրից և ոռոգում ⟨את⟩ ամեն երեսը հողի։",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "և գոլորշի"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "բարձրանում էր"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—ից"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրից"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "և ոռոգում էր"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ամեն (երեսը հողի)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "פני",
+      "gloss": "երեսը"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "հողի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:08:16.122459491Z",
+  "model": "glm-5.3"
+}

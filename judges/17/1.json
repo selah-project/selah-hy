@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 17:1",
+  "book": "judges",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Եվ եղավ մի մարդ Էփրայիմ լեռնից, և նրա անունը Միքայհու էր։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մի մարդ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "լեռնից"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Էփրայիմ"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "և նրա անունը"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Միքայհու"
+    }
+  ],
+  "timestamp": "2026-09-05T20:10:31.179591830Z",
+  "model": "glm-5.3"
+}

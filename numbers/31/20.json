@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 31:20",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Եվ ամեն հագուստ, և ամեն կաշվե անոթ, և ամեն այծի մազից գործ, և ամեն փայտե անոթ մաքրեցե՛ք։",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Եվ ամեն"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "հագուստ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "և ամեն"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "անոթ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "կաշվե"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "և ամեն"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "գործ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "այծի"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "և ամեն"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "անոթ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "փայտե"
+    },
+    {
+      "surface": "תתחטאו",
+      "gloss": "մաքրեցեք"
+    }
+  ],
+  "timestamp": "2026-09-05T19:28:04.511347966Z",
+  "model": "glm-5.3"
+}

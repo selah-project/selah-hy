@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ քաղաքի դաշտն ու ⟨את⟩ իր բակերը տվեցին Կալեբին՝ Յեֆունեի որդուն։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "դաշտը"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "դաշտը"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "քաղաքի"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "բակերը"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "իր բակերը"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "տվեցին"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Կալեբին"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդուն"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Յեֆունեի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:59.835653675Z",
+  "model": "glm-5.3"
+}

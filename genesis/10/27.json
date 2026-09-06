@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "և ⟨את⟩ Հադորամին և ⟨את⟩ Ուզալին և ⟨את⟩ Դիքլահին։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Հադորամին"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Հադորամին"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Ուզալին"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Ուզալին"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Դիքլահին"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Դիքլահին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:12:42.768623246Z",
+  "model": "glm-5.3"
+}

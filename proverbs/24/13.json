@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 24:13",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Ուտի՛ր, որդի՛ս, մեղր, որովհետև լավ է, և մեղրակաթիլը քաղցր է քո քիմքի վրա։",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "Ուտի՛ր"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդի՛ս"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "մեղր"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "լավ"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "և մեղրակաթիլ"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "քաղցր"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "քո քիմք"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:52.719849815Z",
+  "model": "glm-5.3"
+}

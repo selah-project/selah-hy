@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 73,
+  "translation": "Եվ մտածեցի՝ իմանալ այս, բայց այն ջանք էր իմ աչքերի համար։",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "Եվ մտածեցի"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "իմանալ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "այս"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ջանք"
+    },
+    {
+      "surface": "היא",
+      "gloss": "այն ⟨էր⟩"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "իմ աչքերի համար"
+    }
+  ],
+  "timestamp": "2026-09-06T02:51:33.574796105Z",
+  "model": "glm-5.3"
+}

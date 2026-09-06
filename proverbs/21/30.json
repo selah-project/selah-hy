@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Չկա իմաստություն և չկա հասկացողություն և չկա խորհուրդ Յահվեի դեմ։",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "իմաստություն"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "և չկա"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "հասկացողություն"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "և չկա"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "խորհուրդ"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "դեմ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:50.728212660Z",
+  "model": "glm-5.3"
+}

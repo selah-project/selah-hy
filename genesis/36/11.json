@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 36,
+  "translation": "Եվ եղան Էլիֆազի որդիները՝ Թեյման, Օմար, Ցեֆո, Գաաթամ և Քենազ։",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Եվ եղան"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Էլիֆազի"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Թեյման"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "Օմար"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "Ցեֆո"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "և Գաաթամ"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "և Քենազ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:24:22.064642037Z",
+  "model": "glm-5.3"
+}

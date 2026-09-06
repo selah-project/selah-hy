@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Մաազյահ, Բիլգայ, Շեմայահ՝ սրանք են քահանաները։",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "Մաազյահ"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "Բիլգայ"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Շեմայահ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "սրանք"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "քահանաները"
+    }
+  ],
+  "timestamp": "2026-09-06T00:24:54.840359464Z",
+  "model": "glm-5.3"
+}

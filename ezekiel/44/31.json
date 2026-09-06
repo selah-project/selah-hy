@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 44:31",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 44,
+  "translation": "Ամեն դիակ և հոշոտված՝ թռչունից և կենդանուց՝ չեն ուտի քահանաները։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "դիակ"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "և հոշոտված"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ից"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "թռչունից"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "և ից"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "կենդանուց"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "չեն ուտի"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "քահանաները"
+    }
+  ],
+  "timestamp": "2026-09-05T22:28:35.773238915Z",
+  "model": "glm-5.3"
+}

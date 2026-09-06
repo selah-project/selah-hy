@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Որովհետև դիմացից կտեսնես ⟨את⟩ երկիրը, բայց այնտեղ չես մտնի այն երկիրը, որ ես եմ տալիս Իսրայելի որդիներին։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "դիմացից"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "կտեսնես"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "երկիրը"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "բայց այնտեղ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "չես մտնի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "եմ տալիս"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "որդիներին"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:48:12.154314980Z",
+  "model": "glm-5.3"
+}

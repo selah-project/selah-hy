@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ նեֆեշս խիստ սարսափեց. իսկ դու, Յահվե, մինչ ե՞րբ։",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Եվ նեֆեշս"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "սարսափեց"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "խիստ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "իսկ դու"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ե՞րբ"
+    }
+  ],
+  "timestamp": "2026-09-06T01:15:55.180396601Z",
+  "model": "glm-5.3"
+}

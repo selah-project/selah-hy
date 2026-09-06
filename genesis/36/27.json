@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 36,
+  "translation": "Սրանք են Էտսերի որդիները՝ Բիլհանը, և Զաավանը, և Ականը։",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "սրանք"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "Էտսերի"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Բիլհանը"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "և Զաավանը"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "և Ականը"
+    }
+  ],
+  "timestamp": "2026-09-05T18:24:34.068674999Z",
+  "model": "glm-5.3"
+}

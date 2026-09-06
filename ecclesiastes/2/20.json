@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ շուռ տվեցի ես՝ հուսահատեցնելու ⟨את⟩ սրտս ամբողջ ջանքի վրա, որ ջանացի արևի տակ։",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "Եվ շուռ տվեցի"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "հուսահատեցնելու"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "սրտս"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "սրտս"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "ջանքի"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "որ ջանացի"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "արևի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:32.229757047Z",
+  "model": "glm-5.3"
+}

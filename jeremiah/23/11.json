@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 23:11",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Որովհետև և՛ նախագուշակը, և՛ քահանան պղծվեցին, և՛ իմ տանը գտա նրանց չարիքը, ասում է Յահվեն։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "גם",
+      "gloss": "և՛"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "նախագուշակ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "և՛"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "քահանա"
+    },
+    {
+      "surface": "חנפו",
+      "gloss": "պղծվեցին"
+    },
+    {
+      "surface": "גם",
+      "gloss": "և՛"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "իմ տանը"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "գտա"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "նրանց չարիքը"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ասում է"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    }
+  ],
+  "timestamp": "2026-09-05T21:50:56.665143366Z",
+  "model": "glm-5.3"
+}

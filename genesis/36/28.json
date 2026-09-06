@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 36,
+  "translation": "Սրանք են Դիշոնի որդիները՝ Ուցը և Արանը։",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "սրանք"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "Դիշոնի"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Ուցը"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "և Արանը"
+    }
+  ],
+  "timestamp": "2026-09-05T18:24:34.068840676Z",
+  "model": "glm-5.3"
+}

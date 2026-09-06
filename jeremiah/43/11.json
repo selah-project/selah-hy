@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 43,
+  "translation": "Եկած՝ կխփի ⟨את⟩ Միցրայիմի երկիրը՝ որ մահվան՝ մահվան, և որ գերության՝ գերության, և որ սրի՝ սրի։",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "եկած կգա"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "կխփի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "երկիրը"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Միցրայիմի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "մահվան"
+    },
+    {
+      "surface": "למות",
+      "gloss": "մահվան"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "և որ"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "գերության"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "գերության"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "և որ"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "սրի"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "սրի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:13:15.558120758Z",
+  "model": "glm-5.3"
+}

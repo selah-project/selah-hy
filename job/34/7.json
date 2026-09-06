@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 34:7",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 34,
+  "translation": "Ո՞վ է մարդ՝ ինչպես Հիոբը, որ խմում է ծաղրանքը ջրի պես։",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "כאיוב",
+      "gloss": "ինչպես Հիոբը"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "խմում է"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "ծաղրանքը"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ջրի պես"
+    }
+  ],
+  "timestamp": "2026-09-05T23:49:50.589161382Z",
+  "model": "glm-5.3"
+}

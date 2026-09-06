@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "և Յեհուդը, և Բնե-Բարաքը, և Գաթ-Ռիմոնը։",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "և Յեհուդը"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Բարաքի"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "և Գաթը"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Ռիմոնի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:58:54.095392640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Եվ ասացին նրան. «Որտե՞ղ է Սառան, քո կինը»։ Եվ նա ասաց. «Ահա՛, վրանում է»։",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "եվ ասացին"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "איה",
+      "gloss": "որտե՞ղ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Սառան"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "քո կինը"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "եվ ասաց"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ահա՛"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "վրանում"
+    }
+  ],
+  "timestamp": "2026-09-05T18:14:24.990341091Z",
+  "model": "glm-5.3"
+}

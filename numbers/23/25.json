@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Եվ ասաց Բալակը Բիլաամին՝ ո՛չ անիծիր նրան, ո՛չ էլ օրհնիր նրան։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Բալակը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Բիլաամին"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ո՛չ"
+    },
+    {
+      "surface": "קב",
+      "gloss": "անիծել"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "անիծես նրան"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ո՛չ էլ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "օրհնել"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "օրհնես նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:24:46.474850929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 46:8",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 46,
+  "translation": "Հիշե՛ք սա և ամրացե՛ք, վերադարձե՛ք, ապստամբնե՛ր, դեպի սիրտ։",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Հիշե՛ք"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "սա"
+    },
+    {
+      "surface": "והתאששו",
+      "gloss": "և ամրացե՛ք"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "վերադարձե՛ք"
+    },
+    {
+      "surface": "פושעים",
+      "gloss": "ապստամբնե՛ր"
+    },
+    {
+      "surface": "על",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սիրտ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:32:07.807970540Z",
+  "model": "glm-5.3"
+}

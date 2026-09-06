@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 13:9",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Չես համաձայնի նրան, և չես լսի նրան, և աչքդ չի ողոշա նրա վրա, և չես գթա, և չես ծածկի նրան։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "չես"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "համաձայնի"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չես"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "լսի"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "չի ողոշա"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "աչքդ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "նրա վրա"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չես"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "գթա"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չես"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "ծածկի"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:38:55.607687657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ Խուշիմից ծնեց ⟨את⟩ Ավիտուվին և ⟨את⟩ Էլփաալին։",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "և Խուշիմից"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ավիտուվին"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Ավիտուվ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Էլփաալին"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Էլփաալ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:05.776599025Z",
+  "model": "glm-5.3"
+}

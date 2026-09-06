@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Եվ ասաց՝ դո՞ւ ես այդ՝ իմ որդի Էսավը, և նա ասաց՝ ես եմ։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դո՞ւ ես"
+    },
+    {
+      "surface": "זה",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "իմ որդի"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Էսավը"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես եմ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:20:33.571904833Z",
+  "model": "glm-5.3"
+}

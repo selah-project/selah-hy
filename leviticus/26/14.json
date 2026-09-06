@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Եվ եթե չլսեք ինձ և չանեք ⟨את⟩ այս բոլոր պատվիրանները՝",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Եվ եթե"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "լսեք"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "անեք"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այս բոլոր պատվիրանները"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "պատվիրանները"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-05T19:10:29.045839790Z",
+  "model": "glm-5.3"
+}

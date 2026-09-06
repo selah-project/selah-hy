@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 4:25",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Քո աչքերը դեպի առջև նայեն, և քո կոպերը ուղիղ պահեն առջևումդ։",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "քո աչքերը"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "դեպի առջև"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "նայեն"
+    },
+    {
+      "surface": "ועפעפיך",
+      "gloss": "և քո կոպերը"
+    },
+    {
+      "surface": "יישרו",
+      "gloss": "ուղիղ պահեն"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "առջևումդ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:23.338125276Z",
+  "model": "glm-5.3"
+}

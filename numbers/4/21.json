@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 4:21",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ խոսեց Յահվեն Մոշեի հետ՝ ասելով․",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "և խոսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "հետ՝"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեի"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T19:13:10.406294453Z",
+  "model": "glm-5.3"
+}

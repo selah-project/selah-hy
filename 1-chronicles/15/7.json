@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 15:7",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Գերշոմի որդիներից՝ Յոելը իշխանը և նրա եղբայրները՝ հարյուր երեսուն։",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "որդիներից"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Գերշոմի"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Յոելը"
+    },
+    {
+      "surface": "השר",
+      "gloss": "իշխանը"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "և նրա եղբայրները"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "երեսուն"
+    }
+  ],
+  "timestamp": "2026-09-06T00:33:04.480944301Z",
+  "model": "glm-5.3"
+}

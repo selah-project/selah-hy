@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 36,
+  "translation": "Ամեն մարդ տեսել է ⟨նրան⟩, մահկանացուն հեռվից է նայում։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ամեն"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "տեսել է"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "մահկանացուն"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "նայում է"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "հեռվից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:49:38.270691489Z",
+  "model": "glm-5.3"
+}

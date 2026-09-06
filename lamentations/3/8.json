@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Նույնիսկ երբ աղաղակում եմ և օգնություն եմ աղերսում, փակել է իմ աղոթքը։",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Նույնիսկ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "աղաղակում եմ"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "և օգնություն եմ աղերսում"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "փակել է"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "իմ աղոթքը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:46.278936446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Եվ ծնեց նրան որդիներ՝ ⟨את⟩ Յեուշին, և ⟨את⟩ Շեմարյահուն, և ⟨את⟩ Զահամին։",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "և ծնեց"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յեուշին"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Յեուշին"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Շեմարյահուն"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Շեմարյահուն"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Զահամին"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Զահամին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:43:51.065432477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 24:26",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Եվ խոնարհվեց այդ մարդը և երկրպագեց Յահվեին։",
+  "tokens": [
+    {
+      "surface": "ויקד",
+      "gloss": "և խոնարհվեց"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "այդ մարդը"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "և երկրպագեց"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:18:39.214458722Z",
+  "model": "glm-5.3"
+}

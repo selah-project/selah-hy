@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 30:2",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Մարդու որդի՛, մարգարեյիր և ասա՝ այսպես ասաց Ադոնայ Յահվեն․ ոռնացե՛ք, վա՜յ այդ օրը։",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "մարգարեյիր"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "և ասա"
+    },
+    {
+      "surface": "כה",
+      "gloss": "այսպես"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "ոռնացեք"
+    },
+    {
+      "surface": "הה",
+      "gloss": "վա՜յ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "այդ օրը"
+    }
+  ],
+  "timestamp": "2026-09-05T22:21:23.139395326Z",
+  "model": "glm-5.3"
+}

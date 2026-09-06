@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Իմաստությունը կառուցեց իր տունը, տաշեց իր սյուները՝ յոթը։",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Իմաստությունը"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "կառուցեց"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "իր տունը"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "տաշեց"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "իր սյուները"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "յոթը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:30:50.587855703Z",
+  "model": "glm-5.3"
+}

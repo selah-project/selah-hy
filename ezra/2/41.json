@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Երգիչները՝ Ասափի որդիները, հարյուր քսան ութ։",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "Երգիչները"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Ասափի"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "քսան"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ութ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:16:20.083242054Z",
+  "model": "glm-5.3"
+}

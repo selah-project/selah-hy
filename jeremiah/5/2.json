@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ եթե ասեն՝ «Այնպես անե, ինչպես Յահվեն ապրում է», ապա ստի են երդվում։",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Եվ եթե"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ապրում է"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ասեն"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ապա"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "ստի"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "են երդվում"
+    }
+  ],
+  "timestamp": "2026-09-05T21:42:44.260942570Z",
+  "model": "glm-5.3"
+}

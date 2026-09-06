@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 118,
+  "translation": "Յահ-ը խստորեն պատժեց ինձ, բայց մահվան չհանձնեց ինձ։",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "խստորեն պատժեց"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "պատժեց ինձ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Յահ"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "բայց մահվան"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "հանձնեց ինձ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:36.768006306Z",
+  "model": "glm-5.3"
+}

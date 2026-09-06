@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 22:26",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Եվ խոսեց Յահվեն Մոշեի հետ՝ ասելով։",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "և խոսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեի"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T19:07:31.451934492Z",
+  "model": "glm-5.3"
+}

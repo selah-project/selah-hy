@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 5:6",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ ասացի՝ ի՛նչ է դա։ Եվ նա ասաց՝ սա ⟨է⟩ էֆան, որ դուրս է գալիս։ Եվ ասաց՝ սա նրանց աչքն է ամբողջ երկրի վրա։",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "և ասացի"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՛նչ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "դա ⟨է⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "սա"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "էֆան"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "դուրս եկող"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "սա"
+    },
+    {
+      "surface": "עינם",
+      "gloss": "նրանց աչքը"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:48:16.186584106Z",
+  "model": "glm-5.3"
+}

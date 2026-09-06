@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Բավական է ձեզ՝ շրջել ⟨את⟩ այս լեռը շուրջը, դարձեք ձեզ դեպի հյուսիս։",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Բավական"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "סב",
+      "gloss": "շրջել շուրջը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այս լեռը"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "լեռը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "դարձեք"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "դեպի հյուսիս"
+    }
+  ],
+  "timestamp": "2026-09-05T19:32:17.095715027Z",
+  "model": "glm-5.3"
+}

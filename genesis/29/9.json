@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 29:9",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Դեռ նա խոսում էր նրանց հետ, և Ռախելը եկավ հոր ոչխարների հետ, որովհետև հովիվ էր նա։",
+  "tokens": [
+    {
+      "surface": "עודנו",
+      "gloss": "դեռ նա"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "խոսում էր"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "նրանց հետ"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "և Ռախելը"
+    },
+    {
+      "surface": "באה",
+      "gloss": "եկավ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ոչխարները"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "իր հոր"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "հովիվ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    }
+  ],
+  "timestamp": "2026-09-05T18:20:38.471628838Z",
+  "model": "glm-5.3"
+}

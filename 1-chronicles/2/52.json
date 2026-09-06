@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 2:52",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ որդիներ եղան Շովալին՝ Կիրյաթ Յաարիմի հորը՝ Հարոեն և Մենուխոթի կեսը։",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Եվ եղան"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "לשובל",
+      "gloss": "Շովալին"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "հորը"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Կիրյաթ"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Յաարիմի"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "Հարոեն"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "կեսը"
+    },
+    {
+      "surface": "המנחות",
+      "gloss": "Մենուխոթի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:18.124666651Z",
+  "model": "glm-5.3"
+}

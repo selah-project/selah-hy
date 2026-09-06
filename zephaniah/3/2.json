@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 3:2",
+  "book": "zephaniah",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Չլսեց ձայնին, չընդունեց խրատը, Յահվեին չվստահեց, իր Էլոհիմին չմոտեցավ։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "լսեց"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ձայնին"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "ընդունեց"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "խրատը"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "בטחה",
+      "gloss": "վստահեց"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "իր Էլոհիմը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "մոտեցավ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:45:54.177794476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Ազգադի որդիները՝ երկու հազար երեք հարյուր քսան երկու։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Ազգադի"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "երկու հազար"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "քսան"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "երկու"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:27.316652162Z",
+  "model": "glm-5.3"
+}

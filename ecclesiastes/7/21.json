@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Նաև բոլոր այն խոսքերի վրա, որ խոսում են, մի՛ դիր քո սիրտդ, որպեսզի չլսես քո ծառային՝ ⟨את⟩ քեզ նզովելիս։",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "նաև"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "խոսքերին"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "խոսում են"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "դիր"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "սիրտդ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որպեսզի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "լսես"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ծառայդ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ծառայդ"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "քեզ նզովելիս"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:23.357028048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 9:13",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ եղավ ոսկու քաշը, որ եկավ Շլոմոյի մոտ մեկ տարվա ընթացքում, վեց հարյուր վաթսունվեց ոսկե կիկար։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "քաշը"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ոսկու"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "եկավ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Շլոմոյի մոտ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "տարվա ընթացքում"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "վեց"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "վաթսուն"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "և վեց"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "կիկար"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ոսկե"
+    }
+  ],
+  "timestamp": "2026-09-06T00:43:20.010371967Z",
+  "model": "glm-5.3"
+}

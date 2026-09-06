@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ նրա որդին՝ անդրանիկը՝ Ավդոնը, և Ծուրը, և Քիշը, և Բաալը, և Նադավը։",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "Եվ նրա որդին"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "անդրանիկը"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Ավդոնը"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "և Ծուրը"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "և Քիշը"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "և Բաալը"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "և Նադավը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:52.659263352Z",
+  "model": "glm-5.3"
+}

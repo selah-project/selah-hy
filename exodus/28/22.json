@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 28:22",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Եվ արա Հոշենի վրա շղթաներ՝ ոլորված գործ, ծածկոցի գործ՝ մաքուր ոսկուց։",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Եվ արա"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "Հոշենի"
+    },
+    {
+      "surface": "שרשת",
+      "gloss": "շղթաներ"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "ոլորված գործ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "գործ"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "ծածկոցի"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ոսկուց"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "մաքուր"
+    }
+  ],
+  "timestamp": "2026-09-05T18:48:22.861642189Z",
+  "model": "glm-5.3"
+}

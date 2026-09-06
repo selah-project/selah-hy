@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 57:6",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 57,
+  "translation": "Բարձրացի՛ր երկինքների վրա, ո՛վ Էլոհիմ, քո փառքը՝ ամբողջ երկրի վրա։",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Բարձրացիր"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "երկինքների"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "փառքդ"
+    }
+  ],
+  "timestamp": "2026-09-06T01:41:46.680445806Z",
+  "model": "glm-5.3"
+}

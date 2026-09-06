@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Բենյամին (Բենիամին)՝ Բելա, և Բեխեր, և Յեդիաել՝ երեքը։",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "Բենյամին"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Բելա"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "և Բեխեր"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "և Յեդիաել"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "երեք"
+    }
+  ],
+  "timestamp": "2026-09-06T00:31:20.200579059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ Յավանի որդիները՝ Էլիշա, Տարշիշա, Քիթիմ և Ռոդանիմ։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "יון",
+      "gloss": "Յավանի"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "Էլիշա"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "Տարշիշա"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Քիթիմ"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "Ռոդանիմ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:26:49.684935762Z",
+  "model": "glm-5.3"
+}

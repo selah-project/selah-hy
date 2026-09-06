@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եվ ասաց Յահվեն հրեշտակին, և նա վերադարձրեց իր սուրը պատյանի մեջ։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "հրեշտակին"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "վերադարձրեց"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "իր սուրը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "պատյանի մեջ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:34:58.834466170Z",
+  "model": "glm-5.3"
+}

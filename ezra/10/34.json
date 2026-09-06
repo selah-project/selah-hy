@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Բանիի որդիներից՝ Մաադայ, Ամրամ և Ուել։",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "որդիներից"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Բանիի"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "Մաադայ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Ամրամ"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "և Ուել"
+    }
+  ],
+  "timestamp": "2026-09-06T00:18:38.510870906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Եվ տեսավ Էսավը, որ չար են Քանանի դուստրերը Իցխակի՝ իր հոր աչքերին։",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "և տեսավ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Էսավը"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "չար են"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "դուստրերը"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Քանանի"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "աչքերին"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Իցխակի"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "իր հայրը"
+    }
+  ],
+  "timestamp": "2026-09-05T18:20:48.989526762Z",
+  "model": "glm-5.3"
+}

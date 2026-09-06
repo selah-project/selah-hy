@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Ազգ՝ անողորմ երեսով, որ երես չի առնի ծերին և երիտասարդին ողորմություն չի անի։",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "ազգ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "անողորմ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "երեսով"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "չի առնի"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "երես"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "ծերին"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "և երիտասարդին"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "ողորմություն չի անի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:46:19.909635090Z",
+  "model": "glm-5.3"
+}

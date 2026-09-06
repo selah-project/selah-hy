@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 34:13",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 34,
+  "translation": "Ո՞վ նշանակեց նրան երկրի վրա, և ո՞վ դրեց ամբողջ աշխարհը։",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ո՞վ"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "նշանակեց"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "նրան... վրա"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "և ո՞վ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "դրեց"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "աշխարհը"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ամբողջ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:49:45.879189406Z",
+  "model": "glm-5.3"
+}

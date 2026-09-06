@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 11:15",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Եվ ասաց Յահվե ինձ՝ «Դեռ վերցրու քեզ համար հովվի գործիքներ՝ հիմար հովվիդ»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "դեռ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "վերցրու"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ համար"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "գործիքներ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "հովվի"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "հիմարի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:50:26.295926590Z",
+  "model": "glm-5.3"
+}

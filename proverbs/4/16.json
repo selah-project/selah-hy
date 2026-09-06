@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Որովհետև նրանք չեն քնում, եթե չարիք չգործեն, և նրանց քունը խլվում է, եթե մեկին չտապալեն։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "քնում են"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "չարիք գործեն"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "և խլվում է"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "նրանց քունը"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "տապալեն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:50.493113144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Վանյա, Մերեմոտ, Էլյաշիվ։",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "Վանյա"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "Մերեմոտ"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Էլյաշիվ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:18:38.511161678Z",
+  "model": "glm-5.3"
+}

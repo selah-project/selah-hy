@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Չի օգնի հարստությունը բարկության օրը, իսկ արդարությունը կփրկի մահից։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "օգնի"
+    },
+    {
+      "surface": "הון",
+      "gloss": "հարստությունը"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "բարկության"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "և արդարությունը"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "կփրկի"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "մահից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:31:58.550872206Z",
+  "model": "glm-5.3"
+}

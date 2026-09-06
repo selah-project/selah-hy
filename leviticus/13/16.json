@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Կամ եթե վերադառնա մարմինը՝ կենդանին, և դառնա դեպի ճերմակ, և գա մոտ քահանան։",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "վերադառնա"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "մարմինը"
+    },
+    {
+      "surface": "החי",
+      "gloss": "կենդանին"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "և դառնա"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "դեպի ճերմակ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "և գա"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "քահանան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:02:01.641832426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 30:31",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Եվ քնարս դարձավ սգի, և փողս՝ լացողների ձայնին։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "և դարձավ"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "սգի"
+    },
+    {
+      "surface": "כנרי",
+      "gloss": "քնարս"
+    },
+    {
+      "surface": "ועגבי",
+      "gloss": "և փողս"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ձայնին"
+    },
+    {
+      "surface": "בכים",
+      "gloss": "լացողների"
+    }
+  ],
+  "timestamp": "2026-09-05T23:48:25.521744588Z",
+  "model": "glm-5.3"
+}

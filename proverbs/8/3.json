@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Դարպասների կողքին, քաղաքի բերանի մոտ, մուտքերի առջև ⟨նա⟩ աղաղակում է։",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "կողքին"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "դարպասների"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "բերանի մոտ"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "քաղաքի"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "մուտքերի"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "աղաղակում է"
+    }
+  ],
+  "timestamp": "2026-09-05T23:30:29.271923497Z",
+  "model": "glm-5.3"
+}

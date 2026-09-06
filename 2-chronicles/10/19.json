@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Եվ ապստամբեց Իսրայելը Դավիդի (Դավթի) տան դեմ՝ մինչև այս օրը։",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "և ապստամբեցին"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելը"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "տան դեմ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Դավիդի (Դավթի)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "היום",
+      "gloss": "այս օրը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-06T00:42:47.504727737Z",
+  "model": "glm-5.3"
+}

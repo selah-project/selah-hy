@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 66,
+  "translation": "Ամբողջ երկիրը կերկրպագի քեզ, և կզմայրի քեզ, կզմայրի քո անունդ։ Սելա։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ամբողջ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "կերկրպագի"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "և կզմայրի"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "կզմայրի"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "քո անունդ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Սելա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:06:58.311050350Z",
+  "model": "glm-5.3"
+}

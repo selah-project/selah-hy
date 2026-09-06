@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եղավ այսպես՝ երբ վերջացան բոլոր պատերազմի մարդիկ՝ մեռնելով ժողովրդի միջից։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եղավ այսպես՝"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "վերջացան"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "մարդիկ՝"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "պատերազմի"
+    },
+    {
+      "surface": "למות",
+      "gloss": "մեռնելով"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "միջից"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովրդի"
+    }
+  ],
+  "timestamp": "2026-09-06T02:45:45.373733036Z",
+  "model": "glm-5.3"
+}

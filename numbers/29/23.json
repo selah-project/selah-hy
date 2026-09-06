@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 29:23",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Եվ չորրորդ օրը՝ տասը ցուլ, երկու խոյ, տասնչորս գառ՝ մեկ տարեկան՝ անարատ։",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "և օրը"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "չորրորդ"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ցուլեր"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "տասը"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "խոյեր"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "երկու"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "գառներ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարվա"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "չորս"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "տաս"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "անարատ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:27:30.749781764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Հռամայի և Գաբայի մարդիկ՝ վեց հարյուր քսան և մեկ։",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "մարդիկ"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Հռամայի"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "և Գաբայի"
+    },
+    {
+      "surface": "שש",
+      "gloss": "վեց"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "քսան"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "և մեկ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:41.378067011Z",
+  "model": "glm-5.3"
+}

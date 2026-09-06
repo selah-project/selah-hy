@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 7:36",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Յերիխոյի որդիներ՝ երեք հարյուր քառասուն և հինգ։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Յերիխո"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "քառասուն"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "և հինգ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:28.033748638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Վեքս է հիմար որդին իր հորը, և դառնություն՝ իրեն ծնողին։",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "վեքս"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "իր հորը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "հիմար"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "և դառնություն"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "իրեն ծնողին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:33:39.379084581Z",
+  "model": "glm-5.3"
+}

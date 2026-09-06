@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 17:16",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Եվ խոսեց Յահվեն Մոշեի հետ՝ ասելով.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "և խոսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեի"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T19:21:14.462058304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Վա՛յ արյան քաղաքը՝ ամբողջը ստի ու ավերի լեցուն, ավարը չի հեռանում։",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Վա՛յ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "քաղաքը"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "արյան"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ամբողջը"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "ստի"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ավերի"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "լեցուն"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "հեռանում"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ավարը"
+    }
+  ],
+  "timestamp": "2026-09-05T22:43:21.091275304Z",
+  "model": "glm-5.3"
+}

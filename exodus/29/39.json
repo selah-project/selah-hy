@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "⟨את⟩ մի գառը կանես առավոտյան, իսկ ⟨את⟩ երկրորդ գառը կանես երկու երեկոների միջև։",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "գառը"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "գառը"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "կանես"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "առավոտյան"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "գառը"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "գառը"
+    },
+    {
+      "surface": "השני",
+      "gloss": "երկրորդ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "կանես"
+    },
+    {
+      "surface": "בין",
+      "gloss": "միջև"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "երեկոների"
+    }
+  ],
+  "timestamp": "2026-09-05T18:50:09.037463724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Եվ ասաց Աբիմելեքը Աբրահամին՝ «Ի՞նչ տեսար, որ ⟨את⟩ այս գործն արեցիր»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Աբիմելեքը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Աբրահամը"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "տեսար"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "արեցիր"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այս գործը"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "գործը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-05T18:16:38.121721878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 31:8",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Եվ Յահվեն ինքն է, որ գնում է քեզ առջևից, նա կլինի քեզ հետ, չի թողնի քեզ և չի լքի քեզ, մի վախեցիր և մի վհատվիր։",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Եվ Յահվեն"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ինքն է"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "որ գնում է"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "քեզ առջևից"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "կլինի"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "քեզ հետ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "թողնի քեզ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չի"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "լքի քեզ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "վախեցիր"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և մի"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "վհատվիր"
+    }
+  ],
+  "timestamp": "2026-09-05T19:48:59.500858955Z",
+  "model": "glm-5.3"
+}

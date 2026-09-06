@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 1:4",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ հենի իր ձեռքը օլայի գլխի վրա, և ընդունվի այն նրա համար՝ նրա համար քավելու.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "և հենի"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "իր ձեռքը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "գլխի"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "օլայի"
+    },
+    {
+      "surface": "ונרצה",
+      "gloss": "և ընդունվի"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրա համար"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "քավելու"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "նրա համար"
+    }
+  ],
+  "timestamp": "2026-09-05T18:57:18.894998443Z",
+  "model": "glm-5.3"
+}

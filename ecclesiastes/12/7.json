@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "և հողը կվերադառնա երկրի վրա, ինչպես եղել էր, և հոգին կվերադառնա դեպ Էլոհիմը, որ տվել էր այն։",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "և կվերադառնա"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "հողը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "ինչպես եղել էր"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "և հոգին"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "կվերադառնա"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "տվել էր այն"
+    }
+  ],
+  "timestamp": "2026-09-06T00:03:34.735805154Z",
+  "model": "glm-5.3"
+}

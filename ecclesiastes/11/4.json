@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Ով հետևում է քամուն, չի ցանելու, և ով նայում է ամպերին, չի հնձելու։",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "հետևում է"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "քամուն"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "ցանելու"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "նայում է"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "ամպերին"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "հնձելու"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:56.541902283Z",
+  "model": "glm-5.3"
+}

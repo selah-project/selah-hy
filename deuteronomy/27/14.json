@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Եվ կպատասխանեն Ղևիացիները և կասեն ամեն Իսրայել տղամարդուն՝ բարձր ձայնով.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "Եվ կպատասխանեն"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Ղևիացիները"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "և կասեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "איש",
+      "gloss": "տղամարդու"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայել"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ձայնով"
+    },
+    {
+      "surface": "רם",
+      "gloss": "բարձր"
+    }
+  ],
+  "timestamp": "2026-09-05T19:45:05.900054521Z",
+  "model": "glm-5.3"
+}

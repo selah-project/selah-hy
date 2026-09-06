@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ բացեցի ⟨את⟩ բերանս, և ⟨նա⟩ կերակրեց ինձ ⟨את⟩ այս գլանը։",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "Եվ բացեցի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "բերանս"
+    },
+    {
+      "surface": "פי",
+      "gloss": "բերանս"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "և կերակրեց ինձ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այս գլանը"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "գլանը"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-05T22:09:09.419588499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Աշամ է այն. մեղավոր է նա անպայման մեղավոր Յահվեի առջև։",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "Աշամ է"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "մեղավոր է"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "մեղավոր"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեի առջև"
+    }
+  ],
+  "timestamp": "2026-09-05T18:58:30.640230067Z",
+  "model": "glm-5.3"
+}

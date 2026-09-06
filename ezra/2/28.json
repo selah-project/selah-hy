@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Բեթ-Էլի և Հայի մարդիկ՝ երկու հարյուր քսան երեք։",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "մարդիկ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Բեթ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլի"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "և Հայի"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "երկու հարյուր"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "քսան"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "երեք"
+    }
+  ],
+  "timestamp": "2026-09-06T00:14:41.310237297Z",
+  "model": "glm-5.3"
+}

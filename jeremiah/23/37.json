@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 23:37",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Այսպես կասես մարգարեին՝ Ի՞նչ պատասխանեց քեզ Յահվեն, և ի՞նչ խոսեց Յահվեն։",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Այսպես"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "կասես"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մարգարեին"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "մարգարեին"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ի՞նչ"
+    },
+    {
+      "surface": "ענך",
+      "gloss": "պատասխանեց քեզ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "և ի՞նչ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T21:51:37.905387596Z",
+  "model": "glm-5.3"
+}

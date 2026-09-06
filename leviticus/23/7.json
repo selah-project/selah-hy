@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Առաջին օրը սուրբ հավաք լինի ձեզ համար. ոչ մի ծառայության գործ չարեք։",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "Առաջին"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "հավաք"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "սուրբ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ համար"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ոչ մի"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "գործ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ծառայության"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "արեք"
+    }
+  ],
+  "timestamp": "2026-09-05T19:07:34.944008807Z",
+  "model": "glm-5.3"
+}

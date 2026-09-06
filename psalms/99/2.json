@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 99,
+  "translation": "Յահվեն մեծ է Ցիոնում, և բարձր է նա բոլոր ժողովուրդների վրա։",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Ցիոնում"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "մեծ է"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "և բարձր է"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ժողովուրդների"
+    }
+  ],
+  "timestamp": "2026-09-05T23:16:00.773871187Z",
+  "model": "glm-5.3"
+}

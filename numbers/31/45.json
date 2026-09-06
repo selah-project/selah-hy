@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "և էշեր՝ երեսուն հազար հինգ հարյուր։",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "և էշեր"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "երեսուն"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "հազար"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "հինգ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    }
+  ],
+  "timestamp": "2026-09-05T19:28:08.472513158Z",
+  "model": "glm-5.3"
+}

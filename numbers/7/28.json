@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 7:28",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "մեկ շատախառ այծ՝ խատատի համար։",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "շատախառ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "այծ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "խատատի համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:14:39.093863085Z",
+  "model": "glm-5.3"
+}

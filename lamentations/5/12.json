@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Իշխանները իրենց ձեռքից կախվեցին, ծերերի դեմքերը չպատվվեցին։",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "իշխանները"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "իրենց ձեռքից"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "կախվեցին"
+    },
+    {
+      "surface": "פני",
+      "gloss": "դեմքերը"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ծերերի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "պատվվեցին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:10.687425029Z",
+  "model": "glm-5.3"
+}

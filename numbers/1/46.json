@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ եղան բոլոր հաշվվածները՝ վեց հարյուր երեք հազար հինգ հարյուր հիսուն։",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Եվ եղան"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "հաշվվածները"
+    },
+    {
+      "surface": "שש",
+      "gloss": "վեց"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "հազար"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "հազար"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "հինգ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "հիսուն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:11:07.139002758Z",
+  "model": "glm-5.3"
+}

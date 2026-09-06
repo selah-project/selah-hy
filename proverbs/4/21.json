@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 4:21",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Երկնելուց առաջ մի թող շեղվեն նրանք քո աչքերից, պահի՛ր դրանք քո սրտի մեջ։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "մի թող"
+    },
+    {
+      "surface": "יליזו",
+      "gloss": "շեղվեն"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "քո աչքերից"
+    },
+    {
+      "surface": "שמרם",
+      "gloss": "պահի՛ր դրանք"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "մեջ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "քո սրտի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:32.571531625Z",
+  "model": "glm-5.3"
+}

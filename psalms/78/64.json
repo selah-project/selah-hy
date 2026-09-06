@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 78,
+  "translation": "Իր քահանաները սրով ընկան, և իր այրիները ողբ չեղան։",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "իր քահանաները"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "սրով"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ընկան"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "և իր այրիները"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "ողբ եղան"
+    }
+  ],
+  "timestamp": "2026-09-05T23:11:25.165043406Z",
+  "model": "glm-5.3"
+}

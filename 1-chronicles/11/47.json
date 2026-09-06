@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 11:47",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Էլիելը, և Օվեդը, և Յաասիելը՝ Մեծոբայեցին։",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "Էլիելը"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "և Օվեդը"
+    },
+    {
+      "surface": "ויעשיאל",
+      "gloss": "և Յաասիելը"
+    },
+    {
+      "surface": "המצביה",
+      "gloss": "Մեծոբայեցին"
+    }
+  ],
+  "timestamp": "2026-09-06T02:10:17.429725536Z",
+  "model": "glm-5.3"
+}

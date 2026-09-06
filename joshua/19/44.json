@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 19:44",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "և Էլթեքե, և Գիվթոն, և Բաալաթ։",
+  "tokens": [
+    {
+      "surface": "ואלתקה",
+      "gloss": "և Էլթեքե"
+    },
+    {
+      "surface": "וגבתון",
+      "gloss": "և Գիվթոն"
+    },
+    {
+      "surface": "ובעלת",
+      "gloss": "և Բաալաթ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:58:22.135712718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ ⟨את⟩ միսը և ⟨את⟩ մորթին այրեց կրակով՝ ճամբարից դուրս։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "միսը"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "միսը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "մորթին"
+    },
+    {
+      "surface": "העור",
+      "gloss": "մորթին"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "այրեց"
+    },
+    {
+      "surface": "באש",
+      "gloss": "կրակով"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "դուրս"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ճամբարից"
+    }
+  ],
+  "timestamp": "2026-09-05T18:59:42.125150504Z",
+  "model": "glm-5.3"
+}

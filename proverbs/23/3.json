@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "մի՛ տարվիր նրա համեղ ուտեստներով, որովհետև դրանք ստի հաց են։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "տարվիր"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "նրա համեղ ուտեստներով"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "և դրանք"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "հաց"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ստի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:09.655456272Z",
+  "model": "glm-5.3"
+}

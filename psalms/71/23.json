@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 71,
+  "translation": "Կուրախանան իմ շուրթերը, երբ քեզ երգեմ, և իմ նեֆեշը, որ դու փրկեցիր։",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "կուրախանան"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "իմ շուրթերը"
+    },
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "երգեմ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "և իմ նեֆեշը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "փրկեցիր"
+    }
+  ],
+  "timestamp": "2026-09-05T23:08:41.014569271Z",
+  "model": "glm-5.3"
+}

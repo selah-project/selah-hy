@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ դուրս եկավ Մոշեն Փարավոնի մոտից և աղոթեց Յահվեին։",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "և դուրս եկավ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "մոտից"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Փարավոնի"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "և աղոթեց"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:38:28.949141911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Այս են բանակի գլուխներ Գադի որդիներից. փոքրը ⟨հասնում է⟩ հարյուրի, և մեծը՝ հազարի։",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Այս"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "որդիներից"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Գադի"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "գլուխներ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "բանակի"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկը"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "հարյուրի"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "փոքրը"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "և մեծը"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "հազարի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:33:53.207780385Z",
+  "model": "glm-5.3"
+}

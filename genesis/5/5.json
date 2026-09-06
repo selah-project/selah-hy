@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ եղան Ադամի բոլոր օրերը, որ ապրեց՝ ինը հարյուր տարի և երեսուն տարի, և մահացավ։",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Եվ եղան"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "օրերը"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Ադամի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ապրեց"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ինը"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "և երեսուն"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "և մահացավ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:09:33.335499985Z",
+  "model": "glm-5.3"
+}

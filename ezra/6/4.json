@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "շարքեր՝ երեք տող գլորված քարի և մեկ շարք նոր փայտի, և ծախսը թագավորի տնից թող տրվի։",
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "շարքեր"
+    },
+    {
+      "surface": "די",
+      "gloss": "՝"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "քարի"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "գլորված"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "և մեկ շարք"
+    },
+    {
+      "surface": "די",
+      "gloss": "՝"
+    },
+    {
+      "surface": "אע",
+      "gloss": "փայտի"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "նոր"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "և ծախսը"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ից"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տան"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "թագավորի"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "թող տրվի"
+    }
+  ],
+  "timestamp": "2026-09-06T02:52:22.872301313Z",
+  "model": "glm-5.3"
+}

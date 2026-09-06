@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 28:46",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Եվ կլինեն քեզ մեջ նշանի և հրաշքի, և քո սերնդի վրա՝ մինչև հավերժ։",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "և կլինեն"
+    },
+    {
+      "surface": "בך",
+      "gloss": "քեզ մեջ"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "նշանի"
+    },
+    {
+      "surface": "ולמופת",
+      "gloss": "և հրաշքի"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "և քո սերնդի"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "հավերժ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:46:02.089480599Z",
+  "model": "glm-5.3"
+}

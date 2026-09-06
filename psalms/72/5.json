@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 72,
+  "translation": "Կերկեն քեզ արևի հետ և լուսնի առջև՝ սերնդից սերունդ։",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "կերկեն քեզ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "արևի"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "և առջև"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "լուսնի"
+    },
+    {
+      "surface": "דור",
+      "gloss": "սերնդից"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "սերունդ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:09:11.832392713Z",
+  "model": "glm-5.3"
+}

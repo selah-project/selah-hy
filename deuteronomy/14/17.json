@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "և կուլան, և ⟨את⟩ անգղը, և ⟨את⟩ ջրածիծակը։",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "և կուլան"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "անգղը"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "անգղը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "ջրածիծակը"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "ջրածիծակը"
+    }
+  ],
+  "timestamp": "2026-09-06T01:32:19.602815618Z",
+  "model": "glm-5.3"
+}

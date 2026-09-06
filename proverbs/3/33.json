@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 3:33",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Յահվեի անեծքն է չարի տան վրա, իսկ արդարների բնակավայրը նա օրհնում է։",
+  "tokens": [
+    {
+      "surface": "מארת",
+      "gloss": "անեծքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "տան"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "չարի"
+    },
+    {
+      "surface": "ונוה",
+      "gloss": "իսկ բնակավայրը"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "արդարների"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "օրհնում է"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:48.072129718Z",
+  "model": "glm-5.3"
+}

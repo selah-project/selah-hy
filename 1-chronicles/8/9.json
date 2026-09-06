@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ ծնեց Խոդեշը՝ նրա կինը՝ ⟨את⟩ Յովավին, և ⟨את⟩ Ցիվյային, և ⟨את⟩ Մեյշային, և ⟨את⟩ Մալքամին։",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ծ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Խոդեշը"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "նրա կինը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յովավին"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Յովավ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Ցիվյային"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Ցիվյա"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Մեյշային"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Մեյշա"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Մալքամին"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Մալքամ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:05.776205364Z",
+  "model": "glm-5.3"
+}

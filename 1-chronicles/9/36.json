@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 9:36",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Իր առաջնեկ որդին Ավդոնն էր, և Ծուրը, և Կիշը, և Բաալը, և Ները, և Նադավը։",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "Իր որդին"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "առաջնեկ"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Ավդոնն էր"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "և Ծուրը"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "և Կիշը"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "և Բաալը"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "և Ները"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "և Նադավը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:32:14.382459588Z",
+  "model": "glm-5.3"
+}

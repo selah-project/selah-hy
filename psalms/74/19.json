@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 74,
+  "translation": "Մի՛ տար գազանին քո աղավնու նեֆեշը, քո խեղճերի կյանքը մի՛ մոռացիր հավիտյան։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Մի՛"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "տար"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "գազանին"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "նեֆեշը"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "քո աղավնու"
+    },
+    {
+      "surface": "חית",
+      "gloss": "կյանքը"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "քո խեղճերի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "մոռացիր"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "հավիտյան"
+    }
+  ],
+  "timestamp": "2026-09-05T23:10:19.600161766Z",
+  "model": "glm-5.3"
+}

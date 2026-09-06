@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Ջրահոսքեր ջրի՝ արքայի սիրտը Յահվեի ձեռքի մեջ. ամեն այն, ինչ կամենա, դեպի այն ⟨այն⟩ կխոնարհի։",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "ջրահոսքեր"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջրի"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սիրտը"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "արքայի"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ձեռքի մեջ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "על",
+      "gloss": "առ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "կամենա"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "կխոնարհի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:00.535362204Z",
+  "model": "glm-5.3"
+}

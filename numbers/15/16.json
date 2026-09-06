@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Մեկ Թորա և մեկ դատաստան լինի ձեզ համար և բնակվող պանդխտին՝ ⟨את⟩ ձեզ մոտ։",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Թորա"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "և դատաստան"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ համար"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "և պանդխտին"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "բնակվողին"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ձեզ մոտ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:20:24.985348208Z",
+  "model": "glm-5.3"
+}

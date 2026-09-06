@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 24:24",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Եվ նա ասաց նրան. «Ես Բեթուելի դուստրն եմ՝ Միլքայի որդու, որին նա ծնեց Նախորին»։",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Եվ նա ասաց"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "בת",
+      "gloss": "դուստր"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Բեթուելի"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ես"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդու"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Միլքայի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որին"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "նա ծնեց"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "Նախորին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:18:36.932133112Z",
+  "model": "glm-5.3"
+}

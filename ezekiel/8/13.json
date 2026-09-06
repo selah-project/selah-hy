@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 8:13",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ ասաց ինձ՝ «Դեռ դարձ, կտեսնես մեծ գարշելիքներ, որ նրանք անում են»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "դեռ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "դարձ"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "կտեսնես"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "գարշելիքներ"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "նրանք"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "անում են"
+    }
+  ],
+  "timestamp": "2026-09-05T22:11:06.619467785Z",
+  "model": "glm-5.3"
+}

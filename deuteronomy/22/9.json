@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 22:9",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Մի՛ ցանես քո այգին երկու տեսակով, որպեսզի չսրբացվի լեցունը՝ ⟨այն⟩ ցանքը, որ ցանես, և այգու բերքը։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ցանես"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "քո այգին"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "երկու տեսակով"
+    },
+    {
+      "surface": "פן",
+      "gloss": "որպեսզի չ"
+    },
+    {
+      "surface": "תקדש",
+      "gloss": "սրբացվի"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "լեցունը"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "ցանքը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ցանես"
+    },
+    {
+      "surface": "ותבואת",
+      "gloss": "և բերքը"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "այգու"
+    }
+  ],
+  "timestamp": "2026-09-05T19:42:23.746905621Z",
+  "model": "glm-5.3"
+}

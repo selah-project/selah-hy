@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 39,
+  "translation": "Հայտնե՛ր ինձ, Յահվե, վերջս, և չափը օրերիս՝ ի՞նչ ⟨է⟩. իմանամ՝ որքան անցավոր եմ ես։",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "հայտնե՛ր ինձ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "վերջս"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "և չափը"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "օրերիս"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨է⟩"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "իմանամ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "որքան"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "անցավոր"
+    },
+    {
+      "surface": "אני",
+      "gloss": "եմ ես"
+    }
+  ],
+  "timestamp": "2026-09-05T23:02:30.695968771Z",
+  "model": "glm-5.3"
+}

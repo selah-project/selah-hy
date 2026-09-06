@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 41,
+  "translation": "Ղեկավարին։ Մաղմուր Դավիդի։",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ղեկավարին"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "մաղմուր"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Դավիդի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:02:29.327516432Z",
+  "model": "glm-5.3"
+}

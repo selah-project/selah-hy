@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 12:21",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Թաանախի թագավորը՝ մեկ, Մեգիդոյի թագավորը՝ մեկ։",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Թաանախի"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Մեգիդոյի"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    }
+  ],
+  "timestamp": "2026-09-06T01:06:57.790119064Z",
+  "model": "glm-5.3"
+}

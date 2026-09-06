@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Եվ ասաց Նաթանը Դավիթին. ամեն ինչ, ինչ սրտիդ մեջ է, արա, որովհետև Էլոհիմը քեզ հետ է։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Նաթանը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Դավիթին"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն ինչ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ինչ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "սրտիդ մեջ է"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արա"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "քեզ հետ է"
+    }
+  ],
+  "timestamp": "2026-09-06T00:36:03.298335533Z",
+  "model": "glm-5.3"
+}

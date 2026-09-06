@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Բաժինս Յահվեն է. ասացի՝ պահելու եմ քո խոսքերը։",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "Բաժինս"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ասացի"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "պահելու եմ"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "խոսքերդ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:22:06.040897517Z",
+  "model": "glm-5.3"
+}

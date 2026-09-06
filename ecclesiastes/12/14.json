@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Որովհետև Էլոհիմը դատաստանի կբերի ⟨את⟩ ամեն արարք՝ ամեն ծածուկ բանի վրա, թե՛ լավը և թե՛ չարը։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ամեն արարք"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "արարք"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "կբերի"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "դատաստանի"
+    },
+    {
+      "surface": "על",
+      "gloss": "−ի վրա"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "ծածուկ բան"
+    },
+    {
+      "surface": "אם",
+      "gloss": "թե"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "լավ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "և թե"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չար"
+    }
+  ],
+  "timestamp": "2026-09-06T00:02:54.922356593Z",
+  "model": "glm-5.3"
+}

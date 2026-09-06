@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Եթե իր տերը իր հետ լինի՝ չի փոխհատուցի. եթե վարձու է՝ իր վարձի դիմաց է եկել։",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "իր տերը"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "իր հետ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "փոխհատուցի"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "վարձու"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "է"
+    },
+    {
+      "surface": "בא",
+      "gloss": "է եկել"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "իր վարձի դիմաց"
+    }
+  ],
+  "timestamp": "2026-09-05T18:44:06.950005598Z",
+  "model": "glm-5.3"
+}

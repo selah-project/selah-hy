@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ լինեն այս խոսքերը, որ ես այսօր պատվիրում եմ քեզ, քո սրտի վրա։",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "Եվ լինեն"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "խոսքերը"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ես"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "պատվիրում եմ քեզ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "այսօր"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "սրտիդ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:34:24.835541396Z",
+  "model": "glm-5.3"
+}

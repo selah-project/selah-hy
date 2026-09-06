@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Երբ մոտենաս քաղաքի՝ պատերազմելու նրա դեմ, կանչես նրան խաղաղության։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Երբ"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "մոտենաս"
+    },
+    {
+      "surface": "אל",
+      "gloss": "քաղաքի"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "քաղաքի"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "պատերազմելու"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "նրա դեմ"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "կանչես"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "խաղաղության"
+    }
+  ],
+  "timestamp": "2026-09-05T19:41:31.166150535Z",
+  "model": "glm-5.3"
+}

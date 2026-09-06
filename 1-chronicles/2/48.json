@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Քալեվի հարճ Մաաքան ծնեց ⟨את⟩ Շեբերին և ⟨את⟩ Տիրխանային։",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "հարճը"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Քալեվի"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Մաաքան"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "Շեբերին"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Տիրխանային"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "Տիրխանային"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:38.532113246Z",
+  "model": "glm-5.3"
+}

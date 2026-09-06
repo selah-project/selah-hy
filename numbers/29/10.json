@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "տասնորդ տասնորդ՝ մեկ գառան համար, այն յոթ գառների համար։",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "տասնորդ"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "տասնորդ"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "գառան համար"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "յոթի համար"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "գառների"
+    }
+  ],
+  "timestamp": "2026-09-05T19:27:45.761659694Z",
+  "model": "glm-5.3"
+}

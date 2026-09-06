@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "և Ռաբբիթ, և Քիշյոն, և Ավեծ։",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "և Ռաբբիթ"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "և Քիշյոն"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "և Ավեծ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:58:34.200809725Z",
+  "model": "glm-5.3"
+}

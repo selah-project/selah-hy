@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 121,
+  "translation": "Յահվեն կպահի քեզ ամեն չարից, կպահի ⟨את⟩ քո նեֆեշը։",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "կպահի քեզ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ամեն …-ից"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չար"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "կպահի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "քո նեֆեշը"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "քո նեֆեշը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:23:52.230519624Z",
+  "model": "glm-5.3"
+}

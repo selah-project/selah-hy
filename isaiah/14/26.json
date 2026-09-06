@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 14:26",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "այս է խորհուրդը՝ խորհված ամբողջ երկրի վրա, և այս է ձեռքը՝ երկարված բոլոր ազգերի վրա։",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "այս"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "խորհուրդը"
+    },
+    {
+      "surface": "היעוצה",
+      "gloss": "խորհված"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "և այս"
+    },
+    {
+      "surface": "היד",
+      "gloss": "ձեռքը"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "երկարված"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ազգերի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:18:18.481276389Z",
+  "model": "glm-5.3"
+}

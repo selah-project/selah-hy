@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 1:24",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Շեմ, Արփախշադ, Շելախ։",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Շեմ"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Արփախշադ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Շելախ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:26:44.973024074Z",
+  "model": "glm-5.3"
+}

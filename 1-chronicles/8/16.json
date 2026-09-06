@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "և Միխայելը, և Յիշպան, և Յոխան՝ Բերիաի որդիները։",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "և Միխայելը"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "և Յիշպան"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "և Յոխան"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "Բերիաի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:52.466043054Z",
+  "model": "glm-5.3"
+}

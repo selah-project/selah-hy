@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 45,
+  "translation": "Այսպես ասաց Յահվեն՝ Իսրայելի Էլոհիմը, քեզ մասին, Բարուք․",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Այսպես"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Էլոհիմը՝ Իսրայելի"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "քեզ մասին"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Բարուք"
+    }
+  ],
+  "timestamp": "2026-09-05T22:01:36.300704235Z",
+  "model": "glm-5.3"
+}

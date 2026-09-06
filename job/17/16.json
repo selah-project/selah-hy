@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 17:16",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Շեոլի ճաղերը կիջեն, երբ միասին հանգստանանք փոշու վրա։",
+  "tokens": [
+    {
+      "surface": "בדי",
+      "gloss": "ճաղերը"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Շեոլի"
+    },
+    {
+      "surface": "תרדנה",
+      "gloss": "կիջեն"
+    },
+    {
+      "surface": "אם",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "միասին"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "փոշու"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "հանգստանանք"
+    }
+  ],
+  "timestamp": "2026-09-05T23:44:22.180518202Z",
+  "model": "glm-5.3"
+}

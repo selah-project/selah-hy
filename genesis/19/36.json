@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 19:36",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Եվ հղիացան Լոտի երկու դուստրերը իրենց հորից։",
+  "tokens": [
+    {
+      "surface": "ותהרין",
+      "gloss": "և հղիացան"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "երկու"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "դուստրերը"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Լոտի"
+    },
+    {
+      "surface": "מאביהן",
+      "gloss": "իրենց հորից"
+    }
+  ],
+  "timestamp": "2026-09-05T18:17:51.951442143Z",
+  "model": "glm-5.3"
+}

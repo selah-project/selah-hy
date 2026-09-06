@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 4:14",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ ասաց՝ սրանք երկու ձեթի որդիներ են, որոնք կանգնած են ամբողջ երկրի տիրոջ մոտ։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "սրանք"
+    },
+    {
+      "surface": "שני",
+      "gloss": "երկու"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "ձեթի"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "կանգնած են"
+    },
+    {
+      "surface": "על",
+      "gloss": "մոտ (կողքին)"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "տիրոջ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:40:04.327570525Z",
+  "model": "glm-5.3"
+}

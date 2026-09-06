@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 24:22",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Եթե անգամ Քայինը այրվելու լինի՝ մինչև ո՞րքան, Աշշուրը գերի կտանի քեզ։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "אם",
+      "gloss": "անգամ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "այրվելու"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Քայինը"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ո՞րքան"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Աշշուրը"
+    },
+    {
+      "surface": "תשבך",
+      "gloss": "գերի կտանի քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:25:24.579960428Z",
+  "model": "glm-5.3"
+}

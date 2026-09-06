@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Եվ տեսավ Բալակը՝ Ծիպորի որդին, ⟨את⟩ ամեն ինչ, որ արեց Իսրայելը էմորացուն։",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Եվ տեսավ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Բալակը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Ծիպորի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ամեն ինչ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն ինչ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արեց"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելը"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "էմորացուն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:24:07.926923132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 1:25",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եբեր, Պելեգ, Ռեու։",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "Եբեր"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Պելեգ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Ռեու"
+    }
+  ],
+  "timestamp": "2026-09-06T00:26:46.706582591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 4:1",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Լսե՛ք, որդիներ, հոր խրատը, և հակադարձեք՝ իմանալու բանականություն։",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Լսե՛ք"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "խրատը"
+    },
+    {
+      "surface": "אב",
+      "gloss": "հոր"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "և հակադարձեք"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "իմանալու"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "բանականություն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:12.034740810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "և նաև Խամաթը՝ իր սահմանին, Ծորը և Ցիդոնը, քանի որ չափազանց իմաստուն են։",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "և նաև"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Խամաթը"
+    },
+    {
+      "surface": "תגבל",
+      "gloss": "կսահմանվի"
+    },
+    {
+      "surface": "בה",
+      "gloss": "նրանում"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Ծորը"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "և Ցիդոնը"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "իմաստուն են"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "չափազանց"
+    }
+  ],
+  "timestamp": "2026-09-05T22:48:43.345265514Z",
+  "model": "glm-5.3"
+}

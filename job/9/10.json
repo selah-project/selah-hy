@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 9:10",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Անում է մեծ գործեր՝ մինչև անքննելի, և հրաշքներ՝ մինչև անհամար։",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Անում է"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "մեծ գործեր"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ան"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "քննելի"
+    },
+    {
+      "surface": "ונפלאות",
+      "gloss": "և հրաշքներ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ան"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "համար"
+    }
+  ],
+  "timestamp": "2026-09-05T23:40:33.112284086Z",
+  "model": "glm-5.3"
+}

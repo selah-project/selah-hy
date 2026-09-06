@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 20:24",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Փախչի երկաթե զենքից, պղնձե աղեղը կծակի նրան։",
+  "tokens": [
+    {
+      "surface": "יברח",
+      "gloss": "փախչի"
+    },
+    {
+      "surface": "מנשק",
+      "gloss": "զենքից"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "երկաթե"
+    },
+    {
+      "surface": "תחלפהו",
+      "gloss": "կծակի նրան"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "աղեղը"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "պղնձե"
+    }
+  ],
+  "timestamp": "2026-09-05T23:45:16.219628815Z",
+  "model": "glm-5.3"
+}

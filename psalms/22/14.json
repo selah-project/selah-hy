@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Բացեցին իմ վրա իրենց բերանը՝ առյուծ՝ պատառոտող և մռնչացող։",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "բացեցին"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "իմ վրա"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "իրենց բերանը"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "առյուծ"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "պատառոտող"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "և մռնչացող"
+    }
+  ],
+  "timestamp": "2026-09-05T22:56:48.741108101Z",
+  "model": "glm-5.3"
+}

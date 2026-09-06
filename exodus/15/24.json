@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Եվ տրտնջաց ժողովուրդը Մոշեի դեմ՝ ասելով. «Ի՞նչ խմենք»։",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "Եվ տրտնջաց"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովուրդը"
+    },
+    {
+      "surface": "על",
+      "gloss": "դեմ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեի"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ի՞նչ"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "խմենք"
+    }
+  ],
+  "timestamp": "2026-09-05T18:41:10.793332469Z",
+  "model": "glm-5.3"
+}

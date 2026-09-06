@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 13:2",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Ինչ որ դուք գիտեք, ես էլ գիտեմ, ես ընկած չեմ ձեզնից։",
+  "tokens": [
+    {
+      "surface": "כדעתכם",
+      "gloss": "ինչ որ դուք գիտեք"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "գիտեմ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "էլ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ընկած եմ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ես"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ձեզնից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:42:58.253526750Z",
+  "model": "glm-5.3"
+}

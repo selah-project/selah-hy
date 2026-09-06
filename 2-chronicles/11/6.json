@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Եվ կառուցեց ⟨את⟩ Բեթ Լեխեմը (Բեթլեհեմ), և ⟨את⟩ Էյթամը, և ⟨את⟩ Թեկոան (Թեքոա)։",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Եվ կառուցեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Բեթ Լեխեմը"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Բեթ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Լեխեմը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Էյթամը"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Էյթամը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Թեկոան"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Թեկոան"
+    }
+  ],
+  "timestamp": "2026-09-06T00:42:38.643043597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Վերցրե՛ք իմ խրատը, և ոչ արծաթ, և գիտություն՝ ընտրյալ ոսկուց։",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Վերցրեք"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "իմ խրատը"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "արծաթ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "և գիտություն"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "ոսկուց"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "ընտրյալ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:52.932798525Z",
+  "model": "glm-5.3"
+}

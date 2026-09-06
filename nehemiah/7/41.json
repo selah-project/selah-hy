@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "nehemiah 7:41",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Պաշխուրի որդիները՝ հազար երկու հարյուր քառասուն և յոթ։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Պաշխուրի"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "հազար"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "երկու հարյուր"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "քառասուր"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "և յոթ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:34.134316386Z",
+  "model": "glm-5.3"
+}

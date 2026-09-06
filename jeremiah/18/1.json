@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Խոսքը, որ եղավ Յիրմյահուին (Երեմիա) Յահվեից՝ ասելով։",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Խոսքը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Յիրմյահուին"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "…-ից ⟨את⟩",
+      "marks": "Յահվե"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T21:49:45.053187204Z",
+  "model": "glm-5.3"
+}

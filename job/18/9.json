@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 18:9",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Բռնում է կրունկը թակարդը, տիրում է նրա վրա օղակը։",
+  "tokens": [
+    {
+      "surface": "יאחז",
+      "gloss": "Բռնում է"
+    },
+    {
+      "surface": "בעקב",
+      "gloss": "կրունկը"
+    },
+    {
+      "surface": "פח",
+      "gloss": "թակարդը"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "տիրում է"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "նրա վրա"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "օղակը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:44:03.943143810Z",
+  "model": "glm-5.3"
+}

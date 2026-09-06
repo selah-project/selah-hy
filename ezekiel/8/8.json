@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 8:8",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ ասաց ինձ՝ մարդու որդի, ծակի՛ր հիմա պատը, և ես ծակեցի պատը, և ահա՝ մեկ դուռ։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "ծակի՛ր"
+    },
+    {
+      "surface": "נא",
+      "gloss": "հիմա"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "պատը"
+    },
+    {
+      "surface": "ואחתר",
+      "gloss": "և ես ծակեցի"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "պատը"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "և ահա"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "դուռ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    }
+  ],
+  "timestamp": "2026-09-06T01:14:18.686249450Z",
+  "model": "glm-5.3"
+}

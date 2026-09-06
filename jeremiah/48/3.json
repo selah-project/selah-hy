@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 48,
+  "translation": "Ձայն աղաղակի՝ Խորոնայիմից. ավերածություն և մեծ ջարդ։",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ձայն"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "աղաղակի"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "Խորոնայիմից"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ավերածություն"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "և ջարդ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "մեծ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:02:47.239190461Z",
+  "model": "glm-5.3"
+}

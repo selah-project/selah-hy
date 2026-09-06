@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ Քելուբը՝ Շուխայի եղբայրը, ծնունդ տվեց ⟨את⟩ Մեխիրին. նա Էշտոնի հայրն է։",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "Եվ Քելուբը"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "եղբայրը"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Շուխայի"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնունդ տվեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Մեխիրին"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Մեխիրին"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "հայրն է"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Էշտոնի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:42.128810273Z",
+  "model": "glm-5.3"
+}

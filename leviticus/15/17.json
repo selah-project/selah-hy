@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 15:17",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Եվ ամեն հագուստ և ամեն կաշի, որի վրա լինի պառկելու սերմ, կլվացվի ջրով և պիղծ կլինի մինչև երեկո։",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "և ամեն"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "հագուստ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "և ամեն"
+    },
+    {
+      "surface": "עור",
+      "gloss": "կաշի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "վրան"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "պառկելու"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "սերմ"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "և կլվացվի"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ջրով"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "և պիղծ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "երեկո"
+    }
+  ],
+  "timestamp": "2026-09-05T19:04:44.258774173Z",
+  "model": "glm-5.3"
+}

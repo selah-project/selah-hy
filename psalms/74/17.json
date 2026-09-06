@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 74,
+  "translation": "Դու դրեցիր երկրի բոլոր սահմանները. ամառ և ձմեռ՝ դու ձևավորեցիր դրանց։",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Դու"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "դրեցիր"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "սահմանները"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ամառ"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "և ձմեռ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "ձևավորեցիր դրանց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:10:19.599801076Z",
+  "model": "glm-5.3"
+}

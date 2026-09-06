@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "ծառայի՝ երբ թագավորում է, և հիմարի՝ երբ հացով կշտանում է։",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ծառայի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "թագավորում է"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "և հիմարի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "կշտանում է"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "հաց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:11.679237181Z",
+  "model": "glm-5.3"
+}

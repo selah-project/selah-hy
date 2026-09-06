@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Արյան վրա մի՛ կերեք, մի՛ գուշակեք և մի՛ հմայեք։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "կերեք"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "արյան"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "գուշակեք"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և մի՛"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "հմայեք"
+    }
+  ],
+  "timestamp": "2026-09-05T19:06:08.795269984Z",
+  "model": "glm-5.3"
+}

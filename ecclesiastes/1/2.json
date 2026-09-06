@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Քամի, քամիներ, ասաց Կոհելեթ. քամի, քամիներ, ամեն ինչ քամի է։",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Քամի"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "քամիներ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Կոհելեթ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "քամի"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "քամիներ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ամեն ինչ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "քամի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:53.268255382Z",
+  "model": "glm-5.3"
+}

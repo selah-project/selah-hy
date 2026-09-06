@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Տե՛ս, ես դրել եմ այսօր քո առջև ⟨את⟩ կյանքը և ⟨את⟩ բարին, և ⟨את⟩ մահը և ⟨את⟩ չարին։",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Տե՛ս"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "դրել եմ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "քո առջև"
+    },
+    {
+      "surface": "היום",
+      "gloss": "այսօր"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "կյանքը"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "կյանքը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "բարին"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "բարին"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "մահը"
+    },
+    {
+      "surface": "המות",
+      "gloss": "մահը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "չարին"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "չարին"
+    }
+  ],
+  "timestamp": "2026-09-06T01:32:44.590808246Z",
+  "model": "glm-5.3"
+}

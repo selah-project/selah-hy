@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 7:15",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ ընտրեց խեղդում Նեֆեշս՝ մահ՝ իմ ոսկրերից.",
+  "tokens": [
+    {
+      "surface": "ותבחר",
+      "gloss": "և ընտրեց"
+    },
+    {
+      "surface": "מחנק",
+      "gloss": "խեղդում"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Նեֆեշս"
+    },
+    {
+      "surface": "מות",
+      "gloss": "մահ"
+    },
+    {
+      "surface": "מעצמותי",
+      "gloss": "իմ ոսկրերից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:40:34.220559635Z",
+  "model": "glm-5.3"
+}

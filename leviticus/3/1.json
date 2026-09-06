@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 3:1",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ եթե իր ընծան խաղաղության զոհ է՝ եթե խոշերից է մերձեցնում, արու թե էգ՝ անարատ կմերձեցնի այն Յահվեի առջև։",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Եվ եթե"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "զոհ"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "խաղաղության"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "իր ընծան"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "מן",
+      "gloss": "մի"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "խոշերից"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "մերձեցնում է"
+    },
+    {
+      "surface": "אם",
+      "gloss": "թե"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "արու"
+    },
+    {
+      "surface": "אם",
+      "gloss": "թե"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "էգ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "անարատ"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "կմերձեցնի այն"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    }
+  ],
+  "timestamp": "2026-09-05T18:57:16.600167194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 109,
+  "translation": "Մի լինի նրան խեսեդ ձգող, և մի լինի ողորմող նրա որբերին։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "משך",
+      "gloss": "ձգող"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "խեսեդ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և մի"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ողորմող"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "նրա որբերին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:20:13.637324213Z",
+  "model": "glm-5.3"
+}

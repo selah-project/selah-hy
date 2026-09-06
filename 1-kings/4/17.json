@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 4:17",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Յեհոշաֆատը Պարուախի որդին՝ Յիսաքարում․",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "Յեհոշաֆատը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "Պարուախի"
+    },
+    {
+      "surface": "ביששכר",
+      "gloss": "Յիսաքարում"
+    }
+  ],
+  "timestamp": "2026-09-05T20:45:55.656722695Z",
+  "model": "glm-5.3"
+}

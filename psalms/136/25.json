@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 136,
+  "translation": "Տալիս է հաց ամեն մարմնին, որովհետև հավիտյան է իր խեսեդը։",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Տալիս է"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "հաց"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "մարմնին"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "հավիտյան"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "իր խեսեդը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:25:18.120651060Z",
+  "model": "glm-5.3"
+}

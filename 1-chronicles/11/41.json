@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Ուրիան խեթը, Զավադը՝ Ախլայի որդին.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "Ուրիան"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "խեթը"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Զավադը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Ախլայի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:31:25.233278171Z",
+  "model": "glm-5.3"
+}

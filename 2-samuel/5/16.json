@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 5:16",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "և Էլիշամա, և Էլյադա, և Էլիֆալետ։",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "և Էլիշամա"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "և Էլյադա"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "և Էլիֆալետ"
+    }
+  ],
+  "timestamp": "2026-09-05T20:32:12.991096494Z",
+  "model": "glm-5.3"
+}

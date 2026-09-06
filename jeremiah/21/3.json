@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եվ ասաց Յիրմեյահուն նրանց. «Այսպե՛ս ասեք Ցիդկիյահուին․",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Յիրմեյահուն"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Այսպե՛ս"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "ասեք"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ցիդկիյահուին՝ դեպի"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Ցիդկիյահու"
+    }
+  ],
+  "timestamp": "2026-09-06T01:13:16.610479509Z",
+  "model": "glm-5.3"
+}

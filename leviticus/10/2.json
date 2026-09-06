@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Եվ դուրս եկավ կրակ Յահվեի առջևից, և խժտեց ⟨את⟩ նրանց, և մահացան Յահվեի առջև։",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "և դուրս եկավ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "կրակ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "առջևից"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "և խժտեց"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ նրանց",
+      "marks": "նրանց"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "և մահացան"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:01:00.497408714Z",
+  "model": "glm-5.3"
+}

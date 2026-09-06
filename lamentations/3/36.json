@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Խեղաթյուրել մարդուն իր դատի մեջ՝ Ադոնայ չտեսավ։",
+  "tokens": [
+    {
+      "surface": "לעות",
+      "gloss": "խեղաթյուրել"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդուն"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "իր դատի մեջ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "տեսավ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:58.794812688Z",
+  "model": "glm-5.3"
+}

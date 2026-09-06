@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 23:1",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Եվ պատասխանեց Իյովը (Հոբը) և ասաց՝",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Եվ պատասխանեց"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Իյովը (Հոբը)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց՝"
+    }
+  ],
+  "timestamp": "2026-09-05T23:46:04.811008175Z",
+  "model": "glm-5.3"
+}

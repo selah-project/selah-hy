@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 29:12",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Որովհետև ազատեցի աղքատ աղաղակողին և որբին, և ոչ օգնող իրեն։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "אמלט",
+      "gloss": "ազատեցի"
+    },
+    {
+      "surface": "עני",
+      "gloss": "աղքատ"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "աղաղակողին"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "և որբին"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "օգնող"
+    },
+    {
+      "surface": "לו",
+      "gloss": "իրեն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:47:15.343715592Z",
+  "model": "glm-5.3"
+}

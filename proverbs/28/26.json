@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 28:26",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Իր սրտում հույս դնողը հիմար է, իսկ իմաստությամբ քայլողը՝ կփրկվի։",
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "հույս դնող"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "իր սրտում"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "հիմար"
+    },
+    {
+      "surface": "והולך",
+      "gloss": "իսկ քայլող"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "իմաստությամբ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "կփրկվի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:38:07.315534379Z",
+  "model": "glm-5.3"
+}

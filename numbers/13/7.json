@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Յիսախարի (Իսաքար) ցեղից՝ Յիգալ, Յոսեֆի (Հովսեփ) որդին։",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ցեղից"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Յիսախարի"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "Յիգալ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Յոսեֆի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:18:10.426667442Z",
+  "model": "glm-5.3"
+}

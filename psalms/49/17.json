@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 49,
+  "translation": "Մի՛ վախեցիր, երբ հարստանում է մարդ, երբ բազմանում է նրա տան փառքը։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "վախեցիր"
+    },
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "հարստանում է"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "բազմանում է"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "փառք"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "նրա տան"
+    }
+  ],
+  "timestamp": "2026-09-05T23:03:49.008123778Z",
+  "model": "glm-5.3"
+}

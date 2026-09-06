@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Թող դնի իր բերանը փոշու մեջ՝ գուցե կա հույս։",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "դնի"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "փոշու մեջ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "իր բերանը"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "գուցե"
+    },
+    {
+      "surface": "יש",
+      "gloss": "կա"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "հույս"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:23.944067911Z",
+  "model": "glm-5.3"
+}

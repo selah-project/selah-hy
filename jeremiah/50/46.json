@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "jeremiah 50:46",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 50,
+  "translation": "Բաբելոնի բռնվելու ձայնից երկիրը ցնցվեց, և աղաղակ լսվեց ազգերի մեջ։",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ձայնից"
+    },
+    {
+      "surface": "נתפשה",
+      "gloss": "բռնվելու"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Բաբելոնի"
+    },
+    {
+      "surface": "נרעשה",
+      "gloss": "ցնցվեց"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "וזעקה",
+      "gloss": "և աղաղակ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ազգերի մեջ"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "լսվեց"
+    }
+  ],
+  "timestamp": "2026-09-05T22:03:14.652839357Z",
+  "model": "glm-5.3"
+}

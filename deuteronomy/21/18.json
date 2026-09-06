@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 21:18",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եթե մարդուն որդ լինի համառ ու ապստամբ, որ չի լսում հոր ձայնին և մոր ձայնին, և պատժեն ⟨את⟩ նրան, բայց նա չլսի նրանց.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "մարդուն"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդ"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "համառ"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "ու ապստամբ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "չի"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "լսում"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "հոր ձայնին"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "հոր"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "և ձայնին"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "մոր"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "և պատժեն"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "նրան"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "բայց չ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "լսի"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "նրանց"
+    }
+  ],
+  "timestamp": "2026-09-05T19:43:00.653256554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 37,
+  "translation": "Եվ դեռ մի քիչ, և չարագործը չկա․ և դու կնայես նրա տեղին, և նա չկա։",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Եվ դեռ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "մի քիչ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "և չկա"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "չարագործը"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "և դու կնայես"
+    },
+    {
+      "surface": "על",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "նրա տեղին"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "և նա չկա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:00:33.905456907Z",
+  "model": "glm-5.3"
+}

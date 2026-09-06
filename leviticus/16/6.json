@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Եվ մոտեցնի Ահարոնը ⟨את⟩ ցուլը՝ մեղքի զոհը, որ իրենն է, և քավեցնի իր համար և իր տան համար։",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "մոտեցնի"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ահարոնը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ցուլը"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ցուլը"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "մեղքի զոհը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "իրենն է"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "քավեցնի"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "իր համար"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "և … համար"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "իր տան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:04:03.343316578Z",
+  "model": "glm-5.3"
+}

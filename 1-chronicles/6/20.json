@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Ծիփի որդին՝ Էլքանայի որդին՝ Մախաթի որդին՝ Ամասայի որդին։",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "Ծիփի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Էլքանայի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "Մախաթի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "Ամասայի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:20.640746390Z",
+  "model": "glm-5.3"
+}

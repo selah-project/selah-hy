@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 20:7",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Եվ խոսեց Յահվեն Մոշեին՝ ասելով․",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "և խոսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T19:22:35.190082086Z",
+  "model": "glm-5.3"
+}

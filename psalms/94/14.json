@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 94,
+  "translation": "քանի որ Յահվեն իր ժողովրդին չի լքի, և իր ժառանգությունը չի թողնի։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "լքի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "իր ժողովրդին"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "և իր ժառանգությունը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "թողնի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:15:10.708219844Z",
+  "model": "glm-5.3"
+}

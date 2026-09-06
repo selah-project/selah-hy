@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 1:27",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Աբրամը՝ ⟨նա⟩ Աբրահամն է։",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "Աբրամը"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨նա⟩"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Աբրահամն"
+    }
+  ],
+  "timestamp": "2026-09-06T00:26:46.707096523Z",
+  "model": "glm-5.3"
+}

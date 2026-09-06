@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Մերժեց Իսրայելը լավը․ թշնամին կհետապնդի նրան։",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "Մերժեց"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելը"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "լավը"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "թշնամին"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "կհետապնդի նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T22:33:57.281318883Z",
+  "model": "glm-5.3"
+}

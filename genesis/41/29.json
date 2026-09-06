@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 41:29",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 41,
+  "translation": "Ահա՝ գալիս են յոթ տարի մեծ առատության ամբողջ երկիր Միցրայիմում։",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ահա՝"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "באות",
+      "gloss": "գալիս են"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "առատության"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկիր"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Միցրայիմում"
+    }
+  ],
+  "timestamp": "2026-09-05T18:27:25.384153295Z",
+  "model": "glm-5.3"
+}

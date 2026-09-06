@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 44,
+  "translation": "Ոչ ետ քաշվեց մեր սիրտը, և մեր քայլերը չշեղվեցին քո ճանապարհից։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ոչ"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "ետ քաշվեց"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ետ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "մեր սիրտը"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "և շեղվեցին"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "մեր քայլերը"
+    },
+    {
+      "surface": "מני",
+      "gloss": "—ից"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "քո ճանապարհ"
+    }
+  ],
+  "timestamp": "2026-09-06T01:17:41.929730672Z",
+  "model": "glm-5.3"
+}

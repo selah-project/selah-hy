@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 34:8",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 34,
+  "translation": "Հոր լեռից նշեցեք Խամատ մտնելու ⟨տեղը⟩, և սահմանի ելքերը կլինեն Ծեդադի մոտ։",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "լեռից"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "Հոր"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "նշեցեք"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "մտնելու"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Խամատ"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "և կլինեն"
+    },
+    {
+      "surface": "תוצאת",
+      "gloss": "ելքերը"
+    },
+    {
+      "surface": "הגבל",
+      "gloss": "սահմանի"
+    },
+    {
+      "surface": "צדדה",
+      "gloss": "Ծեդադի մոտ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:29:52.036050736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 2:21",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Բեթ Լեխեմի որդիները՝ հարյուր քսան և երեք։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Բեթ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Լեխեմի"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "քսան"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "և երեք"
+    }
+  ],
+  "timestamp": "2026-09-06T00:14:21.242740763Z",
+  "model": "glm-5.3"
+}

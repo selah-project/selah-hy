@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Երբ տեսավ Շաուլը, որ նա շատ խելացի է, վախեցավ նրանից։",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "և տեսավ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Շաուլը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "խելացի է"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "շատ"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "և վախեցավ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "նրանից"
+    }
+  ],
+  "timestamp": "2026-09-05T20:22:25.544981941Z",
+  "model": "glm-5.3"
+}

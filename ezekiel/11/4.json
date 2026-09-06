@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 11:4",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Դրա համար մարգարեացի՛ր նրանց, մարգարեացի՛ր, մարդու որդի՛։",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Դրա համար"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "մարգարեացիր"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "մարգարեացիր"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    }
+  ],
+  "timestamp": "2026-09-05T22:11:52.636303003Z",
+  "model": "glm-5.3"
+}

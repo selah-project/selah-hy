@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 84,
+  "translation": "Կգնան ուժից ուժ, կերևան Էլոհիմի առջև Ծիոնում։",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "կգնան"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "ուժից"
+    },
+    {
+      "surface": "אל",
+      "gloss": "առ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ուժ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "կերևան"
+    },
+    {
+      "surface": "אל",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Ծիոնում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:13:47.029550484Z",
+  "model": "glm-5.3"
+}

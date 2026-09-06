@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Եվ մտավ նաև Ռախելի մոտ, և սիրեց նաև ⟨את⟩ Ռախելին ավելի, քան Լեաին, և ծառայեց նրա հետ ևս այլ յոթ տարի։",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "և մտավ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "նաև"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Ռախելի"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "և սիրեց"
+    },
+    {
+      "surface": "גם",
+      "gloss": "նաև"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ռախելին"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Ռախելին"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ավելի, քան Լեաին"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "և ծառայեց"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "նրա հետ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ևս"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "այլ"
+    }
+  ],
+  "timestamp": "2026-09-06T02:44:08.425669345Z",
+  "model": "glm-5.3"
+}

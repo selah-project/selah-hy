@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ չար եղավ Յոնայի առջև՝ մեծ չարություն, և նա բորբոքվեց։",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "և չար եղավ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Յոնա"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "չարություն"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "և բորբոքվեց"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T22:40:06.197822121Z",
+  "model": "glm-5.3"
+}

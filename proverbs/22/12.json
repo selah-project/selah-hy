@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Յահվեի աչքերը պահում են գիտելիքը, և ⟨նա⟩ շրջում է դավաճանի խոսքերը։",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "աչքերը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "պահում են"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "գիտելիքը"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "և շրջում է"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "խոսքերը"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "դավաճանի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:29.816399377Z",
+  "model": "glm-5.3"
+}

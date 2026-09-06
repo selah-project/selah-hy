@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 49:22",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 49,
+  "translation": "Յոսեֆ՝ պտղաբեր որդի, պտղաբեր որդի աղբյուրի վրա, դուստրերը քայլում են պարսպի վրայով։",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "պտղաբեր"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Յոսեֆ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "պտղաբեր"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "עין",
+      "gloss": "աղբյուր"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "դուստրեր"
+    },
+    {
+      "surface": "צעדה",
+      "gloss": "քայլում են"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "վրայով"
+    },
+    {
+      "surface": "שור",
+      "gloss": "պարիսպ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:33:43.989842318Z",
+  "model": "glm-5.3"
+}

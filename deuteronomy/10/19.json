@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Եվ սիրեք ⟨את⟩ եկվորին, որովհետև եկվորներ եղել եք դուք Միցրայիմի (Եգիպտոսի) երկրում։",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "և սիրեք"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "եկվորին"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "եկվորին"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "եկվորներ"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "եղել եք"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրում"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Միցրայիմի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:36:11.641480682Z",
+  "model": "glm-5.3"
+}

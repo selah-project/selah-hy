@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Դու այսօր անցնում ես ⟨את⟩ Մոաբի սահմանը՝ ⟨את⟩ Արը։",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Դու"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "անցնում ես"
+    },
+    {
+      "surface": "היום",
+      "gloss": "այսօր"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Մոաբի սահմանը"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "սահմանը"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Մոաբի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Արը"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Արը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:31:45.852578670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 83,
+  "translation": "Նույնպես Աշշուրը միացել է նրանց հետ, եղան բազուկ Լոտի որդիների համար։ Սելա։",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Նույնպես"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Աշշուրը"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "միացել է"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "նրանց հետ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "եղան"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "բազուկ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Լոտի"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Սելա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:11:37.776216227Z",
+  "model": "glm-5.3"
+}

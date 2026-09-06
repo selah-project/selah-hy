@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 21:5",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Դարձեք դեպի ինձ և զարմացեք, և դրեք ձեռքը բերանի վրա։",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "Դարձեք"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "դեպի ինձ"
+    },
+    {
+      "surface": "והשמו",
+      "gloss": "և զարմացեք"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "և դրեք"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ձեռքը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "פה",
+      "gloss": "բերանի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:45:05.937003213Z",
+  "model": "glm-5.3"
+}

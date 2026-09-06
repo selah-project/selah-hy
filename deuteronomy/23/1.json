@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Ոչ մի մարդ չի առնի ⟨את⟩ իր հոր կինը, և ոչ չի բացահայտի իր հոր թևքը՝ ծածկոցը։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "չի առնի"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "իր հոր կինը"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "կինը"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "իր հոր"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "չի բացահայտի"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "թևքը՝ ծածկոցը"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "իր հոր"
+    }
+  ],
+  "timestamp": "2026-09-05T19:43:42.632473424Z",
+  "model": "glm-5.3"
+}

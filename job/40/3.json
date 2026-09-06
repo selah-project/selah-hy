@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 40,
+  "translation": "Եվ պատասխանեց Իյովը ⟨את⟩ Յահվեին և ասաց՝",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Եվ պատասխանեց"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Իյովը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յահվեին"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:51:30.921536268Z",
+  "model": "glm-5.3"
+}

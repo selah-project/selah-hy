@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Քանի որ հեվելով է գալիս, և խավարով կգնա, և խավարում իր անունը ծածկվի։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Քանի որ"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "հեվելով"
+    },
+    {
+      "surface": "בא",
+      "gloss": "գալիս է"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "և խավարով"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "կգնա"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "և խավարում"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "իր անունը"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ծածկվի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:02:31.762002043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 20:17",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Քաղցր է մարդուն սուտ հացը, և հետո նրա բերանը կլցվի խճաքարով։",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Քաղցր է"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "մարդուն"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "հաց"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "սուտ"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "և հետո"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "կլցվի"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "նրա բերանը"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "խճաքարով"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:18.735928675Z",
+  "model": "glm-5.3"
+}

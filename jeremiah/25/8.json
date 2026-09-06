@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Դրա համար այսպես ասաց Յահվե Ծեվաոթը՝ քանի որ չլսեցիք ⟨את⟩ իմ խոսքերը,",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Դրա համար"
+    },
+    {
+      "surface": "כה",
+      "gloss": "այսպես"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ծեվաոթը"
+    },
+    {
+      "surface": "יען",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "֊ն որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "լսեցիք"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "իմ խոսքերը"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "իմ խոսքերը"
+    }
+  ],
+  "timestamp": "2026-09-05T21:50:17.069283661Z",
+  "model": "glm-5.3"
+}

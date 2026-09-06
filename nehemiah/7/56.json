@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Նեծիախի որդիները, Խատիֆայի որդիները։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "Նեծիախի"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "Խատիֆայի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:47.464016698Z",
+  "model": "glm-5.3"
+}

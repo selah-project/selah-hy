@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 36,
+  "translation": "Սրանք Էսավի որդիներն են, և սրանք նրանց իշխաններն են․ նա ⟨է⟩ Էդոմը։",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Սրանք"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիներն են"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Էսավի"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "և սրանք"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "նրանց իշխաններն են"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Էդոմը"
+    }
+  ],
+  "timestamp": "2026-09-05T18:25:02.815508729Z",
+  "model": "glm-5.3"
+}

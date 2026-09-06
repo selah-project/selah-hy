@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եվ խոսեց Մոշեն Ահարոնի հետ, և նրա որդիների հետ, և ամեն Իսրայելի որդիների հետ։",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "և խոսեց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ահարոնի"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և հետ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "նրա որդիների"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և հետ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:07:12.122558378Z",
+  "model": "glm-5.3"
+}

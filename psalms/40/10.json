@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 40,
+  "translation": "Արդարությունը ավետեցի մեծ հավաքի մեջ. ահա՝ շուրթերս չեմ զսպի, Յահվե, դու գիտես։",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "ավետեցի"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "արդարությունը"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "հավաքի մեջ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "շուրթերս"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "զսպի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "գիտես"
+    }
+  ],
+  "timestamp": "2026-09-05T23:02:03.707586324Z",
+  "model": "glm-5.3"
+}

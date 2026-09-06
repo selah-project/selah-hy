@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Նրա ոտքերը երկինք են իջնում դեպի մահ, Շեոլին են հասնում նրա քայլերը։",
+  "tokens": [
+    {
+      "surface": "רגליה",
+      "gloss": "նրա ոտքերը"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "իջնում են"
+    },
+    {
+      "surface": "מות",
+      "gloss": "մահ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Շեոլ"
+    },
+    {
+      "surface": "צעדיה",
+      "gloss": "նրա քայլերը"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "հենվում են"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:45.614800979Z",
+  "model": "glm-5.3"
+}

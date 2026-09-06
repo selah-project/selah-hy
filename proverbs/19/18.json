@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 19:18",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Խրախճագիր քո որդուն, քանի որ կա հուս, և դեպի նրա մահը մի՛ բարձրացնես քո նեֆեշը։",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "խրախճագիր"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "քո որդուն"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "կա"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "հուս"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և մի՛"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "դեպի նրա մահը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "բարձրացնես"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "քո նեֆեշը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:46.100912738Z",
+  "model": "glm-5.3"
+}

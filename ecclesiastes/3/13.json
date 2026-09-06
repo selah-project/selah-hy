@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ ամեն մարդ, որ ուտի և խմում է և բարիք է տեսնում իր ամբողջ ջանքի մեջ՝ Էլոհիմի պարգև է դա։",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Եվ ամեն"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "մարդը"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "որ ուտի"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "և խմում է"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "և տեսնում է"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "բարիք"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "իր ջանքի մեջ"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "պարգև"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմի"
+    },
+    {
+      "surface": "היא",
+      "gloss": "դա ⟨է⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:56.066130927Z",
+  "model": "glm-5.3"
+}

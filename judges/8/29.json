@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 8:29",
+  "book": "judges",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ գնաց Յերուբաալը՝ Յոաշի որդին, և բնակվեց իր տանը։",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "և գնաց"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Յերուբաալը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Յոաշի"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "և բնակվեց"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "իր տանը"
+    }
+  ],
+  "timestamp": "2026-09-05T20:06:27.878415593Z",
+  "model": "glm-5.3"
+}

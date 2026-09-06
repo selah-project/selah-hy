@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "և ⟨את⟩ Բաալաթը և ⟨את⟩ Թամարը՝ անապատում, երկրում։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Բաալաթը"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Բաալաթը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Թամարը"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Թամարը"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "անապատում"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրում"
+    }
+  ],
+  "timestamp": "2026-09-06T01:09:39.306302747Z",
+  "model": "glm-5.3"
+}

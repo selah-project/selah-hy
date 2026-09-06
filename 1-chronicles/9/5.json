@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ Շիլոնցիներից՝ Ասայա ավագը և նրա որդիները։",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "և ... -ից"
+    },
+    {
+      "surface": "השילוני",
+      "gloss": "Շիլոնցիներից"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Ասայա"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ավագը"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "և նրա որդիները"
+    }
+  ],
+  "timestamp": "2026-09-06T00:32:10.178550329Z",
+  "model": "glm-5.3"
+}

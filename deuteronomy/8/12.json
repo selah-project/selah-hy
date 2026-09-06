@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "որ մի՝ կ’ուտես և կ’կշտանաս, և լավ տներ կ’կառուցես և կ’բնակվես։",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "որ մի"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "կ’ուտես"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "և կ’կշտանաս"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "և տներ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "լավ"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "կ’կառուցես"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "և կ’բնակվես"
+    }
+  ],
+  "timestamp": "2026-09-05T19:36:11.457279272Z",
+  "model": "glm-5.3"
+}

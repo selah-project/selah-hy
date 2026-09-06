@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ քահանան մոտեցնի նրան և կանգնեցնի նրան Յահվեի առջև։",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Եվ մոտեցնի"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "նրան"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "քահանան"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "և կանգնեցնի նրան"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-06T02:44:56.990529981Z",
+  "model": "glm-5.3"
+}

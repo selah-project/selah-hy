@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 15:23",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Եվ եթե անկողնու վրա է այն կամ այն անոթի վրա, որի վրա նա նստում է՝ դրան դիպչելիս ⟨նա⟩ անմաքուր ⟨կլինի⟩ մինչև երեկո։",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "և եթե"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "անկողնու"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "է այն"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "անոթի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որի"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "նստում է"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "դրա վրա"
+    },
+    {
+      "surface": "בנגעו",
+      "gloss": "դիպչելիս"
+    },
+    {
+      "surface": "בו",
+      "gloss": "դրան"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "անմաքուր ⟨կլինի⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "երեկո"
+    }
+  ],
+  "timestamp": "2026-09-05T19:04:08.409684983Z",
+  "model": "glm-5.3"
+}

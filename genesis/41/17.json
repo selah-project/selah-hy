@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 41,
+  "translation": "Եվ ասաց Փարաոհը Յոսեֆին. «Իմ երազում ահա ես կանգնած էի գետաբերանի եզրին։",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Փարաոհը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Յոսեֆին"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "իմ երազում"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ահա ես"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "կանգնած էի"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "եզրին"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "գետաբերանի"
+    }
+  ],
+  "timestamp": "2026-09-06T02:02:52.171404859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Եվ մեծացավ այդ մարդը, և գնաց գնալով ու մեծանալով, մինչև որ շատ մեծացավ։",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "և մեծացավ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "այդ մարդը"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "և գնաց"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "գնալով"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "ու մեծանալով"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "մեծացավ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "շատ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:19:39.431191928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Ես Շարոնի խաբծելեթն եմ, հովիտների շուշանը։",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ես"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "խաբծելեթ"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Շարոնի"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "շուշանը"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "հովիտների"
+    }
+  ],
+  "timestamp": "2026-09-05T23:52:51.383898948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ վախեցավ Դավիթը ⟨את⟩ Յահվեից այն օրը և ասաց՝ ինչպե՞ս կգա ինձ մոտ Յահվեի տապանը։",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "վախեցավ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Դավիթը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յահվե"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեից"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ինչպե՞ս"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "կգա"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ինձ մոտ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "տապանը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T20:32:16.441170385Z",
+  "model": "glm-5.3"
+}

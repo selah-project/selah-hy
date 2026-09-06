@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "և Բեթուելում, և Խորմայում, և Ծիկլագում։",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "Բեթուելում"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "Խորմայում"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "Ծիկլագում"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:21.689215218Z",
+  "model": "glm-5.3"
+}

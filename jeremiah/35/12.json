@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 35:12",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 35,
+  "translation": "Եվ եղավ Յահվեի խոսքը Յիրմեյահուի մոտ՝ ասելով․",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Յիրմեյահուի"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T21:55:41.127519963Z",
+  "model": "glm-5.3"
+}

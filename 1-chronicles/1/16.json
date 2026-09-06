@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "և ⟨את⟩ արվադցուն, և ⟨את⟩ ծեմարցուն, և ⟨את⟩ խամաթցուն։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "արվադցուն"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "արվադցուն"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "ծեմարցուն"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "ծեմարցուն"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "խամաթցուն"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "խամաթցուն"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:03.161450706Z",
+  "model": "glm-5.3"
+}

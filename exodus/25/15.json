@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Տապանի օղերի մեջ են լինելու ձողերը՝ դրանից չեն հեռացվի։",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "օղերի մեջ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Տապանի"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "են լինելու"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ձողերը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "չեն հեռացվի"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "դրանից"
+    }
+  ],
+  "timestamp": "2026-09-05T18:46:06.731768519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 30:23",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "ատելի կնոջ՝ երբ ամուսնանում է, և աղախնի՝ երբ ժառանգում է իր տիրուհուն։",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "ատելի կնոջ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "תבעל",
+      "gloss": "ամուսնանում է"
+    },
+    {
+      "surface": "ושפחה",
+      "gloss": "և աղախնի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "תירש",
+      "gloss": "ժառանգում է"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "իր տիրուհուն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:11.679405584Z",
+  "model": "glm-5.3"
+}

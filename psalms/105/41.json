@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 105,
+  "translation": "Բացավ ժայռը, և ջուրը հոսեց, գնաց չոր վայրերում՝ գետի պես։",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Բացավ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ժայռը"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "և հոսեց"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջուրը"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "գնաց"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "չոր վայրերում"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "գետ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:17:05.754457429Z",
+  "model": "glm-5.3"
+}

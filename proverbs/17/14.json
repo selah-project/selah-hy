@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 17:14",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Ջրի բացում՝ վեճի սկիզբ է, և նախքան պայքարի բռնկումը՝ թող վեճը։",
+  "tokens": [
+    {
+      "surface": "פוטר",
+      "gloss": "բացում"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջրի"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "սկիզբ"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "վեճի"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "և նախքան"
+    },
+    {
+      "surface": "התגלע",
+      "gloss": "բռնկումը"
+    },
+    {
+      "surface": "הריב",
+      "gloss": "վեճը"
+    },
+    {
+      "surface": "נטוש",
+      "gloss": "թող"
+    }
+  ],
+  "timestamp": "2026-09-05T23:32:53.764725671Z",
+  "model": "glm-5.3"
+}

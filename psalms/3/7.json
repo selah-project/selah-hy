@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Չեմ վախենա ժողովրդի տասը հազարներից, որ շուրջս են դրված իմ դեմ։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Չեմ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "վախենա"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "տասը հազարներից"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ժողովրդի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "շուրջս"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "են դրված"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "իմ դեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:52:20.579597010Z",
+  "model": "glm-5.3"
+}

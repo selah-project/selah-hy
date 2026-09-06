@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 5:1",
+  "book": "judges",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Երգեց Դեբորան և Բարակը՝ Ավինոամի որդին, այն օրը՝ ասելով։",
+  "tokens": [
+    {
+      "surface": "ותשר",
+      "gloss": "Երգեց"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Դեբորան"
+    },
+    {
+      "surface": "וברק",
+      "gloss": "և Բարակը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "Ավինոամի"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "այն օրը"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T20:03:37.443286558Z",
+  "model": "glm-5.3"
+}

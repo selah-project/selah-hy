@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 28:22",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "և մեկ շյուղ այծ՝ մեղքի զոհ, քավելու համար ձեզ համար։",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "և շյուղ այծ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "մեղքի զոհ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "քավելու համար"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ձեզ համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:26:42.278461517Z",
+  "model": "glm-5.3"
+}

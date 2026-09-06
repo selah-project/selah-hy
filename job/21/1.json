@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 21:1",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եվ պատասխանեց Այովը և ասաց.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Եվ պատասխանեց"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Այովը (Հոբ)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:45:43.125354620Z",
+  "model": "glm-5.3"
+}

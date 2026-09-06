@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 17:7",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Այդ օրը մարդը կնայի իր Արարչին, և իր աչքերը կտեսնեն Իսրայելի Սրբին։",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "կնայի"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "մարդը"
+    },
+    {
+      "surface": "על",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "իր Արարչին"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "և իր աչքերը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Սրբին"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "կտեսնեն"
+    }
+  ],
+  "timestamp": "2026-09-05T21:20:34.540016848Z",
+  "model": "glm-5.3"
+}

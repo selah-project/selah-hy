@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Յիգալ՝ Նաթանի որդին՝ Ծոբայից, Բանի՝ գադցին։",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "Յիգալ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Նաթանի"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "Ծոբայից"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Բանի"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "գադցին"
+    }
+  ],
+  "timestamp": "2026-09-05T20:42:15.719644706Z",
+  "model": "glm-5.3"
+}

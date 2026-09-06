@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 33:56",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 33,
+  "translation": "և կլինի՝ ինչպես մտածեցի անել նրանց, այն կանեմ ձեզ։",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "և կլինի"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ինչպես"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "մտածեցի"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "անել"
+    },
+    {
+      "surface": "להם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "կանեմ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:30:48.705728772Z",
+  "model": "glm-5.3"
+}

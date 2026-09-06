@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 3:34",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եթե ծաղրողների հետ է՝ նա ծաղրում է, իսկ խոնարհներին շնորհ է տալիս։",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "ללצים",
+      "gloss": "ծաղրողների հետ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "ծաղրում է"
+    },
+    {
+      "surface": "ולעניים",
+      "gloss": "իսկ խոնարհներին"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "տալիս է"
+    },
+    {
+      "surface": "חן",
+      "gloss": "շնորհ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:48.072381592Z",
+  "model": "glm-5.3"
+}

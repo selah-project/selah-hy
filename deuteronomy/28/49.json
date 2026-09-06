@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "deuteronomy 28:49",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Յահվեն կբարձրացնի քեզ վրա ազգ՝ հեռու երկրի ծայրից, ինչպես կսլանա արծիվը՝ ազգ, որի լեզուն պիտի չհասկանաս։",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "կբարձրացնի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "քեզ վրա"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ազգ"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "հեռուից"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ծայրից"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ինչպես"
+    },
+    {
+      "surface": "ידאה",
+      "gloss": "կսլանա"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "արծիվը"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ազգ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "պիտի հասկանաս"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "լեզուն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:46:19.909394747Z",
+  "model": "glm-5.3"
+}

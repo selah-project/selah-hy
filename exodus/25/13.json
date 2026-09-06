@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Եվ պատրաստել ես շիթիմ փայտից ձողեր և ոսկով պատել ես ⟨את⟩ դրանք։",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "և պատրաստել ես"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "ձողեր"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "փայտից"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "շիթիմ"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "և պատել ես"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "դրանք"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ոսկով"
+    }
+  ],
+  "timestamp": "2026-09-05T18:46:06.731319543Z",
+  "model": "glm-5.3"
+}

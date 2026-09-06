@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 7:9",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ ութերորդ օրը հանդիպում արեցին, քանի որ զոհասեղանի օծումը յոթ օր արեցին, և տոնը՝ յոթ օր։",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "և արեցին"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրվա"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ութերորդ"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "հանդիպում"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "օծումը"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "զոհասեղանի"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "արեցին"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    },
+    {
+      "surface": "והחג",
+      "gloss": "և տոնը"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    }
+  ],
+  "timestamp": "2026-09-06T00:43:42.409171433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Լավ ⟨է⟩ հուսել և լուռ սպասել Յահվեի փրկության համար։",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Լավ"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "հուսել"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "և լուռ սպասել"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "փրկության համար"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:12.259110119Z",
+  "model": "glm-5.3"
+}

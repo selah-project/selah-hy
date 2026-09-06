@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Եվ եթե չհաշտվի քեզ հետ, այլ պատերազմ մղի քեզ հետ, ապա պաշարես նրան։",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Եվ եթե"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "հաշտվի"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "քեզ հետ"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "մղի"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "քեզ հետ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "պատերազմ"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "պաշարես"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:41:31.166484054Z",
+  "model": "glm-5.3"
+}

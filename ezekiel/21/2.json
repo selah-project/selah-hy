@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 21:2",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Մարդու որդի, դիր քո դեմքը դեպի հարավ, և կաթեցրու ⟨դեպի⟩ Դարոմ, և մարգարե' դեպի դաշտի անտառ՝ Նեգև.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "שים",
+      "gloss": "դիր"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "քո դեմքը"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "հարավ"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "և կաթեցրու"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨դեպի⟩"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "Դարոմ"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "և մարգարե'"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "יער",
+      "gloss": "անտառ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "դաշտի"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Նեգև"
+    }
+  ],
+  "timestamp": "2026-09-05T22:16:02.629340750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Ապստամբներ էիք դուք Յահվեի հետ, այն օրից, երբ ⟨את⟩ ձեզ ճանաչեցի։",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "Ապստամբներ"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "էիք"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "այն օրից"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "երբ ճանաչեցի"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ձեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:36:09.306330502Z",
+  "model": "glm-5.3"
+}

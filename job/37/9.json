@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 37:9",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 37,
+  "translation": "Սենյակից մրրիկը գալիս է, և ցրումներից՝ ցուրտը։",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "…ից"
+    },
+    {
+      "surface": "החדר",
+      "gloss": "սենյակից"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "գալիս է"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "մրրիկը"
+    },
+    {
+      "surface": "וממזרים",
+      "gloss": "և ցրումներից"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "ցուրտը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:49:46.333170374Z",
+  "model": "glm-5.3"
+}

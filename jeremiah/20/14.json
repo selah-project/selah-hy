@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 20:14",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Անիծված լինի այն օրը, որի մեջ ծնվեցի ես՝ օրը, երբ մայրս ծնեց ինձ, թող օրհնված չլինի։",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Անիծված"
+    },
+    {
+      "surface": "היום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որի"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "ծնվեցի"
+    },
+    {
+      "surface": "בו",
+      "gloss": "դրա մեջ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "ילדתני",
+      "gloss": "ծնեց ինձ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "մայրս"
+    },
+    {
+      "surface": "אל",
+      "gloss": "թող չ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "օրհնված"
+    }
+  ],
+  "timestamp": "2026-09-05T21:48:19.714253115Z",
+  "model": "glm-5.3"
+}

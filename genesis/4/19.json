@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 4:19",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ վերցրեց իրեն Լեմեխը երկու կանանց՝ մեկի անունը Ադա, և երկրորդի անունը Ցիլա։",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "և վերցրեց"
+    },
+    {
+      "surface": "לו",
+      "gloss": "իրեն"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Լեմեխը"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "երկու"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "կանանց"
+    },
+    {
+      "surface": "שם",
+      "gloss": "անունը"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "մեկի"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ադա"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "և անունը"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "երկրորդի"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "Ցիլա"
+    }
+  ],
+  "timestamp": "2026-09-05T18:09:08.949624945Z",
+  "model": "glm-5.3"
+}

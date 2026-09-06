@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ ուղարկեց Շլոմոն Խիրամի մոտ՝ ասելով․",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Եվ ուղարկեց"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Շլոմոն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Խիրամի"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T20:46:21.455297397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Եվ պահեք իմ պատվիրանները և արեք ⟨את⟩ դրանք. ես եմ Յահվեն։",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Եվ պահեք"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "իմ պատվիրանները"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "և արեք"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "դրանք"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես եմ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:07:21.984486657Z",
+  "model": "glm-5.3"
+}

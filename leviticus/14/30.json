@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ կանի ⟨את⟩ մեկը տատրակներից կամ աղավնու ձագերից՝ նրանից, ինչ ձեռքը հասնում է։",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "և կանի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "մեկը"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "մեկը"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ից"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "տատրակներ"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ից"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ձագեր"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "աղավնու"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "նրանից, ինչ"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "հասնում է"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ձեռքը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:02:47.632557440Z",
+  "model": "glm-5.3"
+}

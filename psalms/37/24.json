@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 37,
+  "translation": "Եթե ընկնի՝ չի շպրտվի, որովհետև Յահվեն ⟨իր⟩ ձեռքով է պահում նրան։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ընկնի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "շպրտվի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "պահում է"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ձեռքով նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T23:01:26.614552783Z",
+  "model": "glm-5.3"
+}

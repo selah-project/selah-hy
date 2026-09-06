@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Եվ ասաց ժողովրդին. եղեք պատրաստ երեք օր, մոտ մի գնացեք կնոջ։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ժողովրդին -ին"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովրդին"
+    },
+    {
+      "surface": "היו",
+      "gloss": "եղեք"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "պատրաստ"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "մոտ գնացեք"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ -ի"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "կնոջ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:42:44.923162822Z",
+  "model": "glm-5.3"
+}

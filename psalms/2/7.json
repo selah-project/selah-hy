@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Ես կպատմեմ հրամանի մասին. Յահվե ասաց ինձ. «Դու ⟨ես⟩ իմ որդին, ես այսօր ծնել եմ քեզ»։",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Ես կպատմեմ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մասին"
+    },
+    {
+      "surface": "חק",
+      "gloss": "հրաման"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "իմ որդին"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Դու"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "היום",
+      "gloss": "այսօր"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "ծնել եմ քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:52:35.621455462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Ցանկալի հաց չկերա, միս և գինի երանց չմտան բերանս, և յուղ չօծեցի ինձ՝ մինչև լրանալը երեք շաբաթվա՝ օրերի։",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "հաց"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "ցանկալի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "կերա"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "և միս"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "և գինի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "մտան"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "פי",
+      "gloss": "բերանս"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "և յուղ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "օծեցի"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "լրանալը"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "շաբաթվա"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օրերի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:13:09.036357804Z",
+  "model": "glm-5.3"
+}

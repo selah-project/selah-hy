@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Թող անցնեմ, խնդրում եմ, և տեսնեմ ⟨את⟩ լավ երկիրը, որ Յարդենի այն կողմում է՝ ⟨այս⟩ լավ լեռը և Լբանոնը։",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "թող անցնեմ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "խնդրում եմ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "և տեսնեմ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "երկիրը"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "լավ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "այն կողմում"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Յարդենի"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "լեռը"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "լավ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "և Լբանոնը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:33:07.570817191Z",
+  "model": "glm-5.3"
+}

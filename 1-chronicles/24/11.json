@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Իններորդը՝ Յեշուային, տասներորդը՝ Շխանյահուին։",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "Յեշուային"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "իններորդը"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "Շխանյահուին"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "տասներորդը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:36:54.623430258Z",
+  "model": "glm-5.3"
+}

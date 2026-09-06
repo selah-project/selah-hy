@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Եվ այծի ուլերի մաշկերը հագցրեց ⟨את⟩ իր ձեռքերի վրա և իր վզի հարթ մասի վրա։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "մաշկերը"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "մաշկերը"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "ուլերի"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "այծի"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "հագցրեց"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "իր ձեռքերի"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "և վրա"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "հարթ մասի"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "իր վզի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:20:23.165981910Z",
+  "model": "glm-5.3"
+}

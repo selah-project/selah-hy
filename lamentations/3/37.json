@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Ո՞վ այս ասաց, և եղավ, եթե Ադոնայը դա չհրամաներ։",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ո՞վ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "և եղավ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "հրամաներ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:21.512648082Z",
+  "model": "glm-5.3"
+}

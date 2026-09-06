@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 26:18",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Եվ եթե մինչև այս ոչ լսեք ինձ, ավելացնեմ ⟨את⟩ ձեզ պատժել յոթ ⟨անգամ⟩ ձեր մեղքերի համար։",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "և եթե"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "լսեք"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "ավելացնեմ"
+    },
+    {
+      "surface": "ליסרה",
+      "gloss": "պատժել"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ձեզ",
+      "marks": "ձեզ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ձեր"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "մեղքերի համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:10:18.719713202Z",
+  "model": "glm-5.3"
+}

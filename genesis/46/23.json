@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 46,
+  "translation": "Եվ Դանի որդիները՝ Խուշիմ։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Դանի"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "Խուշիմ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:30:42.168010034Z",
+  "model": "glm-5.3"
+}

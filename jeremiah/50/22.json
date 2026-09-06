@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 50,
+  "translation": "Պատերազմի ձայն երկրում է, և մեծ ջարդ։",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ձայն"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "պատերազմի"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրում"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "և ջարդ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "մեծ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:03:53.656123524Z",
+  "model": "glm-5.3"
+}

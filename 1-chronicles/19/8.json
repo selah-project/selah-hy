@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Եվ Դավիդը լսեց և ուղարկեց ⟨את⟩ Յոավին և ⟨את⟩ ամբողջ հզորների զորքը։",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "լսեց"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Դավիդը"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ուղարկեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յոավին"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Յոավին"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ամբողջ հզորների զորքը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "զորքը"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "հզորների"
+    }
+  ],
+  "timestamp": "2026-09-06T00:36:16.317596790Z",
+  "model": "glm-5.3"
+}

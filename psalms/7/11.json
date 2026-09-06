@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Իմ վահանը Էլոհիմի վրա ⟨է⟩՝ փրկողը ուղղասիրտների։",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "իմ վահանը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմ"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "փրկողը"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ուղղասիրտների"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սիրտ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:51:58.506944747Z",
+  "model": "glm-5.3"
+}

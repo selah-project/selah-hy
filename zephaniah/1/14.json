@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zephaniah 1:14",
+  "book": "zephaniah",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Մոտ է Յահվեի մեծ օրը, մոտ է և շատ շտապող. Յահվեի օրվա ձայնը՝ դառը. տեղացին կգոռա այնտեղ հերոսը։",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Մոտ է"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "մոտ է"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "և շտապող"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "շատ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ձայնը"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օրվա"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "מר",
+      "gloss": "դառը"
+    },
+    {
+      "surface": "צרח",
+      "gloss": "կգոռա"
+    },
+    {
+      "surface": "שם",
+      "gloss": "այնտեղ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "հերոսը"
+    }
+  ],
+  "timestamp": "2026-09-05T22:44:35.011090543Z",
+  "model": "glm-5.3"
+}

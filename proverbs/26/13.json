@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Ասաց ծույլը՝ «շախալ ⟨է⟩ ճանապարհին, արի հրապարակների մեջ»։",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ասաց"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ծույլը"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "շախալ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ճանապարհին"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "արի"
+    },
+    {
+      "surface": "בין",
+      "gloss": "մեջ"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "հրապարակների"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:29.424269714Z",
+  "model": "glm-5.3"
+}

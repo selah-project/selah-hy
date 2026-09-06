@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Եվ եկավ Ամալեքը (Ամալեկ) և կռվեց Իսրայելի հետ Ռեֆիդիմում։",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Եվ եկավ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Ամալեքը"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "և կռվեց"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "Ռեֆիդիմում"
+    }
+  ],
+  "timestamp": "2026-09-06T02:02:18.002596892Z",
+  "model": "glm-5.3"
+}

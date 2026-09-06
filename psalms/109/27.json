@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 109,
+  "translation": "Եվ իմանան, որ քո ձեռքն է ⟨սա⟩՝ դու, Յահվե, արել ես ⟨այն⟩։",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Եվ իմանան"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "քո ձեռքը"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨սա⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "արել ես ⟨այն⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T23:20:19.270312404Z",
+  "model": "glm-5.3"
+}

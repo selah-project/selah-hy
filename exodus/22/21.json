@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Ամեն այրի և որբ՝ չտանջեք նրանց։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "այրի"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "և որբ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "կտանջեք"
+    }
+  ],
+  "timestamp": "2026-09-05T18:44:17.650615126Z",
+  "model": "glm-5.3"
+}

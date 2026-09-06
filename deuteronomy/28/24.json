@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Յահվեն ⟨את⟩ քո երկրի անձրևը կդարձնի փոշի և մրիճ. երկնքից կիջնի քո վրա՝ մինչև կործանվես։",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "կդարձնի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "քո երկրի անձրևը"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "անձրևը"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "քո երկրի"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "փոշի"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "և մրիճ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—ից"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "երկնքից"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "կիջնի"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "քո վրա"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "կործանվես"
+    }
+  ],
+  "timestamp": "2026-09-05T19:45:45.795105945Z",
+  "model": "glm-5.3"
+}

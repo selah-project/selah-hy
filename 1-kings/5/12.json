@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ ասաց երեք հազար առակ, և եղան իր երգերը հինգ և հազար։",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "և-ասաց"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "հազար"
+    },
+    {
+      "surface": "משל",
+      "gloss": "առակ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "և-եղան"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "իր երգերը"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "հինգ"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "և հազար"
+    }
+  ],
+  "timestamp": "2026-09-06T01:10:20.930001574Z",
+  "model": "glm-5.3"
+}

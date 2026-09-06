@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Վեցերորդ օրը՝ Գադի որդիների նասիի՝ Էլյասաֆի՝ Դեուելի որդու ժամանակ։",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "վեցերորդ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "նասի"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Գադ"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Էլյասաֆ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Դեուել"
+    }
+  ],
+  "timestamp": "2026-09-05T19:15:06.365160140Z",
+  "model": "glm-5.3"
+}

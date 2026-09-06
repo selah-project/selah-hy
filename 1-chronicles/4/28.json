@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 4:28",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ բնակվեցին Բեեր-Շեվայում, և Մոլադայում, և Խացար-Շուալում։",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Եվ բնակվեցին"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "Բեեր-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Շեվայում"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "և Մոլադայում"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "և Խացար-"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "Շուալում"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:10.816426049Z",
+  "model": "glm-5.3"
+}

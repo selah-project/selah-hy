@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 17:13",
+  "book": "judges",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Եվ ասաց Միքան՝ հիմա ես գիտեմ, որ Յահվեն ինձ բարի կանի, որովհետև լևիացին եղավ ինձ քահանա։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Միքան"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "հիմա"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ես գիտեմ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "բարի կանի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "լևիացին"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "քահանա"
+    }
+  ],
+  "timestamp": "2026-09-05T20:09:46.889399900Z",
+  "model": "glm-5.3"
+}

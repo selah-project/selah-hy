@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "և դանակ դրում ես քո կոկորդիդ, եթե նեֆեշի տեր ես դու։",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "դրում ես"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "դանակ"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "կոկորդիդ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "տեր"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "նեֆեշ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու ես"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:09.655314481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 17:11",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Ա՛յ թե խռովատարը միայն չարիք է փնտրում, և դաժան պատվիրակ կուղարկվի նրա դեմ։",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ա՛յ թե"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "խռովատարը"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "փնտրում է"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չարիք"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "և պատվիրակ"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "դաժան"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "կուղարկվի"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրա դեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:32:52.156798500Z",
+  "model": "glm-5.3"
+}

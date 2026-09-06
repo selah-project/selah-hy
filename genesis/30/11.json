@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Եվ ասաց Լեան՝ «Բախտ եկավ», և կանչեց ⟨את⟩ նրա անունը՝ Գադ։",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Լեան"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Բախտ եկավ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "և կանչեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "նրա անունը"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "նրա անունը"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Գադ"
+    }
+  ],
+  "timestamp": "2026-09-06T02:43:40.239800022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 49,
+  "translation": "Ահա՝ ափերի վրա քեզ փորագրել եմ. քո պարիսպները միշտ իմ առջև են։",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ահա"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ափերի"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "քեզ փորագրել եմ"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "քո պարիսպները"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "իմ առջև"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "միշտ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:31:53.538303460Z",
+  "model": "glm-5.3"
+}

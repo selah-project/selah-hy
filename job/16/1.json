@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 16:1",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Եվ պատասխանեց Իյովը և ասաց․",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "և պատասխանեց"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Իյովը"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:44:20.641620037Z",
+  "model": "glm-5.3"
+}

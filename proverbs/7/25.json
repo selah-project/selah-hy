@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Քո սիրտը մի թեքվի դեպի նրա ուղիները, մի մոլորիր նրա արահետներում։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "թեքվի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "նրա ուղիները"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "քո սիրտը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "մոլորիր"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "նրա արահետներում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:57.242088838Z",
+  "model": "glm-5.3"
+}

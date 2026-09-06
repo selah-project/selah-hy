@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Ապիրիոն պատրաստեց իրեն Շլոմո թագավորը (Սողոմոն) Լևանոնի ծառերից։",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "ապիրիոն"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "պատրաստեց"
+    },
+    {
+      "surface": "לו",
+      "gloss": "իրեն"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Շլոմո"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "ծառերից"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Լևանոնի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:52:50.070664397Z",
+  "model": "glm-5.3"
+}

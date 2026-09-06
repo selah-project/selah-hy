@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 7:22",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Խաշումի որդիները՝ երեք հարյուր քսան ութ։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Խաշումի"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "քսան"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ութ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:27.344316072Z",
+  "model": "glm-5.3"
+}

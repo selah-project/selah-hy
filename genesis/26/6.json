@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Եվ Իցխակը բնակվեց Գերարում։",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Եվ բնակվեց"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Իցխակ"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "Գերարում"
+    }
+  ],
+  "timestamp": "2026-09-05T18:20:10.936350134Z",
+  "model": "glm-5.3"
+}

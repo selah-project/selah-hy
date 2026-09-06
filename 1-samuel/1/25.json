@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ մորթեցին ⟨את⟩ ցուլը, և բերեցին ⟨את⟩ երեխային Էլիի մոտ։",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "և մորթեցին"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ցուլը"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ցուլը"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "և բերեցին"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "երեխային"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "երեխային"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Էլիի"
+    }
+  ],
+  "timestamp": "2026-09-05T20:14:25.013076100Z",
+  "model": "glm-5.3"
+}

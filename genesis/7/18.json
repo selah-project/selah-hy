@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 7:18",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ տիրեցին ջրերը և շատ բազմացան երկրի վրա, և գնաց տապանը ջրերի երեսի վրա։",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "Եվ տիրեցին"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ջրերը"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "և բազմացան"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "շատ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "և գնաց"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "տապանը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "פני",
+      "gloss": "երեսի"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ջրերի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:10:46.651667191Z",
+  "model": "glm-5.3"
+}

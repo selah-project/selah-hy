@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Ասացի Յահվեին. «Ադոնայ դու՛ ես, բարությունս ⟨չկա⟩ առանց քեզ»։",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Ասացի"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու ես"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "բարությունս"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "քեզնից դուրս"
+    }
+  ],
+  "timestamp": "2026-09-05T22:54:53.352100920Z",
+  "model": "glm-5.3"
+}

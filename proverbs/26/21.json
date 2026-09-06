@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 26:21",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Ածուխ՝ ածխագնդիկների, և փայտ՝ կրակի, և կռվարար մարդ՝ վեճ բորբոքելու։",
+  "tokens": [
+    {
+      "surface": "פחם",
+      "gloss": "Ածուխ"
+    },
+    {
+      "surface": "לגחלים",
+      "gloss": "ածխագնդիկների"
+    },
+    {
+      "surface": "ועצים",
+      "gloss": "և փայտ"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "կրակի"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "և մարդ"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "կռվարար"
+    },
+    {
+      "surface": "לחרחר",
+      "gloss": "բորբոքելու"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "վեճ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:59.668964995Z",
+  "model": "glm-5.3"
+}

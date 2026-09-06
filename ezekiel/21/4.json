@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եվ կտեսնի ամեն մարմին, որ ես՝ Յահվեն, բռնկեցի այն. չի մարի։",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "Եվ կտեսնի"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "մարմին"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "բռնկեցի այն"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "մարի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:16:02.629693758Z",
+  "model": "glm-5.3"
+}

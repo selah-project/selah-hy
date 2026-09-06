@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 15:8",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Եվ ասաց. Ադոնայ Յահվե, ի՞նչով պիտի իմանամ, որ ես պիտի ժառանգեմ այն։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "במה",
+      "gloss": "ի՞նչով"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "պիտի իմանամ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אירשנה",
+      "gloss": "ժառանգեմ այն"
+    }
+  ],
+  "timestamp": "2026-09-05T18:12:48.400830832Z",
+  "model": "glm-5.3"
+}

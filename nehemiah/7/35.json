@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 7:35",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Խարիմի որդիներ՝ երեք հարյուր և քսան։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Խարիմ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "և քսան"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:28.033612367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 114,
+  "translation": "Ի՞նչ ունես դու, ծով, որ փախչու՞մ ես; Յարդեն (Յորդանան), որ դեպի ետ ես դառնում։",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "դու"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ծով"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "փախչում ես"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Յարդեն"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "դառնում ես"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "դեպի ետ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:20:39.600259590Z",
+  "model": "glm-5.3"
+}

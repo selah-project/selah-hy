@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 7:12",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Մերթ դրսում, մերթ հրապարակներում է, և ամեն անկյունի մոտ դարան է գալիս։",
+  "tokens": [
+    {
+      "surface": "פעם",
+      "gloss": "Մերթ"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "դրսում"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "մերթ"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "հրապարակներում"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "և մոտ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "անկյունի"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "դարան է գալիս"
+    }
+  ],
+  "timestamp": "2026-09-06T01:18:12.867255145Z",
+  "model": "glm-5.3"
+}

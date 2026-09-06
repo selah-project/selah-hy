@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 3:2",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ պատասխանեց Իյովը և ասաց.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Եվ պատասխանեց"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Իյովը"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:39:02.784153644Z",
+  "model": "glm-5.3"
+}

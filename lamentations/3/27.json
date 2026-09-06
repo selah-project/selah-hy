@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Լավ է մարդուն, որ ⟨երբ⟩ իր պատանեկության մեջ կրում է լուծը։",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Լավ է"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "մարդուն"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "կրում է"
+    },
+    {
+      "surface": "על",
+      "gloss": "լուծ"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "իր պատանեկության մեջ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:12.259233184Z",
+  "model": "glm-5.3"
+}

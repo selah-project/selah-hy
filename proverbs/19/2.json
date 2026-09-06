@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Նաև՝ առանց գիտության նեֆեշը լավ չէ, և ոտքերով շտապողը մեղանչում է։",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "նաև"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "առանց"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "գիտության"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "նեֆեշը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չէ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "լավ"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "և շտապողը"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "ոտքերով"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "մեղանչում է"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:27.209420139Z",
+  "model": "glm-5.3"
+}

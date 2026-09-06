@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 114,
+  "translation": "Ով շրջում է ժայռը ջրերի լճակի, կայծաքարը՝ ջրերի աղբյուրի։",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "ով շրջում է"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "ժայռը"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "լճակի"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջրերի"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "կայծաքարը"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "աղբյուրի"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջրերի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:20:39.600787866Z",
+  "model": "glm-5.3"
+}

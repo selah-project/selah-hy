@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Այս օրը դուք դուրս եք գալիս՝ Ավիվ ամսվա մեջ։",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "այս օրը"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "դուք"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "դուրս եք գալիս"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ամսվա մեջ"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Ավիվ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:40:50.439643316Z",
+  "model": "glm-5.3"
+}

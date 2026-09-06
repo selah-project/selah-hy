@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "և ⟨את⟩ Հադորամին, և ⟨את⟩ Ուզալին, և ⟨את⟩ Դիկլային։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Հադորամին"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Հադորամին"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Ուզալին"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Ուզալին"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Դիկլային"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Դիկլային"
+    }
+  ],
+  "timestamp": "2026-09-06T00:26:44.972444346Z",
+  "model": "glm-5.3"
+}

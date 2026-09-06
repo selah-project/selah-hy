@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ վերցնի քահանան յուղի լոգից և թափի քահանայի ձախ ափի վրա։",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "վերցնի"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "քահանան"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "լոգից"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "յուղի"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "թափի"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ափ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "քահանայի"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ձախ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:03:36.001334105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 42,
+  "translation": "Իսկ մենք ասացինք նրան՝ ազնիվներ ենք մենք, լրտեսներ չենք եղել։",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "և ասացինք"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ազնիվներ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "մենք ենք"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "եղել"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "լրտեսներ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:29:47.634780933Z",
+  "model": "glm-5.3"
+}

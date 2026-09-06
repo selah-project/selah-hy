@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Անիծված լինի նա, որ թեթև է համարում իր հորը և իր մորը. և կասի ամբողջ ժողովուրդը՝ Ամեն։",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Անիծված լինի"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "թեթև է համարում"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "իր հորը"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "և իր մորը"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "և կասի"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովուրդը"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ամեն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:45:05.900386643Z",
+  "model": "glm-5.3"
+}

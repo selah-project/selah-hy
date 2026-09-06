@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Այն ժամանակ գնաց Շելոմոն (Սողոմոն) դեպի Եցիոն-Գևեր և դեպի Էլոթ՝ ծովի ափին, Էդոմի երկրում։",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Այն ժամանակ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "գնաց"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Շելոմոն"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "դեպի Եցիոն"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Գևեր"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և դեպի"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Էլոթ"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨ափին⟩"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ափ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ծովի"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրում"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Էդոմի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:42:47.710601464Z",
+  "model": "glm-5.3"
+}

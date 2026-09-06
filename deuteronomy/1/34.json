@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ լսեց Յահվեն ⟨את⟩ ձեր խոսքերի ձայնը, և բարկացավ, և երդվեց՝ ասելով․",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Եվ լսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ձեր խոսքերի ձայնը"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ձայնը"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "ձեր խոսքերի"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "և բարկացավ"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "և երդվեց"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T19:32:28.152607684Z",
+  "model": "glm-5.3"
+}

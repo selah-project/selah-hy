@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 3:44",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ խոսեց Յահվեն Մոշեի հետ՝ ասելով․",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Եվ խոսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "հետ՝ դեպի"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեի"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով․"
+    }
+  ],
+  "timestamp": "2026-09-05T19:12:15.816946010Z",
+  "model": "glm-5.3"
+}

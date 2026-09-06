@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Ես ⟨եմ⟩ Յահվե՝ Էլոհիմդ, որ հանեցի քեզ Միցրայիմի (Եգիպտոս) երկրից, ստրուկների տնից։",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ես"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Էլոհիմդ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "հանեցի քեզ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "երկրից"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Միցրայիմի"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "տնից"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ստրուկների"
+    }
+  ],
+  "timestamp": "2026-09-05T19:33:34.408389899Z",
+  "model": "glm-5.3"
+}

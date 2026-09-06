@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Եվ ութերորդ օրը թլփատվի իր առնանդամի մարմնի ծածկոցը։",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "և օրը"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ութերորդ"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "թլփատվի"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "մարմնի"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "իր ծածկոցը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:01:26.185498689Z",
+  "model": "glm-5.3"
+}

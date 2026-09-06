@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "և Ավդոնը, և Զիխրին, և Խանանը։",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "և Ավդոն"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "և Զիխրի"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "և Խանան"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:51.653702334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "մատանիները և քթի օղերը",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "մատանիները"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "և քթի օղերը"
+    },
+    {
+      "surface": "האף",
+      "gloss": "քթի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:14:33.522640058Z",
+  "model": "glm-5.3"
+}

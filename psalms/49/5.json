@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 49,
+  "translation": "Կձգեմ դեպի առակ ականջս, կբացեմ քնարի վրա իմ խորհուրդը։",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "կձգեմ"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "դեպի առակ"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "ականջս"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "կբացեմ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "քնարի վրա"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "իմ խորհուրդը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:03:14.249482017Z",
+  "model": "glm-5.3"
+}

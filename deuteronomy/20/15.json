@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 20:15",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "այսպես արա բոլոր քաղաքների հետ՝ հեռու քեզնից խիստ, որ գոյություն չունեն այս ազգերի քաղաքներից ահա այստեղ։",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "այսպես"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "արա"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "բոլոր… հետ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "քաղաքների"
+    },
+    {
+      "surface": "הרחקת",
+      "gloss": "հեռու"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "քեզնից"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "խիստ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "…քաղաքներից"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ազգերի"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ահա այստեղ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:41:54.151832922Z",
+  "model": "glm-5.3"
+}

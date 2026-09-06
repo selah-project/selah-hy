@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 17:12",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Փառքի գահ, բարձրունքում՝ սկզբից, մեր սրբավայրի տեղը։",
+  "tokens": [
+    {
+      "surface": "כסא",
+      "gloss": "գահ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "փառքի"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "բարձրունքում"
+    },
+    {
+      "surface": "מראשון",
+      "gloss": "սկզբից"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "տեղը"
+    },
+    {
+      "surface": "מקדשנו",
+      "gloss": "մեր սրբավայրի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:47:10.566178915Z",
+  "model": "glm-5.3"
+}

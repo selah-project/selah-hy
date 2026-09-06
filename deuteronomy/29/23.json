@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Եվ ասան բոլոր ազգերը՝ ինչո՞ւ արեց Յահվեն այսպես այս երկրի հետ, ի՞նչ է այս մեծ բարկության բորբոքումը։",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Եվ ասան"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ազգերը"
+    },
+    {
+      "surface": "על",
+      "gloss": "՝"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ինչո՞ւ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "այսպես"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "երկրի հետ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "այս"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ է"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "բորբոքումը"
+    },
+    {
+      "surface": "האף",
+      "gloss": "բարկության"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-05T19:47:07.270603090Z",
+  "model": "glm-5.3"
+}

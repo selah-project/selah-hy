@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 38:17",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 38,
+  "translation": "Եվ նա ասաց՝ Ես կուղարկեմ այծերի ուլ հոտից։ Իսկ նա ասաց՝ Եթե գրավ տաս՝ մինչև ուղարկես այն։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ես"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "կուղարկեմ"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "ուլ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "այծերի"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ից"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "հոտից"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "տաս"
+    },
+    {
+      "surface": "ערבון",
+      "gloss": "գրավ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "ուղարկես քեզ"
+    }
+  ],
+  "timestamp": "2026-09-06T01:01:43.689076807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Նաև ես՝ ձեր աղետի ժամանակ կծիծաղեմ, կհեգնեմ, երբ գա ձեր երկյուղը։",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "նաև"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "ձեր աղետի ժամանակ"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "կծիծաղեմ"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "կհեգնեմ"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "երբ գա"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "ձեր երկյուղը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:14.861559671Z",
+  "model": "glm-5.3"
+}

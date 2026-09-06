@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Եվ ասաց նրան Աբրահամը՝ զգուշացիր քեզ, գուցե ետ բերես ⟨את⟩ իմ որդուն այնտեղ",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Աբրահամը"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "զգուշացիր"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "գուցե"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ետ բերես"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "իմ որդուն"
+    },
+    {
+      "surface": "בני",
+      "gloss": "իմ որդուն"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "այնտեղ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:18:09.760270996Z",
+  "model": "glm-5.3"
+}

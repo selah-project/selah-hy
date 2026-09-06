@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 6:19",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Էլքանայի որդին՝ Յերոխամի որդին՝ Էլիելի որդին՝ Տոախի որդին՝",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Էլքանայի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Յերոխամի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "Էլիելի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "תוח",
+      "gloss": "Տոախի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:20.640628557Z",
+  "model": "glm-5.3"
+}

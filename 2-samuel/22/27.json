@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 22:27",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Մաքուրի հետ մաքուր ես, իսկ խոտորի հետ՝ խոտորվում ես։",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "Մաքուրի"
+    },
+    {
+      "surface": "תתבר",
+      "gloss": "մաքուր ես"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "իսկ հետ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "խոտորի"
+    },
+    {
+      "surface": "תתפל",
+      "gloss": "խոտորվում ես"
+    }
+  ],
+  "timestamp": "2026-09-05T20:41:51.524754066Z",
+  "model": "glm-5.3"
+}

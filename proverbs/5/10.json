@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Գուցե հագենան օտարները քո ուժից, և քո ջանքերը՝ օտարի տան մեջ։",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "գուցե"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "հագենան"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "օտարները"
+    },
+    {
+      "surface": "כחך",
+      "gloss": "քո ուժը"
+    },
+    {
+      "surface": "ועצביך",
+      "gloss": "և քո ջանքերը"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "տան մեջ"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "օտարի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:27.234345577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Մեր ջուրը արծաթով խմեցինք, մեր փայտը գնով եկավ։",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "մեր ջուրը"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "արծաթով"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "խմեցինք"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "մեր փայտը"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "գնով"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "եկավ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:03.899628838Z",
+  "model": "glm-5.3"
+}

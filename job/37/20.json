@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 37:20",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 37,
+  "translation": "Արդյոք պատմվի՞ նրան, որ ես խոսեմ։ Եթե մարդ ասի՝ նա կուլ կտրվի։",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "պատմվի՞"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "խոսեմ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասի"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ապահով"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "կուլ կտրվի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:50:14.836126130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ լավ ⟨է⟩ երկուսից էլ՝ ⟨את⟩ նրանից, որ դեռ չի եղել, որ չի տեսել ⟨את⟩ չար գործը, որ արվում է արևի տակ։",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "և լավ"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "երկուսից էլ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "նրանից, որ դեռ չի եղել"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "դեռ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղել"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "տեսել"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "չար գործը"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "գործը"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "չար"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "արվում է"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "արևի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:22.980771478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "ժողովրդի գլուխները՝ Պարոշ, Պախաթ Մոավ, Էյլամ, Զատու, Բանի։",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "գլուխները"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովրդի"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Պարոշ"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "Պախաթ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Մոավ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Էյլամ"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "Զատու"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Բանի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:25:05.095418833Z",
+  "model": "glm-5.3"
+}

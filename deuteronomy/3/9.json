@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Ցիդոնացիները Խերմոնին անվանում են Սիրյոն, իսկ Էմորին անվանում է այն Սենիր։",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "Ցիդոնացիները"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "անվանում են"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "Խերմոնին"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "Սիրյոն"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "իսկ Էմորին"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "անվանում է"
+    },
+    {
+      "surface": "לו",
+      "gloss": "այն"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "Սենիր"
+    }
+  ],
+  "timestamp": "2026-09-05T19:33:08.796918520Z",
+  "model": "glm-5.3"
+}

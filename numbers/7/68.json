@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "numbers 7:68",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "մեկ ոսկե գդալ՝ տասը շկել, լցված խունկով։",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "գդալ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "տասը"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ոսկե"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "լցված"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "խունկով"
+    }
+  ],
+  "timestamp": "2026-09-05T19:15:54.517166006Z",
+  "model": "glm-5.3"
+}

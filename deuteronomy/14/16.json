@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "⟨את⟩ կուսը, և ⟨את⟩ յանշուֆը, և թինշամեթը․",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "կուսը"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "կուսը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "յանշուֆը"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "յանշուֆը"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "և թինշամեթը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:38:41.438864676Z",
+  "model": "glm-5.3"
+}

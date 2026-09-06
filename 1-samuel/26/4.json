@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Եվ ուղարկեց Դավիթը լրտեսներ և իմացավ, որ Շաուլը եկել է վստահաբար։",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ուղարկեց"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Դավիթը"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "լրտեսներ"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "իմացավ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "եկել է"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Շաուլը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "վստահաբար"
+    }
+  ],
+  "timestamp": "2026-09-05T20:28:29.447311714Z",
+  "model": "glm-5.3"
+}

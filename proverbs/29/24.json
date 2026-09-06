@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Գողի հետ կիսվողը ատում է իր նեֆեշը. անեծք է լսում և չի հայտնում։",
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "կիսվողը"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "գողի"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ատում է"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "իր նեֆեշը"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "անեծք"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "լսում է"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չի"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "հայտնում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:34.267441783Z",
+  "model": "glm-5.3"
+}

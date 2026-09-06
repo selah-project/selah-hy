@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 27:44",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Եվ բնակվիր նրա հետ մի քանի օր, մինչև որ եղբորդ բարկությունը հետ դառնա։",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "և բնակվիր"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "նրա հետ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "մի քանի"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "հետ դառնա"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "բարկությունը"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "եղբորդ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:21:37.721743848Z",
+  "model": "glm-5.3"
+}

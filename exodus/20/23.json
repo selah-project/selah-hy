@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Մի՛ արեք ⟨את⟩ ինձ հետ արծաթե աստվածներ և ոսկե աստվածներ մի՛ արեք ձեզ համար։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "արեք"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ինձ հետ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "աստվածներ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "արծաթե"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "և աստվածներ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ոսկե"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "արեք"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ համար"
+    }
+  ],
+  "timestamp": "2026-09-05T18:43:35.926873314Z",
+  "model": "glm-5.3"
+}

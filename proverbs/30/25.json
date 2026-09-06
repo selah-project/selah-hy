@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Մրջյունները՝ ժողովուրդ ոչ հզոր, և պատրաստում են ամռանը իրենց հացը։",
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "մրջյունները"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ժողովուրդ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "հզոր"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "և պատրաստում են"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "ամռանը"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "իրենց հացը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:49.201148791Z",
+  "model": "glm-5.3"
+}

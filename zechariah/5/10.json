@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ ասաց ես այն հրեշտակին, որը խոսում էր իմ մեջ՝ ո՞ւր են դրանք տանում ⟨את⟩ էյֆան։",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Եվ ասաց ես"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "հրեշտակը"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "խոսողին"
+    },
+    {
+      "surface": "בי",
+      "gloss": "իմ մեջ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ո՞ւր"
+    },
+    {
+      "surface": "המה",
+      "gloss": "դրանք"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "տանում են"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "էյֆան"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "էյֆան"
+    }
+  ],
+  "timestamp": "2026-09-05T22:47:17.522706450Z",
+  "model": "glm-5.3"
+}

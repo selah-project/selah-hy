@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 49,
+  "translation": "Եվ դեռ ապրի հավիտենից՝ փոսը չի տեսնի։",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Եվ ապրի"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "դեռ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "հավիտենից"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "կտեսնի"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "փոսը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:03:25.139345345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 33:27",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 33,
+  "translation": "Եվ քայլեցին Թախաթից, և բանակեցին Թարախում։",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Եվ քայլեցին"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "Թախաթից"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "և բանակեցին"
+    },
+    {
+      "surface": "בתרח",
+      "gloss": "Թարախում"
+    }
+  ],
+  "timestamp": "2026-09-05T19:29:46.902727835Z",
+  "model": "glm-5.3"
+}

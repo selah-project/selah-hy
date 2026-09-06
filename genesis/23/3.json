@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Եվ կանգնեց Աբրահամը իր մեռելի երեսից և խոսեց Խեթի որդիների հետ՝ ասելով.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Եվ կանգնեց"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Աբրահամը"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ից"
+    },
+    {
+      "surface": "פני",
+      "gloss": "երեսի"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "իր մեռելի"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "և խոսեց"
+    },
+    {
+      "surface": "אל",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Խեթի"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T18:17:23.725615021Z",
+  "model": "glm-5.3"
+}

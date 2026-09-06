@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 33,
+  "translation": "Եվ ժողովուրդը լսեց ⟨את⟩ այդ վատ խոսքը և սգացին, և ոչ մի մարդ իր զարդերը չդրեց իր վրա։",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Եվ լսեց"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովուրդը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "խոսքը"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "վատ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "և սգացին"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "դրեց"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մի մարդ"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "իր զարդերը"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "իր վրա"
+    }
+  ],
+  "timestamp": "2026-09-05T18:52:37.363127207Z",
+  "model": "glm-5.3"
+}

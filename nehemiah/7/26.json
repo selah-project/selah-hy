@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Բեթ Լեխեմի և Նետոֆայի մարդիկ՝ հարյուր ութսուն ութ։",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "մարդիկ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Բեթ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Լեխեմի"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "և Նետոֆայի"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ութսուն"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ութ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:36.281072266Z",
+  "model": "glm-5.3"
+}

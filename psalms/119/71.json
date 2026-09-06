@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Լավ է ինձ, որ տանջվեցի, որպեսզի սովորեմ քո կանոնները։",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Լավ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "է ինձ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "տանջվեցի"
+    },
+    {
+      "surface": "למען",
+      "gloss": "որպեսզի"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "սովորեմ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "քո կանոնները"
+    }
+  ],
+  "timestamp": "2026-09-05T23:23:09.482251434Z",
+  "model": "glm-5.3"
+}

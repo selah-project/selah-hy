@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 38,
+  "translation": "Եվ սա քեզ նշան կլինի Յահվեից ⟨את⟩ — որ Յահվեն կատարելու է ⟨את⟩ այս խոսքը, որ ասել է։",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Եվ սա"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "האות",
+      "gloss": "նշան"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "—ից ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "կատարելու է"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այս խոսքը"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ասել է"
+    }
+  ],
+  "timestamp": "2026-09-05T21:27:22.607501151Z",
+  "model": "glm-5.3"
+}

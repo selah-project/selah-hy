@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 34,
+  "translation": "Եվ թաղեց ⟨այն⟩ նրան հովտում՝ Մոավի երկրում, դիմաց Բեթ Պեորի, և ոչ մարդ չգիտի ⟨את⟩ նրա թաղման վայրը մինչև այս օրը։",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "թաղեց"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "նրան"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "հովտում"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրում"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Մոավի"
+    },
+    {
+      "surface": "מול",
+      "gloss": "դիմաց"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Բեթ"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Պեորի"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "գիտի"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "նրա թաղման վայրը"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "նրա թաղման վայրը"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "היום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-05T19:49:15.938796370Z",
+  "model": "glm-5.3"
+}

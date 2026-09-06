@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ սպանի ⟨את⟩ թռչունից մեկը կավե անոթի մեջ՝ կենդանի ջրի վրա։",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "եվ սպանի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "թռչունից մեկը"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "թռչունը"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "մեկը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մեջ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "անոթ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "կավե"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջրի"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "կենդանի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:02:59.962081173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Բայց ես Էլին եմ դիմելու, և Էլոհիմի մոտ եմ դնելու իմ գործը։",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "բայց"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "եմ դիմելու"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և դեպի"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմ"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "եմ դնելու"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "իմ գործը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:41:21.326663239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Դեպի քե՛զ, Յահվե, կկանչեմ, և Ադոնայիին կաղաչեմ։",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Դեպի քեզ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "կկանչեմ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և Ադոնայիին"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "կաղաչեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:57:58.548939384Z",
+  "model": "glm-5.3"
+}

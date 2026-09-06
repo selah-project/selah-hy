@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 84,
+  "translation": "Երանի՛ք է մարդը, որի ուժը քեզ մեջ է, որոնց սրտում են ճանապարհները։",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Երանի՛ք"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "ուժ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "בך",
+      "gloss": "քեզ մեջ"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "ճանապարհներ"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "նրանց սրտում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:13:47.029176523Z",
+  "model": "glm-5.3"
+}

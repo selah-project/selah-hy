@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 11:12",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Եվ նրանից հետո՝ Էլազարը, Դոդոյի որդին, Ախոխին, նա երեք հզորների մեջ էր։",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "և նրանից հետո"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Էլազարը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "Դոդոյի"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "Ախոխին"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "երեքի մեջ"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "հզորների"
+    }
+  ],
+  "timestamp": "2026-09-06T00:31:57.486080006Z",
+  "model": "glm-5.3"
+}

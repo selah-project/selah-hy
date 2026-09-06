@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 38,
+  "translation": "Եվ ես եղայ ինչպես մարդ, որ չի լսում, և որի բերանին ստուգումներ չկան։",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "և ես եղայ"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "ինչպես մարդ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "լսում"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "և չկա"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "որի բերանին"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "ստուգումներ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:01:47.148518155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Այն օրը պետք է ուտվի, մի՛ թողեք նրանից մնացորդ մինչև առավոտ. ես եմ Յահվեն։",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Այն օրը"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "պետք է ուտվի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "թողեք մնացորդ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "նրանից"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "առավոտ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես եմ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:07:21.984346753Z",
+  "model": "glm-5.3"
+}

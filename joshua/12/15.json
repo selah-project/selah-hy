@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Լիվնայի թագավորը՝ մեկ․ Ադուլամի թագավորը՝ մեկ։",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Լիվնայի"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Ադուլամի"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:54:43.390210059Z",
+  "model": "glm-5.3"
+}

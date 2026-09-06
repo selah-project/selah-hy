@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 31:44",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Եվ հիմա եկ՝ կտրենք Բրիթ (ուխտ) ես և դու, և թող այն լինի վկա իմ և քո միջև։",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Եվ հիմա"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "եկ"
+    },
+    {
+      "surface": "נכרתה",
+      "gloss": "կտրենք"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Բրիթ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "և դու"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "և թող լինի"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "վկա"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "իմ և"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "քո միջև"
+    }
+  ],
+  "timestamp": "2026-09-05T18:23:46.137003506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Արդարը գիտի աղքատների դատը, իսկ ամբարիշտը գիտելիք չի հասկանում։",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "գիտի"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "արդարը"
+    },
+    {
+      "surface": "דין",
+      "gloss": "դատը"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "աղքատների"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ամբարիշտը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "հասկանում"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "գիտելիք"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:44.422504811Z",
+  "model": "glm-5.3"
+}

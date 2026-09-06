@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 52,
+  "translation": "Ինչո՞ւ ես պարծենում չարիքով, հզորա՛ղ․ Էլի խեսեդը ⟨ամբողջ⟩ օրն է։",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ինչո՞ւ"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ես պարծենում"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "չարիքով"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "հզորա՛ղ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "խեսեդը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլի"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨ամբողջ⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "օրն է"
+    }
+  ],
+  "timestamp": "2026-09-05T23:05:39.651292212Z",
+  "model": "glm-5.3"
+}

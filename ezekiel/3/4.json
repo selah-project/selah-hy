@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 3:4",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ ասաց ինձ՝ «Մարդու որդի, արի՛, մտի՛ր Իսրայելի տուն և խոսիր նրանց հետ իմ խոսքերով։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "לך",
+      "gloss": "արի՛"
+    },
+    {
+      "surface": "בא",
+      "gloss": "մտի՛ր"
+    },
+    {
+      "surface": "אל",
+      "gloss": "առ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տուն"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "և խոսիր"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "իմ խոսքերով"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "նրանց հետ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:09:09.419960155Z",
+  "model": "glm-5.3"
+}

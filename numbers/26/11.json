@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Եվ Կորախի որդիները չմահացան։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Կորախի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "մահացան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:25:59.303294582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ կ’ուտես և կ’կշտանաս, և կ’օրհնես ⟨את⟩ Յահվե Էլոհիմդ՝ բարի երկրի համար, որ տվեց քեզ։",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "և կ’ուտես"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "և կ’կշտանաս"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "և կ’օրհնես"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յահվե"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Էլոհիմդ"
+    },
+    {
+      "surface": "על",
+      "gloss": "համար"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "բարի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "տվեց"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:36:11.457008824Z",
+  "model": "glm-5.3"
+}

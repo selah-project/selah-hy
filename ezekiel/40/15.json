@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 40:15",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 40,
+  "translation": "Եվ դարպասի մուտքի երեսից մինչև ներքին դարպասի սրահի երեսը՝ հիսուն արկղ։",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Եվ առջև"
+    },
+    {
+      "surface": "פני",
+      "gloss": "երեսի"
+    },
+    {
+      "surface": "השער",
+      "gloss": "դարպասի"
+    },
+    {
+      "surface": "היאתון",
+      "gloss": "մուտքը"
+    },
+    {
+      "surface": "על",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "սրահի"
+    },
+    {
+      "surface": "השער",
+      "gloss": "դարպասի"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "ներքին"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "հիսուն"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "արկղ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:27:29.619548764Z",
+  "model": "glm-5.3"
+}

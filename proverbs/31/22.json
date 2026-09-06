@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 31:22",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Ծածկոցներ արեց իրեն, շեշ և արգաման ⟨է⟩ իր հագուստը։",
+  "tokens": [
+    {
+      "surface": "מרבדים",
+      "gloss": "Ծածկոցներ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "արեց"
+    },
+    {
+      "surface": "לה",
+      "gloss": "իրեն"
+    },
+    {
+      "surface": "שש",
+      "gloss": "շեշ"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "և արգաման"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "իր հագուստը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:38:31.001580592Z",
+  "model": "glm-5.3"
+}

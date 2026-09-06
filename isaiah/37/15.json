@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 37,
+  "translation": "Եվ աղոթեց Հիզկիյահուն Յահվեին՝ ասելով.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "Եվ աղոթեց"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Հիզկիյահուն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Յահվեին (դեպի)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T21:27:41.501465579Z",
+  "model": "glm-5.3"
+}

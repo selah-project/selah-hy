@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Շիմոնի որդիներն էին՝ Նեմուելը, և Յամինը, Յարիվը, Զերախը, Շաուլը։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Շիմոնի"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "Նեմուել"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "և Յամին"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "Յարիվ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Զերախ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Շաուլ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:00.796706632Z",
+  "model": "glm-5.3"
+}

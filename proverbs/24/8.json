@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Չարիք գործելու հնարողին կկոչեն չար խորհուրդների տեր։",
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "հնարող"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "չարիք գործելու"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "տեր"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "չար խորհուրդների"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "կկոչեն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:34.422754505Z",
+  "model": "glm-5.3"
+}

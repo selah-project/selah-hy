@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Մի ասա՝ ի՞նչ էր, որ առաջին օրերը լավ էին այսօրվանից, որովհետև ոչ խելքից հարցրեր դրա մասին։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ասա"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "էր"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "որ օրերը"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "առաջին"
+    },
+    {
+      "surface": "היו",
+      "gloss": "էին"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "լավ"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "այսօրվանից"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "խելքից"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "հարցրեր"
+    },
+    {
+      "surface": "על",
+      "gloss": "մասին"
+    },
+    {
+      "surface": "זה",
+      "gloss": "դրա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:49.229657801Z",
+  "model": "glm-5.3"
+}

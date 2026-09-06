@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Ցելեք համոնացին, Նախարայ Բերոթցին՝ Յոաբի՝ Ծրույայի որդու զենքերի կրողը։",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "Ցելեք"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "համոնացին"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "Նախարայ"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "Բերոթցին"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "կրողը"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "զենքերի"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Յոաբի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդու"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Ծրույայի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:20:49.800771277Z",
+  "model": "glm-5.3"
+}

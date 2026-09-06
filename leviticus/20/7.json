@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Եվ սրբագրվեք և եղեք սուրբ, որովհետև ես եմ Յահվեն, ձեր Էլոհիմը։",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "և սրբագրվեք"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "և եղեք"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "սուրբ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես եմ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ձեր Էլոհիմը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:06:30.937691619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 23:31",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Ավի-Ալբոն Արաբաթացին, Ազմավեթ Բարխումացին։",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Ավի-"
+    },
+    {
+      "surface": "עלבון",
+      "gloss": "Ալբոն"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "Արաբաթացին"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Ազմավեթ"
+    },
+    {
+      "surface": "הברחמי",
+      "gloss": "Բարխումացին"
+    }
+  ],
+  "timestamp": "2026-09-05T20:42:05.572284857Z",
+  "model": "glm-5.3"
+}

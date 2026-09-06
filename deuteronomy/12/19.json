@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Զգո՛ն եղիր քեզ, որպեսզի չթողնես ⟨את⟩ լևիացին՝ քո ամբողջ օրերիդ ընթացքում քո հողիդ վրա։",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Զգոն եղիր"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "որպեսզի չ"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "թողնես"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "լևիացին"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "լևիացին"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "օրերիդ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "հողիդ"
+    }
+  ],
+  "timestamp": "2026-09-06T01:07:45.994125056Z",
+  "model": "glm-5.3"
+}

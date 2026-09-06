@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 12:6",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Շմայա, և Յոյարիվ, Յեդայա.",
+  "tokens": [
+    {
+      "surface": "שמעיה",
+      "gloss": "Շմայա"
+    },
+    {
+      "surface": "ויויריב",
+      "gloss": "և Յոյարիվ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Յեդայա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:25:41.321697761Z",
+  "model": "glm-5.3"
+}

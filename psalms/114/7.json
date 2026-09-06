@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 114,
+  "translation": "Դողա՛, երկիր, Ադոնի երեսից, Յաակովի Էլոահի երեսից։",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "երեսից"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Ադոնի"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "դողա"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկիր"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "երեսից"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Էլոահի"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Յաակովի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:20:39.600630634Z",
+  "model": "glm-5.3"
+}

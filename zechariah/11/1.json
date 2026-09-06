@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Բացի՛ր քո դռները, Լեբանոն (Լիբանան), որ կրակը խժռի քո մայրուները։",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Բացի՛ր"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Լեբանոն"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "քո դռները"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "որ խժռի"
+    },
+    {
+      "surface": "אש",
+      "gloss": "կրակը"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "քո մայրուները"
+    }
+  ],
+  "timestamp": "2026-09-05T22:49:46.996818950Z",
+  "model": "glm-5.3"
+}

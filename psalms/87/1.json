@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 87,
+  "translation": "Կորախի որդիների սաղմոս, երգ։ Հիմքը ⟨դրված է⟩ սուրբ լեռների վրա։",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Կորախի"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "սաղմոս"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "երգ"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "հիմքը"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "լեռների վրա"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "սուրբ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:13:45.853522818Z",
+  "model": "glm-5.3"
+}

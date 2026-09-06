@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 25:4",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Հեռացրու խարամը արծաթից, և դուրս կգա անոթ՝ ցուլակագործի համար։",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "Հեռացրու"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "խարամը"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "արծաթից"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "և դուրս կգա"
+    },
+    {
+      "surface": "לצרף",
+      "gloss": "ցուլակագործի համար"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "անոթ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:29.004440461Z",
+  "model": "glm-5.3"
+}

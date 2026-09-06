@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Մինչև ե՞րբ, ծույլ, պառկես, ե՞րբ կանգնես քո քնից։",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Մինչև"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ե՞րբ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ծույլ"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "պառկես"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ե՞րբ"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "կանգնես"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "քո քնից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:27.658533992Z",
+  "model": "glm-5.3"
+}

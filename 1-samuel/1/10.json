@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ նա՝ դառը նեֆեշով, աղոթեց Յահվեին և լալով լաց էր լինում։",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "Եվ նա"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "դառը"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "նեֆեշով"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "աղոթեց"
+    },
+    {
+      "surface": "על",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "լալով"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "լաց էր լինում"
+    }
+  ],
+  "timestamp": "2026-09-06T02:46:05.956068230Z",
+  "model": "glm-5.3"
+}

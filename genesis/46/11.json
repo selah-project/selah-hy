@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 46,
+  "translation": "Եվ Լևիի որդիները՝ Գերշոն, Քեհատ և Մերարի։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Լևիի"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Գերշոն"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Քեհատ"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "և Մերարի"
+    }
+  ],
+  "timestamp": "2026-09-06T02:43:13.086960747Z",
+  "model": "glm-5.3"
+}

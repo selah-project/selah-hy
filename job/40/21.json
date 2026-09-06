@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 40:21",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 40,
+  "translation": "Ծառերի տակ պառկում է՝ եղեգնի ծածկի և ճահճի մեջ։",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "צאלים",
+      "gloss": "ծառերի"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "պառկում է"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ծածկի"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "եղեգնի"
+    },
+    {
+      "surface": "ובצה",
+      "gloss": "և ճահճի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:50:42.352063823Z",
+  "model": "glm-5.3"
+}

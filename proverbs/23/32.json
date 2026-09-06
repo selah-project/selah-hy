@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 23:32",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Դրա վերջը օձի պես կխայթի, և ինչպես ասպիդ՝ կծակի։",
+  "tokens": [
+    {
+      "surface": "אחריתו",
+      "gloss": "դրա վերջը"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "օձի պես"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "կխայթի"
+    },
+    {
+      "surface": "וכצפעני",
+      "gloss": "և ինչպես ասպիդ"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "կծակի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:19.438992321Z",
+  "model": "glm-5.3"
+}

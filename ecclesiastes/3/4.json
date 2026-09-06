@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Պահ՝ լաց լինելու, և պահ՝ ծիծաղելու, պահ՝ ողբալու, և պահ՝ պարելու։",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "պահ"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "լաց լինելու"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "և պահ"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "ծիծաղելու"
+    },
+    {
+      "surface": "עת",
+      "gloss": "պահ"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "ողբալու"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "և պահ"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "պարելու"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:53.232185679Z",
+  "model": "glm-5.3"
+}

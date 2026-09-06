@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Փորեցին հպարտները ինձ համար հորեր՝ որոնք չեն ըստ Թորայիդ։",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "փորեցին"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ համար"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "հպարտները"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "հորեր"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որոնք"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չեն"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "ըստ Թորայիդ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:23:32.901745682Z",
+  "model": "glm-5.3"
+}

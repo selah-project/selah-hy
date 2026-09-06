@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 30:17",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Եվ խոսեց Յահվեն Մոշեի հետ՝ ասելով․",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Եվ խոսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "հետ՝"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեի"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով․"
+    }
+  ],
+  "timestamp": "2026-09-05T18:49:35.384260991Z",
+  "model": "glm-5.3"
+}

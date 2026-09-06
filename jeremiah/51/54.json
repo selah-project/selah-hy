@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "jeremiah 51:54",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 51,
+  "translation": "Ձայն գոռոցի՝ Բաբելոնից, և մեծ կոտրատում՝ Քաշդեցիների երկրից։",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Ձայն"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "գոռոցի"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "Բաբելոնից"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "և կոտրատում"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "երկրից"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Քաշդեցիների"
+    }
+  ],
+  "timestamp": "2026-09-05T22:05:57.832527133Z",
+  "model": "glm-5.3"
+}

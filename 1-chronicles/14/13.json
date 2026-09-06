@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 14:13",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ նորից ավելացրին պղտեսացիները և տարածվեցին հովտում։",
+  "tokens": [
+    {
+      "surface": "ויסיפו",
+      "gloss": "ավելացրին"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "նորից"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "պղտեսացիները"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "տարածվեցին"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "հովտում"
+    }
+  ],
+  "timestamp": "2026-09-06T00:33:33.818482408Z",
+  "model": "glm-5.3"
+}

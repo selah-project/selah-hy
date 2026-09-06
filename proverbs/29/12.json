@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Իշխողը, որ ականջ է դնում ստի խոսքին՝ նրա բոլոր ծառաները չարագործ են։",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "իշխողը"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "ականջ է դնում"
+    },
+    {
+      "surface": "על",
+      "gloss": "մասին"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսք"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ստի"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "նրա ծառաները"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "չարագործ են"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:02.329202590Z",
+  "model": "glm-5.3"
+}

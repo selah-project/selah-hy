@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Լավ է աչքերի տեսքը քայլող նեֆեշից. նաև սա հեբել է և րուխի տանջանք։",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Լավ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "տեսք"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "աչքերի"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "քայլք"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "նեֆեշ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "նաև"
+    },
+    {
+      "surface": "זה",
+      "gloss": "սա"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "հեբել"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "և տանջանք"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "րուխ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:46.296730889Z",
+  "model": "glm-5.3"
+}

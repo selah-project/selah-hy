@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 24:23",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Նաև այս ⟨խոսքերը⟩ իմաստունների ⟨համար են⟩՝ դեմքը ճանաչել դատաստանում լավ չէ։",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "նաև"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "իմաստունների"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "ճանաչել"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "դեմքը"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "դատաստանում"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ոչ մի՛"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "լավ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:48.249763951Z",
+  "model": "glm-5.3"
+}

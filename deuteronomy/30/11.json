@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Որովհետև այս պատվիրանը, որ ես այսօր պատվիրում եմ քեզ, գերազանց չէ այն քեզնից, և հեռու չէ այն։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "պատվիրանը"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "այս"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ես"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "պատվիրում եմ քեզ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "այսօր"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չէ"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "գերազանց"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "քեզնից"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չէ"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "հեռու"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "այն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:47:12.964454029Z",
+  "model": "glm-5.3"
+}

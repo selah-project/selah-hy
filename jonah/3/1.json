@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ եղավ Յահվեի խոսքը Յոնայի առջև երկրորդ անգամ՝ ասելով.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Յոնայի"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "երկրորդ անգամ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T22:39:48.297605082Z",
+  "model": "glm-5.3"
+}

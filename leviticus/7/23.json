@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Ասա Իսրայելի որդիներին՝ ասելով․ անասունի, ոչխարի և այծի ոչ մի ճարպ չուտեք։",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Ասա"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիներին"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով․"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ոչ մի"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ճարպ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "անասունի"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "ոչխարի"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "և այծի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "չուտեք"
+    }
+  ],
+  "timestamp": "2026-09-05T18:58:52.197109769Z",
+  "model": "glm-5.3"
+}

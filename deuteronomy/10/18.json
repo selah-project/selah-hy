@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Դատավճիր է գործում որբի և այրու համար և սիրում է եկվորին՝ նրան հաց ու հագուստ տալու համար։",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "գործում է"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "դատավճիր"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "որբի"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "և այրի"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "և սիրում է"
+    },
+    {
+      "surface": "גר",
+      "gloss": "եկվորին"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "տալու համար"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "հաց"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "և հագուստ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:36:11.641362081Z",
+  "model": "glm-5.3"
+}

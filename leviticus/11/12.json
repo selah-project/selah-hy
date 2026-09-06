@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Ամեն ⟨ինչ⟩, որ չունի լողաթև և թեփ ջրերում՝ գարշելիք է այն ձեզ համար։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ունի"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "լողաթև"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "և թեփ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ջրերում"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "գարշելիք"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:00:54.469507846Z",
+  "model": "glm-5.3"
+}

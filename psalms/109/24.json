@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 109,
+  "translation": "Ծնկներս տատանվեցին պահքից, և միսս պակասեց ճարպից։",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "ծնկներս"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "տատանվեցին"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "պահքից"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "և միսս"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "պակասեց"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ճարպից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:20:12.046667727Z",
+  "model": "glm-5.3"
+}

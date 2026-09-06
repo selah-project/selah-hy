@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 47:31",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 47,
+  "translation": "Եվ ասաց՝ երդվիր ինձ. և երդվեց նրան. և երկրպագեց Իսրայելը մահճակի գլխի վրա։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "երդվիր"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "և երդվեց"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "և երկրպագեց"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "գլխի"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "մահճակի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:32:32.014402303Z",
+  "model": "glm-5.3"
+}

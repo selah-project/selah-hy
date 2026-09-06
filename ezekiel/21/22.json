@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 21:22",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եվ նաև ես կհարեմ ափս ափիս և կհանգստացնեմ իմ բարկությունը. ես Յահվեն եմ՝ խոսեցի։",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "և նաև"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "կհարեմ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ափը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ալ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ափը"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "և կհանգստացնեմ"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "իմ բարկությունը"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "խոսեցի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:15:26.259683452Z",
+  "model": "glm-5.3"
+}

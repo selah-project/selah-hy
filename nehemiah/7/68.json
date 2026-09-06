@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "nehemiah 7:68",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Ուղտեր՝ չորս հարյուր երեսուն հինգ, էշեր՝ վեց հազար յոթ հարյուր քսան։",
+  "tokens": [
+    {
+      "surface": "גמלים",
+      "gloss": "Ուղտեր"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "չորս"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "երեսուն"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "և հինգ"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "էշեր"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "վեց"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "հազար"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "և քսան"
+    }
+  ],
+  "timestamp": "2026-09-06T00:24:03.691020390Z",
+  "model": "glm-5.3"
+}

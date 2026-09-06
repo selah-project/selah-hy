@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "և աղոթեց Յոնան դեպի Յահվե՝ իր Էլոհիմին, ձկան փորից։",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "և աղոթեց"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Յոնան"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "իր Էլոհիմը"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "փորից"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "ձկան"
+    }
+  ],
+  "timestamp": "2026-09-05T22:40:17.231165496Z",
+  "model": "glm-5.3"
+}

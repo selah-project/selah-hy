@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Քանի որ քարը պատից կգոչի, և կապրը փայտից կպատասխանի։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "քարը"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "պատից"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "կգոչի"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "և կապրը"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "փայտից"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "կպատասխանի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:42:03.096727206Z",
+  "model": "glm-5.3"
+}

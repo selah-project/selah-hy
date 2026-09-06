@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Բարկացավ Յահվեն ձեր հայրերի վրա՝ խիստ բարկացավ։",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "բարկացավ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ձեր հայրերի"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "խիստ բարկացավ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:46:15.666252638Z",
+  "model": "glm-5.3"
+}

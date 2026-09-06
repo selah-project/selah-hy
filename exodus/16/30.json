@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Եվ հանգստացավ ժողովուրդը յոթերորդ օրը։",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "Եվ հանգստացավ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովուրդը"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "յոթերորդ"
+    }
+  ],
+  "timestamp": "2026-09-06T02:02:13.617520277Z",
+  "model": "glm-5.3"
+}

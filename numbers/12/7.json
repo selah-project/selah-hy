@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Ոչ այսպես ⟨է⟩ իմ ծառ Մոշեն. ամբողջ տանս մեջ հավատարիմ ⟨է⟩ նա։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ոչ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այսպես"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "իմ ծառ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ամբողջ… մեջ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "տանս"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "հավատարիմ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    }
+  ],
+  "timestamp": "2026-09-05T19:19:51.244585502Z",
+  "model": "glm-5.3"
+}

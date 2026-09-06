@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ այժմ ձեզ համար ⟨է⟩ այս պատվիրանը, ո՛վ քահանաներ։",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Եվ այժմ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ձեզ համար"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "պատվիրանը"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "այս"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "քահանաներ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:51:18.428177309Z",
+  "model": "glm-5.3"
+}

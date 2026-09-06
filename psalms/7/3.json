@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Գուցե ⟨նա⟩ առյուծի պես կուլ տա իմ նեֆեշը, պատռի, և փրկող չկա։",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "գուցե"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "կուլ տա"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "առյուծի պես"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "իմ նեֆեշը"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "պատռի"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "և չկա"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "փրկող"
+    }
+  ],
+  "timestamp": "2026-09-05T22:52:48.635139415Z",
+  "model": "glm-5.3"
+}

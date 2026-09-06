@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Սարսափ և որոգայթ եղան մեզ՝ ամայություն և կործանում։",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "սարսափ"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "և որոգայթ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղան"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "մեզ"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "ամայություն"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "և կործանում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:47.538412050Z",
+  "model": "glm-5.3"
+}

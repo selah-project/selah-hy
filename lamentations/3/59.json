@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Տեսել ես, Յահվե, ճնշումս. դատի՛ր դատս։",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Տեսել ես"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "ճնշումս"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "դատի՛ր"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "դատս"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:09.537069291Z",
+  "model": "glm-5.3"
+}

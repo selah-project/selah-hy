@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 7:25",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ Ռեֆախը՝ նրա որդին, և Ռեշեֆը, և Տելախը՝ նրա որդին, և Տախանը՝ նրա որդին։",
+  "tokens": [
+    {
+      "surface": "ורפח",
+      "gloss": "Եվ Ռեֆախը"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    },
+    {
+      "surface": "ורשף",
+      "gloss": "և Ռեշեֆը"
+    },
+    {
+      "surface": "ותלח",
+      "gloss": "և Տելախը"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    },
+    {
+      "surface": "ותחן",
+      "gloss": "և Տախանը"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:40.290065967Z",
+  "model": "glm-5.3"
+}

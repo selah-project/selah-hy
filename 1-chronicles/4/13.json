@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 4:13",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ Քենազի որդիները՝ Օթնիելը և Սերայան, իսկ Օթնիելի որդիները՝ Խատատը։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Քենազի"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "Օթնիելը"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "և Սերայան"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "Օթնիելի"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "Խատատը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:16.434821790Z",
+  "model": "glm-5.3"
+}

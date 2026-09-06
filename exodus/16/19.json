@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "և ասաց նրանց Մոշեն. «մարդ թող դրանից ավելցուկ չթողնի մինչև առավոտ»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "թող չ"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ավելցուկ թողնի"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "դրանից"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "առավոտ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:42:31.274481255Z",
+  "model": "glm-5.3"
+}

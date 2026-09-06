@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 33:17",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 33,
+  "translation": "Քանի որ այսպես ասաց Յահվեն՝ Դավթից (Դավիթ) չի կտրվի մարդ, որ նստի Իսրայելի տան գահի վրա։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Քանի որ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "այսպես"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "կտրվի"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Դավթից"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "նստի"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "գահի"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տան"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:55:34.526028493Z",
+  "model": "glm-5.3"
+}

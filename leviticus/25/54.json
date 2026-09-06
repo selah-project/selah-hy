@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 25:54",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Եթե այս ձևերով նա չազատագնվի, ապա կելնի Յոբելի տարում՝ նա և իր որդիները նրա հետ։",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ազատագնվի"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "այս ձևերով"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "կելնի"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "տարում"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "Յոբելի"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "և իր որդիները"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "նրա հետ"
+    }
+  ],
+  "timestamp": "2026-09-06T02:03:12.430907921Z",
+  "model": "glm-5.3"
+}

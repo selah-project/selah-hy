@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 106,
+  "translation": "և հաշվվեց նրան արդարություն՝ սերնդից սերունդ, մինչև հավերժ։",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "և հաշվվեց"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "արդարություն"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "սերնդից"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "սերունդ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "հավերժ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:18:13.029958114Z",
+  "model": "glm-5.3"
+}

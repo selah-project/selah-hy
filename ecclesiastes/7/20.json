@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Որովհետև մարդ չկա արդար երկրի վրա, որ բարի գործի և չմեղանա։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "արդար"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրի վրա"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "գործի"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "բարի"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "մեղանա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:57.227246596Z",
+  "model": "glm-5.3"
+}

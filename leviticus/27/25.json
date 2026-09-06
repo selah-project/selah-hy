@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 27:25",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Եվ ամեն քո գնահատումը լինի սուրբ շեկելով՝ քսան գերա լինի շեկելը։",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Եվ ամեն"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "քո գնահատումը"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "շեկելով"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "սուրբ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "քսան"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "գերա"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "շեկելը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:10:59.838084929Z",
+  "model": "glm-5.3"
+}

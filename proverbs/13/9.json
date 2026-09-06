@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Արդարների լույսը ուրախանում է, իսկ չարերի ճրագը կմարվի։",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "լույսը"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "արդարների"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ուրախանում է"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "իսկ ճրագը"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "չարերի"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "կմարվի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:31:22.336641308Z",
+  "model": "glm-5.3"
+}

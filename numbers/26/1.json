@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Եվ ասաց Յահվե Մոշեին (Մովսես) և Էլազարին՝ Ահարոնի որդուն՝ քահանային՝ ասելով․",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "եվ ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեին"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և —"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Էլազարին"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդուն"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ահարոնի"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "քահանային"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T19:25:57.603059416Z",
+  "model": "glm-5.3"
+}

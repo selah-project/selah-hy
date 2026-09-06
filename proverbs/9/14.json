@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "և նստում է իր տան շեմին, աթոռի վրա՝ քաղաքի բարձունքներում։",
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "և նստում է"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "շեմին"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "իր տան"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "աթոռի"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "բարձունքներում"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "քաղաքի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:30:30.270827903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Էլը՝ վրեժներ ինձ տվողը, և ժողովուրդները ենթարկեց իմ տակ։",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Էլը"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "տվողը"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "վրեժներ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "և ենթարկեց"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ժողովուրդները"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "իմ տակ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:56:32.666390289Z",
+  "model": "glm-5.3"
+}

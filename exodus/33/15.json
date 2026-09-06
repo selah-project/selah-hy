@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 33,
+  "translation": "Եվ ասաց նրան. եթե քո դեմքը չքայլի՝ մեզ այստեղից մի՛ բարձրացրու։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չ-"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "քո դեմքը"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "քայլի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "բարձրացրու մեզ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "այստեղից"
+    }
+  ],
+  "timestamp": "2026-09-05T18:53:19.886995709Z",
+  "model": "glm-5.3"
+}

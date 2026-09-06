@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 28:21",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Տասնորդակ, տասնորդակ արա ⟨մեկ⟩ գառի համար՝ յոթ գառների համար։",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "տասնորդակ"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "տասնորդակ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "արա"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "գառի համար"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "գառների"
+    }
+  ],
+  "timestamp": "2026-09-05T19:26:42.278274047Z",
+  "model": "glm-5.3"
+}

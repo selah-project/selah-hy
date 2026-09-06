@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Եվ ասացի իմ տերիս՝ գուցե կինը չգա իմ հետևից։",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "և ասացի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "իմ տերը"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "գուցե"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "կգա"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "կինը"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "իմ հետևից"
+    }
+  ],
+  "timestamp": "2026-09-05T18:18:49.469902839Z",
+  "model": "glm-5.3"
+}

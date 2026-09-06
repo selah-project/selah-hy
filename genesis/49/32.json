@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 49:32",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 49,
+  "translation": "Դաշտի և դրանում եղող քարանձավի գնումը՝ խեթերի որդիներից ⟨את⟩։",
+  "tokens": [
+    {
+      "surface": "מקנה",
+      "gloss": "գնումը"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "դաշտի"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "և քարանձավը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "դրանում"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "մոտից ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "חת",
+      "gloss": "խեթերի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:33:45.157795310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "և լսեց ամբողջ Յավեշ Գիլադը ⟨את⟩ այն ամենը, ինչ արեցին Փղշտացիները Շաուլի (Սաուլի) հետ։",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "և լսեց"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Յավեշ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Գիլադը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այն ամենը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամենը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ինչ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "արեցին"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Փղշտացիները"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Շաուլի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:31:53.309330510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Եվ ապրեց Սերուգը երեսուն տարի, և ծնեց ⟨את⟩ Նախորին։",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "և ապրեց"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Սերուգը"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "երեսուն"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "և ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Նախորին"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Նախորին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:11:58.042447166Z",
+  "model": "glm-5.3"
+}

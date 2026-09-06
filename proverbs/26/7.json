@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Կախ են ընկած կաղի ոտքերը, և առակ հիմարների բերանում։",
+  "tokens": [
+    {
+      "surface": "דליו",
+      "gloss": "կախ են ընկած"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "ոտքերը"
+    },
+    {
+      "surface": "מפסח",
+      "gloss": "կաղի"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "և առակ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "բերանում"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "հիմարների"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:38.426246582Z",
+  "model": "glm-5.3"
+}

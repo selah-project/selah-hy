@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ մարդն ասաց՝ Կինը, որ տվեցիր ինձ հետ, հենց նա տվեց ինձ այդ ծառից, և ես կերա։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "մարդը"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "կինը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "տվեցիր"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ինձ հետ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "հենց նա"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "տվեց"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "այդ-ից"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ծառից"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "և կերա"
+    }
+  ],
+  "timestamp": "2026-09-05T18:08:30.338101760Z",
+  "model": "glm-5.3"
+}

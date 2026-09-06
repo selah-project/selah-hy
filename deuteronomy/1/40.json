@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 1:40",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Իսկ դուք դարձեք ձեր ճանապարհով և գնացեք անապատ՝ Եղեգի ծովի ճանապարհով։",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Իսկ դուք"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "դարձեք"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեր"
+    },
+    {
+      "surface": "וסעו",
+      "gloss": "և գնացեք"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "անապատ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ճանապարհով"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ծով"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Եղեգի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:07:29.061411113Z",
+  "model": "glm-5.3"
+}

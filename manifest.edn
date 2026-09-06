@@ -1,0 +1,104 @@
+#:rendering{:label "Հայերեն",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305507},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:role :open-questions :rendering/adjudication]},
+            :role :served,
+            :produced {:from "2026-09-05", :to "2026-09-06"},
+            :id "hy.v1",
+            :catalog {:ui "resources/i18n/ui/hy.edn"},
+            :license "CC BY-SA 4.0 (The Selah Armenian Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23213},
+             :tiers {"glm-5.2" 23213},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/hy.md",
+             :rails-commit "e9aa7064",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "Ադոնայ",
+              "אל" "Էլ",
+              "אלהים" "Էլոհիմ",
+              "אלוה" "Էլոահ",
+              "ח" "խ",
+              "י" "յ",
+              "יה" "Յահ",
+              "יהוה" "Յահվե",
+              "צבאות" "Ծեվաոթ",
+              "ק" "ք",
+              "שדי" "Շադայ"},
+             :open-questions
+             ["orthography as a chair-wide lens (reformed sealed; classical Յահւէ/եւ/ութիւն a possible reader lens like sr digraphia)"
+              "⟨את⟩ flow-arithmetic: 1,027 flow-loss + 106 flow-gain verses (token rows sound; same open item as sr)"
+              "paren-shadows 2,468 files (Մովսես 296 never bare) — one posture ruling across chairs"
+              "Յահվեյի ×3 genitive (Jer 3:10, 3:12, 2 Kgs 22:19) — needs a native ear"
+              "rail gaps: האדון (Mal 3:1) and Aramaic מרא (Dan 2:47) have no D1 row"
+              "capitalized generic Աստված (Deut 4:7, 1 Sam 28:13)"]},
+            :status :rendering,
+            :adjudication
+            {:chair 62,
+             :date "2026-09-05",
+             :first :armenian-script,
+             :polarity :armenian-home,
+             :seal
+             {:ter-at-name 0,
+              :aleph-tav [0 0 0 0],
+              :elohim 2063,
+              :sheol "55/55",
+              :nt-leak 0,
+              :et-verses 7231,
+              :spine-diff-vs-en 0,
+              :yehova 0,
+              :yahve 5810},
+             :tekoa
+             {:auditor :opus-fork,
+              :mode :read-only-class-a,
+              :name-seat-violations 0,
+              :nt-leak 0,
+              :class-a-verses-applied
+              "~1,410 (hand + scripted + re-render)",
+              :ambiguous-filed 9},
+             :cruxes
+             ["the 405 alphabet — built to carry this text; the Տէր erasure entered the same moment; first Armenian rendering with the Name at its seats"
+              "THE SPINE PLAGUE — Armenian letters in the Hebrew token spine at 1,578-file scale; 1,436+ tokens restored deterministically vs en; census blind; spine-diff-vs-en now a groove step"
+              "hooks-word family sixth chair — nine verses across the tabernacle court"
+              "en-spine fault Exod 30:5 (וצצפית) found by this chair, fixed c07a7ef78"]},
+            :version "v1",
+            :lineage
+            {:git
+             {:repo nil,
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches []},
+             :parents []},
+            :lang :hy}

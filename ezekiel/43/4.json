@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 43,
+  "translation": "Եվ Յահվեի փառքը եկավ տուն՝ դարպասի ճանապարհով, որի երեսը դեպի արևելքի ճանապարհն էր։",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "և փառքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "בא",
+      "gloss": "եկավ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "տուն"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ճանապարհով"
+    },
+    {
+      "surface": "שער",
+      "gloss": "դարպասի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որի"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "երեսը"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ճանապարհը"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "արևելքի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:27:50.934930471Z",
+  "model": "glm-5.3"
+}

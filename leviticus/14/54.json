@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Սա ⟨է⟩ Թորան ամեն վնասվածքի՝ ծարաաթի և նետեկի համար՝",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Սա"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Թորան"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "վնասվածքի"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "ծարաաթի"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "և նետեկի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:03:20.320612494Z",
+  "model": "glm-5.3"
+}

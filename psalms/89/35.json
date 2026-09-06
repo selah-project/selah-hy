@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 89,
+  "translation": "չեմ պղծի իմ Բրիթը, և իմ շրթունքներից դուրս եկածը չեմ փոխի։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "չեմ"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "պղծի"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "իմ Բրիթը"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "և դուրս եկածը"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "իմ շրթունքներից"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չեմ"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "փոխի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:13:09.762982075Z",
+  "model": "glm-5.3"
+}

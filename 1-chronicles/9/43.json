@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 9:43",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Մոցան ծնեց ⟨את⟩ Բինեային, Ռեֆայան՝ նրա որդին, Էլասան՝ նրա որդին, Ացելը՝ նրա որդին։",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "և Մոցա"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Բինեային"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "Բինեա"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "և Ռեֆայա"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Էլասա"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "Ացել"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:32:05.253769494Z",
+  "model": "glm-5.3"
+}

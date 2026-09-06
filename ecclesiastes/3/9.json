@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Ի՞նչ շահ ունի ⟨է⟩ գործողը՝ նրանում, ինչ նա ճգնում է։",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "շահ"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "գործողը"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "նրանում, ինչ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ճգնում է"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:33.013769150Z",
+  "model": "glm-5.3"
+}

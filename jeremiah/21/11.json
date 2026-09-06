@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 21:11",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եվ Յեհուդայի թագավորի տանը՝ լսե՛ք Յահվեի խոսքը.",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "Եվ տանը"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավորի"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Յեհուդայի"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "լսե՛ք"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:48:37.484309839Z",
+  "model": "glm-5.3"
+}

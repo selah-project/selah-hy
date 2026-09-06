@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 21:30",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եթե փրկագինք դրվի նրա վրա՝ նա տա իր նեֆեշի փրկագինը՝ ամեն այն, ինչ դրվի նրա վրա։",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "փրկագինք"
+    },
+    {
+      "surface": "יושת",
+      "gloss": "դրվի"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "նրա վրա"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "և տա"
+    },
+    {
+      "surface": "פדין",
+      "gloss": "փրկագին"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "իր նեֆեշի"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ամեն այն"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ինչ"
+    },
+    {
+      "surface": "יושת",
+      "gloss": "դրվի"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "նրա վրա"
+    }
+  ],
+  "timestamp": "2026-09-05T18:45:12.526815560Z",
+  "model": "glm-5.3"
+}

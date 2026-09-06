@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 12:2",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Ամարյա, Մալուք, Խատուշ։",
+  "tokens": [
+    {
+      "surface": "אמריה",
+      "gloss": "Ամարյա"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "Մալուք"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "Խատուշ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:25:40.922314197Z",
+  "model": "glm-5.3"
+}

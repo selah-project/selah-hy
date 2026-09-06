@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 44:16",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 44,
+  "translation": "Այն խոսքը, որ դու խոսեցիր մեզ հետ Յահվեի անունով, մենք չենք լսում քեզնից։",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "խոսեցիր"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "մեզ հետ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "անունով"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "մենք չենք"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "լսում"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "քեզնից"
+    }
+  ],
+  "timestamp": "2026-09-05T22:01:29.356622011Z",
+  "model": "glm-5.3"
+}

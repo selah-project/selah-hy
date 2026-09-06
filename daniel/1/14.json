@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ լսեց նրանց՝ այս խոսքի համար, և փորձեց նրանց տասը օր։",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "և լսեց"
+    },
+    {
+      "surface": "להם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "խոսքի"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "և փորձեց նրանց"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "տասը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:05:44.283508367Z",
+  "model": "glm-5.3"
+}

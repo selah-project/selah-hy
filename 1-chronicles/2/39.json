@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Ազարյահը ծնեց ⟨את⟩ Խելեցին, իսկ Խելեցը ծնեց ⟨את⟩ Էլասային։",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "Ազարյահը"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Խելեցին"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Խելեցին"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "իսկ Խելեցը"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Էլասային"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Էլասային"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:12.853618848Z",
+  "model": "glm-5.3"
+}

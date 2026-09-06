@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 99,
+  "translation": "Օրհնեն քո Անունը՝ մեծ է և սարսափելի, սուրբ է նա։",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Օրհնեն"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "քո Անունը"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "մեծ է"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "և սարսափելի"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "սուրբ է"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:16:00.774021987Z",
+  "model": "glm-5.3"
+}

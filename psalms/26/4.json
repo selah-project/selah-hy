@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Չեմ նստել սնաների հետ, և թաքնվողների հետ չեմ մտնի։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Չեմ"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "նստել"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "սնաների"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "—"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "և հետ"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "թաքնվողների"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չեմ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "մտնի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:58:41.436417474Z",
+  "model": "glm-5.3"
+}

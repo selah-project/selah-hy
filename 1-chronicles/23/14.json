@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 23:14",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Իսկ Մոշեն՝ Էլոհիմի մարդը. նրա որդիները կոչվեցին Լևիի ցեղի վրա։",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "և Մոշեն"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Էլոհիմի"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "որդիները նրա"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "կոչվեցին"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ցեղ"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Լևիի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:37:13.305024411Z",
+  "model": "glm-5.3"
+}

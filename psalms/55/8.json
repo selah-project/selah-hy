@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 55,
+  "translation": "Ահա կհեռանամ թափառելով, կմնամ գիշերելով անապատում։ Սելա։",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "կհեռանամ"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "թափառելով"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "կմնամ գիշերելով"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "անապատում"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Սելա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:04:49.737074896Z",
+  "model": "glm-5.3"
+}

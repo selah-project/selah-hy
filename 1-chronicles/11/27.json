@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Շամոթ Հարորին, Խելեց Պելոնին։",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "Շամոթ"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "Հարորին"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Խելեց"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "Պելոնին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:31:37.737154799Z",
+  "model": "glm-5.3"
+}

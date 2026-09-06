@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Վա՜յ ապստամբին և պղծվածին՝ քաղաքին՝ ճնշողին։",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Վա՜յ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ապստամբ"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "և պղծված"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "քաղաքը"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ճնշող"
+    }
+  ],
+  "timestamp": "2026-09-05T22:45:54.177545542Z",
+  "model": "glm-5.3"
+}

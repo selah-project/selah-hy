@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 31:26",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Դրա վրայից արթնացա և տեսա, և քունս քաղցր էր ինձ։",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "դրա վրայից"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "այս"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "արթնացա"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "և տեսա"
+    },
+    {
+      "surface": "ושנתי",
+      "gloss": "և քունս"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "քաղցր էր"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:53:40.225805700Z",
+  "model": "glm-5.3"
+}

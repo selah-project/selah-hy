@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Ո՜վ քաղաք շինող արյուններով, և քաղաք հաստատող անօրենությամբ։",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ո՜վ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "շինող"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "քաղաք"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "արյուններով"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "և հաստատող"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "քաղաք"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "անօրենությամբ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:42:03.096855515Z",
+  "model": "glm-5.3"
+}

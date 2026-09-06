@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Ուրախ եմ ես քո խոսքից, մեծ ավար գտնողի պես։",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "ուրախ եմ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ես"
+    },
+    {
+      "surface": "על",
+      "gloss": "—ից"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "քո խոսքի"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "գտնողի պես"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ավար"
+    },
+    {
+      "surface": "רב",
+      "gloss": "մեծ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:22:48.553060183Z",
+  "model": "glm-5.3"
+}

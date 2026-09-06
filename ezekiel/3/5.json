@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 3:5",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Որովհետև ոչ դեպի ժողովուրդ՝ խոր շուրթերով և ծանր լեզվով ես ուղարկված, այլ դեպի Իսրայելի տուն։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ժողովուրդ"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "խոր"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "շուրթերով"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "և ծանր"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "լեզվով"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "ուղարկված ես"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տուն"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:08:54.606038884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 14:20",
+  "book": "judges",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ Շիմշոնի կինը դարձավ ⟨նրա⟩ ընկերոջը՝ նրան, որ ընկեր էր իրեն։",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "և դարձավ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "կինը"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Շիմշոնի"
+    },
+    {
+      "surface": "למרעהו",
+      "gloss": "իր ընկերոջը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ընկեր էր"
+    },
+    {
+      "surface": "לו",
+      "gloss": "իրեն"
+    }
+  ],
+  "timestamp": "2026-09-05T20:09:04.003221818Z",
+  "model": "glm-5.3"
+}

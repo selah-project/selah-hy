@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "վեց կան՝ որ ատում է Յահվեն, և յոթ գզրոցքներ ⟨են⟩ իր նեֆեշին․",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "վեց"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "կան (ահա նրանք)"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ատում է"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "և յոթ"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "գզրոցքներ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "իր նեֆեշին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:46.995376223Z",
+  "model": "glm-5.3"
+}

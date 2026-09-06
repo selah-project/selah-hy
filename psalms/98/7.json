@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 98,
+  "translation": "Թող ծովը որոտա և իր լեցունքը, աշխարհը և նրա բնակիչները։",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "որոտա"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ծովը"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "և լեցունքը"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "աշխարհը"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "և բնակիչները"
+    },
+    {
+      "surface": "בה",
+      "gloss": "նրանում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:15:59.607999373Z",
+  "model": "glm-5.3"
+}

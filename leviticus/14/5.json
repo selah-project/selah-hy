@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ կարգադրի քահանան, և մորթվի ⟨את⟩ թռչուններից մեկը կավե անոթում՝ ողջ ջրի վրա։",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "Եվ կարգադրի"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "քահանան"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "և մորթվի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "թռչուններից մեկը"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "թռչունը"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "մեկը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "անոթ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "կավե"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջրի"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ողջ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:03:38.763706826Z",
+  "model": "glm-5.3"
+}

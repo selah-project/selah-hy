@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 139,
+  "translation": "Ետև ու առջև դու սեղմեցիր ինձ, և դրեցիր քո ափը ինձ վրա։",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "Ետև"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "և առջև"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "դու սեղմեցիր ինձ"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "և դրեցիր"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ինձ վրա"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "քո ափը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:25:47.503540744Z",
+  "model": "glm-5.3"
+}

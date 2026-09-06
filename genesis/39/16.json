@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 39:16",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 39,
+  "translation": "Եվ դրեց նրա հանդերձը իր կողքին՝ մինչև գալը նրա տերը դեպի իր տուն։",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "Եվ դրեց"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "նրա հանդերձը"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "իր կողքին"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "գալը"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "նրա տերը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "իր տուն"
+    }
+  ],
+  "timestamp": "2026-09-05T18:28:08.973209423Z",
+  "model": "glm-5.3"
+}

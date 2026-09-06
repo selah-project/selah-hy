@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Ատեցի չարագործների հավաքը, և ամբարիշտների հետ չեմ նստի։",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Ատեցի"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "հավաքը"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "չարագործների"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "և ... հետ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ամբարիշտների"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "նստի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:58:13.740608331Z",
+  "model": "glm-5.3"
+}

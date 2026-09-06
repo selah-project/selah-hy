@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Կառուցեց իմ դեմ և պարփակեց ինձ դառնությամբ և տառապանքով։",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "Կառուցեց"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "իմ դեմ"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "և պարփակեց"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "դառնություն"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "և տառապանք"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:46.278372597Z",
+  "model": "glm-5.3"
+}

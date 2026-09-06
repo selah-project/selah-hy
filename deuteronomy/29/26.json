@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 29:26",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "և բորբոքվեց Յահվեի զայրույթն այն երկրի դեմ՝ նրա վրա բերելու ⟨את⟩ ամեն անեծքը՝ գրված այս գրքում։",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "և բորբոքվեց"
+    },
+    {
+      "surface": "אף",
+      "gloss": "զայրույթը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "բերելու"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "նրա վրա"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ամեն անեծքը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "անեծքը"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "գրված"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "գրքում"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-05T19:47:09.528312003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 3:22",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ լինեն կյանք քո նեֆեշին և շնորհ քո վզին։",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Եվ լինեն"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "կյանք"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "քո նեֆեշին"
+    },
+    {
+      "surface": "וחן",
+      "gloss": "և շնորհ"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "քո վզին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:23.390548228Z",
+  "model": "glm-5.3"
+}

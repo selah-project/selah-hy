@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Հավաքվե՛ք և հավաքվե՛ք, ազգ՝ ոչ ցանկալի",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "Հավաքվե՛ք"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "և հավաքվե՛ք"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ազք՝"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "ցանկալի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:46:03.807575735Z",
+  "model": "glm-5.3"
+}

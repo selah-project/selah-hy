@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 26:28",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Ստի լեզու ատում է իր ջարդվածներին, և հարթ բերան աղետ է գործում։",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "լեզու"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ստի"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ատում է"
+    },
+    {
+      "surface": "דכיו",
+      "gloss": "իր ջարդվածներին"
+    },
+    {
+      "surface": "ופה",
+      "gloss": "և բերան"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "հարթ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "գործում է"
+    },
+    {
+      "surface": "מדחה",
+      "gloss": "աղետ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:37.895230940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 10:20",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Խարիֆ, Անատոտ (Անաթոթ), Նովայ.",
+  "tokens": [
+    {
+      "surface": "חריף",
+      "gloss": "Խարիֆ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Անատոտ (Անաթոթ)"
+    },
+    {
+      "surface": "נובי",
+      "gloss": "Նովայ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:24:53.499119659Z",
+  "model": "glm-5.3"
+}

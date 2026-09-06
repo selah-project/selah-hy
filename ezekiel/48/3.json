@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 48,
+  "translation": "Եվ Աշերի սահմանի վրայից՝ արևելքի կողմից մինչև ծովի կողմը. Նաֆթալի ⟨է⟩ մեկ։",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Եվ վրայից"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "սահմանի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Աշերի"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "կողմից"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "արևելքի"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "և մինչև"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "կողմը"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ծովի"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Նաֆթալի"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:29:52.812098913Z",
+  "model": "glm-5.3"
+}

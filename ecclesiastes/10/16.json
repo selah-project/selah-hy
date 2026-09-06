@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Վա՜յ քեզ, երկի՛ր, երբ թագավոր դառնա մանուկ, և իշխաններդ առավոտը կուտեն։",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "վա՜յ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկի՛ր"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "թագավոր դառնա մանուկ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "մանուկ"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "իշխաններդ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "առավոտը"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "կուտեն"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:56.355610538Z",
+  "model": "glm-5.3"
+}

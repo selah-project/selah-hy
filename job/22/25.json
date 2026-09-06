@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 22:25",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "և Շադայը կլինի քո ոսկին, և արծաթի կույտեր՝ քեզ։",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "և կլինի"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Շադայը"
+    },
+    {
+      "surface": "בצריך",
+      "gloss": "քո ոսկին"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "և արծաթ"
+    },
+    {
+      "surface": "תועפות",
+      "gloss": "կույտեր"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:45:57.648583486Z",
+  "model": "glm-5.3"
+}

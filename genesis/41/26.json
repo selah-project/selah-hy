@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 41,
+  "translation": "Յոթ լավ կովերը՝ յոթ տարի են, և յոթ լավ հասկերը՝ յոթ տարի են. երազը մեկ է։",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "կովեր"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "լավ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "են"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "և յոթ"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "հասկերը"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "լավ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "են"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "երազը"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨է⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T18:26:56.921367663Z",
+  "model": "glm-5.3"
+}

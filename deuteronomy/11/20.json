@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Եվ կգրես դրանք քո տանդ դռնասյուների վրա և քո դարպասներիդ վրա։",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "կգրես"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "դռնասյուներիդ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "տանդ"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "և դարպասներիդ"
+    }
+  ],
+  "timestamp": "2026-09-06T01:07:44.892359462Z",
+  "model": "glm-5.3"
+}

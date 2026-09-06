@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Եվ պատվիրեց Մոշեն ⟨את⟩ ժողովրդին այդ օրը՝ ասելով.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Եվ պատվիրեց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ժողովրդին"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովրդին"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "այդ օրը"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T19:44:44.950485936Z",
+  "model": "glm-5.3"
+}

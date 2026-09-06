@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 66,
+  "translation": "որ բացեցին իմ շուրթերը, և իմ բերանը խոսեց իմ նեղության ժամանակ",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "բացեցին"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "իմ շուրթերը"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "և խոսեց"
+    },
+    {
+      "surface": "פי",
+      "gloss": "իմ բերանը"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "նեղության"
+    },
+    {
+      "surface": "לי",
+      "gloss": "իմ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:06:52.584715007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 7:17",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Երբ ասես քո սրտում՝ «այս ազգերը շատ են ինձանից, ինչպե՞ս կարող եմ նրանց վտարել».",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Երբ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ասես"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "քո սրտում"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "շատ են"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ազգերը"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ինձանից"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "ինչպե՞ս"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "կարող եմ"
+    },
+    {
+      "surface": "להורישם",
+      "gloss": "նրանց վտարել"
+    }
+  ],
+  "timestamp": "2026-09-05T19:36:25.588354195Z",
+  "model": "glm-5.3"
+}

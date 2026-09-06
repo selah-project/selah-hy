@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 109,
+  "translation": "Թող զավակները լինեն որբեր, և կինը՝ այրի։",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "թող լինեն"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "զավակները"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "որբեր"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "և կինը"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "այրի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:20:13.636825273Z",
+  "model": "glm-5.3"
+}

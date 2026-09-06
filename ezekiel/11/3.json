@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "ասողները, թե՝ ոչ մոտ ⟨է⟩ տներ կառուցելը. այն ⟨է⟩ կաթսան, իսկ մենք ենք միսը։",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "ասողները"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "կառուցել"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "տներ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "կաթսան"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "իսկ մենք"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "միսը"
+    }
+  ],
+  "timestamp": "2026-09-05T22:11:52.636201096Z",
+  "model": "glm-5.3"
+}

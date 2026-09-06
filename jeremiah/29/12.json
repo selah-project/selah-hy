@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Եվ դուք կկանչեք ⟨את⟩ ինձ, և կգնաք, և կաղոթեք ինձ, և ես կլսեմ ձեզ։",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "և կկանչեք"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ինձ",
+      "marks": "ինձ"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "և կգնաք"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "և կաղոթեք"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "և կլսեմ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ձեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:53:14.060976010Z",
+  "model": "glm-5.3"
+}

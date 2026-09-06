@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Արդարի պտուղը կյանքի ծառ է, և հոգիներ ձեռք բերողը իմաստուն է։",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "պտուղը"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "արդարի"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ծառ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "կյանքի"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "և ձեռք բերողը"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "հոգիներ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "իմաստուն է"
+    }
+  ],
+  "timestamp": "2026-09-05T23:32:13.927591075Z",
+  "model": "glm-5.3"
+}

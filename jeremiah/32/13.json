@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 32:13",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Եվ պատվիրեցի ⟨את⟩ Բարուքին իրենց աչքերի առջև՝ ասելով.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "և պատվիրեցի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Բարուքին"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Բարուքին"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "իրենց աչքերի առջև"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T21:55:25.838830571Z",
+  "model": "glm-5.3"
+}

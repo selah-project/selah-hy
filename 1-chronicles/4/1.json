@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Յեհուդայի որդիները՝ Պերեց, Խեցրոն, Կարմի, Խուր և Շովալ։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Յեհուդայի"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Պերեց"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Խեցրոն"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "և Կարմի"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "և Խուր"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "և Շովալ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:28.622404134Z",
+  "model": "glm-5.3"
+}

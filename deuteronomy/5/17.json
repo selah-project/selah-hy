@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Չսպանի՛ս։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "սպանի՛ս"
+    }
+  ],
+  "timestamp": "2026-09-05T19:33:00.701859930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 31:25",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Եթե ուրախացա, որ մեծ է իմ հարստությունը, և որ առատ բան գտավ իմ ձեռքը՝",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "ուրախացա"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "חילי",
+      "gloss": "իմ հարստությունը"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "և որ"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "առատ"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "գտավ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "իմ ձեռքը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:48:18.378614849Z",
+  "model": "glm-5.3"
+}

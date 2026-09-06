@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Դեպի Քեզ բղավեցին և ազատվեցին, Քո մեջ վստահեցին և չամոթացան։",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Դեպի Քեզ"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "բղավեցին"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "և ազատվեցին"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Քո մեջ"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "վստահեցին"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "ամոթացան"
+    }
+  ],
+  "timestamp": "2026-09-05T22:56:01.431062415Z",
+  "model": "glm-5.3"
+}

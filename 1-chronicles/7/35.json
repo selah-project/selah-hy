@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ իր եղբոր՝ Հելեմի որդիներն էին՝ Ծոփախը, և Իմնան, և Շելեշը, և Ամալը։",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "Հելեմի"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "իր եղբոր"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "Ծոփախը"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "և Իմնան"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "և Շելեշը"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "և Ամալը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:26.378680357Z",
+  "model": "glm-5.3"
+}

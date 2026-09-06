@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 26:2",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Երևաց Յահվեն նրան և ասաց՝ մի՛ իջիր Միցրայիմ (Եգիպտոս). բնակվիր այն երկրում, որ ասեմ քեզ։",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Երևաց"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "իջիր"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Միցրայիմ"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "բնակվիր"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրում"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասեմ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:19:51.259294429Z",
+  "model": "glm-5.3"
+}

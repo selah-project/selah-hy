@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 59,
+  "translation": "Նրանք՝ թափառեն ուտելու համար, եթե չհագենան՝ կգիշերեն ⟨այնտեղ⟩։",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "նրանք"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "թափառեն"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ուտելու համար"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "հագենան"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "կգիշերեն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:06:31.936762994Z",
+  "model": "glm-5.3"
+}

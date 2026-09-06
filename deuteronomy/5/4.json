@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Դեմք դեմքին խոսեց Յահվեն ձեզ հետ լեռան վրա՝ կրակի միջից։",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "Դեմք"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "դեմքին"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ձեզ հետ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "լեռան վրա"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "միջից"
+    },
+    {
+      "surface": "האש",
+      "gloss": "կրակը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:33:42.665456395Z",
+  "model": "glm-5.3"
+}

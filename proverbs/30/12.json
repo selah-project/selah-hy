@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Սերունդ կա՝ իր աչքերում մաքուր է, և իր ցեխից չի լվացվել։",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "սերունդ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "մաքուր"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "իր աչքերում"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "և իր ցեխից"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "լվացվել"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:14.208553669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Մինչև ե՞րբ, Յահվե, աղաղակեմ, և դու չես լսում, բղավեմ դեպի քեզ՝ բռնություն, և դու չես փրկում։",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ե՞րբ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "աղաղակեմ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չես"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "լսում"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "բղավեմ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "դեպի քեզ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "բռնություն"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չես"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "փրկում"
+    }
+  ],
+  "timestamp": "2026-09-05T22:43:45.347636517Z",
+  "model": "glm-5.3"
+}

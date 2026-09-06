@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Այն տարում, երբ մահացավ Ախազ արքան, եղավ այս բեռը․",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Այն տարում"
+    },
+    {
+      "surface": "מות",
+      "gloss": "մահացավ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "արքան"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ախազ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "բեռը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-05T21:18:18.481520575Z",
+  "model": "glm-5.3"
+}

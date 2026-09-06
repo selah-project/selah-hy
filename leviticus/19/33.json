@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Եվ երբ ձեր երկրում գեր բնակվի ⟨את⟩ ձեզ հետ, մի՛ ճնշեք ⟨את⟩ նրան։",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Եվ երբ"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "բնակվի"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ քեզ հետ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "գեր"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "ձեր երկրում"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "ճնշեք"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ նրան",
+      "marks": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:06:25.623171213Z",
+  "model": "glm-5.3"
+}

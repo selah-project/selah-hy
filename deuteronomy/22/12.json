@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Ոլորուկներ արա քեզ համար քո ծածկոցի չորս թևքերի վրա, որով ծածկվում ես դրանով։",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "ոլորուկներ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "արա"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ համար"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "չորս"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "թևքերի"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "քո ծածկոցի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "ծածկվում ես"
+    },
+    {
+      "surface": "בה",
+      "gloss": "դրանով"
+    }
+  ],
+  "timestamp": "2026-09-05T19:42:23.747395947Z",
+  "model": "glm-5.3"
+}

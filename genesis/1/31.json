@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ տեսավ Էլոհիմ ⟨את⟩ ամեն ինչ, որ արել էր, և ահա՛՝ լավ շատ։ Եվ եղավ երեկո, և եղավ առավոտ՝ վեցերորդ օր։",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Եվ տեսավ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ամեն ինչ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արել էր"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "և ահա՛"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "լավ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "շատ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "երեկո"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "և եղավ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "առավոտ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "վեցերորդ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:08:20.320833762Z",
+  "model": "glm-5.3"
+}

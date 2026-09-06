@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 9:2",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ Շելոմոն պատմեց նրան ⟨את⟩ իր բոլոր խոսքերը, և ոչ մի բառ չմնաց թաքուն Շելոմոյից, որ նա չպատմեր նրան։",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Եվ պատմեց"
+    },
+    {
+      "surface": "לה",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Շելոմոն"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "բոլոր խոսքերը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "խոսքերը"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "մնաց թաքուն"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "բառ"
+    },
+    {
+      "surface": "משלמה",
+      "gloss": "Շելոմոյից"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "պատմեր"
+    },
+    {
+      "surface": "לה",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-06T00:44:29.441902077Z",
+  "model": "glm-5.3"
+}

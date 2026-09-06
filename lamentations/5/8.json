@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Ստրուկներ տիրեցին մեզ վրա, ազատող չկա՝ իրենց ձեռքից։",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "ստրուկներ"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "տիրեցին"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "մեզ վրա"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ազատող"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "իրենց ձեռքից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:10.942392868Z",
+  "model": "glm-5.3"
+}

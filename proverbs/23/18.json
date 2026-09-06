@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Քանի որ իսկուրեն կա ապագա, և քո հույսը չի կտրվի։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Քանի որ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "իսկուրեն"
+    },
+    {
+      "surface": "יש",
+      "gloss": "կա"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ապագա"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "և քո հույսը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "կտրվի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:04.085826622Z",
+  "model": "glm-5.3"
+}

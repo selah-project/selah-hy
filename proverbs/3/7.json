@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Մի՛ եղիր իմաստուն քո աչքերիդ առջև, երկնե՛ր ⟨את⟩ Յահվեին և հեռացիր չարից։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Մի՛"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "եղիր"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "իմաստուն"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "քո աչքերիդ առջև"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "երկնե՛ր"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յահվեին"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "և հեռացիր"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "չարից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:28.606092835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Թող ուրախանա հայրդ, և մայրդ, և ցնծա քեզ ծնողդ։",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "թող ուրախանա"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "հայրդ"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "և մայրդ"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "և ցնծա"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "քեզ ծնողդ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:26.661667980Z",
+  "model": "glm-5.3"
+}

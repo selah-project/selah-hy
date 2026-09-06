@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Առակներ Շլոմոյի (Սողոմոն)՝ Դավթի որդու, Իսրայելի արքայի։",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "Առակներ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Շլոմո"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Դավիթ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "արքա"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:27:59.409837204Z",
+  "model": "glm-5.3"
+}

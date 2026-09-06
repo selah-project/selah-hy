@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Նաև՝ պատահական իր գործի մեջ, եղբայր է ⟨նա⟩ կործանողին։",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "նաև"
+    },
+    {
+      "surface": "מתרפה",
+      "gloss": "պատահական"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "իր գործի մեջ"
+    },
+    {
+      "surface": "אח",
+      "gloss": "եղբայր"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨նա⟩"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "…ին"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "կործանողին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:33:40.627196696Z",
+  "model": "glm-5.3"
+}

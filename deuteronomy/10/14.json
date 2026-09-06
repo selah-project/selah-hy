@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Ահա՝ Յահվեին, քո Էլոհիմին ⟨են⟩ երկինքը և երկնքի երկինքները, երկիրը և ամեն ինչ, որ նրա մեջ է։",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ահա"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "քո Էլոհիմ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "երկինքը"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "և երկնքի"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "երկինքները"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "և ամեն ինչ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "նրա մեջ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:35:45.189683232Z",
+  "model": "glm-5.3"
+}

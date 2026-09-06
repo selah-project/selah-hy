@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 22:6",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Երբ ճանապարհին՝ առջևդ, թռչնի բույն հանդիպի՝ որևէ ծառի վրա կամ գետնին, ձագեր կամ ձվեր, և մայրը նստած լինի ձագերի կամ ձվերի վրա՝ մայրը ձագերի հետ չառնես։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Երբ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "հանդիպի"
+    },
+    {
+      "surface": "קן",
+      "gloss": "բույն"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "թռչնի"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "առջևդ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ճանապարհին"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "որևէ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ծառի"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "գետնին"
+    },
+    {
+      "surface": "אפרחים",
+      "gloss": "ձագեր"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "ביצים",
+      "gloss": "ձվեր"
+    },
+    {
+      "surface": "והאם",
+      "gloss": "և մայրը"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "նստած լինի"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "האפרחים",
+      "gloss": "ձագերի"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הביצים",
+      "gloss": "ձվերի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "չառնես"
+    },
+    {
+      "surface": "האם",
+      "gloss": "մայրը"
+    },
+    {
+      "surface": "על",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ձագերի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:42:58.709900441Z",
+  "model": "glm-5.3"
+}

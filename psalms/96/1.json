@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 96,
+  "translation": "Երգեցե՛ք Յահվեին նոր երգ, երգեցե՛ք Յահվեին, ամբողջ երկիրը։",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "երգեցեք"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "երգ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "նոր"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "երգեցեք"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:14:51.302154101Z",
+  "model": "glm-5.3"
+}

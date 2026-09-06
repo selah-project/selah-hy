@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 47,
+  "translation": "Քանի որ Յահվե Էլյոնը սարսափելի է, մեծ արքա ամբողջ երկրի վրա։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Էլյոն (բարձրագույն)"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "սարսափելի"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "արքա"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:03:55.679008208Z",
+  "model": "glm-5.3"
+}

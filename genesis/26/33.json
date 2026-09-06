@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 26:33",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Եվ անվանեց ⟨את⟩ Շիվաա, հետևաբար քաղաքի անունը՝ Բեեր Շևա, մինչ այս օրը։",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Եվ անվանեց"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "Շիվաա"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "Շիվաա"
+    },
+    {
+      "surface": "על",
+      "gloss": "ըստ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "հետևաբար"
+    },
+    {
+      "surface": "שם",
+      "gloss": "անունը"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "քաղաքի"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Բեեր"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Շևա"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "այս օրը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-05T18:19:06.154945226Z",
+  "model": "glm-5.3"
+}

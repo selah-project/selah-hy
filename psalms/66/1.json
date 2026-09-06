@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 66,
+  "translation": "Խմբավարին։ Երգ, սաղմոս։ Աղաղակե՛ք Էլոհիմին, ամբողջ երկիրը։",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Խմբավարին"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Երգ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "սաղմոս"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Աղաղակե՛ք"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Էլոհիմին"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:06:58.310552760Z",
+  "model": "glm-5.3"
+}

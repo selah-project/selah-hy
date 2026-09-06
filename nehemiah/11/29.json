@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 11:29",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "և Էյն Ռիմոնում, և Ցորայում, և Յարմուտում։",
+  "tokens": [
+    {
+      "surface": "ובעין",
+      "gloss": "և Էյն-ում"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Ռիմոն"
+    },
+    {
+      "surface": "ובצרעה",
+      "gloss": "և Ցորայում"
+    },
+    {
+      "surface": "ובירמות",
+      "gloss": "և Յարմուտում"
+    }
+  ],
+  "timestamp": "2026-09-06T00:25:35.724375290Z",
+  "model": "glm-5.3"
+}

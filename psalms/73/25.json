@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 73,
+  "translation": "Ո՞վ է ինձ երկնքում, և քեզանից բացի՝ ոչ մեկի եմ ցանկացել երկրի վրա։",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "երկնքում"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "և քեզանից"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ցանկացել եմ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրի վրա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:09:33.443104355Z",
+  "model": "glm-5.3"
+}

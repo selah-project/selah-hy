@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Քեզ ասաց իմ սիրտը՝ «Փնտրեցեք ⟨את⟩ իմ երեսը»․ քո երեսը, Յահվե, ես կփնտրեմ։",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Քեզ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "իմ սիրտը"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Փնտրեցեք"
+    },
+    {
+      "surface": "פני",
+      "gloss": "իմ երեսը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "քո երեսը"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "քո երեսը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ես կփնտրեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:58:43.852589695Z",
+  "model": "glm-5.3"
+}

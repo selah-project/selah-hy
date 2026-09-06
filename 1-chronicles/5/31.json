@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "և Ավիշուան ծնեց ⟨את⟩ Բուկկիին, և Բուկկին ծնեց ⟨את⟩ Ուզզիին։",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "և Ավիշուան"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Բուկկիին"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Բուկկիին"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "և Բուկկին"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ուզզիին"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Ուզզիին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:10.202570569Z",
+  "model": "glm-5.3"
+}

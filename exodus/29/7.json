@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Եվ կվերցնես ⟨את⟩ օծման յուղը, և կլցնես նրա գլխի վրա, և կօծես ⟨את⟩ նրան։",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "կվերցնես"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "յուղը"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "յուղը"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "օծման"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "կլցնես"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "նրա գլխի"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "կօծես"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T18:51:04.180903967Z",
+  "model": "glm-5.3"
+}

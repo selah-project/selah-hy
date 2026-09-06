@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Լավ է գնալ սգո տուն, քան գնալ խրախճանքի տուն, քանի որ այն է ամեն մարդու վախճանը, և ողջը կտա այն իր սրտին։",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Լավ է"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "գնալ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տուն"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "սգո"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "քան գնալ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տուն"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "խրախճանքի"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "վախճանն է"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "և ողջը"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "կտա"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "իր սրտին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:41.045280424Z",
+  "model": "glm-5.3"
+}

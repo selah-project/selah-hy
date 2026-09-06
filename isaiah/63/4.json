@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 63,
+  "translation": "«Որովհետև վրեժի օրը իմ սրտում ⟨էր⟩, և իմ փրկվածների տարին եկել ⟨է⟩»։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "վրեժի"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "իմ սրտում"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "և տարին"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "իմ փրկվածների"
+    },
+    {
+      "surface": "באה",
+      "gloss": "եկել ⟨է⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T21:37:59.012163860Z",
+  "model": "glm-5.3"
+}

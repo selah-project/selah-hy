@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 20:27",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Յահվեի ճրագն է մարդու շունչը՝ խուզում այն որովայնի բոլոր ներքին սենյակները։",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "ճրագ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "շունչը"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "խուզում է"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "սենյակները"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "որովայնի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:25.285213709Z",
+  "model": "glm-5.3"
+}

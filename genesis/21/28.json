@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եվ առանձին դրեց Աբրահամը ⟨את⟩ երկուս ուլերի՝ ոչխարների եօթը։",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "և առանձին դրեց"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Աբրահամը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "եօթը ուլեր"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "եօթը"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "ուլեր"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ոչխարների"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "առանձին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:16:29.347619817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 42,
+  "translation": "Ականջի լսելով՝ լսեցի քեզ, իսկ հիմա աչքս տեսավ քեզ։",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "լսելով"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ականջի"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "լսեցի քեզ"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "իսկ հիմա"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "աչքս"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "տեսավ քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:54:06.258397384Z",
+  "model": "glm-5.3"
+}

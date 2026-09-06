@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 19:20",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Եվ մնացածները կլսեն և կվախենան, և այլևս չեն ավելացնի անել այսպիսի չար գործ քո մեջ։",
+  "tokens": [
+    {
+      "surface": "והנשארים",
+      "gloss": "և մնացածները"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "կլսեն"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "և կվախենան"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "չեն ավելացնի"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "անել"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "այլևս"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "այսպիսի գործ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "չար"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "քո մեջ"
+    }
+  ],
+  "timestamp": "2026-09-06T02:45:33.070733362Z",
+  "model": "glm-5.3"
+}

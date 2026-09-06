@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Եվ գնաց Մոշեն և խոսեց ⟨את⟩ այս խոսքերը ամբողջ Իսրայելի հետ։",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "գնաց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "խոսեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այս խոսքերը"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "խոսքերը"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "אל",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:48:25.180355636Z",
+  "model": "glm-5.3"
+}

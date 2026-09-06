@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 14:9",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Ջրի հոտից այն կծաղկի և ճյուղեր կտա՝ ինչպես տնկին։",
+  "tokens": [
+    {
+      "surface": "מריח",
+      "gloss": "հոտից"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջրի"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "կծաղկի"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "և կտա"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ճյուղեր"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ինչպես"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "տնկին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:43:12.003494729Z",
+  "model": "glm-5.3"
+}

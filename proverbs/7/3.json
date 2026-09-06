@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Կապիր դրանք քո մատներին, գրիր դրանք քո սրտի տախտակի վրա։",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "Կապիր դրանք"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "քո մատներին"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "գրիր դրանք"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "տախտակի"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "քո սրտի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:30:39.506578363Z",
+  "model": "glm-5.3"
+}

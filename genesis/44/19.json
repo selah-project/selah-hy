@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 44,
+  "translation": "Տեր իմ հարցրեց ⟨את⟩ ծառաներիդ՝ ասելով. Կա՞ ձեզ հայր թե եղբայր։",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Տեր իմ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "հարցրեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ծառաներիդ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ծառաներիդ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    },
+    {
+      "surface": "היש",
+      "gloss": "Կա՞"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "հայր"
+    },
+    {
+      "surface": "או",
+      "gloss": "թե"
+    },
+    {
+      "surface": "אח",
+      "gloss": "եղբայր"
+    }
+  ],
+  "timestamp": "2026-09-05T18:30:25.306511710Z",
+  "model": "glm-5.3"
+}

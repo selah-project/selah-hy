@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 12:1",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Եվ պատասխանեց Իյովը (Հոբ) և ասաց։",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Եվ պատասխանեց"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Իյովը (Հոբ)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:43:12.286114665Z",
+  "model": "glm-5.3"
+}

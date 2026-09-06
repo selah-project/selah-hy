@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Այնտեղ վախեցան վախից, որովհետև Էլոհիմը ⟨է⟩ արդարի սերնդում։",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "այնտեղ"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "վախեցան"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "վախ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "սերնդում"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "արդարի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:54:24.604490185Z",
+  "model": "glm-5.3"
+}

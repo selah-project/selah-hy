@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ իշխեց Ավիմելեխը Իսրայելի վրա երեք տարի։",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "իշխեց"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Ավիմելեխը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "տարի"
+    }
+  ],
+  "timestamp": "2026-09-05T20:05:10.827281537Z",
+  "model": "glm-5.3"
+}

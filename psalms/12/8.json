@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Դու, Յահվե, կպահես նրանց, կպահպանես ⟨մեզ⟩ այս սերնդից հավիտյան։",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Դու"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "կպահես նրանց"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "կպահպանես ⟨մեզ⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ից"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "այս սերնդ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "այս"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "հավիտյան"
+    }
+  ],
+  "timestamp": "2026-09-05T22:55:04.421247545Z",
+  "model": "glm-5.3"
+}

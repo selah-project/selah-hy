@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Սարսափը եկել է, և կփնտրեն խաղաղություն՝ բայց չկա։",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "Սարսափը"
+    },
+    {
+      "surface": "בא",
+      "gloss": "եկել է"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "և կփնտրեն"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "խաղաղություն"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "բայց չկա"
+    }
+  ],
+  "timestamp": "2026-09-05T22:07:56.293324289Z",
+  "model": "glm-5.3"
+}

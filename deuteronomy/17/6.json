@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Ըստ երկու վկաների բերանի կամ երեք վկաների բերանի մեռնելիքը կմեռնի. ըստ մեկ վկայի բերանի նա չի մեռնի։",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ըստ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "բերանի"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "երկու"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "վկաների"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "վկաների"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "կմեռնի"
+    },
+    {
+      "surface": "המת",
+      "gloss": "մեռնելիքը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "կմեռնի"
+    },
+    {
+      "surface": "על",
+      "gloss": "ըստ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "բերանի"
+    },
+    {
+      "surface": "עד",
+      "gloss": "վկայի"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:42:11.962111580Z",
+  "model": "glm-5.3"
+}

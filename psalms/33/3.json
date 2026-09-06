@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 33,
+  "translation": "Երգեք նրան նոր երգ, լավ նվագեք աղաղանքի մեջ։",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Երգեք"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "երգ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "նոր"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "լավ նվագեք"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "նվագեք"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "աղաղանքի մեջ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:00:31.791268894Z",
+  "model": "glm-5.3"
+}

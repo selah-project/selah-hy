@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "ժամանակ՝ սիրելու, և ժամանակ՝ ատելու. ժամանակ՝ պատերազմի, և ժամանակ՝ խաղաղության։",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ժամանակ"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "սիրելու"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "և ժամանակ"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ատելու"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ժամանակ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "պատերազմի"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "և ժամանակ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "խաղաղության"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:35.217695296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 19:26",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Եվ նրա կինը նայեց իրենից հետո, և եղավ աղի սյուն։",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "եվ նայեց"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "նրա կինը"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "իրենից հետո"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "և եղավ"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "սյուն"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "աղի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:15:38.563550451Z",
+  "model": "glm-5.3"
+}

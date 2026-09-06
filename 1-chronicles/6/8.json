@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Էլքանան նրա որդին, և Էվյասափը նրա որդին, և Ասիրը նրա որդին։",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Էլքանան"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "և Էվյասափը"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "և Ասիրը"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:27.241508395Z",
+  "model": "glm-5.3"
+}

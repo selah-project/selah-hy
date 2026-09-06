@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "և իմաստություն չսովորեցի, և սրբերի գիտելիքը չեմ ճանաչում։",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "սովորեցի"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "իմաստություն"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "և գիտելիքը"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "սրբերի"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "չեմ ճանաչում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:38:08.605781941Z",
+  "model": "glm-5.3"
+}

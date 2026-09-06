@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 92,
+  "translation": "Իսկ դու՝ բարձր ես ⟨ես⟩ հավիտյան, Յահվե։",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Իսկ դու"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "բարձր"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "հավիտյան"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    }
+  ],
+  "timestamp": "2026-09-05T23:14:47.415674933Z",
+  "model": "glm-5.3"
+}

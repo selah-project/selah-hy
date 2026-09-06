@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ եղավ Յահվեի խոսքը Խագգի մարգարեի ձեռքով՝ ասելով.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ձեռքով"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Խագգի"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "մարգարեի"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T22:46:14.748027797Z",
+  "model": "glm-5.3"
+}

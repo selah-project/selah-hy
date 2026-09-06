@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Տասնորդ տասնորդիր ⟨את⟩ ամենայն քո սերմնի բերքից՝ դաշտի ելնողը, տարի առ տարի։",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "տասնորդ"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "տասնորդիր"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ամենայն բերքը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամենայն"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "բերք"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "քո սերմնի"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "ելնող"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "դաշտից"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:39:28.382091852Z",
+  "model": "glm-5.3"
+}

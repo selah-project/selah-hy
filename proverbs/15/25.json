@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 15:25",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Յահվեի ատելին է հպարտների տունը, և նա հաստատում է այրու սահմանը։",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "տունը"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "հպարտների"
+    },
+    {
+      "surface": "יסח",
+      "gloss": "ատելին է"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "և հաստատում է"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "սահմանը"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "այրու"
+    }
+  ],
+  "timestamp": "2026-09-05T23:33:21.418420674Z",
+  "model": "glm-5.3"
+}

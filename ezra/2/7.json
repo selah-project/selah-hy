@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Էյամի որդիները՝ հազար երկու հարյուր հիսուն չորս։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները՝"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Էյամի"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "հազար"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "երկու հարյուր"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "հիսուն"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "չորս"
+    }
+  ],
+  "timestamp": "2026-09-06T00:14:47.506802857Z",
+  "model": "glm-5.3"
+}

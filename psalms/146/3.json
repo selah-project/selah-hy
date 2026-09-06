@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 146,
+  "translation": "Մի՛ վստահեք իշխաններին, մարդու որդու՝ որի մեջ փրկություն չկա։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Մի՛"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "վստահեք"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "իշխաններին"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "որդու"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "לו",
+      "gloss": "որի մեջ"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "փրկություն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:27:19.469986897Z",
+  "model": "glm-5.3"
+}

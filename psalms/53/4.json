@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 53,
+  "translation": "Ամբողջը ետ քաշվեց, միասին պիղծ դարձան. չկա բարիք անող, չկա նույնիսկ մեկը։",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "ամբողջը"
+    },
+    {
+      "surface": "סג",
+      "gloss": "ետ քաշվեց"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "միասին"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "պիղծ դարձան"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "անող"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "բարիք"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "גם",
+      "gloss": "նույնիսկ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:05:39.504055693Z",
+  "model": "glm-5.3"
+}

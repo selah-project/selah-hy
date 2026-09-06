@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 19:37",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Եվ ծնեց ավագը որդի, և կոչեց նրա անունը Մոավ. նա է Մոավի հայրը մինչև այսօր։",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "ավագը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "և կոչեց"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "նրա անունը"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Մոավ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "հայրը"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Մոավի"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "היום",
+      "gloss": "այսօր"
+    }
+  ],
+  "timestamp": "2026-09-05T18:16:13.340241308Z",
+  "model": "glm-5.3"
+}

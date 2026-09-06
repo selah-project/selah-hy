@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 35,
+  "translation": "Եվ եղան Իցխակի օրերը հարյուր տարի և ութսուն տարի։",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Եվ եղան"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "օրերը"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Իցխակի"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "և ութսուն"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:25:24.223665019Z",
+  "model": "glm-5.3"
+}

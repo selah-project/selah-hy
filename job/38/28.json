@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 38:28",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 38,
+  "translation": "Արդյո՞ք անձրևն ունի հայր, թե՞ ով ծնեց ցողի կաթիլներին։",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "Արդյո՞ք ունի"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "անձրևն"
+    },
+    {
+      "surface": "אב",
+      "gloss": "հայր"
+    },
+    {
+      "surface": "או",
+      "gloss": "թե"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ով"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "אגלי",
+      "gloss": "կաթիլներին"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ցողի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:51:10.967847390Z",
+  "model": "glm-5.3"
+}

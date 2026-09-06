@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ խոսեց Յահվե դեպի Մոշե և դեպի Ահարոն՝ ասելով։",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "և խոսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշե"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և դեպի"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ահարոն"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T19:13:15.760801396Z",
+  "model": "glm-5.3"
+}

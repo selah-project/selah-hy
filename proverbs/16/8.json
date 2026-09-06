@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Լավ է քիչը արդարությամբ, քան եկամտի առատությունը՝ առանց իրավունքի։",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "լավ է"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "քիչը"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "արդարությամբ"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "առատությունը"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "եկամտի"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "առանց"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "իրավունքի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:33:08.474006239Z",
+  "model": "glm-5.3"
+}

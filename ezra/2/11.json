@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Բեբայի որդիներ՝ վեց հարյուր քսաներեք։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "Բեբայի"
+    },
+    {
+      "surface": "שש",
+      "gloss": "վեց"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "քսան"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "երեք"
+    }
+  ],
+  "timestamp": "2026-09-06T00:15:03.487830732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Քոնն եմ ես՝ փրկի՛ր ինձ, որովհետև քո պիկուդները ես փնտրել։",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "քոն"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "փրկիր ինձ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "քո պիկուդները"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "փնտրել եմ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:22:55.951009526Z",
+  "model": "glm-5.3"
+}

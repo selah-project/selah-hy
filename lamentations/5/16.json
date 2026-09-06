@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Ընկավ մեր գլխի պսակը. վա՜յ հիմա մեզ, որովհետև մեղանչեցինք։",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "Ընկավ"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "պսակը"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "մեր գլխի"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "վա՜յ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "հիմա"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "մեզ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "մեղանչեցինք"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:12.458025498Z",
+  "model": "glm-5.3"
+}

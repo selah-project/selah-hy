@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Քանի որ Ադոնայը հավիտյան չի մերժի։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "մերժի"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "հավիտյան"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:23.944426281Z",
+  "model": "glm-5.3"
+}

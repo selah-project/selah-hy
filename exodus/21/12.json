@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Մարդ հարվածողը, որ մեռնի՝ մահվամբ պետք է մեռցնել ⟨նրան⟩։",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "հարվածողը"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "որ մեռնի"
+    },
+    {
+      "surface": "מות",
+      "gloss": "մահվամբ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "պետք է մեռցնել"
+    }
+  ],
+  "timestamp": "2026-09-05T18:44:01.219186253Z",
+  "model": "glm-5.3"
+}

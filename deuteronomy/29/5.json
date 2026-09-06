@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Հաց չեք կերել, և գինի ու խմիչք չեք խմել, որպեսզի իմանաք, որ ես եմ Յահվեն՝ ձեր Էլոհիմը։",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "Հաց"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չեք"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "կերել"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "և գինի"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ու խմիչք"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չեք"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "խմել"
+    },
+    {
+      "surface": "למען",
+      "gloss": "որպեսզի"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "իմանաք"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ձեր Էլոհիմը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:46:51.101131407Z",
+  "model": "glm-5.3"
+}

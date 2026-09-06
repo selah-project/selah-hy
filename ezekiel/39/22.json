@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 39:22",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 39,
+  "translation": "Եվ իմանա Իսրայելի տունը, որ ես եմ Յահվե՝ իրենց Էլոհիմը, այն օրվանից և հետո։",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "և իմանա"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տուն"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "իրենց Էլոհիմը"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ից"
+    },
+    {
+      "surface": "היום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "և հետո"
+    }
+  ],
+  "timestamp": "2026-09-05T22:26:32.611513715Z",
+  "model": "glm-5.3"
+}

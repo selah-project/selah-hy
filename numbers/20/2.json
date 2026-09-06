@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Եվ ջուր չկար համայնքի համար, և հավաքվեցին Մոշեի և Ահարոնի դեմ։",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "կար"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջուր"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "համայնքի համար"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "հավաքվեցին"
+    },
+    {
+      "surface": "על",
+      "gloss": "դեմ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեի"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "և դեմ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ահարոնի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:22:33.221638603Z",
+  "model": "glm-5.3"
+}

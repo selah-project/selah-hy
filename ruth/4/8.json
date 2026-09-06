@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 4:8",
+  "book": "ruth",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ ասաց փրկիչը Բոազին՝ գնիր քեզ։ Եվ հանեց իր կոշիկը։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "փրկիչը"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "Բոազին"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "գնիր"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "וישלף",
+      "gloss": "Եվ հանեց"
+    },
+    {
+      "surface": "נעלו",
+      "gloss": "իր կոշիկը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:55:06.600412076Z",
+  "model": "glm-5.3"
+}

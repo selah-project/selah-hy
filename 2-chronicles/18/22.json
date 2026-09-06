@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 18:22",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Այժմ ահա՝ Յահվեն դրեց սուտ հոգի քո այս մարգարեների բերանում, և Յահվեն խոսեց քո դեմ չարիք։",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Այժմ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "դրեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "հոգի"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "սուտ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "բերանում"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "մարգարեներիդ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "և Յահվեն"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսեց"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "քո դեմ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "չարիք"
+    }
+  ],
+  "timestamp": "2026-09-06T00:46:22.079046131Z",
+  "model": "glm-5.3"
+}

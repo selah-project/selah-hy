@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Այսպես ասաց Ադոնայ Յահվե՝ չարիք մեկ, չարիք, ահա գալիս է։",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Այսպես"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "չարիք"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "չարիք"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "באה",
+      "gloss": "գալիս է"
+    }
+  ],
+  "timestamp": "2026-09-05T22:08:32.085864177Z",
+  "model": "glm-5.3"
+}

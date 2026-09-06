@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Եվ եղավ Յահվեի խոսքը նրա մոտ՝ ասելով․",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "նրա մոտ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով․"
+    }
+  ],
+  "timestamp": "2026-09-05T20:52:49.281449413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 4:11",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ ջուրը չափով կխմես՝ հինի վեցերորդ մասը. որոշ ժամից մինչև որոշ ժամ կխմես։",
+  "tokens": [
+    {
+      "surface": "ומים",
+      "gloss": "Եվ ջուրը"
+    },
+    {
+      "surface": "במשורה",
+      "gloss": "չափով"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "կխմես"
+    },
+    {
+      "surface": "ששית",
+      "gloss": "վեցերորդ մասը"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "հինի"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "որոշ ժամից"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "עת",
+      "gloss": "որոշ ժամ"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "կխմես"
+    }
+  ],
+  "timestamp": "2026-09-05T22:08:01.895600842Z",
+  "model": "glm-5.3"
+}

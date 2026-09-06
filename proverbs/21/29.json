@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 21:29",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Ապարհակեց չար մարդը իր երեսը, իսկ ուղիծը՝ նա կհաստատի իր ճանապարհները։",
+  "tokens": [
+    {
+      "surface": "העז",
+      "gloss": "ապարհակեց"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "չար"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "իր երեսը"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "իսկ ուղիծը"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "կհաստատի"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "իր ճանապարհները"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:50.727944933Z",
+  "model": "glm-5.3"
+}

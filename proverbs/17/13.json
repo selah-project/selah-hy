@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Չարը բարու դիմաց հետ դարձնողից՝ չարը նրա տնից չի հեռանա։",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "հետ դարձնողից"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "չարը"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "դիմաց"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "բարու"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "հեռանա"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "չարը"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "նրա տնից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:32:53.764403741Z",
+  "model": "glm-5.3"
+}

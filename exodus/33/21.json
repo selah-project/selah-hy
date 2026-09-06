@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 33,
+  "translation": "Եվ ասաց Յահվեն՝ ահա ⟨առ⟩ տեղ ⟨את⟩ իմ մոտ, և դու կկանգնես ժայռի վրա։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "տեղ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ իմ մոտ",
+      "marks": "տեղ"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "և դու կկանգնես"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "ժայռի"
+    }
+  ],
+  "timestamp": "2026-09-06T02:53:25.869159655Z",
+  "model": "glm-5.3"
+}

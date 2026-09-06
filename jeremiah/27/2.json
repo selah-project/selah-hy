@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 27:2",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Այսպես ասաց Յահվեն ինձ. Արիր քեզ կապանքներ և լծեր, և դիր դրանք քո վզիդ վրա։",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Այսպես"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արիր"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "מוסרות",
+      "gloss": "կապանքներ"
+    },
+    {
+      "surface": "ומטות",
+      "gloss": "և լծեր"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "և դիր դրանք"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "վզիդ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:52:55.237382704Z",
+  "model": "glm-5.3"
+}

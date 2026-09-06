@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 8:30",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ ես եղա նրա կողքին՝ վարպետ, և ես եղա հաճույք՝ օր օրի, խաղալով նրա առջև ամեն ժամանակ։",
+  "tokens": [
+    {
+      "surface": "ואהיה",
+      "gloss": "և ես եղա"
+    },
+    {
+      "surface": "אצלו",
+      "gloss": "նրա կողքին"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "վարպետ"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "և ես եղա"
+    },
+    {
+      "surface": "שעשעים",
+      "gloss": "հաճույք"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "משחקת",
+      "gloss": "խաղալով"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "նրա առջև"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ժամանակ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:30:42.493400484Z",
+  "model": "glm-5.3"
+}

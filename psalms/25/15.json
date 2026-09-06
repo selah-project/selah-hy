@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Իմ աչքերը միշտ դեպի Յահվեն են, որովհետև նա է, որ կհանի իմ ոտքերը ցանցից։",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "իմ աչքերը"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "միշտ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա է"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "կհանի"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "ցանցից"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "իմ ոտքերը"
+    }
+  ],
+  "timestamp": "2026-09-05T22:58:08.278027706Z",
+  "model": "glm-5.3"
+}

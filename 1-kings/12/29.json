@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Եվ դրեց ⟨את⟩ մեկին Բեթ-Էլում, իսկ ⟨את⟩ մեկին դրեց Դանում։",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "և դրեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "մեկին"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "մեկին"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Բեթ-Էլում"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Բեթ-Էլ (տեղանուն)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "մեկին"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "մեկին"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "դրեց"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Դանում"
+    }
+  ],
+  "timestamp": "2026-09-05T20:51:54.622051384Z",
+  "model": "glm-5.3"
+}

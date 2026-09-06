@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "⟨את⟩ ամեն ագռավ իր տեսակով։",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ամեն ագռավ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ագռավ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "իր տեսակով"
+    }
+  ],
+  "timestamp": "2026-09-05T18:59:52.158748047Z",
+  "model": "glm-5.3"
+}

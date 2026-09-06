@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 15:15",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Աղքատի բոլոր օրերը չար են, իսկ բարի սիրտը մշտական խրախճանք է։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "օրերը"
+    },
+    {
+      "surface": "עני",
+      "gloss": "Աղքատի"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "չար"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "իսկ բարի"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սիրտը"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "խրախճանք"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "մշտական"
+    }
+  ],
+  "timestamp": "2026-09-05T23:32:48.066444303Z",
+  "model": "glm-5.3"
+}

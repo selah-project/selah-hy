@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 28:38",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Բազմաթիվ սերմ դուրս կհանես դաշտ, և քիչ կհավաքես, որովհետև ծղրիդը կուտի այն։",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "սերմ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "բազմաթիվ"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "դուրս կհանես"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "դաշտ"
+    },
+    {
+      "surface": "ומעט",
+      "gloss": "և քիչ"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "կհավաքես"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "יחסלנו",
+      "gloss": "կուտի այն"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "ծղրիդը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:45:39.277896815Z",
+  "model": "glm-5.3"
+}

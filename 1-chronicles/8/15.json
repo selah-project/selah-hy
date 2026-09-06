@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 8:15",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "և Զեվադյան, և Արադը, և Էդերը։",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "և Զեվադյան"
+    },
+    {
+      "surface": "וערד",
+      "gloss": "և Արադը"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "և Էդերը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:52.465840776Z",
+  "model": "glm-5.3"
+}

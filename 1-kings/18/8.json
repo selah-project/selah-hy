@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Եվ ասաց նրան՝ «Ես եմ. գնա, ասա քո տիրոջը՝ ահա, Էլիյահուն»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ես եմ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "գնա"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասա"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "քո տիրոջը"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Էլիյահուն"
+    }
+  ],
+  "timestamp": "2026-09-05T20:54:25.102346960Z",
+  "model": "glm-5.3"
+}

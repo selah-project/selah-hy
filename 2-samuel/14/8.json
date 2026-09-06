@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ ասաց թագավորը կնոջը՝ «Գնա քո տուն, և ես կհրամայեմ քո մասին»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "կնոջը"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "գնա"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "քո տուն"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "և ես"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "կհրամայեմ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "քո մասին"
+    }
+  ],
+  "timestamp": "2026-09-05T20:35:14.357289732Z",
+  "model": "glm-5.3"
+}

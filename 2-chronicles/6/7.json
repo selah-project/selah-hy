@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 6:7",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ եղավ Դավթի՝ հորս սրտում տուն կառուցել Յահվե՝ Իսրայելի Էլոհիմի Անվան համար։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "սրտ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Դավթի"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "հորս"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "կառուցել"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տուն"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "Անվան"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Էլոհիմի"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:41:07.391403126Z",
+  "model": "glm-5.3"
+}

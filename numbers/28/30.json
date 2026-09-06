@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "մեկ շին այծ՝ ձեզ համար քավություն անելու համար։",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "շին"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "այծ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "քավելու"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ձեզ վրա"
+    }
+  ],
+  "timestamp": "2026-09-05T19:27:02.569656614Z",
+  "model": "glm-5.3"
+}

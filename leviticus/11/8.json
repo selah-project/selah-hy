@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Նրանց մսից մի՛ կերեք և նրանց լեշին մի՛ հպեք՝ անմաքուր են նրանք ձեզ համար։",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "նրանց մսից"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "կերեք"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "և նրանց լեշին"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "հպեք"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "անմաքուր են"
+    },
+    {
+      "surface": "הם",
+      "gloss": "նրանք"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:01:10.445305939Z",
+  "model": "glm-5.3"
+}

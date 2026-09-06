@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 112,
+  "translation": "Քանի որ հավիտյան չի տատանվի. արդարի հիշատակը հավիտենիք կլինի։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Քանի որ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "հավիտյան"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "տատանվի"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "հիշատակի համար"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "հավիտենիք"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "կլինի"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "արդարը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:20:40.342881640Z",
+  "model": "glm-5.3"
+}

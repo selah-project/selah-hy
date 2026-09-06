@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 24:17",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Երբ ընկնի քո թշնամին, մի՛ ուրախացիր, և երբ նա սայթաքի, մի՛ թող քո սիրտը ցնծա.",
+  "tokens": [
+    {
+      "surface": "בנפל",
+      "gloss": "երբ ընկնի"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "քո թշնամին"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תשמח",
+      "gloss": "ուրախացիր"
+    },
+    {
+      "surface": "ובכשלו",
+      "gloss": "և երբ սայթաքի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "ցնծա"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "քո սիրտը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:58.256521729Z",
+  "model": "glm-5.3"
+}

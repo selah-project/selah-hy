@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Իսկ այդ մարդը՝ Մոշեն, խիստ հեզ էր՝ ավելի, քան բոլոր մարդիկ, որ երկրի երեսի վրա են։",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "իսկ այդ մարդը"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "հեզ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "խիստ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ավելի, քան բոլոր"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "մարդիկ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "פני",
+      "gloss": "երեսի"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "երկրի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:19:33.693728116Z",
+  "model": "glm-5.3"
+}

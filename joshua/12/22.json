@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Կեդեշի թագավորը՝ մեկ, Քարմելի Յոքնեամի թագավորը՝ մեկ։",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Կեդեշի"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "Յոքնեամի"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "Քարմելի"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    }
+  ],
+  "timestamp": "2026-09-06T01:06:57.790347185Z",
+  "model": "glm-5.3"
+}

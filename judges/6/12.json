@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 6:12",
+  "book": "judges",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ երևաց նրան Յահվեի հրեշտակը և ասաց նրան՝ «Յահվե ⟨է⟩ քեզ հետ, հզոր քաջ»։",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Եվ երևաց"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "հրեշտակը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "քեզ հետ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "հզոր քաջ"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "արի"
+    }
+  ],
+  "timestamp": "2026-09-05T20:04:25.676519256Z",
+  "model": "glm-5.3"
+}

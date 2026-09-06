@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ եղավ, երբ մարդիկ սկսեցին բազմանալ երկրի երեսի վրա, և դուստրեր ծնվեցին նրանց։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "և եղավ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "սկսեց"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "մարդը"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "բազմանալ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "פני",
+      "gloss": "երեսի"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "և դուստրեր"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ծնվեցին"
+    },
+    {
+      "surface": "להם",
+      "gloss": "նրանց"
+    }
+  ],
+  "timestamp": "2026-09-05T18:11:42.566063068Z",
+  "model": "glm-5.3"
+}

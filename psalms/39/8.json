@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 39,
+  "translation": "Եվ հիմա՝ ի՞նչ եմ սպասում. Ադոնայ, ակնկալությունս դեպի քեզ ⟨է⟩։",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Եվ հիմա"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "եմ սպասում"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "ակնկալությունս"
+    },
+    {
+      "surface": "לך",
+      "gloss": "դեպի քեզ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨է⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T23:02:30.696481727Z",
+  "model": "glm-5.3"
+}

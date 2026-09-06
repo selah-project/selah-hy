@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Մի՛ կողոպտիր աղքատին, որովհետև աղքատ է ⟨նա⟩, և մի՛ ճմլիր տառապյալին դարպասում։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "կողոպտիր"
+    },
+    {
+      "surface": "דל",
+      "gloss": "աղքատին"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "דל",
+      "gloss": "աղքատ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "է ⟨նա⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և մի՛"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "ճմլիր"
+    },
+    {
+      "surface": "עני",
+      "gloss": "տառապյալին"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "դարպասում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:31.430545196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Ամեն չար ճանապարհից ես զսպել եմ ոտքերս, որպեսզի պահեմ քո խոսքը։",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ամեն ...ից"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ճանապարհ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չար"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "զսպել եմ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ոտքերս"
+    },
+    {
+      "surface": "למען",
+      "gloss": "որպեսզի"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "պահեմ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "քո խոսքը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:22:20.219116913Z",
+  "model": "glm-5.3"
+}

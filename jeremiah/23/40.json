@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 23:40",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Եվ դնեմ ձեզ վրա հավերժ պարսավանք և հավերժ ամոթ, որ երբեք չի մոռացվի։",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Եվ դնեմ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ձեզ վրա"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "պարսավանք"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "հավերժ"
+    },
+    {
+      "surface": "וכלמות",
+      "gloss": "և ամոթ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "հավերժ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "մոռացվի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:51:37.906274303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "և միջին կալակը տախտակների միջով անցնի ծայրից մինչև ծայրը։",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "և կալակը"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "միջին"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "միջով"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "տախտակների"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "անցնի"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ծայրից"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "ծայր"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "ծայրը"
+    }
+  ],
+  "timestamp": "2026-09-05T18:47:01.168524690Z",
+  "model": "glm-5.3"
+}

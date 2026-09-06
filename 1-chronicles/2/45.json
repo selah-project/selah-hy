@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ Շամայի որդին՝ Մաոնն ⟨էր⟩, և Մաոնը Բեթ-Ծուրի հայրն ⟨էր⟩։",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "և որդին"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Շամայի"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Մաոնն"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "և Մաոնը"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "հայրը"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Բեթ-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Ծուրի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:38.531556427Z",
+  "model": "glm-5.3"
+}

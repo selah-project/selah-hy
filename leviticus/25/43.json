@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 25:43",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Չե՛ս տիրի նրան դաժանությամբ, այլ կվախենաս քո Էլոհիմդից։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "չե՛ս"
+    },
+    {
+      "surface": "תרדה",
+      "gloss": "տիրես"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "դաժանությամբ"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "և կվախենաս"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "քո Էլոհիմդից"
+    }
+  ],
+  "timestamp": "2026-09-06T01:04:05.609347172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 6:8",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Իր նվիրման բոլոր օրերին նա սուրբ է Յահվեի համար։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "օրերին"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "իր նվիրման"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "սուրբ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեի համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:14:15.062383830Z",
+  "model": "glm-5.3"
+}

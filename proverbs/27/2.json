@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Թող օտարը փառաբանի քեզ, ոչ թե քո բերանը, օտարականը՝ ոչ թե քո շուրթերը։",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "փառաբանի քեզ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "օտարը"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ թե"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "քո բերանը"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "օտարականը"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և մի"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "քո շուրթերը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:18.733979702Z",
+  "model": "glm-5.3"
+}

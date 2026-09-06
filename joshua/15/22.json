@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 15:22",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "և Քինան, և Դիմոնան, և Ադադան։",
+  "tokens": [
+    {
+      "surface": "וקינה",
+      "gloss": "և Քինան"
+    },
+    {
+      "surface": "ודימונה",
+      "gloss": "և Դիմոնան"
+    },
+    {
+      "surface": "ועדעדה",
+      "gloss": "և Ադադան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:56:57.235881564Z",
+  "model": "glm-5.3"
+}

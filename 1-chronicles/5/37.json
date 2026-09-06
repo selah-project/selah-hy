@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "և Ազարիան ծնեց ⟨את⟩ Ամարիային, և Ամարիան ծնեց ⟨את⟩ Ախիտուբին։",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Ազարիան"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ամարիային"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Ամարիային"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "և Ամարիան"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ախիտուբին"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ախիտուբին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:28:30.122477781Z",
+  "model": "glm-5.3"
+}

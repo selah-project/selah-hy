@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Լադանի որդիները՝ գլուխը Յեխիելը, և Զետամը, և Յոելը՝ երեքը։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "Լադանի"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "գլուխը"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Յեխիել"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "և Զետամ"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "և Յոել"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "երեք"
+    }
+  ],
+  "timestamp": "2026-09-06T00:36:59.386827058Z",
+  "model": "glm-5.3"
+}

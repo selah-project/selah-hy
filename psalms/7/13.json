@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եթե չդառնա, իր սուրը նա սրում է, իր աղեղը լարել է և այն պատրաստել է։",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "դառնա"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "իր սուրը"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "սրում է"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "իր աղեղը"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "լարել է"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "և այն պատրաստել է"
+    }
+  ],
+  "timestamp": "2026-09-05T22:52:00.655050390Z",
+  "model": "glm-5.3"
+}

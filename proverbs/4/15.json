@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Հեռու պահի՛ր նրանից, մի՛ անցնիր նրանով, շեղի՛ր նրանից և անցի՛ր։",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "հեռու պահի՛ր նրանից"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "անցնիր"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրանով"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "շեղի՛ր"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "նրանից"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "և անցի՛ր"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:50.492959407Z",
+  "model": "glm-5.3"
+}

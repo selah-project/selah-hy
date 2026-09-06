@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 132,
+  "translation": "Եթե տամ քուն իմ աչքերին, իմ կոպերին՝ թմրություն՝",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "տամ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "քուն"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "իմ աչքերին"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "իմ կոպերին"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "թմրություն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:24:23.931699324Z",
+  "model": "glm-5.3"
+}

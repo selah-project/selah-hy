@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 7:4",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Մի՛ վստահեք ստի խոսքերին՝ ասելով՝ Յահվեի տաճար, Յահվեի տաճար, Յահվեի տաճար են սրանք։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Մի՛"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "վստահեք"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ին"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "խոսքերին"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "ստի"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "տաճար"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "տաճար"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "տաճար"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "המה",
+      "gloss": "են սրանք"
+    }
+  ],
+  "timestamp": "2026-09-05T21:42:34.979565875Z",
+  "model": "glm-5.3"
+}

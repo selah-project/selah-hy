@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Եվ ⟨את⟩ օծման խոյը վերցրու, և եփիր ⟨את⟩ նրա միսը սուրբ տեղում։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "օծման խոյը"
+    },
+    {
+      "surface": "איל",
+      "gloss": "խոյ"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "օծման"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "վերցրու"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "եփիր"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "նրա միսը"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "նրա միսը"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "տեղում"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "սուրբ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:50:04.458460363Z",
+  "model": "glm-5.3"
+}

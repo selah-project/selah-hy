@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Էլոհիմին մի՛ նզողի, և ժողովրդիդ իշխանին մի՛ անիծի։",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմին"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "նզողի"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "և իշխան"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "ժողովրդիդ մեջ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "անիծի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:02:21.893359117Z",
+  "model": "glm-5.3"
+}

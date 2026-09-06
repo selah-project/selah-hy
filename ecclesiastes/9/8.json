@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Ամեն ժամանակ քո հագուստները սպիտակ լինեն, և քո գլխի վրայի ձեթը թող պակաս չլինի։",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ժամանակ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "լինեն"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "քո հագուստները"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "սպիտակ"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "և ձեթը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրայի"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "քո գլխի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "թող չ"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "պակասի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:02:03.932821588Z",
+  "model": "glm-5.3"
+}

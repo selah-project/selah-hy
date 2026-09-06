@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "և կտա Յահվե Էլոհիմդ այն քո ձեռքիդ, և կհարվածես ⟨את⟩ ամեն արուին նրա՝ սրի բերանով։",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "և կտա"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Էլոհիմդ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "քո ձեռքիդ"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "և կհարվածես"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ամեն արուին նրա"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "արուին նրա"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "բերանով"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "սրի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:41:54.151412583Z",
+  "model": "glm-5.3"
+}

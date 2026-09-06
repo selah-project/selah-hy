@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Եվ շարքը երկրորդը՝ նոֆեխ, սապիր և յահալոմ։",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "և շարքը"
+    },
+    {
+      "surface": "השני",
+      "gloss": "երկրորդը"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "նոֆեխ"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "սապիր"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "և յահալոմ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:47:30.890436066Z",
+  "model": "glm-5.3"
+}

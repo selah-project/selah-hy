@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 25:11",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Չորրորդը՝ Յիցրիին՝ իր որդիները և իր եղբայրները՝ տասներկու։",
+  "tokens": [
+    {
+      "surface": "הרביעי",
+      "gloss": "չորրորդը"
+    },
+    {
+      "surface": "ליצרי",
+      "gloss": "Յիցրիին"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "իր որդիները"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "և իր եղբայրները"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "երկու"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "տասը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:37:20.858410844Z",
+  "model": "glm-5.3"
+}

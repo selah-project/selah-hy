@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Թող իմ սիրտը անարատ լինի քո կանոններում, որպեսզի չամաչեմ։",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "թող լինի"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "իմ սիրտը"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "անարատ"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "քո կանոններում"
+    },
+    {
+      "surface": "למען",
+      "gloss": "որպեսզի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ամաչեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:23:24.983862097Z",
+  "model": "glm-5.3"
+}

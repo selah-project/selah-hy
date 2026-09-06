@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Եվ տեսնի քահանան ⟨את⟩ բծն և մեկուսացնի ⟨את⟩ բծն յոթ օր։",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "և տեսնի"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "քահանան"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "բծն"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "բծն"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "և մեկուսացնի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "բծն"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "բծն"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    }
+  ],
+  "timestamp": "2026-09-05T19:02:27.678098479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Քաղցր է աշխատողի քունը՝ թե՛ քիչ ուտի և թե՛ շատ, իսկ հարուստի հագեցումը նրան քնել չի տալիս։",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "քաղցր է"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "քունը"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "աշխատողի"
+    },
+    {
+      "surface": "אם",
+      "gloss": "թե՛"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "քիչ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "թե՛"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "շատ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ուտի"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "իսկ հագեցումը"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "հարուստի"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "չի"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "տալիս"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "քնել"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:32.181448212Z",
+  "model": "glm-5.3"
+}

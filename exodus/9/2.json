@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "որովհետև եթե դու հրաժարում ես արձակելուց, և դեռ պահում ես նրանց՝",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "հրաժարում ես"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "արձակելուց"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "և դեռ"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "պահում ես"
+    },
+    {
+      "surface": "בם",
+      "gloss": "նրանց"
+    }
+  ],
+  "timestamp": "2026-09-05T18:39:06.925266910Z",
+  "model": "glm-5.3"
+}

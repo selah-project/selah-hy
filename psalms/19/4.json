@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Խոսք չկա, և բառեր չկան. նրանց ձայնը չի լսվում։",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "խոսք"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "և չկան"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "բառեր"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "առանց"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "լսվելու"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "նրանց ձայնը"
+    }
+  ],
+  "timestamp": "2026-09-05T22:57:17.291718517Z",
+  "model": "glm-5.3"
+}

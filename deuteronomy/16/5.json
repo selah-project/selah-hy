@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Չես կարող զոհել ⟨את⟩ պասախը քո դարպասներից որևէ մեկում, որ Յահվե Էլոհիմդ քեզ տալիս է։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Չես"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "կարող"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "զոհել"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "պասախը"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "պասախը"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "որևէ մեկում"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "քո դարպասներից"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Էլոհիմդ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "տալիս է"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:40:21.364286478Z",
+  "model": "glm-5.3"
+}

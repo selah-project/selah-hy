@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 35:9",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 35,
+  "translation": "և շոհամի քարեր և դրվագվող քարեր՝ էֆոդի և խոշենի համար։",
+  "tokens": [
+    {
+      "surface": "ואבני",
+      "gloss": "և քարեր"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "շոհամի"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "և քարեր"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "դրվագվող"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "էֆոդի"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "և խոշենի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:52:58.377856066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ ասաց Յահվե ինձ՝ ասելով. տեսա ⟨את⟩ ժողովուրդը այս, և ահա՝ վիզը կոշտ ժողովուրդ ⟨է⟩ նա։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "տեսա"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ժողովուրդը այս"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովուրդը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "և ահա"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ժողովուրդ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "կոշտ"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "վիզը"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    }
+  ],
+  "timestamp": "2026-09-05T19:36:36.014057253Z",
+  "model": "glm-5.3"
+}

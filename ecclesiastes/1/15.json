@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Աղավաղվածը հնարավոր չէ ուղղել, և պակասուրդը հնարավոր չէ հաշվել։",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "Աղավաղվածը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "հնարավոր է"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "ուղղել"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "և պակասուրդը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "հնարավոր է"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "հաշվել"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:58.541009914Z",
+  "model": "glm-5.3"
+}

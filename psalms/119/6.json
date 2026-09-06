@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Ապա չեմ ամաչի՝ նայելիս դեպի ամբողջ պատվիրաններդ։",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ապա"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ամաչեմ"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "նայելիս"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "պատվիրաններդ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:56.101623163Z",
+  "model": "glm-5.3"
+}

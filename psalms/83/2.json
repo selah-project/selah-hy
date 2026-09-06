@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 83,
+  "translation": "Էլոհիմ, մի՛ եղիր անձայն քո մասին, մի՛ լռիր և մի՛ հանգիր, Է՛լ։",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "անձայն"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քո մասին"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "լռիր"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և մի՛"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "հանգիր"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Է՛լ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:12:01.820699827Z",
+  "model": "glm-5.3"
+}

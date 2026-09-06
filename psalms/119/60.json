@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Շտապեցի և չուշացրի պահելու քո պատվիրանները։",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "Շտապեցի"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "ուշացրի"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "պահելու"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "պատվիրաններդ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:22:06.041421390Z",
+  "model": "glm-5.3"
+}

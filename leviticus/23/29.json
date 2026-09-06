@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 23:29",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Որովհետև ամեն նեֆեշ, որ չի տանջվի հենց այդ օրվա մեջ, կկտրվի իր ժողովրդից։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "նեֆեշ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "տանջվի"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "հենց"
+    },
+    {
+      "surface": "היום",
+      "gloss": "օրվա մեջ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "կկտրվի"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "իր ժողովրդից"
+    }
+  ],
+  "timestamp": "2026-09-05T19:09:06.604076484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 20:14",
+  "book": "1-samuel",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Եվ ոչ միայն, եթե ես դեռ ողջ լինեմ, անես ինձ հետ Յահվեի խեսեդ, այլև՝ որ ես չմեռնեմ։",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Եվ ոչ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "ես դեռ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ողջ լինեմ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "այլև ոչ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "անես"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ինձ հետ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "խեսեդ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ես չմեռնեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T20:23:46.281966126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Մի՛ խախտեր հավերժության սահմանը, որ դրել են քո հայրերը։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "խախտեր"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "սահմանը"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "հավերժության"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "դրել են"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "քո հայրերը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:13.459177709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 17:17",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Եվ կանայք չպետք է բազմացնի իրեն, և չպետք է շեղի իր սիրտը, և արծաթ ու ոսկի չափազանց չպետք է բազմացնի իրեն։",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Եվ ոչ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "բազմացնի"
+    },
+    {
+      "surface": "לו",
+      "gloss": "իրեն"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "կանայք"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "շեղի"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "իր սիրտը"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "և արծաթ"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ու ոսկի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "բազմացնի"
+    },
+    {
+      "surface": "לו",
+      "gloss": "իրեն"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "չափազանց"
+    }
+  ],
+  "timestamp": "2026-09-05T19:41:59.100675487Z",
+  "model": "glm-5.3"
+}

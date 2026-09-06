@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 71,
+  "translation": "Քեզնում, Յահվե, ապաստանեցի. թո՛ղ երբեք չամոթանամ։",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Քեզնում"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ապաստանեցի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "թող չ"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ամոթանամ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "երբեք"
+    }
+  ],
+  "timestamp": "2026-09-05T23:08:59.493539110Z",
+  "model": "glm-5.3"
+}

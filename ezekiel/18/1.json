@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 18:1",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Եվ եղավ Յահվեի խոսքը ինձ առաջ՝ ասելով՝",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ինձ առաջ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով՝"
+    }
+  ],
+  "timestamp": "2026-09-05T22:14:29.831390734Z",
+  "model": "glm-5.3"
+}

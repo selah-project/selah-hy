@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 8:23",
+  "book": "judges",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ ասաց նրանց Գիդեոնը. ես չեմ իշխի ձեզ, և որդիս չի իշխի ձեզ. Յահվեն է իշխելու ձեզ։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Գիդեոնը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "אמשל",
+      "gloss": "ես չեմ իշխի"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "չի իշխի"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիս"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "է իշխելու"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ձեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T20:06:20.342407725Z",
+  "model": "glm-5.3"
+}

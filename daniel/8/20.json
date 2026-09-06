@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Խոյը, որ տեսար՝ եղջյուրների տերը, Մադայի և Պարասի արքաներն են։",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "խոյը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "տեսար"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "տերը"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "եղջյուրների"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "արքաներ"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Մադայի"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "և Պարաս"
+    }
+  ],
+  "timestamp": "2026-09-06T00:11:48.300124259Z",
+  "model": "glm-5.3"
+}

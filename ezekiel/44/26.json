@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 44:26",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 44,
+  "translation": "Եվ իր մաքրվելուց հետո յոթ օր թող հաշվեն նրա համար։",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Եվ հետո"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "իր մաքրվելու"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "թող հաշվեն"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրա համար"
+    }
+  ],
+  "timestamp": "2026-09-05T22:28:29.900728516Z",
+  "model": "glm-5.3"
+}

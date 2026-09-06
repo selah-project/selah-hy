@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 7:18",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Ադոնիկամի որդիները՝ վեց հարյուր վաթսուն յոթ։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "Ադոնիկամի"
+    },
+    {
+      "surface": "שש",
+      "gloss": "վեց"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "վաթսուն"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "յոթ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:27.317110426Z",
+  "model": "glm-5.3"
+}

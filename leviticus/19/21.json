@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Եվ կբերի ⟨את⟩ իր մեղքի զոհը Յահվեին՝ հանդիպման վրանի մուտքի մոտ՝ մեղքի զոհի խոյ։",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "և կբերի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "իր մեղքի զոհը"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "իր մեղքի զոհը"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "אל",
+      "gloss": "առ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "մուտք"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "վրան"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "հանդիպման"
+    },
+    {
+      "surface": "איל",
+      "gloss": "խոյ"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "մեղքի զոհ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:06:27.813087208Z",
+  "model": "glm-5.3"
+}

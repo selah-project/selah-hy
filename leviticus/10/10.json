@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "և առանձնացնելու ⟨եք⟩ սրբի և աշխարհիկի, անմաքրի և մաքրի միջև։",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "և առանձնացնելու"
+    },
+    {
+      "surface": "בין",
+      "gloss": "միջև"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "սրբի"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "և միջև"
+    },
+    {
+      "surface": "החל",
+      "gloss": "աշխարհիկի"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "և միջև"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "անմաքրի"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "և միջև"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "մաքրի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:59:55.365257653Z",
+  "model": "glm-5.3"
+}

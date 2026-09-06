@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Սալայի՝ Կալայ. Ամոքի՝ Էվեր։",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "Սալայի"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "Կալայ"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "Ամոքի"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Էվեր"
+    }
+  ],
+  "timestamp": "2026-09-06T00:25:42.079371673Z",
+  "model": "glm-5.3"
+}

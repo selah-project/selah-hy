@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 92,
+  "translation": "տասնալարի վրա և նաբելի վրա, հիգայոնի վրա քնարով։",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "տասնալարի"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "և վրա"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "նաբելի"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "հիգայոնի"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "քնարով"
+    }
+  ],
+  "timestamp": "2026-09-05T23:15:03.049931242Z",
+  "model": "glm-5.3"
+}

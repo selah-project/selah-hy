@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Քանի որ եթե տառապանք պատճառեց, ապա կողջակցի ըստ իր խեսեդի առատության։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "տառապանք պատճառեց"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "ապա կողջակցի"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "ըստ ... առատության"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "իր խեսեդի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:23.944563245Z",
+  "model": "glm-5.3"
+}

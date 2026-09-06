@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 28:11",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Եվ եղավ Յահվեի խոսքը ինձ մոտ՝ ասելով.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-06T02:51:33.795832328Z",
+  "model": "glm-5.3"
+}

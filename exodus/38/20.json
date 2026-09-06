@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 38,
+  "translation": "Եվ Միշքանի և շուրջբոլոր այգու բոլոր ձգանները՝ պղինձ էին։",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Եվ բոլոր"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "ձգանները"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Միշքանի"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "և այգու"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "շուրջբոլոր"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "պղինձ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:54:50.739487608Z",
+  "model": "glm-5.3"
+}

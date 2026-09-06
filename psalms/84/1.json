@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 84,
+  "translation": "Երգչապետի համար՝ գիթիթի վրա, Կորախի որդիների մաղթամուր։",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Երգչապետի համար"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "գիթիթի"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Կորախի"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "մաղթամուր"
+    }
+  ],
+  "timestamp": "2026-09-05T23:14:00.254748146Z",
+  "model": "glm-5.3"
+}

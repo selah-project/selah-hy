@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Գուցե լսողը ամոթահար անի քեզ, և քո նշանաբանությունը ետ չդառնա։",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "գուցե"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "ամոթահար անի քեզ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "լսողը"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "և քո նշանաբանությունը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ետ չդառնա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:47.688553671Z",
+  "model": "glm-5.3"
+}

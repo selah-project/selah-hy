@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Եվ Շմայահուին՝ Նեխելամցուն, ասես՝ ասելով.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Եվ -ին"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "Շմայահու"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "Նեխելամցուն՝"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ասես"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T21:53:55.248715678Z",
+  "model": "glm-5.3"
+}

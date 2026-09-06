@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Գադից՝ Էլյասաֆ Դեուելի որդին։",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "Գադից"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Էլյասաֆ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Դեուելի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:11:11.617397340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 17:11",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Ըստ այն Թորայի բերանի, որ քեզ կուսուցանեն, և ըստ այն դատավճռի, որ քեզ կասեն, անես. չշեղվես այն խոսքից, որ քեզ կհայտնեն՝ աջ կամ ձախ։",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ըստ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "բերանի"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Թորայի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "քեզ կուսուցանեն"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "և ըստ"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "դատավճռի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "կասեն"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "անես"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "շեղվես"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ից"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "խոսքի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "կհայտնեն"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "աջ"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "կամ ձախ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:42:18.367134584Z",
+  "model": "glm-5.3"
+}

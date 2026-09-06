@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Եվ ամեն սողացող, որ սողում է երկրի վրա, զզվելի ⟨է⟩՝ չի ուտվի։",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "և ամեն"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "սողացողը"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "սողում է"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "զզվելի"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨է⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "կուտվի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:01:03.877464850Z",
+  "model": "glm-5.3"
+}

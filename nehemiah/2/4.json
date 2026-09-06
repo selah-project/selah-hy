@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 2:4",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ ասաց ինձ թագավորը՝ ի՞նչ ես դու խնդրում։ Եվ աղոթեցի երկնքի Էլոհիմին։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "על",
+      "gloss": "առաջ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ինչ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "սա"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "խնդրում"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "և աղոթեցի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Էլոհիմի"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "երկնքի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:20:43.523669949Z",
+  "model": "glm-5.3"
+}

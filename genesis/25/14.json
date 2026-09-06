@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "և Միշման, և Դուման, և Մասսան։",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "և Միշման"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "և Դուման"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "և Մասսան"
+    }
+  ],
+  "timestamp": "2026-09-05T18:19:10.079384892Z",
+  "model": "glm-5.3"
+}

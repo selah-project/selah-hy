@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 2:16",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Ատերի որդիները՝ Խիզկիահունը՝ իննսուն ութ։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "Ատերի"
+    },
+    {
+      "surface": "ליחזקיה",
+      "gloss": "Խիզկիահունը"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "իննսուն"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "և ութ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:14:53.218936155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Եվ ասաց Իշայահուն Խիզկիյահուին. «Լսի՛ր Յահվեի խոսքը։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Իշայահուն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ց"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Խիզկիյահուին"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Լսի՛ր"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:10:47.113232035Z",
+  "model": "glm-5.3"
+}

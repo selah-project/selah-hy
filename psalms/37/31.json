@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 37,
+  "translation": "Իր Էլոհիմի Թորան ⟨է⟩ իր սրտում, նրա քայլերը չեն սայթաքի։",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Թորան"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "իր Էլոհիմի"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "իր սրտում"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չեն"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "սայթաքի"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "նրա քայլերը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:01:28.531626618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Ես փառաբանում եմ ⟨את⟩ մեռելներին, որ արդեն մեռան, քան ողջերին, որ նրանք դեռ ողջ են։",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "և փառաբանում եմ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "մեռելներին"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "մեռելներին"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "արդեն"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "մեռան"
+    },
+    {
+      "surface": "מן",
+      "gloss": "քան"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ողջերին"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "նրանք"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ողջ են"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "դեռ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:22.980625921Z",
+  "model": "glm-5.3"
+}

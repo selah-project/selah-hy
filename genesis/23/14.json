@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Եվ պատասխանեց Եփրոնը ⟨את⟩ Աբրահամին՝ ասելով նրան.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "և պատասխանեց"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Եփրոնը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Աբրահամին"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Աբրահամին"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T18:17:06.891971630Z",
+  "model": "glm-5.3"
+}

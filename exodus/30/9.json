@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 30:9",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Մի բարձրացրեք դրա վրա օտար խունկ, ոչ ողջակեզ, ոչ ընծա, և ընծեք մի լեցրեք դրա վրա։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "բարձրացրեք"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "դրա վրա"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "խունկ"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "օտար"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "և ողջակեզ"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "և ընծա"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "և ընծեք"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תסכו",
+      "gloss": "լեցրեք"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "դրա վրա"
+    }
+  ],
+  "timestamp": "2026-09-05T18:48:42.313986226Z",
+  "model": "glm-5.3"
+}

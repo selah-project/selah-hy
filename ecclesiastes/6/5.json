@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Նույնիսկ արևը չի տեսել և ոչինչ չի իմացել. այս մեկը նորից ավելի հանգիստ ունի, քան այն մեկը։",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "նույնիսկ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "արևը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "տեսել"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչինչ չի"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "իմացել"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "հանգիստ"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "այս մեկը"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "քան այն մեկը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:57.103410458Z",
+  "model": "glm-5.3"
+}

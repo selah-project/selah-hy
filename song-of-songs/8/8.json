@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Քույր ունենք մեզ փոքր, և կրծքեր չունի նա։ Ի՞նչ անենք մեր քրոջ համար այն օրը, երբ նրա մասին խոսվի։",
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "Քույր"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ունենք մեզ"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "փոքր"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "և կրծքեր"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չունի"
+    },
+    {
+      "surface": "לה",
+      "gloss": "նա"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ի՞նչ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "անենք"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "մեր քրոջ համար"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "այն օրը"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "երբ խոսվի"
+    },
+    {
+      "surface": "בה",
+      "gloss": "նրա մասին"
+    }
+  ],
+  "timestamp": "2026-09-06T01:19:57.475140477Z",
+  "model": "glm-5.3"
+}

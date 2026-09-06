@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Իմերի որդիները՝ հազար հիսուն երկուսը։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Իմերի"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "հազար"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "հիսուն"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "և երկուսը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:15:26.277781470Z",
+  "model": "glm-5.3"
+}

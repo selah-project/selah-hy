@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 78,
+  "translation": "Բացավ ծովը և անցկացրեց նրանց, և կանգնեցրեց ջրերը որպես կույտ։",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "Բացավ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ծովը"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "և անցկացրեց նրանց"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "և կանգնեցրեց"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջրերը"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "որպես"
+    },
+    {
+      "surface": "נד",
+      "gloss": "կույտ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:10:45.265071837Z",
+  "model": "glm-5.3"
+}

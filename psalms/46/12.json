@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 46,
+  "translation": "Յահվե Ծեվաոթը մեզ հետ է, մեզ համար ապառաժ Յաակովի Էլոհիմը։ Սելա։",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ծեվաոթ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "մեզ հետ"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "ապառաժ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "մեզ համար"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Էլոհիմ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Յաակովի"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Սելա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:03:15.070681964Z",
+  "model": "glm-5.3"
+}

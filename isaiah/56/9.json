@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 56,
+  "translation": "Բոլոր դաշտի գազանները, եկե՛ք հոշոտելու, բոլոր անտառի գազանները։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Բոլոր"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "գազանները"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "դաշտի"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "եկե՛ք"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "հոշոտելու"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "գազանները"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "անտառի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:33:27.009671649Z",
+  "model": "glm-5.3"
+}

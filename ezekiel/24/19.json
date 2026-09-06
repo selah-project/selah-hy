@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 24:19",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Եվ ասաց ինձ ժողովուրդը՝ չե՞ս ասի՞ մեզ, թե այդ բաները ինչ են մեզ համար, որ դու ⟨ես⟩ անում։",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովուրդը"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "չէ՞ որ"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "ասի՞"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "մեզ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "թե ինչ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "այդ բաները"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "մեզ համար"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "անում"
+    }
+  ],
+  "timestamp": "2026-09-05T22:17:58.300090235Z",
+  "model": "glm-5.3"
+}

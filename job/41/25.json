@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 41:25",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 41,
+  "translation": "Փոշու վրա չկա նրա հավասարը՝ իշխանի. նա արված է առանց վախի։",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "փոշի"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "նրա հավասարը՝ իշխանի"
+    },
+    {
+      "surface": "העשו",
+      "gloss": "արված է"
+    },
+    {
+      "surface": "לבלי",
+      "gloss": "առանց"
+    },
+    {
+      "surface": "חת",
+      "gloss": "վախի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:52:08.880169776Z",
+  "model": "glm-5.3"
+}

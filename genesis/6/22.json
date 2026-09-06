@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ արեց Նոյը ամեն այն, ինչ պատվիրել էր ⟨את⟩ նրան ⟨את⟩ Էլոհիմը, այդպես էլ արեց։",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Եվ արեց"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Նոյը"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ամեն այն"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ինչ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "պատվիրել էր"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ նրան"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այդպես"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արեց"
+    }
+  ],
+  "timestamp": "2026-09-05T18:09:33.284731740Z",
+  "model": "glm-5.3"
+}

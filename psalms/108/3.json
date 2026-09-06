@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 108,
+  "translation": "Արթնացի՛ր, նավել և քինոր. ես կարթնացնեմ արշալույսը։",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Արթնացի՛ր"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "նավել"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "և քինոր"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ես կարթնացնեմ"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "արշալույսը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:20:16.027127678Z",
+  "model": "glm-5.3"
+}

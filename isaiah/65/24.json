@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 65,
+  "translation": "Եվ լինի՝ դեռ չկանչեն, և ես պատասխանեմ, դեռ իրենք խոսում են, և ես լսեմ։",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Եվ լինի"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "դեռ չ"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "կանչեն"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "և ես"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "պատասխանեմ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "դեռ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "իրենք"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "խոսում են"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "և ես"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "լսեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:38:16.473410915Z",
+  "model": "glm-5.3"
+}

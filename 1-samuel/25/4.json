@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Եվ լսեց Դավիդը անապատում, որ Նավալը խուզում է ⟨את⟩ իր հոտը։",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Եվ լսեց"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Դավիդը"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "անապատում"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "խուզում է"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Նավալը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "իր հոտը"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "իր հոտը"
+    }
+  ],
+  "timestamp": "2026-09-05T20:25:55.758452521Z",
+  "model": "glm-5.3"
+}

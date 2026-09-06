@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 48:18",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 48,
+  "translation": "Եվ ասաց Յոսեֆը հորը՝ ոչ այսպես, հայր իմ, որովհետև սա է անդրանիկը. դիր քո աջ ձեռքը նրա գլխի վրա։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Յոսեֆը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "հորը (դեպի)"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "հորը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այսպես"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "հայր իմ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "זה",
+      "gloss": "սա"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "անդրանիկն է"
+    },
+    {
+      "surface": "שים",
+      "gloss": "դիր"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "քո աջ ձեռքը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "նրա գլխի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:31:58.185001281Z",
+  "model": "glm-5.3"
+}

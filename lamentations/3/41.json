@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Բարձրացնենք մեր սիրտը ափերի վրա՝ դեպի Էլը երկինքներում։",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Բարձրացնենք"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "մեր սիրտը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ափերի վրա"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլը"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "երկինքներում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:51.343666887Z",
+  "model": "glm-5.3"
+}

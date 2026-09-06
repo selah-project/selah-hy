@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 78,
+  "translation": "Եվ հանեց առուներ ժայռից, և իջեցրեց ջրերը գետերի պես։",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "և հանեց"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "առուներ"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "ժայռից"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "և իջեցրեց"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "գետերի պես"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջրեր"
+    }
+  ],
+  "timestamp": "2026-09-05T23:10:45.266019172Z",
+  "model": "glm-5.3"
+}

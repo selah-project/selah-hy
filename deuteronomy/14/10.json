@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ ամեն ինչ, որ չունի լողակ և թեփուկ, չեք ուտի՝ անմաքուր է ⟨այն⟩ ձեզ համար։",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "և ամեն ինչ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չունի"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "լողակ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "և թեփուկ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "չեք ուտի"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "անմաքուր"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:38:36.664678850Z",
+  "model": "glm-5.3"
+}

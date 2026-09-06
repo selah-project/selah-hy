@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Դողացե՛ք և մի մեղանչեք, ասեք ձեր սրտում ձեր մահճակալի վրա և լռեք։ Սելա։",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Դողացեք"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և մի"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "մեղանչեք"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ասեք"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "ձեր սրտում"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "ձեր մահճակալի"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "և լռեք"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Սելա"
+    }
+  ],
+  "timestamp": "2026-09-05T22:52:18.795223184Z",
+  "model": "glm-5.3"
+}

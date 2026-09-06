@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Որովհետև չես թողնի իմ նեֆեշը Շեոլին, չես տա քո խսիդին տեսնել փոսը։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "թողնես"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "իմ նեֆեշը"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Շեոլին"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "տաս"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "քո խսիդը"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "տեսնել"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "փոսը"
+    }
+  ],
+  "timestamp": "2026-09-05T22:54:00.713647615Z",
+  "model": "glm-5.3"
+}

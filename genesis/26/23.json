@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Եվ բարձրացավ այնտեղից Բեեր-Շեվա։",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "և բարձրացավ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "այնտեղից"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Բեեր-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Շեվա"
+    }
+  ],
+  "timestamp": "2026-09-05T18:19:47.054256062Z",
+  "model": "glm-5.3"
+}

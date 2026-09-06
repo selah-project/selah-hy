@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Շուրթեր է համբուրում ⟨նա, ով⟩ ուղիղ խոսքեր է պատասխանում։",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "շուրթեր"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "համբուրում է"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "պատասխանում է"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "խոսքեր"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "ուղիղ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:42.795752119Z",
+  "model": "glm-5.3"
+}

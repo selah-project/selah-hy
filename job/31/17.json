@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 31:17",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Եվ ուտում էի իմ կտորը մենակ, և որբը դրանից չէր ուտում։",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "և ուտում էի"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "իմ կտորը"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "մենակ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չէր"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ուտում"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "որբը"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "դրանից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:48:43.717752035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 8:27",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Երբ պատրաստեց երկինքը, ես այնտեղ էի, երբ փորագրեց շրջանը անդունդի երեսի վրա։",
+  "tokens": [
+    {
+      "surface": "בהכינו",
+      "gloss": "Երբ պատրաստեց"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "երկինքը"
+    },
+    {
+      "surface": "שם",
+      "gloss": "այնտեղ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "בחוקו",
+      "gloss": "երբ փորագրեց"
+    },
+    {
+      "surface": "חוג",
+      "gloss": "շրջանը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "פני",
+      "gloss": "երեսի"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "անդունդի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:30:48.784382623Z",
+  "model": "glm-5.3"
+}

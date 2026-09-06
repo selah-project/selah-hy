@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 17:10",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Եվ անես ըստ այն խոսքի բերանի, որ քեզ կհայտնեն այն տեղից, որ կընտրի Յահվեն, և պահես անել ամեն այն, ինչ քեզ կուսուցանեն։",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Եվ անես"
+    },
+    {
+      "surface": "על",
+      "gloss": "ըստ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "բերանի"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "խոսքի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "կհայտնեն"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ից"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "տեղի"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "կընտրի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "և պահես"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "անել"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ամեն այն"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ինչ"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "քեզ կուսուցանեն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:42:18.366983366Z",
+  "model": "glm-5.3"
+}

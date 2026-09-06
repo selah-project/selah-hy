@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 33:14",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 33,
+  "translation": "Եվ ասաց՝ իմ դեմքը պիտի գնա, և ես քեզ հանգստություն կտամ։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "פני",
+      "gloss": "իմ դեմքը"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "պիտի գնա"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "և հանգստություն կտամ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:53:19.886845258Z",
+  "model": "glm-5.3"
+}

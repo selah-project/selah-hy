@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 28:40",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Ձիթենիներ կլինեն քո ամբողջ սահմանում, բայց յուղով չես օծվի, որովհետև քո ձիթենին կթափվի։",
+  "tokens": [
+    {
+      "surface": "זיתים",
+      "gloss": "ձիթենիներ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "կլինեն"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քո"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ամբողջ…ում"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "քո սահման"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "և յուղ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "ես օծվի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "ישל",
+      "gloss": "կթափվի"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "քո ձիթենի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:45:39.278170895Z",
+  "model": "glm-5.3"
+}

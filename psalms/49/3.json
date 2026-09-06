@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 49,
+  "translation": "Թե՛ մարդկանց որդիները, թե՛ մարդու որդիները՝ միասին, հարուստ և աղքատ։",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "թե՛"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդկանց"
+    },
+    {
+      "surface": "גם",
+      "gloss": "թե՛"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "միասին"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "հարուստ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "և աղքատ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:04:05.629853982Z",
+  "model": "glm-5.3"
+}

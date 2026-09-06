@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Ուրախ սիրտը լավ դեղ ⟨է⟩, իսկ ջարդված հոգին չորացնում է ոսկորը։",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "սիրտը"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "ուրախ"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "լավ է անում"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "դեղ"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "իսկ հոգին"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "ջարդված"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "չորացնում է"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "ոսկորը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:32:52.094821584Z",
+  "model": "glm-5.3"
+}

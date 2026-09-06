@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Նրա սրունքները՝ երկաթից, նրա ոտքերը՝ մասը երկաթից, և մասը՝ կավից։",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "սրունքները"
+    },
+    {
+      "surface": "די",
+      "gloss": "որ"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "երկաթ"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "ոտքերը"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "մասը"
+    },
+    {
+      "surface": "די",
+      "gloss": "որ"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "երկաթ"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "և մասը"
+    },
+    {
+      "surface": "די",
+      "gloss": "որ"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "կավ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:08:02.643644957Z",
+  "model": "glm-5.3"
+}

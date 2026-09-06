@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Քանի որ երկար օրեր և կյանքի տարիներ և խաղաղություն այդ ամենը քեզ կավելացնեն։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "երկար"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օրեր"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "և տարիներ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "կյանքի"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "և խաղաղություն"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "կավելացնեն"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:05.379844799Z",
+  "model": "glm-5.3"
+}

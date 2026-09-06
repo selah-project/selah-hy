@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Ահա օրը, ահա եկավ. ելավ առավոտը, ծիլ տվեց գավազանը, ծաղկեց հպարտությունը։",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ահա"
+    },
+    {
+      "surface": "היום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "באה",
+      "gloss": "եկավ"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "ելավ"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "առավոտը"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "ծիլ տվեց"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "գավազանը"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "ծաղկեց"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "հպարտությունը"
+    }
+  ],
+  "timestamp": "2026-09-05T22:08:03.577922476Z",
+  "model": "glm-5.3"
+}

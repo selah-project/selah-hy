@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 14:5",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "և Յիբխար, և Էլիշուա, և Էլպալեթ,",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "և Յիբխար"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "և Էլիշուա"
+    },
+    {
+      "surface": "ואלפלט",
+      "gloss": "և Էլպալեթ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:33:01.195648914Z",
+  "model": "glm-5.3"
+}

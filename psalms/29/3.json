@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Յահվեի ձայնը ջրերի վրա ⟨է⟩. փառքի Էլը որոտում է. Յահվեն բազմաթիվ ջրերի վրա ⟨է⟩։",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ձայնը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ջրերի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլ"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "փառքի"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "որոտում է"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջրերի"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "բազմաթիվ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:58:40.178821131Z",
+  "model": "glm-5.3"
+}

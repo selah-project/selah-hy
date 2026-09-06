@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 16:9",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Յաթ շաբաթ հաշվի՛ր քեզ. մանգաղի սկզբից՝ ցողաձերի մեջ, կսկսես հաշվել յաթ շաբաթ։",
+  "tokens": [
+    {
+      "surface": "שבעה",
+      "gloss": "Յաթ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "շաբաթ"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "հաշվի՛ր"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "מהחל",
+      "gloss": "սկսելով"
+    },
+    {
+      "surface": "חרמש",
+      "gloss": "մանգաղ"
+    },
+    {
+      "surface": "בקמה",
+      "gloss": "ցողաձերի մեջ"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "կսկսես"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "հաշվել"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "յաթ"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "շաբաթ"
+    }
+  ],
+  "timestamp": "2026-09-06T02:04:20.957819360Z",
+  "model": "glm-5.3"
+}

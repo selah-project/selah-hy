@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 1:35",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եթե տեսնի մարդ այս մարդկանցից՝ այս չար սերնդից, ⟨את⟩ այդ բարի երկիրը, որ երդվեցի տալ ձեր հայրերին․",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "տեսնի"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "באנשים",
+      "gloss": "այս մարդկանցից"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "սերնդից"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "չար"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այդ բարի երկիրը"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "բարի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "երդվեցի"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "տալ"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "ձեր հայրերին"
+    }
+  ],
+  "timestamp": "2026-09-05T19:32:28.152808075Z",
+  "model": "glm-5.3"
+}

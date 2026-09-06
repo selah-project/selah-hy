@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Եվ եղի՛ն, երեկոյի դառնալիս կլվա ջրով, և արևի մտնելիս կմտնի դեպի ճամբարի մեջտեղը։",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Եվ եղի՛ն"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "դառնալիս"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "երեկոյի"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "կլվա"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ջրով"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "և մտնելիս"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "արևի"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "կմտնի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "մեջտեղը"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ճամբարի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:43:35.646337279Z",
+  "model": "glm-5.3"
+}

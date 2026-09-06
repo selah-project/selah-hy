@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ ես պատասխանեցի և ասացի այն հրեշտակին, որ խոսում էր իմ հետ. «Ի՞նչ են այս, տե՛ր իմ»։",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "և պատասխանեցի"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "և ասացի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի… ին"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "հրեշտակին"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "որ խոսում էր"
+    },
+    {
+      "surface": "בי",
+      "gloss": "իմ հետ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "տե՛ր իմ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:47:29.010526958Z",
+  "model": "glm-5.3"
+}

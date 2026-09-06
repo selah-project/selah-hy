@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 3:22",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Մի վախեցեք նրանցից, որովհետև Յահվեն՝ ձեր Էլոհիմը, հենց նա է, որ կռվում է ձեզ համար։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תיראום",
+      "gloss": "վախեցեք նրանցից"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ձեր Էլոհիմը"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "հենց նա է"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "կռվում է"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:33:00.938638659Z",
+  "model": "glm-5.3"
+}

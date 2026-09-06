@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 38,
+  "translation": "Եվ պատասխանեց Յահվեն ⟨את⟩ Իյովին մրրիկից և ասաց՝",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Եվ պատասխանեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Իյովին"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Իյովին"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "մրրիկից"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "մրրիկից"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:51:38.405088928Z",
+  "model": "glm-5.3"
+}

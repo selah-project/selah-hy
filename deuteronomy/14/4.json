@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Սա է անասունը, որ դուք կարող եք ուտել՝ եզ, գառ ոչխարների, և գառ այծերի։",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Սա"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "անասունը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "կարող եք ուտել"
+    },
+    {
+      "surface": "שור",
+      "gloss": "եզ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "գառ"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "ոչխարների"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "և գառ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "այծերի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:38:51.940450310Z",
+  "model": "glm-5.3"
+}

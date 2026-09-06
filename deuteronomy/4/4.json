@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Իսկ դուք՝ կպչածները ձեր Յահվե Էլոհիմին, ողջ եք այսօր ձեզ բոլորդ։",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Իսկ դուք"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "կպչածները"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ձեր Էլոհիմը"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ողջ եք"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "ձեզ բոլորդ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "այսօր"
+    }
+  ],
+  "timestamp": "2026-09-05T19:34:43.724151994Z",
+  "model": "glm-5.3"
+}

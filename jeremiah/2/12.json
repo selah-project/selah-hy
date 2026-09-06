@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 2:12",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Զարմացեք, երկինքներ, դրա վրա, և փշաքաղվեք, ամայացեք խիստ, Յահվեի խոսքն է։",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "Զարմացեք"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "երկինքներ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "դրա"
+    },
+    {
+      "surface": "ושערו",
+      "gloss": "և փշաքաղվեք"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ամայացեք"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "խիստ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "խոսքն է"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:39:01.501041595Z",
+  "model": "glm-5.3"
+}

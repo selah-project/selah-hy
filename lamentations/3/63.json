@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "lamentations 3:63",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Նայի՛ր նրանց նստելուն և նրանց կանգնելուն. ես նրանց երգիծանքն եմ։",
+  "tokens": [
+    {
+      "surface": "שבתם",
+      "gloss": "նրանց նստելուն"
+    },
+    {
+      "surface": "וקימתם",
+      "gloss": "և նրանց կանգնելուն"
+    },
+    {
+      "surface": "הביטה",
+      "gloss": "Նայի՛ր"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "նրանց երգիծանքն եմ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:41.540034780Z",
+  "model": "glm-5.3"
+}

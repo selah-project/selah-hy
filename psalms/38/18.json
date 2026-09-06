@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 38,
+  "translation": "Որովհետև ես կաղելու եմ պատրաստ, և իմ ցավը անընդհատ իմ առջև է։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "կաղելու"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "պատրաստ"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "և իմ ցավը"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "իմ առջև"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "անընդհատ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:01:52.831860381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 94,
+  "translation": "Արդյոք ականջը տնկողը չի՞ լսի, կամ աչքը կերտողը չի՞ նայի։",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "տնկողը"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ականջը"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "արդյոք ոչ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "չի՞ լսի"
+    },
+    {
+      "surface": "אם",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "կերտողը"
+    },
+    {
+      "surface": "עין",
+      "gloss": "աչքը"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "արդյոք ոչ"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "չի՞ նայի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:14:28.306809391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 116,
+  "translation": "Իմ ուխտերը Յահվեին կատարել եմ, ահա՝ նրա ամբողջ ժողովրդի առջև։",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "իմ ուխտերը"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "կատարել եմ"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ժողովրդի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:42.982445963Z",
+  "model": "glm-5.3"
+}

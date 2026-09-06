@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "ցորենի և գարու, որթի և թզենու ու նռան երկիր՝ ձիթենու ձեթի և մեղրի երկիր։",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "երկիր"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "ցորենի"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "և գարու"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "որթի"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "թզենու"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "նռան"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկիր"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ձիթենու"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ձեթի"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "և մեղրի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:37:29.948172433Z",
+  "model": "glm-5.3"
+}

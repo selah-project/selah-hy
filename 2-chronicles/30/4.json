@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Եվ խորհուրդը ուղիղ եղավ արքայի աչքերում և ամբողջ ժողովրդի աչքերում։",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "և ուղիղ եղավ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "խորհուրդը"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "աչքերում"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "արքայի"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "և աչքերում"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ժողովրդի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:22:40.572501797Z",
+  "model": "glm-5.3"
+}

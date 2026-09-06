@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ ասաց ինձ. մարդորդի, կանգնի՛ր քո ոտքերի վրա, և ես կխոսեմ ⟨את⟩ քեզ հետ։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "կանգնի՛ր"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "քո ոտքերի"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "և ես կխոսեմ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ քեզ",
+      "marks": "քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:07:46.424065072Z",
+  "model": "glm-5.3"
+}

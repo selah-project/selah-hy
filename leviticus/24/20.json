@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "կոտրվածք կոտրվածքի դիմաց, աչք աչքի դիմաց, ատամ ատամի դիմաց. ինչ արատ պատճառի մարդուն, նույնը պիտի արվի իրեն։",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "կոտրվածք"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "դիմաց"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "կոտրվածքի"
+    },
+    {
+      "surface": "עין",
+      "gloss": "աչք"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "դիմաց"
+    },
+    {
+      "surface": "עין",
+      "gloss": "աչքի"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ատամ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "դիմաց"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ատամի"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ինչ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "պատճառի"
+    },
+    {
+      "surface": "מום",
+      "gloss": "արատ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "մարդուն"
+    },
+    {
+      "surface": "כן",
+      "gloss": "նույնը"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "պիտի արվի"
+    },
+    {
+      "surface": "בו",
+      "gloss": "իրեն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:08:13.511537804Z",
+  "model": "glm-5.3"
+}

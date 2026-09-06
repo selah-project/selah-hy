@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 47,
+  "translation": "Որովհետև ամբողջ երկրի արքա ⟨է⟩ Էլոհիմը, երգե՛ք խելամիտ երգով։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "արքա"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "երգե՛ք"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "խելամիտ երգով"
+    }
+  ],
+  "timestamp": "2026-09-05T23:04:03.501359110Z",
+  "model": "glm-5.3"
+}

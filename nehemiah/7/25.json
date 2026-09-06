@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Գիբեոնի որդիները՝ իննսուն հինգ։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Գիբեոնի"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "իննսուն"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "հինգ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:36.280710809Z",
+  "model": "glm-5.3"
+}

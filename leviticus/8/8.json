@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ դրեց նրա վրա ⟨את⟩ խոշենը, և դրեց խոշենի մեջ ⟨את⟩ Ուրիմը և ⟨את⟩ Թումիմը։",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Եվ դրեց"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "նրա վրա"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "խոշենը"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "խոշենը"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "և դրեց"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մեջ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "խոշենի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ուրիմը"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Ուրիմը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Թումիմը"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Թումիմը"
+    }
+  ],
+  "timestamp": "2026-09-05T18:59:50.532058024Z",
+  "model": "glm-5.3"
+}

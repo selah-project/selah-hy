@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 76,
+  "translation": "Փայլուն ես դու՝ ավելի փառապանծ, քան ավարի լեռները։",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "Փայլուն"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "փառապանծ"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "քան… լեռները"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ավարի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:10:16.144324578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 118:22",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 118,
+  "translation": "Քար, որ մերժեցին շինողները, եղավ անկյունի գլուխ։",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "քար"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "մերժեցին"
+    },
+    {
+      "surface": "הבונים",
+      "gloss": "շինողները"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "գլուխ"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "անկյունի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:26.444131515Z",
+  "model": "glm-5.3"
+}

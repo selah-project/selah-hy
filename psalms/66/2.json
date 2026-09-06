@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 66,
+  "translation": "Զմայրե՛ք իր անվան փառքը, փառավոր դարձրեք իր գովքը։",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Զմայրե՛ք"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "փառքը"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "իր անվան"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "դարձրեք"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "փառավոր"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "իր գովքը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:06:58.310774943Z",
+  "model": "glm-5.3"
+}

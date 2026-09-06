@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 34:1",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 34,
+  "translation": "Եվ խոսեց Յահվե Մոշեի հետ՝ ասելով․",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Եվ խոսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Մոշեի հետ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշե"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T19:30:21.310272541Z",
+  "model": "glm-5.3"
+}

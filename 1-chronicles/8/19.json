@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 8:19",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "և Յակիմ, և Զիխրի, և Զվադի։",
+  "tokens": [
+    {
+      "surface": "ויקים",
+      "gloss": "և Յակիմ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "և Զիխրի"
+    },
+    {
+      "surface": "וזבדי",
+      "gloss": "և Զվադի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:26.253946198Z",
+  "model": "glm-5.3"
+}

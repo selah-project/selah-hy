@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Եվ ամեն բաց անոթ, որի վրա կապված կապակ-թել չկա, անմաքուր է այն։",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Եվ ամեն"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "անոթ"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "բաց"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "կապակ"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "թել"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "որի վրա"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "անմաքուր"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "այն"
+    }
+  ],
+  "timestamp": "2026-09-06T01:03:53.928233911Z",
+  "model": "glm-5.3"
+}

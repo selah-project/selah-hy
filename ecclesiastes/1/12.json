@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Ես, Քոհելեթը, թագավոր եմ եղել Իսրայելի վրա՝ Երուշալայիմում (Երուսաղեմ)։",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ես"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Քոհելեթ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "եմ եղել"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավոր"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Երուշալայիմում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:30.797645439Z",
+  "model": "glm-5.3"
+}

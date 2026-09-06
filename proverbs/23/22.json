@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Լսի՛ր քո հորը՝ այդ մեկը, որ ծնեց քեզ, և մի՛ արհամարհիր քո մորը, երբ ծերանա։",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Լսի՛ր"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "քո հորը"
+    },
+    {
+      "surface": "זה",
+      "gloss": "այդ մեկը"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "ծնեց քեզ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և մի"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "արհամարհես"
+    },
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "ծերանա"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "քո մորը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:32.265800125Z",
+  "model": "glm-5.3"
+}

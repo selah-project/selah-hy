@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Պատմեցին Մորդոքեին ⟨את⟩ Էսթերի խոսքերը։",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "Պատմեցին"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Մորդոքեին"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "խոսքերը"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "խոսքերը"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Էսթերի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:03:07.245804680Z",
+  "model": "glm-5.3"
+}

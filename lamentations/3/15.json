@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Հագեցրեց ինձ դառնություններով, ջրեց ինձ օշինդրով։",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "Հագեցրեց ինձ"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "դառնություններով"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "ջրեց ինձ"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "օշինդրով"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:04.666045954Z",
+  "model": "glm-5.3"
+}

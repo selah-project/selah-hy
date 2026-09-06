@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 11:8",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Սուր եք երկյուղել, և սուր եմ բերում ձեզ վրա՝ Ադոնայ Յահվեի խոսքով։",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "սուր"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "եք երկյուղել"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "և սուր"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "եմ բերում"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ձեզ վրա"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "խոսքով"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:10:34.401045524Z",
+  "model": "glm-5.3"
+}

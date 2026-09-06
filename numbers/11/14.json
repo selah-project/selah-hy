@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Չեմ կարող ես մենակ կրել ⟨את⟩ ամբողջ այս ժողովրդին, որովհետև ծանր է ⟨անձիցս⟩։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "չեմ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "կարող"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ես"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "մենակ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "կրել"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ամբողջ այս ժողովրդին"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովրդին"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ծանր է"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "անձիցս"
+    }
+  ],
+  "timestamp": "2026-09-06T01:03:52.455071523Z",
+  "model": "glm-5.3"
+}

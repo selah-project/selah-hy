@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 43:19",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 43,
+  "translation": "Եվ մոտեցան մարդուն, որ Յոսեֆի տան վրա էր, և խոսեցին նրա հետ տան դռան մոտ։",
+  "tokens": [
+    {
+      "surface": "ויגשו",
+      "gloss": "Եվ մոտեցան"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մարդուն"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "մարդուն"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա էր"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տան"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Յոսեֆի"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "և խոսեցին"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "նրա հետ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "դռան մոտ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "տան"
+    }
+  ],
+  "timestamp": "2026-09-05T18:29:00.094010056Z",
+  "model": "glm-5.3"
+}

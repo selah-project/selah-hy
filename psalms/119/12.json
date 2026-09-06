@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Օրհնյալ ես դու, Յահվե․ սովորեցրո՛ւ ինձ քո կանոնները։",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Օրհնյալ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու ես"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "սովորեցրու ինձ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "քո կանոնները"
+    }
+  ],
+  "timestamp": "2026-09-05T23:22:28.673769437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Ուր որ թագավորի խոսքն է՝ ⟨այնտեղ⟩ իշխանություն է, և ո՞վ կարող է ասել նրան՝ ի՞նչ ես անում։",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "ուր որ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավորի"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "իշխանություն"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "և ո՞վ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ասի"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ես անում"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:44.605677019Z",
+  "model": "glm-5.3"
+}

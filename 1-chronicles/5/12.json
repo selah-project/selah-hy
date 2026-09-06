@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Յոելը՝ գլուխը, և Շաֆամը՝ երկրորդը, և Յաանայն ու Շաֆատը՝ Բաշանում։",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "Յոելը"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "գլուխը"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "և Շաֆամը"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "երկրորդը"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "և Յաանայը"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "և Շաֆատը"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "Բաշանում"
+    }
+  ],
+  "timestamp": "2026-09-06T00:28:58.679669706Z",
+  "model": "glm-5.3"
+}

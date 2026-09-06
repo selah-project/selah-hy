@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 15:17",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Եվ եղավ՝ երբ արևը մտավ և խավար եղավ, և ահա ծխացող վառարան և հրե ջահ, որ անցավ այդ կտրված կեսերի միջով։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "արևը"
+    },
+    {
+      "surface": "באה",
+      "gloss": "մտավ"
+    },
+    {
+      "surface": "ועלטה",
+      "gloss": "խավար"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "և ահա"
+    },
+    {
+      "surface": "תנור",
+      "gloss": "վառարան"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ծխացող"
+    },
+    {
+      "surface": "ולפיד",
+      "gloss": "և ջահ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "հրե"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "անցավ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "միջով"
+    },
+    {
+      "surface": "הגזרים",
+      "gloss": "կտրված կեսերը"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "այդ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:15:04.842802722Z",
+  "model": "glm-5.3"
+}

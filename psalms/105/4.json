@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 105,
+  "translation": "Որոնեք Յահվեին և նրա ուժը, փնտռեք նրա երեսը մշտապես։",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Որոնեք"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "և նրա ուժը"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "փնտռեք"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "նրա երեսը"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "մշտապես"
+    }
+  ],
+  "timestamp": "2026-09-05T23:17:52.635383631Z",
+  "model": "glm-5.3"
+}

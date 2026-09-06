@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 116,
+  "translation": "Ողորմած է Յահվեն և արդար, և մեր Էլոհիմը՝ գթառատ։",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "ողորմած"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "և արդար"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "և մեր Էլոհիմը"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "գթառատ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:42.050035620Z",
+  "model": "glm-5.3"
+}

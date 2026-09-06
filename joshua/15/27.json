@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 15:27",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "և Խածար-Գադա, և Խեշմոն, և Բեթ-Պալետ",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "և Խածար"
+    },
+    {
+      "surface": "גדה",
+      "gloss": "Գադա"
+    },
+    {
+      "surface": "וחשמון",
+      "gloss": "և Խեշմոն"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "և Բեթ"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "Պալետ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:57:01.647762816Z",
+  "model": "glm-5.3"
+}

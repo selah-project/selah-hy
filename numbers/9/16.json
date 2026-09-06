@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Այնպես կլինի մշտապես. ամպը կծածկի այն, և կրակի տեսք՝ գիշերը։",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Այնպես"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "կլինի"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "մշտապես"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ամպը"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "կծածկի այն"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "և տեսք"
+    },
+    {
+      "surface": "אש",
+      "gloss": "կրակի"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "գիշերը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:16:58.450354316Z",
+  "model": "glm-5.3"
+}

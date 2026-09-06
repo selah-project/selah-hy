@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 115,
+  "translation": "Նրանց կուռքերը արծաթ են և ոսկի՝ մարդկանց ձեռքի գործ։",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "Նրանց կուռքերը"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "արծաթ"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "և ոսկի"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "գործ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ձեռքի"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդկանց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:07.912102820Z",
+  "model": "glm-5.3"
+}

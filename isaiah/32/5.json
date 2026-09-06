@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Այլևս չի կոչվի նաբալը նդիվ, և կալիին չի ասվի՝ շուա։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "կոչվի"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "այլևս"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "նաբալին"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "նդիվ"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "և կալիին"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ասվի"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "շուա"
+    }
+  ],
+  "timestamp": "2026-09-05T21:24:50.585967165Z",
+  "model": "glm-5.3"
+}

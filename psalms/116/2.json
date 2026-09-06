@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 116,
+  "translation": "Քանի որ թեքեց ականջը ինձ, և օրերիս մեջ կկանչեմ։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Քանի որ"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "թեքեց"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ականջը"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "և օրերիս մեջ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "կկանչեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:49.553669356Z",
+  "model": "glm-5.3"
+}

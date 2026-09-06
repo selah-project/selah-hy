@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 69,
+  "translation": "Փրկի՛ր ինձ, Էլոհիմ, որովհետև ջրերը եկան մինչև ⟨իմ⟩ նեֆեշը։",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Փրկի՛ր ինձ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "באו",
+      "gloss": "եկան"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջրերը"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "նեֆեշը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:08:41.705789913Z",
+  "model": "glm-5.3"
+}

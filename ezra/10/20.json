@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Եվ Իմերի որդիներից՝ Խանանին և Զեվադյան։",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "Եվ … որդիներից"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Իմերի"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Խանանին"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "և Զեվադյան"
+    }
+  ],
+  "timestamp": "2026-09-06T01:21:03.778954631Z",
+  "model": "glm-5.3"
+}

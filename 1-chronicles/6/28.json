@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 6:28",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Յախատի որդին՝ Գերշոմը, Գերշոմի որդին՝ Լևին։",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Յախատի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Գերշոմի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Լևին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:20.590104669Z",
+  "model": "glm-5.3"
+}

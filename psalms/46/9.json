@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 46,
+  "translation": "Եկեք, տեսեք Յահվեի գործերը, որ ավերածություններ դրեց երկրի վրա։",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Եկեք"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "տեսեք"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "գործերը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "դրեց"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ավերածություններ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրի վրա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:03:15.070157274Z",
+  "model": "glm-5.3"
+}

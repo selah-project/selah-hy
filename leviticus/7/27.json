@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Ամեն Նեֆեշ, որ ուտի որևէ արյուն, կկտրվի այն Նեֆեշը իր ժողովրդից։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ամեն"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Նեֆեշ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ուտի"
+    },
+    {
+      "surface": "כל",
+      "gloss": "որևէ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "արյուն"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "կկտրվի"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "Նեֆեշը"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "իր ժողովրդից"
+    }
+  ],
+  "timestamp": "2026-09-05T18:59:13.967882419Z",
+  "model": "glm-5.3"
+}

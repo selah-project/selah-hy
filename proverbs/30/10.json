@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Մի՛ բամբասիր ծառային իր տիրոջ մոտ, թե չլինի՝ նա անիծի քեզ, և դու մեղավոր լինես։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Մի՛"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "բամբասիր"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ծառային"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "տիրոջ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "թե չլինի"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "անիծի քեզ"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "և մեղավոր լինես"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:14.208289504Z",
+  "model": "glm-5.3"
+}

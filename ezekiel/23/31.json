@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 23:31",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Քրոջդ ճանապարհով քայլեցիր, և նրա բաժակը կտամ քո ձեռքը։",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "ճանապարհով"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "քրոջդ"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "քայլեցիր"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "և կտամ"
+    },
+    {
+      "surface": "כוסה",
+      "gloss": "նրա բաժակը"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "քո ձեռքը"
+    }
+  ],
+  "timestamp": "2026-09-05T22:18:36.333369416Z",
+  "model": "glm-5.3"
+}

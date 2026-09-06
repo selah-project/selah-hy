@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 23:27",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Ավիէզեր Անաթոթցին, Մեվուննայ Հուշաթցին․",
+  "tokens": [
+    {
+      "surface": "אביעזר",
+      "gloss": "Ավիէզեր"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "Անաթոթցին"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "Մեվուննայ"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "Հուշաթցին"
+    }
+  ],
+  "timestamp": "2026-09-05T20:41:56.767164786Z",
+  "model": "glm-5.3"
+}

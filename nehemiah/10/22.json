@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 10:22",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Մեշեիզաբել, Ծադոկ, Յադուա.",
+  "tokens": [
+    {
+      "surface": "משיזבאל",
+      "gloss": "Մեշեիզաբել"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Ծադոկ"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Յադուա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:24:45.823564804Z",
+  "model": "glm-5.3"
+}

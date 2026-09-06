@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 18:19",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Եվ կլինի՝ այն մարդը, որ չլսի իմ խոսքերս, որ կխոսի իմ անունով, ես կպահանջեմ նրանից։",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Եվ կլինի"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "այն մարդը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "չլսի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "իմ խոսքերս"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "կխոսի"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "իմ անունով"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ես"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "կպահանջեմ"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "նրանից"
+    }
+  ],
+  "timestamp": "2026-09-05T19:41:22.489242314Z",
+  "model": "glm-5.3"
+}

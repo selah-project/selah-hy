@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 147,
+  "translation": "Հաշվում է աստղերի թիվը, բոլորին անուններով կանչում է։",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "Հաշվում է"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "թիվը"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "աստղերի"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "բոլորին"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "անուններով"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "կանչում է"
+    }
+  ],
+  "timestamp": "2026-09-05T23:27:41.824217833Z",
+  "model": "glm-5.3"
+}

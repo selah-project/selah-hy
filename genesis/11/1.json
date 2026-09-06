@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Եվ եղավ՝ ամբողջ երկիրը մեկ լեզու էր, և խոսքերը՝ մեկ։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "լեզու"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "և խոսքերը"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "մեկ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:12:48.014720652Z",
+  "model": "glm-5.3"
+}

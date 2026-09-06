@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 32:26",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Ասացի՝ ցրեմ նրանց, ջնջեմ մարդկանց միջից նրանց հիշատակը։",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Ասացի"
+    },
+    {
+      "surface": "אפאיהם",
+      "gloss": "ցրեմ նրանց"
+    },
+    {
+      "surface": "אשביתה",
+      "gloss": "ջնջեմ"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "մարդկանց միջից"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "նրանց հիշատակը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:48:15.407916197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Եվ եղավ Սարայը անզավակ՝ երեխա չկար նրան։",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Սարայը"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "անզավակ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չկար"
+    },
+    {
+      "surface": "לה",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "երեխա"
+    }
+  ],
+  "timestamp": "2026-09-05T18:13:25.867213351Z",
+  "model": "glm-5.3"
+}

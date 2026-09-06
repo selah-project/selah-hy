@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Եվ մահացավ Շաուլը, և իր երեք որդիները, և իր ամբողջ տունը՝ միասին մահացան։",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "մահացավ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Շաուլը"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "տունը"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "միասին"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "մահացան"
+    }
+  ],
+  "timestamp": "2026-09-06T00:32:39.708016066Z",
+  "model": "glm-5.3"
+}

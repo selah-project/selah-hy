@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Տե՛ս, ես այսօր ձեր առջև դնում եմ օրհնություն և անեծք՝",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Տե՛ս"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ես"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "դնում եմ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ձեր առջև"
+    },
+    {
+      "surface": "היום",
+      "gloss": "այսօր"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "օրհնություն"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "և անեծք"
+    }
+  ],
+  "timestamp": "2026-09-05T19:37:09.942545307Z",
+  "model": "glm-5.3"
+}

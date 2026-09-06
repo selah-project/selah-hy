@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 20:13",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Ողորմի դրան և չթողնի այն, այլ կպահի այն իր քմի մեջ։",
+  "tokens": [
+    {
+      "surface": "יחמל",
+      "gloss": "Ողորմի"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "դրան"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "יעזבנה",
+      "gloss": "թողնի այն"
+    },
+    {
+      "surface": "וימנענה",
+      "gloss": "և կպահի այն"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "մեջ"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "իր քիմ"
+    }
+  ],
+  "timestamp": "2026-09-06T02:09:12.575493088Z",
+  "model": "glm-5.3"
+}

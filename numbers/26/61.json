@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "numbers 26:61",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Եվ մահացան Նադավն ու Ավիհուն, երբ մոտեցրին օտար կրակ Յահվեի առջև։",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Եվ մահացան"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Նադավը"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "և Ավիհուն"
+    },
+    {
+      "surface": "בהקריבם",
+      "gloss": "երբ մոտեցրին"
+    },
+    {
+      "surface": "אש",
+      "gloss": "կրակ"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "օտար"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:26:20.559855439Z",
+  "model": "glm-5.3"
+}

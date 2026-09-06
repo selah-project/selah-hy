@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Որդիներ, որոնք ծնվեն նրանց՝ երրորդ սերունդը, կմտնի Յահվեի ժողով։",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "Որդիներ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որոնք"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "ծնվեն"
+    },
+    {
+      "surface": "להם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "דור",
+      "gloss": "սերունդ"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "երրորդ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "կմտնի"
+    },
+    {
+      "surface": "להם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ժողով"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    }
+  ],
+  "timestamp": "2026-09-05T19:43:35.645772218Z",
+  "model": "glm-5.3"
+}

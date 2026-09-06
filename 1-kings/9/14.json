@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ Հիրամը ուղարկեց արքային հարյուր քսան կիկար ոսկի։",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Եվ ուղարկեց"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Հիրամը"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "արքային"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "քսան"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "կիկար"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ոսկի"
+    }
+  ],
+  "timestamp": "2026-09-05T20:50:08.655731308Z",
+  "model": "glm-5.3"
+}

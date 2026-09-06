@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 48,
+  "translation": "Երգ, սաղմոս Կորախի որդիներին։",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "երգ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "սաղմոս"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "որդիներին"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Կորախ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:04:08.364971410Z",
+  "model": "glm-5.3"
+}

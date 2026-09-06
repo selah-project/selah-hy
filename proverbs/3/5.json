@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Ապավիրիր Յահվեին ամբողջ սրտովդ, և քո բանիքիդ մի՛ հենվիր։",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Ապավիրիր"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "սրտովդ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և քո"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "բանիքիդ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "հենվիր"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:28.605660193Z",
+  "model": "glm-5.3"
+}

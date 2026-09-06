@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Իր ափը բացեց աղքատի համար, և իր ձեռքերը մեկնեց կարոտյալին։",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "իր ափը"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "բացեց"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "աղքատի համար"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "և իր ձեռքերը"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "մեկնեց"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "կարոտյալին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:38:35.468618966Z",
+  "model": "glm-5.3"
+}

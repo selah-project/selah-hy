@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 3:19",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Փոքր և մեծ այնտեղ են, և ծառան ազատ է իր տիրոջից։",
+  "tokens": [
+    {
+      "surface": "קטן",
+      "gloss": "Փոքր"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "և մեծ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "այնտեղ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "են"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "և ծառան"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "ազատ է"
+    },
+    {
+      "surface": "מאדניו",
+      "gloss": "իր տիրոջից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:39:04.679440320Z",
+  "model": "glm-5.3"
+}

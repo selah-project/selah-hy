@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 48:14",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 48,
+  "translation": "Ի՛նչպես եք ասում՝ «հզորներ ենք մենք, և պատերազմի արի մարդիկ»։",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Ի՛նչպես"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "եք ասում"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "հզորներ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "մենք"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "և մարդիկ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "արի"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "պատերազմի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:02:28.602751412Z",
+  "model": "glm-5.3"
+}

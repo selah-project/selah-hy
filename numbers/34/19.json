@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 34:19",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 34,
+  "translation": "Եվ այս են մարդկանց անունները՝ Յեհուդայի ցեղից Կալև Յեփունեի որդին։",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Եվ այս"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "անունները"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "մարդկանց"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ցեղից"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Յեհուդայի"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Կալև"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Յեփունեի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:30:24.696123011Z",
+  "model": "glm-5.3"
+}

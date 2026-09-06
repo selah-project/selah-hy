@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 8:20",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Ահա, Էլ անարատին չի մերժի, և չարագործների ձեռքը չի ամրապնդի։",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ահա"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "մերժի"
+    },
+    {
+      "surface": "תם",
+      "gloss": "անարատին"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չի"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "ամրապնդի"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ձեռքը"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "չարագործների"
+    }
+  ],
+  "timestamp": "2026-09-05T23:40:29.992557142Z",
+  "model": "glm-5.3"
+}

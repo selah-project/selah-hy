@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 22:5",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Իսկ եթե չլսեք ⟨את⟩ այս խոսքերը՝ ես, իմ անձով երդվեցի, ասում է Յահվե, որ ավերակի պիտի դառնա այս տունը։",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Իսկ եթե"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "լսեք"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "խոսքերը"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "խոսքերը"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "בי",
+      "gloss": "իմ անձով"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "երդվեցի"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ասում է"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "ավերակի"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "պիտի դառնա"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "տունը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-05T21:48:51.491643975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Լավ է չոր կտոր հաց, և դրա հետ հանգստություն, քան տուն՝ լի կռվի զոհերով։",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Լավ է"
+    },
+    {
+      "surface": "פת",
+      "gloss": "կտոր հաց"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "չոր"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "և հանգստություն"
+    },
+    {
+      "surface": "בה",
+      "gloss": "դրա հետ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "քան տուն"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "լի"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "զոհերով"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "կռվի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:18:48.155680890Z",
+  "model": "glm-5.3"
+}

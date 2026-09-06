@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "և շրջագայեցին ազգից ազգ, և թագավորությունից՝ այլ ժողովրդի մոտ։",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "և շրջագայեցին"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ազգից"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ազգ"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "և թագավորությունից"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ժողովուրդ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "այլ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:33:59.665387305Z",
+  "model": "glm-5.3"
+}

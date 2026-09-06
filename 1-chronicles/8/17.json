@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "և Զվադյահ, և Մեշուլամ, և Խիզկի, և Խավեր։",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "և Զվադյահ"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "և Մեշուլամ"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "և Խիզկի"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "և Խավեր"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:26.253465508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 1:33",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Իսկ ով լսում է ինձ՝ կբնակվի ապահով, և կհանգստանա չարի վախից։",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "Իսկ ով լսում է"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "կբնակվի"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ապահով"
+    },
+    {
+      "surface": "ושאנן",
+      "gloss": "և կհանգստանա"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "վախից"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "չարի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:27:58.198825094Z",
+  "model": "glm-5.3"
+}

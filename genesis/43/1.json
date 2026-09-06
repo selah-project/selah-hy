@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 43,
+  "translation": "Եվ ծանր էր սովը երկրում։",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "Եվ սովը"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ծանր էր"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրում"
+    }
+  ],
+  "timestamp": "2026-09-05T18:29:28.180913862Z",
+  "model": "glm-5.3"
+}

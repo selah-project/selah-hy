@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Եվ Քնաանը ծնեց ⟨את⟩ Ծիդոնին՝ իր անդրանիկին, և ⟨את⟩ Խեթին։",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Եվ Քնաանը"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ծիդոնին"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Ծիդոնին"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "իր անդրանիկին"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Խեթին"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Խեթին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:13:05.536673503Z",
+  "model": "glm-5.3"
+}

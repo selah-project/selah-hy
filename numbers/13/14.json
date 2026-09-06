@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Նաֆտալիի ցեղից՝ Նախբին, Վոփսիի որդին։",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ցեղից"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Նաֆտալիի"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "Նախբին"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "Վոփսիի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:18:41.670567131Z",
+  "model": "glm-5.3"
+}

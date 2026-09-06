@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 20:22",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Մի՛ ասա՝ «ես չարին կհատուցեմ». սպասիր Յահվեին, և նա քեզ կփրկի։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ասա"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "կհատուցեմ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չարին"
+    },
+    {
+      "surface": "קוה",
+      "gloss": "սպասիր"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "և կփրկի"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:09.749316674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 12:6",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Խոնարհվեցին Իսրայելի իշխանները և արքան, և ասացին. արդար ⟨է⟩ Յահվեն։",
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "խոնարհվեցին"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "իշխանները"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "և արքան"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "և ասացին"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "արդար"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-06T00:43:56.741455282Z",
+  "model": "glm-5.3"
+}

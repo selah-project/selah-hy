@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Միայն ամուր եղիր՝ արյունը չուտելու համար, որովհետև արյունը ⟨է⟩ նեֆեշը, և նեֆեշը մսի հետ միասին չես ուտի։",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Միայն"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ամուր եղիր"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "չ… համար"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ուտելու"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "արյունը"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "արյունը"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨է⟩"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "նեֆեշը"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չես"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ուտի"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "նեֆեշը"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ միասին"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "մսի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:39:08.891197536Z",
+  "model": "glm-5.3"
+}

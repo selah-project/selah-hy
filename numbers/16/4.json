@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Եվ լսեց Մոշեն ու ընկավ իր երեսի վրա։",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Եվ լսեց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ու ընկավ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "իր երեսին"
+    }
+  ],
+  "timestamp": "2026-09-05T19:21:49.670049853Z",
+  "model": "glm-5.3"
+}

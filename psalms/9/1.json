@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Երգչապետին, ըստ «Մուտ լավեն»-ի, Դավիդի (Դավիթ) մաղմոս։",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Երգչապետին"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "«Մուտ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "լավեն»-ի"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "մաղմոս"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Դավիդի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:54:54.582818Z",
+  "model": "glm-5.3"
+}

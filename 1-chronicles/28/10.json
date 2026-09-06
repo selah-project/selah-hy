@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 28:10",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Տես այժմ, որ Յահվեն ընտրեց քեզ տուն կառուցելու՝ սրբավայրի. համարձակ եղիր և արա։",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Տես"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "այժմ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ընտրեց"
+    },
+    {
+      "surface": "בך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "կառուցելու"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տուն"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "սրբավայրի համար"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "համարձակ եղիր"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "և արա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:39:28.302211402Z",
+  "model": "glm-5.3"
+}

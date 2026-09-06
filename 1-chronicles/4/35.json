@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 4:35",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "և Յոել, և Յեհու՝ Յոշիվյայի որդին, Սերայայի որդին, Ասիելի որդին։",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "և Յոել"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "և Յեհու"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "Յոշիվյայի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Սերայայի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "עשיאל",
+      "gloss": "Ասիելի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:28:58.715642525Z",
+  "model": "glm-5.3"
+}

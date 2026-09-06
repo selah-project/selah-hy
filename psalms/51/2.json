@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 51,
+  "translation": "Երբ եկավ նրա մոտ Նատան մարգարեն, երբ նա մտավ Բաթ-Շևայի մոտ։",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Երբ եկավ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "նրա մոտ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Նատան"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "մարգարեն"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "մտավ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Բաթ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Շևա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:04:50.875393660Z",
+  "model": "glm-5.3"
+}

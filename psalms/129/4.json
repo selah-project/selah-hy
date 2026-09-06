@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 129,
+  "translation": "Յահվեն արդար է՝ կտրեց չարերի ճոպանները։",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "արդար"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "կտրեց"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "ճոպաններ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "չարերի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:23:52.947788510Z",
+  "model": "glm-5.3"
+}

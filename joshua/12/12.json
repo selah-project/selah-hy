@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Էգլոնի թագավորը՝ մեկ. Գեզերի թագավորը՝ մեկ։",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Էգլոնի"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Գեզերի"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:54:46.942586644Z",
+  "model": "glm-5.3"
+}

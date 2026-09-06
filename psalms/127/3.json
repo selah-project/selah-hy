@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 127,
+  "translation": "Ահա՝ որդիները Յահվեի ժառանգությունն են, պարգև՝ որովայնի պտուղը։",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ահա"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ժառանգություն"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "պարգև"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "պտուղ"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "որովայնի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:24:25.916054337Z",
+  "model": "glm-5.3"
+}

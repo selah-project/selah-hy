@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Աչքս հոսեց և չդադարեց՝ առանց որևէ դադարի։",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Աչքս"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "հոսեց"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "դադարեց"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "առանց"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "դադարի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:47.375105876Z",
+  "model": "glm-5.3"
+}

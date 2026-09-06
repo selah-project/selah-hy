@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 22:18",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "և քո սերմով կօրհնվեն երկրի բոլոր ազգերը, քանի որ լսեցիր իմ ձայնին։",
+  "tokens": [
+    {
+      "surface": "והתברכו",
+      "gloss": "և կօրհնվեն"
+    },
+    {
+      "surface": "בזרעך",
+      "gloss": "քո սերմով"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "ազգերը"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "լսեցիր"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "իմ ձայնին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:17:28.705072695Z",
+  "model": "glm-5.3"
+}

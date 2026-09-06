@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 24:15",
+  "book": "1-samuel",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Ու՞մ ետևից է ելել Իսրայելի թագավորը, ու՞մ ետևից ես հետապնդում՝ մեռած շան ետևից, մի լվի ետևից։",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "ետևից"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ում"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ելել է"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ետևից"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ում"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "հետապնդում ես"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ետևից"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "շան"
+    },
+    {
+      "surface": "מת",
+      "gloss": "մեռած"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ետևից"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "լվի"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մի"
+    }
+  ],
+  "timestamp": "2026-09-05T20:24:43.466443483Z",
+  "model": "glm-5.3"
+}

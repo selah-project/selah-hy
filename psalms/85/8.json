@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 85,
+  "translation": "Ցույց տուր մեզ, Յահվե, քո խեսեդը, և քո փրկությունը տուր մեզ։",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Ցույց տուր մեզ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "քո խեսեդը"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "և քո փրկությունը"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "տուր"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "մեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:13:05.021058125Z",
+  "model": "glm-5.3"
+}

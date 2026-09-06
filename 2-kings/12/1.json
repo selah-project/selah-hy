@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Յոթ տարվա որդի ⟨էր⟩ Յեհոաշը (Հովաշ) իր թագավորելիս։",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "տարվա"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Յեհոաշը"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "իր թագավորելիս"
+    }
+  ],
+  "timestamp": "2026-09-05T21:06:38.180388573Z",
+  "model": "glm-5.3"
+}

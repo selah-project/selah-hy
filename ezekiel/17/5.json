@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 17:5",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Վերցրեց նաև երկրի սերմից և դրեց այն սերմի դաշտում՝ առ բազմաթիվ ջրեր, ուլիճ դրեց այն։",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "վերցրեց"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "սերմից"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "դրեց այն"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "դաշտում"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "սերմի"
+    },
+    {
+      "surface": "קח",
+      "gloss": "առնելու"
+    },
+    {
+      "surface": "על",
+      "gloss": "առ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջրեր"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "բազմաթիվ"
+    },
+    {
+      "surface": "צפצפה",
+      "gloss": "ուլիճ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "դրեց այն"
+    }
+  ],
+  "timestamp": "2026-09-05T22:14:12.710158430Z",
+  "model": "glm-5.3"
+}

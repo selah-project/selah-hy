@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Տասնմեկ օր ⟨է⟩ Յորեբից՝ Սեիր լեռան ճանապարհով, մինչև Քադեշ Բարնեա։",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "տասնմեկ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(տասն)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "Յորեբից"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ճանապարհով"
+    },
+    {
+      "surface": "הר",
+      "gloss": "լեռան"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Սեիր"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Քադեշ"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Բարնեա"
+    }
+  ],
+  "timestamp": "2026-09-05T19:32:35.427367541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Եվ քո երկինքը, որ գլխիդ վրա է, պղինձ կլինի, իսկ երկիրը, որ տակդ է,՝ երկաթ։",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "կլինի"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "քո երկինքը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "գլխիդ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "պղինձ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "իսկ երկիրը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "տակդ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "երկաթ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:45:45.794963457Z",
+  "model": "glm-5.3"
+}

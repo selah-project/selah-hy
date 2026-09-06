@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Եվ եղավ այս խոսքը մեղքի, և ժողովուրդը գնաց մեկի առջև՝ մինչև Դան։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "մեղքի"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "և գնաց"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովուրդը"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "մեկի"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Դան"
+    }
+  ],
+  "timestamp": "2026-09-05T20:51:54.622292915Z",
+  "model": "glm-5.3"
+}

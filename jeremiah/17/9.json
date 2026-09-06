@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Խորամանկ է սիրտը ամեն ինչից, և անբուժելի է այն — ո՞վ կարող է ճանաչել այն։",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "խորամանկ"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "սիրտը"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ամեն ինչից"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "և անբուժելի"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "կճանաչի այն"
+    }
+  ],
+  "timestamp": "2026-09-05T21:47:10.565411438Z",
+  "model": "glm-5.3"
+}

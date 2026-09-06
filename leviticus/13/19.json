@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 13:19",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Եվ լինի խոցի տեղում սպիտակ ուռուցք կամ սպիտակ բիծ՝ կարմրավուն, և կերևա քահանայի առջև։",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Եվ լինի"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "տեղում"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "խոցի"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ուռուցք"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "սպիտակ"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "բիծ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "սպիտակ"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "կարմրավուն"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "և կերևա"
+    },
+    {
+      "surface": "אל",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "քահանայի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:02:59.708581557Z",
+  "model": "glm-5.3"
+}

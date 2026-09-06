@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "haggai 1:7",
+  "book": "haggai",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Այսպես ասում է Յահվե Ծեվաոթը՝ դրեք ձեր սիրտը ձեր ճանապարհների վրա։",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "այսպես"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասում է"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ծեվաոթ"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "դրեք"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ձեր սիրտը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "ձեր ճանապարհների"
+    }
+  ],
+  "timestamp": "2026-09-05T22:45:46.854265751Z",
+  "model": "glm-5.3"
+}

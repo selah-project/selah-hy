@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Մի՛ նյութիր քո ընկերոջդ դեմ չարություն, երբ նա նստում է ապահով քեզ հետ ⟨את⟩։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "նյութիր"
+    },
+    {
+      "surface": "על",
+      "gloss": "դեմ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "քո ընկերոջդ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "չարություն"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "երբ նա"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "նստում է"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ապահով"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ քեզ հետ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:11.379746657Z",
+  "model": "glm-5.3"
+}

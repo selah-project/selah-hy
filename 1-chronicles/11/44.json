@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Ուզիան աշտարաթացին, Շաման և Յեուելը՝ Խոթամի որդիները՝ արոերացին.",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "Ուզիան"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "աշտարաթացին"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Շաման"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "և Յեուելը"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Խոթամի"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "արոերացին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:31:25.233910081Z",
+  "model": "glm-5.3"
+}

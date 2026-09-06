@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 15:39",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Լաքիշը, և Բոցքաթը, և Էգլոնը․",
+  "tokens": [
+    {
+      "surface": "לכיש",
+      "gloss": "Լաքիշը"
+    },
+    {
+      "surface": "ובצקת",
+      "gloss": "և Բոցքաթը"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "և Էգլոնը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:56:56.900071043Z",
+  "model": "glm-5.3"
+}

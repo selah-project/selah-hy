@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ Նոյը վեց հարյուր տարեկան էր, երբ ջրհեղեղի ջրերը եղան երկրի վրա։",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "և Նոյը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի ⟨տարեկան⟩"
+    },
+    {
+      "surface": "שש",
+      "gloss": "վեց"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "և ջրհեղեղը"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջրեր"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:09:52.176662748Z",
+  "model": "glm-5.3"
+}

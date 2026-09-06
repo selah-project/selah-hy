@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 42,
+  "translation": "Եվ ճանաչեց Յոսեֆ ⟨את⟩ եղբայրներին, իսկ նրանք նրան չճանաչեցին։",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "Եվ ճանաչեց"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Յոսեֆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "եղբայրներին"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "եղբայրներին"
+    },
+    {
+      "surface": "והם",
+      "gloss": "իսկ նրանք"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "ճանաչեցին նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T18:29:36.311329096Z",
+  "model": "glm-5.3"
+}

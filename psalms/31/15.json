@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Իսկ ես քեզ վրայից ապավինեցի՝ Յահվե, ասացի՝ դու ես Էլոհիմս։",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "իսկ ես"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "քեզ վրայից"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ապավինեցի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ասացի"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Էլոհիմս"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու ես"
+    }
+  ],
+  "timestamp": "2026-09-05T22:58:37.353868586Z",
+  "model": "glm-5.3"
+}

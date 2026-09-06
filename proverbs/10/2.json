@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Անօրենության գանձերը չեն օգտի, իսկ արդարությունը փրկում է մահից։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "օգտի"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "գանձերը"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "անօրենության"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "իսկ արդարությունը"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "փրկում է"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "մահից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:30:53.078686527Z",
+  "model": "glm-5.3"
+}

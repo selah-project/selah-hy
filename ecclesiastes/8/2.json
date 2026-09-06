@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Ես ⟨ասում եմ⟩՝ պահիր թագավորի բերանի ⟨բանը⟩, և ⟨դա⟩ Էլոհիմի երդման պատճառով։",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ես"
+    },
+    {
+      "surface": "פי",
+      "gloss": "բերանի"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավորի"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "պահիր"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "և վերաբերյալ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "պատճառով"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "երդման"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:44.605425088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 28:6",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Սապֆիրի տեղ են նրա քարերը, և ոսկու փոշի՝ նրա համար։",
+  "tokens": [
+    {
+      "surface": "מקום",
+      "gloss": "տեղ"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "սապֆիրի"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "նրա քարերը"
+    },
+    {
+      "surface": "ועפרת",
+      "gloss": "և փոշի"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ոսկու"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրա համար"
+    }
+  ],
+  "timestamp": "2026-09-05T23:47:08.800358325Z",
+  "model": "glm-5.3"
+}

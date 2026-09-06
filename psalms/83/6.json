@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 83,
+  "translation": "Քանի որ սրտով խորհեցին միասին, քեզ դեմ Բրիթ են կտրում։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Քանի որ"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "խորհեցին"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սրտով"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "միասին"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "քեզ դեմ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Բրիթ"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "են կտրում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:12:02.796851625Z",
+  "model": "glm-5.3"
+}

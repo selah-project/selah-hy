@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 7:33",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "մեկ ցուլ՝ երկվորյակ հոտի որդի, մեկ խոյ, մեկ գառ՝ մեկ տարեկան՝ ուխտական զոհի։",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ցուլ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "հոտի"
+    },
+    {
+      "surface": "איל",
+      "gloss": "խոյ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "գառ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "մեկ տարեկան"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ուխտական զոհի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:15:16.539343373Z",
+  "model": "glm-5.3"
+}

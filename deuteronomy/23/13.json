@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Եվ գործիք թող լինի քեզ համար ճամբարից դուրս, և դուրս կգաս դեպի այնտեղ՝ դրսում։",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "և գործիք"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "թող լինի"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ համար"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "դուրս"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ճամբարից"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "և դուրս կգաս"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "այնտեղ"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "դրսում"
+    }
+  ],
+  "timestamp": "2026-09-06T02:04:06.543731225Z",
+  "model": "glm-5.3"
+}

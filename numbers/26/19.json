@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 26:19",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Եհուդայի որդիները՝ Եր և Օնան, և մահացան Երն ու Օնանը Քենաանի երկրում։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Եհուդայի"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Եր"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "և Օնան"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "և մահացան"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Եր"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "ու Օնանը"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրում"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Քենաանի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:25:44.462953335Z",
+  "model": "glm-5.3"
+}

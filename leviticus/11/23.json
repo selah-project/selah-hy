@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Եվ ամեն սողացող թռչուն, որին չորս ոտք կա, գարշելի է ձեզ համար։",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "եվ ամեն"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "սողացող արարած"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "թռչուն"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ունի⟩ նրան"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "չորս"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "ոտք"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "գարշելի"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨է⟩ այն"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:01:28.658681327Z",
+  "model": "glm-5.3"
+}

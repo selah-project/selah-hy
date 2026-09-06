@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 16:13",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Տոն Սուկկոտի արա քեզ յոթ օր՝ երբ հավաքես քո մարագից և քո գինեմառից։",
+  "tokens": [
+    {
+      "surface": "חג",
+      "gloss": "Տոն"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "Սուկկոտի"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "արա"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "հավաքելիս"
+    },
+    {
+      "surface": "מגרנך",
+      "gloss": "մարագիցդ"
+    },
+    {
+      "surface": "ומיקבך",
+      "gloss": "և գինեմառիցդ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:40:54.134199024Z",
+  "model": "glm-5.3"
+}

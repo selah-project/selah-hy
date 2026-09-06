@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Էցերի որդիներն էին Բիլհանը, և Զաավանը, Յաականը. Դիշոնի որդիներն էին Ուծը և Արանը։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "Էցերի"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Բիլհան"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "և Զաավան"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "Յաական"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "Դիշոնի"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Ուծ"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "և Արան"
+    }
+  ],
+  "timestamp": "2026-09-06T00:26:52.216133414Z",
+  "model": "glm-5.3"
+}

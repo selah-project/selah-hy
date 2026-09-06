@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 7:10",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ ավելացրեց Յահվեն խոսել Ախազի հետ՝ ասելով․",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "Եվ ավելացրեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսել"
+    },
+    {
+      "surface": "אל",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ախազի"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T21:14:33.493395371Z",
+  "model": "glm-5.3"
+}

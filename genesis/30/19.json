@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Եվ հղիացավ դեռ Լիան և ծնեց վեցերորդ որդի Յաակովին։",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Եվ հղիացավ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "դեռ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Լիան"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "և ծնեց"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "վեցերորդ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Յաակովին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:21:58.249375675Z",
+  "model": "glm-5.3"
+}

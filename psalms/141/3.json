@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 141,
+  "translation": "Դիր, Յահվե, պահապան բերանիս վրա, պահիր դուռը՝ շուրթերիս։",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Դիր"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "պահապան"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "բերանիս"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "պահիր"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "דל",
+      "gloss": "դուռը"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "շուրթերիս"
+    }
+  ],
+  "timestamp": "2026-09-05T23:26:33.247450115Z",
+  "model": "glm-5.3"
+}

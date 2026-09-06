@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 81,
+  "translation": "Լսի՛ր, իմ ժողովուրդ, և ես կվկայեմ քեզ. Իսրայել, եթե միայն լսես ինձ՝",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Լսի՛ր"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "իմ ժողովուրդ"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "և կվկայեմ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայել"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե միայն"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "լսես"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:11:28.461461435Z",
+  "model": "glm-5.3"
+}

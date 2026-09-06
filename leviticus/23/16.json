@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 23:16",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Մինչև յոթերորդ Շաբաթի վաղվա օրը հաշվեք հիսուն օր. և մոտեցրեք նոր ընծա Յահվեին։",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "վաղվա օրը"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Շաբաթի"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "յոթերորդ"
+    },
+    {
+      "surface": "תספרו",
+      "gloss": "հաշվեք"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "հիսուն"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "և մոտեցրեք"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ընծա"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "նոր"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեին"
+    }
+  ],
+  "timestamp": "2026-09-05T19:08:38.476838848Z",
+  "model": "glm-5.3"
+}

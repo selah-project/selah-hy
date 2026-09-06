@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Աթայ վեցերորդը, Էլիել յոթերորդը։",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "Աթայ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "վեցերորդը"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "Էլիել"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "յոթերորդը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:31:34.124840768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Եվ կմորթես ⟨את⟩ ցուլը Յահվեի առջև՝ Հանդիպման վրանի մուտքի մոտ։",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "և կմորթես"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ցուլը"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ցուլը"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "մուտքի"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "վրանի"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "հանդիպման"
+    }
+  ],
+  "timestamp": "2026-09-05T18:48:49.630922912Z",
+  "model": "glm-5.3"
+}

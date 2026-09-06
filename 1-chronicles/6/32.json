@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 6:32",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Մախլիի որդին, Մուշիի որդին, Մերարիի որդին, Լևիի որդին։",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Մախլիի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "Մուշիի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Մերարիի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Լևիի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:43:03.680460564Z",
+  "model": "glm-5.3"
+}

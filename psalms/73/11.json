@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 73,
+  "translation": "Եվ ասում են՝ «Ինչպե՞ս կգիտի Էլը, և արդյոք գիտելիք կա Էլիոնի մեժ»։",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Եվ ասում են"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "ինչպե՞ս"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "կգիտի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլը"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "և կա"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "գիտելիք"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "Էլիոնի մեջ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:09:44.360530139Z",
+  "model": "glm-5.3"
+}

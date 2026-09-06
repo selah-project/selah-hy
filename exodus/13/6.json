@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Յոթ օր կուտես մացոտ, իսկ յոթերորդ օրը՝ տոն Յահվեին։",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Յոթ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "կուտես"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "մացոտ"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "իսկ օրը"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "յոթերորդ"
+    },
+    {
+      "surface": "חג",
+      "gloss": "տոն"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:40:05.889574075Z",
+  "model": "glm-5.3"
+}

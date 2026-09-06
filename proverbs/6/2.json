@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 6:2",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Որսացար բերանիդ խոսքերով, ծուղակն ընկար բերանիդ խոսքերով։",
+  "tokens": [
+    {
+      "surface": "נוקשת",
+      "gloss": "Որսացար"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "խոսքերով"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "բերանիդ"
+    },
+    {
+      "surface": "נלכדת",
+      "gloss": "ծուղակն ընկար"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "խոսքերով"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "բերանիդ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:25.796467672Z",
+  "model": "glm-5.3"
+}

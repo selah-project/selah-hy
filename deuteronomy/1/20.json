@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 1:20",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ ասացի ձեզ՝ եկել եք մինչև Էմորիների լեռը, որ Յահվեն՝ մեր Էլոհիմը, տալիս է մեզ։",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "և ասացի"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "եկել եք"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "הר",
+      "gloss": "լեռը"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Էմորիների"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "մեր Էլոհիմը"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "տալիս է"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "մեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:32:27.481118971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 9:20",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ Փինխասը՝ Էլազարի որդին, իշխան էր նրանց վրա առաջ, Յահվեն իր հետ։",
+  "tokens": [
+    {
+      "surface": "ופינחס",
+      "gloss": "Եվ Փինխասը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Էլազարի"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "իշխան"
+    },
+    {
+      "surface": "היה",
+      "gloss": "էր"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "նրանց վրա"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "առաջ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "իր հետ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:32:37.792936853Z",
+  "model": "glm-5.3"
+}

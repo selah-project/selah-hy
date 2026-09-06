@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Որովհետև լավ ուսուցում տվեցի ձեզ, իմ Թորան մի՛ թողեք։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ուսուցում"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "լավ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "տվեցի"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "իմ Թորան"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "թողեք"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:12.034984022Z",
+  "model": "glm-5.3"
+}

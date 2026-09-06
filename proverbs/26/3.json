@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Մտրակ՝ ձիու համար, ձգան՝ էշի համար, և ցուպ՝ հիմարների մեջքի համար։",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "մտրակ"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "ձիու համար"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "ձգան"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "էշի համար"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "և ցուպ"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "մեջքի համար"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "հիմարների"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:34.622379560Z",
+  "model": "glm-5.3"
+}

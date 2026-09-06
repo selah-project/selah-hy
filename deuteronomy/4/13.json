@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 4:13",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "և հայտնեց ձեզ ⟨את⟩ իր Բրիթը, որ պատվիրեց ձեզ անելու՝ տասը խոսքերը, և գրեց դրանց երկու քարե սալերի վրա։",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "և հայտնեց"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "իր Բրիթը"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "իր Բրիթը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "պատվիրեց"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ձեզ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "անելու"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "տասը"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "խոսքերը"
+    },
+    {
+      "surface": "ויכתבם",
+      "gloss": "և գրեց դրանց"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "שני",
+      "gloss": "երկու"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "սալերի"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "քարե"
+    }
+  ],
+  "timestamp": "2026-09-05T19:33:37.272838316Z",
+  "model": "glm-5.3"
+}

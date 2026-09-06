@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Սուտը ատեցի և զզվեցի ⟨նրանից⟩, քո Թորան սիրեցի։",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "սուտը"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ատեցի"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "և զզվեցի"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "քո Թորան"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "սիրեցի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:22:48.553213991Z",
+  "model": "glm-5.3"
+}

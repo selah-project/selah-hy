@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Բաժինս Յահվեն է, ասաց իմ նեֆեշը, հետևաբար նրան եմ սպասում։",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "Բաժինս"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "իմ նեֆեշը"
+    },
+    {
+      "surface": "על",
+      "gloss": "հետևաբար-ի համար"
+    },
+    {
+      "surface": "כן",
+      "gloss": "հետևաբար"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "սպասում եմ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:55.990369908Z",
+  "model": "glm-5.3"
+}

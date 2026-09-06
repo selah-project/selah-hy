@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 24:9",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Խորհումը հիմարության՝ մեղք է, և ծաղրողը ատելի է մարդկանց։",
+  "tokens": [
+    {
+      "surface": "זמת",
+      "gloss": "խորհումը"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "հիմարության"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "մեղք է"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "և ատելի է"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "մարդկանց"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "ծաղրողը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:33.696025898Z",
+  "model": "glm-5.3"
+}

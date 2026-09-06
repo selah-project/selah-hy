@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 6:11",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ ասացի՝ արդյոք իմ պես մարդ կարո՞ղ է փախչել, և ո՞վ, ինձ նման, կմտնի տաճար և ապրի՝ ես չեմ մտնի։",
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "և ասացի"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "իմ պես"
+    },
+    {
+      "surface": "יברח",
+      "gloss": "կարո՞ղ է փախչել"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "և ո՞վ"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "ինձ նման"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "կմտնի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "առ"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "տաճար"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "և ապրի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ես չեմ մտնի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:57:43.094483579Z",
+  "model": "glm-5.3"
+}

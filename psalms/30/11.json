@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Լսի՛ր, Յահվե, և ողորմի՛ր ինձ. Յահվե, եղի՛ր ինձ օգնական։",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Լսի՛ր"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "և ողորմի՛ր ինձ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղի՛ր"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "օգնական"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:57:58.549313414Z",
+  "model": "glm-5.3"
+}

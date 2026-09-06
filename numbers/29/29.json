@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 29:29",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Եվ վեցերորդ օրը՝ ութ ցուլ, երկու խոյ, տասնչորս գառ՝ մեկ տարեկան, անարատներ։",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Եվ օրը"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "վեցերորդ"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ցուլ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ութ"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "խոյ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "երկու"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "գառ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարվա"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "չորս"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "տաս"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "անարատներ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:27:34.355563424Z",
+  "model": "glm-5.3"
+}

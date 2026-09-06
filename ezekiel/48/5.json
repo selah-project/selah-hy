@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 48:5",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 48,
+  "translation": "Եվ Մենաշեի սահմանի վրա՝ արևելյան կողմից մինչև արևմտյան կողմ՝ Էֆրայիմ ⟨մեկ բաժին⟩։",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "և ... վրա"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "սահման"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Մենաշե"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "կողմից"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "արևելյան"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "կողմ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "արևմտյան"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Էֆրայիմ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:29:55.284822998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Ահա՛ ես եմ Յահվե՝ ամեն մարմնի Էլոհիմը. արդյո՞ք ինձանից որևէ բան անհնար կլինի։",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ահա"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Էլոհիմ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "մարմնի"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "ինձանից"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "անհնար կլինի"
+    },
+    {
+      "surface": "כל",
+      "gloss": "որևէ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "բան"
+    }
+  ],
+  "timestamp": "2026-09-05T21:55:40.220562081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 12:33",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "և Ազարյահն (Ազարիա), Եզրան և Մեշուլամը։",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "և Ազարյահն"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Եզրան"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "և Մեշուլամը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:25:31.878487020Z",
+  "model": "glm-5.3"
+}

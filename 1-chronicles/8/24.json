@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "և Խանանյան, և Էյլամը, և Անտոթիյան։",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "և Խանանյա"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "և Էյլամ"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "և Անտոթիյա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:51.653815487Z",
+  "model": "glm-5.3"
+}

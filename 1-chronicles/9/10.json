@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "և քահանաներից՝ Յեդայան, և Յեհոյարիվը, և Յախինը։",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "և -ից"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "քահանաների"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Յեդայա"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "և Յեհոյարիվ"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "և Յախին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:31:17.252988430Z",
+  "model": "glm-5.3"
+}

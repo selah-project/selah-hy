@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Գրկի մեջ գցվում է ⟨את⟩ գուշակը, և Յահվեից է ⟨նրա⟩ ամբողջ դատավճիռը։",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "գրկի մեջ"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "գցվում է"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "գուշակը"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "գուշակը"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "և Յահվեից"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "դատավճիռը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:32:23.944920060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 30:17",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Եվ լսեց Էլոհիմ Լիային, և հղիացավ, և ծնեց Յաակովին (Հակոբ) որդի՝ հինգերորդ։",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Եվ լսեց"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Լիա"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "և հղիացավ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "և ծնեց"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Յաակովին"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "հինգերորդ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:21:58.248848190Z",
+  "model": "glm-5.3"
+}

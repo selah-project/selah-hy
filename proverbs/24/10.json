@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Եթե թուլանաս նեղության օրը՝ նեղ է քո ուժը։",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "եթե թուլանաս"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "նեղության"
+    },
+    {
+      "surface": "צר",
+      "gloss": "նեղ է"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "քո ուժը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:33.696275464Z",
+  "model": "glm-5.3"
+}

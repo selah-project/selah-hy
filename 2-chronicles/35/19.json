@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 35:19",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 35,
+  "translation": "Յոշիահուի թագավորության տասնութերորդ տարում արվեց այս Պեսախը։",
+  "tokens": [
+    {
+      "surface": "בשמונה",
+      "gloss": "ութ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "տասնութերորդ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարում"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "թագավորության"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Յոշիահուի"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "արվեց"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Պեսախը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-06T00:59:41.330539655Z",
+  "model": "glm-5.3"
+}

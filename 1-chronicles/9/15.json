@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "և Բաքբաքարը, Խերեշը և Գալալը, և Մատանյան՝ որդին Միխայի, որդին Զիքրիի, որդին Ասաֆի։",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "և Բաքբաքարը"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Խերեշը"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "և Գալալը"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "և Մատանյան"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "Միխայի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Զիքրիի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Ասաֆի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:31:59.407742983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Վիժող և անպտուղ չի լինի քո երկրում, ⟨את⟩ քո օրերի թիվը ես կլցնեմ։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "կլինի"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "վիժող"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "և անպտուղ"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "քո երկրում"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "քո օրերի թիվը"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "թիվը"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "քո օրերի"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "կլցնեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:45:55.229698414Z",
+  "model": "glm-5.3"
+}

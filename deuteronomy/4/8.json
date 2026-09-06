@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 4:8",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ ո՞ր ⟨է⟩ մեծ ազգ, որին արդար կանոններ և դատասահմաններ են, ինչպես այս ամբողջ Թորան, որ ես այսօր դնում եմ ձեր առջև։",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "Եվ ո՞ր"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ազգ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որին"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨է⟩"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "կանոններ"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "և դատասահմաններ"
+    },
+    {
+      "surface": "צדיקם",
+      "gloss": "արդար"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ինչպես ամբողջ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Թորան"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "այս"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ես"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "դնում եմ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ձեր առջև"
+    },
+    {
+      "surface": "היום",
+      "gloss": "այսօր"
+    }
+  ],
+  "timestamp": "2026-09-05T19:35:02.225318951Z",
+  "model": "glm-5.3"
+}

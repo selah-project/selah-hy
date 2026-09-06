@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "և աղքատի՝ մի՛ պատվիր իր դատի մեջ։",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "և աղքատի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "պատվիր"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "իր դատի մեջ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:45:43.684727065Z",
+  "model": "glm-5.3"
+}

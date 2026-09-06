@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Յահվեի ձայնը զորությամբ ⟨է⟩. Յահվեի ձայնը վեհությամբ ⟨է⟩։",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ձայնը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "զորությամբ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ձայնը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "վեհությամբ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:58:40.178971860Z",
+  "model": "glm-5.3"
+}

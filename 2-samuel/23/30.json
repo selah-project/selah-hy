@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 23:30",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Բենայա Պիրաթոնացին, Հիդդայ՝ Գաաշի հեղուկներից։",
+  "tokens": [
+    {
+      "surface": "בניהו",
+      "gloss": "Բենայա"
+    },
+    {
+      "surface": "פרעתני",
+      "gloss": "Պիրաթոնացին"
+    },
+    {
+      "surface": "הדי",
+      "gloss": "Հիդդայ"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "հեղուկներից"
+    },
+    {
+      "surface": "געש",
+      "gloss": "Գաաշի"
+    }
+  ],
+  "timestamp": "2026-09-05T20:42:05.572141741Z",
+  "model": "glm-5.3"
+}

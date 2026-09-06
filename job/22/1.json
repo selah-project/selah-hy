@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 22:1",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Եվ պատասխանեց Էլիֆազ Թեմանացին ու ասաց՝",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "պատասխանեց"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Էլիֆազ"
+    },
+    {
+      "surface": "התמני",
+      "gloss": "Թեմանացին"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ասաց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:45:56.307415037Z",
+  "model": "glm-5.3"
+}

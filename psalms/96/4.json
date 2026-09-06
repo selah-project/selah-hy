@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 96,
+  "translation": "Քանի որ մեծ է Յահվեն և շատ գովելի, նա սարսափելի է բոլոր աստվածներից վեր։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "և գովելի"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "շատ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "սարսափելի"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "על",
+      "gloss": "վեր"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "աստվածներից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:14:51.304525755Z",
+  "model": "glm-5.3"
+}

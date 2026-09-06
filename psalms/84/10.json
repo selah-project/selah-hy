@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 84,
+  "translation": "Մեր վահանը՝ տե՛ս, Էլոհիմ, և նայի՛ր քո Մաշիախի դեմքին։",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "մեր վահանը"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "տե՛ս"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմ"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "և նայի՛ր"
+    },
+    {
+      "surface": "פני",
+      "gloss": "դեմքին"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "քո Մաշիախի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:12:47.442256992Z",
+  "model": "glm-5.3"
+}

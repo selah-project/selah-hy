@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Դու՝ մարդու որդի՛, բարձրացրու ողբ Ցորի վրա",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Դու"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "שא",
+      "gloss": "բարձրացրու"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Ցորի"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ողբ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:19:48.998630666Z",
+  "model": "glm-5.3"
+}

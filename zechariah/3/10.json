@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 3:10",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Այն օրը, Յահվե Ծեվաոթի խոսքն է, յուրաքանչյուր մարդ իր ընկերոջը կկանչի որթատունկի տակ և թթենու տակ։",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "խոսքն է"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ծեվաոթ"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "կկանչեք"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "իր ընկերոջը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "որթատունկ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և դեպի"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "թթենի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:47:11.202533407Z",
+  "model": "glm-5.3"
+}

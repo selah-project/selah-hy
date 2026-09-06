@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Դավթի սաղմոս։ Յահվեն իմ հովիվն է՝ ես չեմ պակսի։",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "սաղմոս"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Դավթի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "իմ հովիվն է"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "եմ պակսի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:57:15.112495003Z",
+  "model": "glm-5.3"
+}

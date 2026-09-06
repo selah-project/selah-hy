@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ ասաց Յահվեն նրան. «Ի՞նչ է այդ քո ձեռքում»։ Եվ նա ասաց. «Մատակ»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ի՞նչ է այդ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "քո ձեռքում"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "մատակ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:35:40.838799693Z",
+  "model": "glm-5.3"
+}

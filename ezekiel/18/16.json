@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 18:16",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Ո՛չ մարդու չճնշեց, գրավ չվերցրեց, և ավար չբռնացավ. իր հացը սովածին տվեց, և մերկին ծածկեց հանդերձով։",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ո՛չ մարդու"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "הונה",
+      "gloss": "ճնշեց"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "գրավ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "վերցրեց"
+    },
+    {
+      "surface": "וגזלה",
+      "gloss": "և ավար"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "גזל",
+      "gloss": "բռնացավ"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "իր հացը"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "սովածին"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "տվեց"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "և մերկին"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "ծածկեց"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "հանդերձով"
+    }
+  ],
+  "timestamp": "2026-09-05T22:14:51.523072951Z",
+  "model": "glm-5.3"
+}

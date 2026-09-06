@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 86,
+  "translation": "Քանի որ մեծ ես դու, և հրաշքներ գործող՝ դու ես Էլոհիմը՝ մենակ։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Քանի որ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու ես"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "և գործող"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "հրաշքներ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու ես"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "մենակ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:12:46.475327566Z",
+  "model": "glm-5.3"
+}

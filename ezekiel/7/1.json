@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 7:1",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ եղավ Յահվեի խոսքն ինձ՝ ասելով՝",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսք"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով՝"
+    }
+  ],
+  "timestamp": "2026-09-05T22:09:27.328436930Z",
+  "model": "glm-5.3"
+}

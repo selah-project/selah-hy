@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "ժամանակ՝ փնտրելու, և ժամանակ՝ կորցնելու. ժամանակ՝ պահելու, և ժամանակ՝ նետելու։",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ժամանակ"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "փնտրելու"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "և ժամանակ"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "կորցնելու"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ժամանակ"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "պահելու"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "և ժամանակ"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "նետելու"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:35.217395523Z",
+  "model": "glm-5.3"
+}

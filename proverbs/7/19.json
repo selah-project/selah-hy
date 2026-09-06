@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Որովհետև մարդը տանը չէ՝ գնաց հեռու ճանապարհով։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չէ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "մարդը"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "տանը"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "գնաց"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ճանապարհով"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "հեռու"
+    }
+  ],
+  "timestamp": "2026-09-05T23:30:13.772839386Z",
+  "model": "glm-5.3"
+}

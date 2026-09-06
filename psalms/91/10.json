@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 91,
+  "translation": "Չարություն չի պատահի քեզ, և հարված քո վրանին չի մոտենա։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "պատահի"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "չարություն"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "և հարված"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "մոտենա"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "քո վրանին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:14:32.067774955Z",
+  "model": "glm-5.3"
+}

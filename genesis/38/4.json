@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 38,
+  "translation": "Եվ հղիացավ նորից, և ծնեց որդի, և կոչեց ⟨את⟩ նրա անունը՝ Օնան։",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Եվ հղիացավ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "նորից"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "և ծնեց"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "և կոչեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "նրա անունը"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "նրա անունը"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Օնան"
+    }
+  ],
+  "timestamp": "2026-09-05T18:26:25.771832729Z",
+  "model": "glm-5.3"
+}

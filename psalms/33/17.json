@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 33,
+  "translation": "Սուտ է ձին փրկության համար, և իր ուժի առատությամբ չի փրկվի։",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "սոտ է"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ձին"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "փրկության համար"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "և առատությամբ"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "իր ուժի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "փրկվի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:59:50.009689938Z",
+  "model": "glm-5.3"
+}

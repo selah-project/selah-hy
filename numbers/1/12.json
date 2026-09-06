@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Դանի՝ Ախիեզերը, Ամիշադայի որդին։",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "Դանի"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "Ախիեզերը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "Ամիշադայի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:10:41.855572341Z",
+  "model": "glm-5.3"
+}

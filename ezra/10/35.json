@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 10:35",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Բենայա, Բեդայա, Քելուխայ։",
+  "tokens": [
+    {
+      "surface": "בניה",
+      "gloss": "Բենայա"
+    },
+    {
+      "surface": "בדיה",
+      "gloss": "Բեդայա"
+    },
+    {
+      "surface": "כלהי",
+      "gloss": "Քելուխայ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:18:38.511025407Z",
+  "model": "glm-5.3"
+}

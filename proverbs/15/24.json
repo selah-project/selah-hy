@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 15:24",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Կյանքի ուղին վերև է խելացուների համար՝ որպեսզի շեղվի ներքևի Շեոլից։",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "ուղին"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "Կյանքի"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "վերև"
+    },
+    {
+      "surface": "למשכיל",
+      "gloss": "խելացուների համար"
+    },
+    {
+      "surface": "למען",
+      "gloss": "որպեսզի"
+    },
+    {
+      "surface": "סור",
+      "gloss": "շեղվի"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "Շեոլից"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ներքևի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:32:59.222419517Z",
+  "model": "glm-5.3"
+}

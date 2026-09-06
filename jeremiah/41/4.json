@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 41,
+  "translation": "Եվ եղավ երկրորդ օրը՝ ⟨את⟩ Գդալյահուն սպանելուց ⟨հետո⟩, և ոչ ոք չգիտեր։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "השני",
+      "gloss": "երկրորդ"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "սպանելու"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Գդալյահուն"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Գդալյահուն"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "և ոչ ոք"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "գիտեր"
+    }
+  ],
+  "timestamp": "2026-09-06T02:50:55.724867687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 3:16",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ Յեհոյաքիմի որդիները՝ Յեխոնյահ որդին, Ցիդկիյահ որդին։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Եվ որդիները"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Յեհոյաքիմի"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Յեխոնյահ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "Ցիդկիյահ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "որդին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:28:33.303324296Z",
+  "model": "glm-5.3"
+}

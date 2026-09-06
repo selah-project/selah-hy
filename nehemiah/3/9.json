@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 3:9",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Իրենց կողքին ամրացրեց Ռեֆայան՝ Խուրի որդին՝ Երուշալայիմի կես շրջանի իշխանը։",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "կողքին"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "ամրացրեց"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "Ռեֆայան"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Խուր"
+    },
+    {
+      "surface": "שר",
+      "gloss": "իշխան"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "կես"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "շրջանի"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Երուշալայիմի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:21:10.615251592Z",
+  "model": "glm-5.3"
+}

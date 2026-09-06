@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Առյուծը՝ հզորագույնը գազանների մեջ, որ ետ չի դառնում ոչ մեկի երեսից.",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "առյուծ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "հզոր"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "գազանների մեջ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ետ է դառնում"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "երեսից"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ոչ մեկի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:38:03.370335595Z",
+  "model": "glm-5.3"
+}

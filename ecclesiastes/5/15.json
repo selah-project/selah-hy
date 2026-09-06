@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "և նաև սա չար հիվանդություն է՝ ամբողջովին ինչպես եկավ, այնպես պիտի գնա, և ի՞նչ շահ ունի նա, որ քամու համար աշխատի։",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "և նաև"
+    },
+    {
+      "surface": "זה",
+      "gloss": "սա"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "չար"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "հիվանդություն"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջովին"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "ինչպես"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "եկավ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այնպես"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "պիտի գնա"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "և ի՞նչ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "շահ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "որ աշխատի"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "քամու համար"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:12.092533855Z",
+  "model": "glm-5.3"
+}

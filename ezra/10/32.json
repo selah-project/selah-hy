@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 10:32",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Բինյամին, Մալուխ, Շեմարյա։",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "Բինյամին"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "Մալուխ"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Շեմարյա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:18:45.687937184Z",
+  "model": "glm-5.3"
+}

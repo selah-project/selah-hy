@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Եվ Շլոմոն պատմեց նրան ⟨את⟩ ամեն իր խոսքը. ոչ մի խոսք թաքնված չմնաց թագավորից, որ նա չպատմեր նրան։",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Եվ պատմեց"
+    },
+    {
+      "surface": "לה",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Շլոմոն"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ամենը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամենը"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "իր խոսքը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսք"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "թաքնված"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ից"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "թագավորից"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "պատմեր"
+    },
+    {
+      "surface": "לה",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T20:49:46.492484695Z",
+  "model": "glm-5.3"
+}

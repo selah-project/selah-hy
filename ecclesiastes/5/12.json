@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Կա ծանր չարիք, որ տեսել եմ արևի տակ՝ հարստություն, պահված իր տիրոջ ⟨համար⟩՝ իր վնասի համար։",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "կա"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "չարիք"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "ծանր"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "տեսել եմ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "արևի"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "հարստություն"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "պահված"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "իր տիրոջ"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "իր վնասի համար"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:32.181578962Z",
+  "model": "glm-5.3"
+}

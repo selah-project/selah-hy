@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 85,
+  "translation": "Այո, Յահվեն կտա բարին, և մեր երկիրը կտա իր բերքը։",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Այո, նաև"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "կտա"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "բարին"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "և մեր երկիրը"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "կտա"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "իր բերքը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:12:32.067634189Z",
+  "model": "glm-5.3"
+}

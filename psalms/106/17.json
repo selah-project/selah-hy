@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 106,
+  "translation": "Բացվեց երկիրը և կլանեց Դաթանին, և ծածկեց Ավիրամի համայնքի վրա։",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "Բացվեց"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "և կլանեց"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Դաթանին"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "և ծածկեց"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "համայնքի"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Ավիրամի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:17:55.889331479Z",
+  "model": "glm-5.3"
+}

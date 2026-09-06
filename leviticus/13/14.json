@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Եվ այն օրը, երբ երևի նրա մեջ կենդանի մարմին՝ պիղծ կլինի։",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "և այն օրը"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "երևելու"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրա մեջ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "մարմին"
+    },
+    {
+      "surface": "חי",
+      "gloss": "կենդանի"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "պիղծ կլինի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:02:01.641481305Z",
+  "model": "glm-5.3"
+}

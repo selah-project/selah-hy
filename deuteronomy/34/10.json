@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 34,
+  "translation": "Եվ այլևս մարգարե երբեք չեղավ Իսրայելում Մոշեի պես, որին Յահվեն ճանաչում էր երես երեսի դիմաց։",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Եվ ոչ"
+    },
+    {
+      "surface": "קם",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "մարգարե"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "երբեք այլևս"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Իսրայելում"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "Մոշեի պես"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որին"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ճանաչում էր"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "երես"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեմ առ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "երեսի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:50:16.015175924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ նաև Յահվեի ձեռքը եղավ նրանց դեմ՝ լցնելու նրանց ճամբարի միջից, մինչև նրանց ամբողջովին վերջացնելը։",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Եվ նաև"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ձեռքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "նրանց դեմ"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "լցնելու"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "միջից"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ճամբարի"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "վերջացնելը"
+    }
+  ],
+  "timestamp": "2026-09-06T02:45:45.373562050Z",
+  "model": "glm-5.3"
+}

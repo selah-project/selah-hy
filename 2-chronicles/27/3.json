@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Նա կառուցեց ⟨את⟩ Յահվեի տան վերին դարպասը, և Օֆելի պարսպի վրա շատ կառուցեց։",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Նա"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "կառուցեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "դարպասը"
+    },
+    {
+      "surface": "שער",
+      "gloss": "դարպասը"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տան"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "վերին"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "և պարսպի վրա"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Օֆելի"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "կառուցեց"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "շատ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:50:14.291433072Z",
+  "model": "glm-5.3"
+}

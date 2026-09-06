@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 40:14",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 40,
+  "translation": "Եվ արեց ⟨את⟩ սյուները՝ վաթսուն արկղ, և մինչև բակի սյունը՝ դարպասը շուրջ շուրջ։",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Եվ արեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "սյուները"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "սյուներ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "վաթսուն"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "արկղ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և մինչև"
+    },
+    {
+      "surface": "איל",
+      "gloss": "սյունը"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "բակի"
+    },
+    {
+      "surface": "השער",
+      "gloss": "դարպասի"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "շուրջ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "շուրջ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:27:29.619384344Z",
+  "model": "glm-5.3"
+}

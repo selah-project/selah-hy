@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 21:26",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Ամբողջ օրը ցանկություն է ցանկում, իսկ արդարը տալիս է և չի պահպանում։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "ցանկում է"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "ցանկություն"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "իսկ արդարը"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "տալիս է"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "պահպանում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:50.929509028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ իր եղբոր անունը՝ Յուվալ․ նա եղավ ամեն քնար և ուղաբ բռնողի հայրը։",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Եվ անունը"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "իր եղբոր"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Յուվալ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "հայրը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "բռնողի"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "քնար"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "և ուղաբ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:09:23.217361557Z",
+  "model": "glm-5.3"
+}

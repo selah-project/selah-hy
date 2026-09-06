@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "joshua 15:58",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Խալխուլը, Բեթ Ցուրը և Գդորը։",
+  "tokens": [
+    {
+      "surface": "חלחול",
+      "gloss": "Խալխուլը"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Բեթ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Ցուրը"
+    },
+    {
+      "surface": "וגדור",
+      "gloss": "և Գդորը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:57:09.402157568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Որովհետև այսպես ասաց Ադոնայ Յահվեն՝ Բաբելի թագավորի սուրը կգա քեզ վրա։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "כה",
+      "gloss": "այսպես"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "սուրը"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավորի"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Բաբելի"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "կգա քեզ վրա"
+    }
+  ],
+  "timestamp": "2026-09-05T22:21:55.835019127Z",
+  "model": "glm-5.3"
+}

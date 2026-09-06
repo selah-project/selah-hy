@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Մեր նեֆեշով բերեցինք մեր հացը՝ անապատի սրի երեսից։",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "մեր նեֆեշով"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "բերեցինք"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "մեր հացը"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "երեսից"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "սրի"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "անապատի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:10.686938562Z",
+  "model": "glm-5.3"
+}

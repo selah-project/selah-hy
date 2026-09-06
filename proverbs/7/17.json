@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Օծեցի անկողինս՝ մյուռ, ահալիմ և դարչին։",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "օծեցի"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "անկողինս"
+    },
+    {
+      "surface": "מר",
+      "gloss": "մյուռ"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "ահալիմ"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "և դարչին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:30:13.772459132Z",
+  "model": "glm-5.3"
+}

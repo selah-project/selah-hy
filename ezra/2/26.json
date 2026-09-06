@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Ռամայի և Գեվայի որդիները՝ վեց հարյուր քսան մեկ։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Ռամայի"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "և Գեվայի"
+    },
+    {
+      "surface": "שש",
+      "gloss": "վեց"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "քսան"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "մեկ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:14:41.310021401Z",
+  "model": "glm-5.3"
+}

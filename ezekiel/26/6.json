@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 26:6",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Եվ նրա աղջիկները, որ դաշտում են, սրով կսպանվեն, և իմանան, որ ես եմ Յահվեն։",
+  "tokens": [
+    {
+      "surface": "ובנותיה",
+      "gloss": "Եվ նրա աղջիկները"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "դաշտում են"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "սրով"
+    },
+    {
+      "surface": "תהרגנה",
+      "gloss": "կսպանվեն"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "և իմանան"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T22:20:21.807806874Z",
+  "model": "glm-5.3"
+}

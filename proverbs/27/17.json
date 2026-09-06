@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Երկաթ երկաթով է սրվում, և մարդը սրում է իր ընկերոջ երեսը։",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "երկաթ"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "երկաթով"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "սրվում է"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "և մարդը"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "սրում է"
+    },
+    {
+      "surface": "פני",
+      "gloss": "երեսը"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "իր ընկերոջ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:01.634189629Z",
+  "model": "glm-5.3"
+}

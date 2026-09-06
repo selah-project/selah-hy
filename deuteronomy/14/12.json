@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ ահա ⟨այս⟩ են, որ դրանցից չեք ուտի՝ արծիվը, և գերեզը, և ազնիյան։",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "և ահա այս"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "չեք ուտի"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "դրանցից"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "արծիվը"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "և գերեզը"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "և ազնիյան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:38:36.664918983Z",
+  "model": "glm-5.3"
+}

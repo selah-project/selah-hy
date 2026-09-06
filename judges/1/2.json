@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ ասաց Յահվեն. Յեհուդան կբարձրանա. ահա տվել եմ ⟨את⟩ երկիրը նրա ձեռքը։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Յեհուդան"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "կբարձրանա"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "տվել եմ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "երկիրը"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "նրա ձեռքը"
+    }
+  ],
+  "timestamp": "2026-09-05T20:02:04.442320276Z",
+  "model": "glm-5.3"
+}

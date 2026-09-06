@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 28:19",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Եվ կոչեց ⟨את⟩ այդ վայրի անունը Բեյթ-Էլ, իսկ Լուզ էր քաղաքի անունը նախկինում։",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Եվ կոչեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "անունը"
+    },
+    {
+      "surface": "שם",
+      "gloss": "անունը"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "վայրի"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Բեյթ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլ"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "իսկ"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "Լուզ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "անունը"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "քաղաքի"
+    },
+    {
+      "surface": "לראשנה",
+      "gloss": "նախկինում"
+    }
+  ],
+  "timestamp": "2026-09-05T18:21:35.682089848Z",
+  "model": "glm-5.3"
+}

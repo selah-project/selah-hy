@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 16:27",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Անպետք մարդը չարիք է փորում, և իր շուրթերի վրա կա կրակի պես այրող բոց։",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "մարդը"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Անպետք"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "է փորում"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "չարիք"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "և վրա"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "իր շուրթերի"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "կրակի պես"
+    },
+    {
+      "surface": "צרבת",
+      "gloss": "այրող բոց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:33:02.649720363Z",
+  "model": "glm-5.3"
+}

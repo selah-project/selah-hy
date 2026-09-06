@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Ես չգիտեի, իմ նեֆեշը ինձ դրեց իմ ժողովրդի նադիվի մարտակառքերի ⟨վրա⟩։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "գիտեի"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "իմ նեֆեշը"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "դրեց ինձ"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "մարտակառքերի"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "իմ ժողովրդի"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "նադիվ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:52:45.404269777Z",
+  "model": "glm-5.3"
+}

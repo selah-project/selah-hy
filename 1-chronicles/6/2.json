@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ ահա Գերշոմի որդիների անունները՝ Լիբնի և Շիմի։",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Եվ ահա"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "անունները"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Գերշոմի"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Լիբնի"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "և Շիմի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:31.814074880Z",
+  "model": "glm-5.3"
+}

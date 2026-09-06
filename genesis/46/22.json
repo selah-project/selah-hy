@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 46,
+  "translation": "Սրանք Ռախելի որդիներն են, որոնք ծնվեցին Յաակովին. բոլոր նեֆեշները՝ տասնչորս։",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "սրանք"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Ռախելի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որոնք"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ծնվեցին"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Յաակովին"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "նեֆեշները"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "չորս"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "տասն"
+    }
+  ],
+  "timestamp": "2026-09-05T18:30:42.167873204Z",
+  "model": "glm-5.3"
+}

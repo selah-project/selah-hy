@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 8:32",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ հասանք Երուշալայիմ, և մնացինք այնտեղ երեք օր։",
+  "tokens": [
+    {
+      "surface": "ונבוא",
+      "gloss": "Եվ հասանք"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Երուշալայիմ"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "և մնացինք"
+    },
+    {
+      "surface": "שם",
+      "gloss": "այնտեղ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "երեք"
+    }
+  ],
+  "timestamp": "2026-09-06T00:19:56.421475083Z",
+  "model": "glm-5.3"
+}

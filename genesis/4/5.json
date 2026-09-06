@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Իսկ Կայինի և նրա ընծայի վրա չնայեց, և Կայինը շատ բարկացավ, և նրա երեսը ընկավ։",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Իսկ դեպի"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Կայինի"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և դեպի"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "նրա ընծայի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "նայեց"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "և բարկացավ"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "Կայինին"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "շատ"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "և ընկավ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "նրա երեսը"
+    }
+  ],
+  "timestamp": "2026-09-05T18:08:35.545794179Z",
+  "model": "glm-5.3"
+}

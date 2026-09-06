@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 116,
+  "translation": "Փրկության բաժակը կբարձրացնեմ, և Յահվեի անով կկանչեմ։",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "բաժակ"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "փրկության"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "կբարձրացնեմ"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "և անով"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "կկանչեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:42.982165237Z",
+  "model": "glm-5.3"
+}

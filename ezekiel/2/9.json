@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 2:9",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ տեսա, և ահա՝ ձեռք էր ուղարկված ինձ, և ահա՝ դրա մեջ մագաղաթե գիրք կար։",
+  "tokens": [
+    {
+      "surface": "ואראה",
+      "gloss": "Եվ տեսա"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "և ահա"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ձեռք"
+    },
+    {
+      "surface": "שלוחה",
+      "gloss": "ուղարկված"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "և ահա"
+    },
+    {
+      "surface": "בו",
+      "gloss": "դրա մեջ"
+    },
+    {
+      "surface": "מגלת",
+      "gloss": "մագաղաթե"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "գիրք"
+    }
+  ],
+  "timestamp": "2026-09-05T22:07:26.747568125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 116,
+  "translation": "Պահապան պարզերի՝ Յահվեն. ես խոնարհվեցի, և ինձ փրկեց։",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "պահապան"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "պարզերի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "խոնարհվեցի"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "և ինձ"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "փրկեց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:42.050272899Z",
+  "model": "glm-5.3"
+}

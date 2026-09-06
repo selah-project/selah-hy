@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "daniel 5:24",
+  "book": "daniel",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Այն ժամանակ նրա առջևից ուղարկվեց ձեռքի ափը, և այս գրությունը գրվեց։",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Այն ժամանակ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "նրանից"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "առջևից"
+    },
+    {
+      "surface": "שליח",
+      "gloss": "ուղարկվեց"
+    },
+    {
+      "surface": "פסא",
+      "gloss": "ափը"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨ձեռքի⟩"
+    },
+    {
+      "surface": "ידא",
+      "gloss": "ձեռք"
+    },
+    {
+      "surface": "וכתבא",
+      "gloss": "և գրությունը"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "գրվեց"
+    }
+  ],
+  "timestamp": "2026-09-06T01:21:21.859328994Z",
+  "model": "glm-5.3"
+}

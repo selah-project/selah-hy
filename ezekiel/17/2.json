@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Մարդո՛ւ որդի, ասա խրամատը և մեկնիր առակ Իսրայելի տանը։",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "ասա"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "խրամատը"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "և մեկնիր առակ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "առակ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տանը"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:14:21.358120264Z",
+  "model": "glm-5.3"
+}

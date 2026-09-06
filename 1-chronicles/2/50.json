@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-chronicles 2:50",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Սրանք եղան Կալեբի որդիները՝ Խուրի որդին, Էփրաթայի ավագը՝ Շովալը՝ Կիրյաթ Յաարիմի հայրը։",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Սրանք"
+    },
+    {
+      "surface": "היו",
+      "gloss": "եղան"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Կալեբի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Խուրի"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ավագը"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "Էփրաթայի"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Շովալը"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "հայրը"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Կիրյաթ"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Յաարիմի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:18.124362050Z",
+  "model": "glm-5.3"
+}

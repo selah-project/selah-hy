@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 34:31",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 34,
+  "translation": "Քանի որ մարդ ասել է Էլին՝ «Կրել եմ ⟨պատիժ⟩, ես այլևս չեմ մեղանչի».",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլին"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "ասել է"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "կրել եմ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "אחבל",
+      "gloss": "կմեղանչեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:50:17.768873864Z",
+  "model": "glm-5.3"
+}

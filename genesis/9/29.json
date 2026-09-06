@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ եղան Նոյի բոլոր օրերը ինը հարյուր հիսուն տարի, և նա մեռավ։",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Եվ եղան"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "օրերը"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Նոյի"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ինը"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "և հիսուն"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "և մեռավ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:09:20.733777666Z",
+  "model": "glm-5.3"
+}

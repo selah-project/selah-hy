@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 11:24",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Ամեն տեղ, որ ձեր ոտքի թաթը կտրի դրան, ձեր կլինի. անապատից և Լիբանանից, գետից՝ Պրատ գետից, մինչև հետին ծովը ձեր սահմանը կլինի։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ամեն"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "տեղ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "կտրի"
+    },
+    {
+      "surface": "כף",
+      "gloss": "թաթ"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "ձեր ոտքի"
+    },
+    {
+      "surface": "בו",
+      "gloss": "դրան"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեր"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "կլինի"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ից"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "անապատից"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "և Լիբանանից"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ից"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "գետից"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "գետ"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Պրատ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ծովը"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "հետին"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "կլինի"
+    },
+    {
+      "surface": "גבלכם",
+      "gloss": "ձեր սահմանը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:37:31.458319247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 113,
+  "translation": "Բարձր է Յահվեն ազգերից բոլորից, նրա փառքը՝ երկնքից վեր։",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "Բարձր է"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլորից"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ազգերից"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "על",
+      "gloss": "վեր"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "երկնքից"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "նրա փառքը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:20:09.129412623Z",
+  "model": "glm-5.3"
+}

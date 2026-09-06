@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 27:21",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Վառարան՝ արծաթի համար և հալոցք՝ ոսկու, և մարդ՝ ըստ իր գովասանքի։",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "վառարան"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "արծաթի համար"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "և հալոցք"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "ոսկու"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "և մարդ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ըստ"
+    },
+    {
+      "surface": "מהללו",
+      "gloss": "իր գովասանքի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:22.607278114Z",
+  "model": "glm-5.3"
+}

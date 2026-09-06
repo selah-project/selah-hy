@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Ոտքը կոխկրտի այն՝ աղքատի ոտքերը, դժբախտների քայլերը։",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "կոխկրտի այն"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ոտքը"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ոտքերը"
+    },
+    {
+      "surface": "עני",
+      "gloss": "աղքատի"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "քայլերը"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "դժբախտների"
+    }
+  ],
+  "timestamp": "2026-09-05T21:21:50.593014256Z",
+  "model": "glm-5.3"
+}

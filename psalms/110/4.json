@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 110,
+  "translation": "Երդվեց Յահվեն և չի ափստալ. «դու քահանա ես հավիտյան Մալկի Ցեդեկի կարգով»։",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Երդվեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չի"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "ափստալ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "քահանա"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "հավիտյան"
+    },
+    {
+      "surface": "על",
+      "gloss": "ըստ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "կարգի"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Մալկի"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Ցեդեկի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:20:45.254835036Z",
+  "model": "glm-5.3"
+}

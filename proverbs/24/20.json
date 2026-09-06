@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Որովհետև չարին ապագա չի լինի, անիրավների ճրագը կմարչի։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ապագա"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "չարին"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ճրագը"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "անիրավների"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "կմարչի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:58.257073108Z",
+  "model": "glm-5.3"
+}

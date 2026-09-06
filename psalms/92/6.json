@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 92,
+  "translation": "Որքա՜ն մեծացան քո գործերը, Յահվե, շատ խորն են քո մտածումները։",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Որքա՜ն"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "մեծացան"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "քո գործերը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "շատ"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "խորն են"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "քո մտածումները"
+    }
+  ],
+  "timestamp": "2026-09-05T23:15:11.197205528Z",
+  "model": "glm-5.3"
+}

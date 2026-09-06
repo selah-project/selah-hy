@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Գիշերը ցերեկ են դարձնում՝ լույսը մոտ է խավարի երեսին։",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "գիշերը"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ցերեկ"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "դարձնում են"
+    },
+    {
+      "surface": "אור",
+      "gloss": "լույսը"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "երեսին"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "խավար"
+    }
+  ],
+  "timestamp": "2026-09-05T23:44:01.408672398Z",
+  "model": "glm-5.3"
+}

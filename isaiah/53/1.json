@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 53,
+  "translation": "Ո՞վ հավատաց մեր լսածին, և Յահվեի բազուկը ու՞մ է բացահայտվել։",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ո՞վ"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "հավատաց"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "մեր լսածին"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "և բազուկը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨է⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ու՞մ"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "բացահայտվել"
+    }
+  ],
+  "timestamp": "2026-09-06T02:48:54.931792230Z",
+  "model": "glm-5.3"
+}

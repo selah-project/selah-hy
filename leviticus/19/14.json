@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 19:14",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Մի՛ անիծ խլին, և կուրի առջև մի՛ դիր արգելք. այլ երկյուղիր քո Էլոհիմից. ես եմ Յահվեն։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "անիծ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "խլին"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "և առջև"
+    },
+    {
+      "surface": "עור",
+      "gloss": "կուրի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "դիր"
+    },
+    {
+      "surface": "מכשל",
+      "gloss": "արգելք"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "այլ երկյուղիր"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "քո Էլոհիմից"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:06:36.994356954Z",
+  "model": "glm-5.3"
+}

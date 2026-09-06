@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Սկզբում ստեղծեց Էլոհիմ ⟨את⟩ երկինքը և ⟨את⟩ երկիրը։",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Սկզբում"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ստեղծեց"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "երկինքը"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "երկինքը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "երկիրը"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    }
+  ],
+  "timestamp": "2026-09-05T18:08:14.564719155Z",
+  "model": "glm-5.3"
+}

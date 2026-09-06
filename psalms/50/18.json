@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 50,
+  "translation": "Եթե գող տեսար, նրա հետ էիր վազում, և շնացողների հետ ⟨էր⟩ քո բաժինը։",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "տեսար"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "գող"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "վազում էիր նրա հետ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "նրա հետ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "և հետ"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "շնացողների"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "քո բաժինը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:03:52.539548309Z",
+  "model": "glm-5.3"
+}

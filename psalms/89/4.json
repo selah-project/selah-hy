@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 89,
+  "translation": "Բրիթ կտրեցի իմ ընտրյալի հետ, երդվեցի Դավիդին՝ իմ ծառայիս։",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "կտրեցի"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Բրիթ"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "իմ ընտրյալի"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "երդվեցի"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Դավիդին"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "իմ ծառան"
+    }
+  ],
+  "timestamp": "2026-09-05T23:13:35.880974400Z",
+  "model": "glm-5.3"
+}

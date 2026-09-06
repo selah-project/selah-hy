@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 20:13",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Մի սիրի՛ր քունը, գուցե աղքատանաս․ բացի՛ր աչքերդ՝ հագեցած լինես հացով։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תאהב",
+      "gloss": "սիրի՛ր"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "քունը"
+    },
+    {
+      "surface": "פן",
+      "gloss": "գուցե"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "աղքատանաս"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "բացի՛ր"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "աչքերդ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "հագեցած լինես"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "հաց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:44.581512610Z",
+  "model": "glm-5.3"
+}

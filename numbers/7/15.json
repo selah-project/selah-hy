@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "մեկ ցուլ՝ երիտասարդ անասուն, մեկ խոյ, մեկ գառ՝ մեկ տարեկան, ողջակիզության համար։",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ցուլ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "անասուն"
+    },
+    {
+      "surface": "איל",
+      "gloss": "խոյ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "գառ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "մեկ տարեկան"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ողջակիզության համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:14:51.227007950Z",
+  "model": "glm-5.3"
+}

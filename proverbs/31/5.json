@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 31:5",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Թե՜ չէ որ խմեն և մոռանան օրենքը, և աղավաղեն ամեն տառապյալի որդու դատը։",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "թե՜ չէ որ"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "խմեն"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "և մոռանան"
+    },
+    {
+      "surface": "מחקק",
+      "gloss": "օրենքը"
+    },
+    {
+      "surface": "וישנה",
+      "gloss": "և աղավաղեն"
+    },
+    {
+      "surface": "דין",
+      "gloss": "դատը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդու"
+    },
+    {
+      "surface": "עני",
+      "gloss": "տառապյալի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:38:32.041277859Z",
+  "model": "glm-5.3"
+}

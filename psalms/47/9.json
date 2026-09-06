@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 47,
+  "translation": "Թագավորեց Էլոհիմը ազգերի վրա, Էլոհիմը նստավ իր սրբության գահի վրա։",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Թագավորեց"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ազգերի"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "նստավ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "գահի"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "իր սրբության"
+    }
+  ],
+  "timestamp": "2026-09-05T23:03:04.309278847Z",
+  "model": "glm-5.3"
+}

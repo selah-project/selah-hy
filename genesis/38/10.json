@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 38,
+  "translation": "Եվ չար եղավ Յահվեի աչքերին, թե ի՛նչ արեց ⟨նա⟩, և մահացրեց նաև ⟨את⟩ նրան։",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "և չար եղավ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "աչքերին"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "թե ի՛նչ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արեց"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "և մահացրեց"
+    },
+    {
+      "surface": "גם",
+      "gloss": "նաև"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T18:27:36.528027311Z",
+  "model": "glm-5.3"
+}

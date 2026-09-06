@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Ձեզ Էլի ձեռքով կուսուցանեմ ⟨այն⟩, ինչ որ Շադայի հետ է՝ չեմ թաքցնի։",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "կուսուցանեմ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ձեզ",
+      "marks": "ձեզ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ձեռքով"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Շադայի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "չեմ թաքցնի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:46:35.289860911Z",
+  "model": "glm-5.3"
+}

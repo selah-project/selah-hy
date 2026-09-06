@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 6:10",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "և իմանան, որ ես եմ Յահվեն. ոչ ապարանի խոսեցի՝ անելու նրանց այս չարիքը։",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "և իմանան"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨դեպի⟩"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ապարանի"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "խոսեցի"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "անելու"
+    },
+    {
+      "surface": "להם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "չարիքը"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-05T22:08:16.434203076Z",
+  "model": "glm-5.3"
+}

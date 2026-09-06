@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Եվ ասաց. «Ես Աբրահամի ծառան եմ»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ծառա"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Աբրահամի"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ես"
+    }
+  ],
+  "timestamp": "2026-09-05T18:18:19.132852234Z",
+  "model": "glm-5.3"
+}

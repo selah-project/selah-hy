@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Լավ է խոսքի վերջը նրա սկզբից. լավ է երկարահոգին, քան հոգով բարձրահասակը։",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "լավ է"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "վերջը"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքի"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "նրա սկզբից"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "լավ է"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "երկարահոգին"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "հոգի"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "քան հոգով բարձրահասակը"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "հոգի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:04.468916295Z",
+  "model": "glm-5.3"
+}

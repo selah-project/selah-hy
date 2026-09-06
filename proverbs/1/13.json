@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 1:13",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Ամեն թանկարժեք հարստություն կգտնենք, մեր տները կլցնենք ավարով։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ամեն"
+    },
+    {
+      "surface": "הון",
+      "gloss": "հարստություն"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "թանկարժեք"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "կգտնենք"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "կլցնենք"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "մեր տները"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ավար"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:08.252998769Z",
+  "model": "glm-5.3"
+}

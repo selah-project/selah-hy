@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Քեզ վրա նետվեցի արգանդից, մորս որովայնից՝ դու ես իմ Էլը։",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "քեզ վրա"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "նետվեցի"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "արգանդից"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "որովայնից"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "մորս"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "իմ Էլը"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու ես"
+    }
+  ],
+  "timestamp": "2026-09-05T22:56:26.938109837Z",
+  "model": "glm-5.3"
+}

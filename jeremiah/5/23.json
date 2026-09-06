@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 5:23",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Իսկ այս ժողովրդի համար եղավ սիրտ՝ համառ և խռովարար. թեքվեցին և գնացին։",
+  "tokens": [
+    {
+      "surface": "ולעם",
+      "gloss": "Իսկ այս ժողովրդի համար"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սիրտ"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "համառ"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "և խռովարար"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "թեքվեցին"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "և գնացին"
+    }
+  ],
+  "timestamp": "2026-09-05T21:42:32.076623473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ Կիշը Շաուլի հայրն էր, և Ները՝ Ավների հայրը, Ավիելի որդին։",
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "և Կիշը"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "հայրն"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Շաուլի"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "և Ները"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "հայրը"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Ավների"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "Ավիելի"
+    }
+  ],
+  "timestamp": "2026-09-05T20:20:27.548628965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 1:2",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Քենան, Մահալալել, Յարեդ.",
+  "tokens": [
+    {
+      "surface": "קינן",
+      "gloss": "Քենան"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Մահալալել"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Յարեդ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:26:50.583461465Z",
+  "model": "glm-5.3"
+}

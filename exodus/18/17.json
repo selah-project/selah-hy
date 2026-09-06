@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Եվ ասաց Մոշեի աները նրան՝ «Լավ չէ խոսքը, որ դու անում ես։»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "աները"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեի"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Լավ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "անում ես"
+    }
+  ],
+  "timestamp": "2026-09-05T18:43:19.468410837Z",
+  "model": "glm-5.3"
+}

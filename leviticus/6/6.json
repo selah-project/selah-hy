@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Կրակ մշտապես կայրվի զոհասեղանի վրա, չմարի։",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "կրակ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "մշտապես"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "կայրվի"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "զոհասեղանի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "մարի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:57:50.759198427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Ամեն սողացող էակ, որ կենդանի է, ձեզ կլինի կերակրի. ինչպես կանաչ խոտը՝ տվել եմ ձեզ ⟨את⟩ ամեն ինչ։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ամեն"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "սողացող էակ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨նա⟩"
+    },
+    {
+      "surface": "חי",
+      "gloss": "կենդանի է"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "կլինի"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "կերակրի"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "ինչպես կանաչ խոտը"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "խոտ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "տվել եմ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ամեն ինչ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն ինչ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:10:50.238528919Z",
+  "model": "glm-5.3"
+}

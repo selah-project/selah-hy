@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ ⟨את⟩ Պարշանդատան, և ⟨את⟩ Դալֆոնին, և ⟨את⟩ Ասպատան․",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Պարշանդատան"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "Պարշանդատա"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Դալֆոնին"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "Դալֆոն"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Ասպատան"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "Ասպատա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:05:19.937432824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 8:25",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "և Յիֆդեյահուն, և Պնուելը՝ Շաշաքի որդիները.",
+  "tokens": [
+    {
+      "surface": "ויפדיה",
+      "gloss": "և Յիֆդեյահու"
+    },
+    {
+      "surface": "ופניאל",
+      "gloss": "և Պնուել"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "Շաշաքի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:44.166441237Z",
+  "model": "glm-5.3"
+}

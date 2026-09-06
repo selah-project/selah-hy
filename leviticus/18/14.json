@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Քո հոր եղբոր մերկությունը մի՛ բացահայտիր, նրա կնոջը մոտ մի՛ մոտենաս. քո հորաքույրն է նա։",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "մերկությունը"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "եղբոր"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "քո հոր"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "բացահայտես"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "նրա կինը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "մոտենաս"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "քո հորաքույրը"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    }
+  ],
+  "timestamp": "2026-09-05T19:03:58.275488701Z",
+  "model": "glm-5.3"
+}

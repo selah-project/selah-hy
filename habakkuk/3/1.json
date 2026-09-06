@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Աղոթք Խավակուկի (Հաբակուկ) նավիի՝ շիգյոնոթի վրա։",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Աղոթք"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "Խավակուկի"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "նավիի"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "շիգյոնոթի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:44:42.482190863Z",
+  "model": "glm-5.3"
+}

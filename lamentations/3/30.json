@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Թող տա իր այտը հարվածողին, թող կշտանա անարգանքից։",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "թող տա"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "հարվածողին"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "իր այտը"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "թող կշտանա"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "անարգանքից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:23.944293577Z",
+  "model": "glm-5.3"
+}

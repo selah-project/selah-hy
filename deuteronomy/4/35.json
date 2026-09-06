@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Դու ես տեսար՝ իմանալու համար, որ Յահվեն ⟨է⟩ Էլոհիմը, ուրիշ ոչ մեկը չկա նրանից բացի։",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Դու"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "տեսար"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "իմանալու համար"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨է⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ուրիշ ոչ մեկը"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "նրանից բացի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:34:26.311546692Z",
+  "model": "glm-5.3"
+}

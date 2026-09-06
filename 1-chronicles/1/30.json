@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Միշման, և Դուման, Մասան, Խադադը և Տեյման։",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "Միշման"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "և Դուման"
+    },
+    {
+      "surface": "משא",
+      "gloss": "Մասան"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "Խադադը"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "և Տեյման"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:05.712476472Z",
+  "model": "glm-5.3"
+}

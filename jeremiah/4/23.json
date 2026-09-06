@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Տեսա երկիրը ⟨את⟩, և ահա՝ անմարման ու դատարկ. և դեպի երկինքը, և նրանց լոյսը չկա։",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Տեսա"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "երկիրը"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "և ահա"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "անմարման"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "և դատարկ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և դեպի"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "երկինքը"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "և չկա"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "նրանց լոյսը"
+    }
+  ],
+  "timestamp": "2026-09-05T21:40:44.142197140Z",
+  "model": "glm-5.3"
+}

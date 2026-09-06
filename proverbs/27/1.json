@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Մի՛ փառաբանվիր վաղվա օրվա ⟨մեջ⟩, որովհետև դու չգիտես, թե ի՛նչ է ծնելու օրը։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Մի՛"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "փառաբանվիր"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրվա"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "վաղվա"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "գիտես"
+    },
+    {
+      "surface": "מה",
+      "gloss": "թե ի՛նչ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ծնելու"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օրը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:18.733716585Z",
+  "model": "glm-5.3"
+}

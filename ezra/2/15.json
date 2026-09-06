@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 2:15",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Ադինի որդիները՝ չորս հարյուր հիսուն չորս։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "Ադինի"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "չորս"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "հիսուն"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "և չորս"
+    }
+  ],
+  "timestamp": "2026-09-06T00:14:53.218809035Z",
+  "model": "glm-5.3"
+}

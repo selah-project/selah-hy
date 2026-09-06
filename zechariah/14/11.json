@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 14:11",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ կբնակվեն դրանում, և խերեմ այլևս չի լինի, և Երուշալայիմը կբնակվի ապահով։",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Եվ կբնակվեն"
+    },
+    {
+      "surface": "בה",
+      "gloss": "դրանում"
+    },
+    {
+      "surface": "וחרם",
+      "gloss": "և խերեմ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "այլևս"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "և կբնակվի"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Երուշալայիմը"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ապահով"
+    }
+  ],
+  "timestamp": "2026-09-05T22:50:54.174169637Z",
+  "model": "glm-5.3"
+}

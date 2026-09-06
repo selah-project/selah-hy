@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 37,
+  "translation": "Եվ վերադարձավ դեպի իր եղբայրներին և ասաց՝ երեխան չկա, իսկ ես՝ ո՞ւր ես ես գնում։",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "և վերադարձավ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "իր եղբայրներին"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "երեխան"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "իսկ ես"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ո՞ւր"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "בא",
+      "gloss": "գնում ես"
+    }
+  ],
+  "timestamp": "2026-09-05T18:26:42.890011780Z",
+  "model": "glm-5.3"
+}

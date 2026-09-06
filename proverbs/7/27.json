@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Շեոլի ուղիներն են նրա տունը, դեպի մահվան սենյակներ իջնող։",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "ուղիները"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Շեոլի"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "նրա տունը"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "իջնող"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "սենյակներ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "մահվան"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:57.242411607Z",
+  "model": "glm-5.3"
+}

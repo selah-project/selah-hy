@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 8:14",
+  "book": "song-of-songs",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Փախի՛ր, սիրելի՛ս, և եղի՛ր նման՝ եղնիկի, կամ երիտասարդ եղջերուի, բուրավետ լեռների վրա։",
+  "tokens": [
+    {
+      "surface": "ברח",
+      "gloss": "փախիր"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "սիրելի՛ս"
+    },
+    {
+      "surface": "ודמה",
+      "gloss": "և եղիր նման"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "եղնիկի"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "երիտասարդին"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "եղջերուների"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "լեռների"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "բուրավետ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:54:28.665205872Z",
+  "model": "glm-5.3"
+}

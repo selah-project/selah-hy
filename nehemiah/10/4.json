@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 10:4",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Փաշխուր, Ամարյա, Մալկիյա։",
+  "tokens": [
+    {
+      "surface": "פשחור",
+      "gloss": "Փաշխուր"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Ամարյա"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "Մալկիյա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:24:54.195460482Z",
+  "model": "glm-5.3"
+}

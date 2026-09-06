@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 5:11",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "և հառաչես քո վերջում, երբ լծվի քո միսը և քո մարմինդ։",
+  "tokens": [
+    {
+      "surface": "ונהמת",
+      "gloss": "և հառաչես"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "քո վերջում"
+    },
+    {
+      "surface": "בכלות",
+      "gloss": "երբ լծվի"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "քո միսը"
+    },
+    {
+      "surface": "ושארך",
+      "gloss": "և քո մարմինդ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:27.234486531Z",
+  "model": "glm-5.3"
+}

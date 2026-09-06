@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Բայց միս՝ իր նեֆեշի հետ, իր արյունն է, չեք ուտի։",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Բայց"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "միս"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "իր նեֆեշի հետ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "իր արյունն է"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չեք"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ուտի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:10:50.238855174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "և ⟨את⟩ ցլի մորթը և ⟨את⟩ ամբողջ միսը իր գլխի վրա և իր ոտքերի վրա և իր ընդերքը և իր ղլինջը։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "մորթը"
+    },
+    {
+      "surface": "עור",
+      "gloss": "մորթը"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ցլի"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "ամբողջ միսը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "միսը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "գլխի"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "և վրա"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "ոտքերի"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "և ընդերքը"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "և ղլինջը"
+    }
+  ],
+  "timestamp": "2026-09-05T18:58:09.774660108Z",
+  "model": "glm-5.3"
+}

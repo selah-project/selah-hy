@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ մահացավ այս կնոջ որդին գիշերը, որովհետև նա պառկել էր նրա վրա։",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Եվ մահացավ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "կնոջ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "այս"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "գիշերը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "պառկել էր"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "նրա վրա"
+    }
+  ],
+  "timestamp": "2026-09-05T20:44:59.307430703Z",
+  "model": "glm-5.3"
+}

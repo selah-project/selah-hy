@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Ախին՝ Ավդիելի որդին, Գունիի որդին, գլուխ իրենց հայրատների տան։",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Ախին"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "Ավդիելի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "Գունիի"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "գլուխ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "տան"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "իրենց հայրատների"
+    }
+  ],
+  "timestamp": "2026-09-06T00:28:59.097833335Z",
+  "model": "glm-5.3"
+}

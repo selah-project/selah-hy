@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "և առաջին ամսվա տասնչորս օրին՝ ամսվա Պեսախն Յահվեին։",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "և ամսվա"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "առաջին"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "չորս"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "տասը"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ամսվա"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Պեսախ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:26:46.297145887Z",
+  "model": "glm-5.3"
+}

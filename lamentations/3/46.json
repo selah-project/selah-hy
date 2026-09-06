@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Բացել են մեզ վրա իրենց բերանը մեր բոլոր թշնամիները։",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "բացել են"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "մեզ վրա"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "իրենց բերանը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "մեր թշնամիները"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:47.538273131Z",
+  "model": "glm-5.3"
+}

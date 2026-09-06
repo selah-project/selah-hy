@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Եվ Բիլհան հղիացավ և Յաակովին որդի ծնեց։",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "հղիացավ"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Բիլհան"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Յաակովին"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:21:39.718158341Z",
+  "model": "glm-5.3"
+}

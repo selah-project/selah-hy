@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Եվ ասվեց Լավանին երրորդ օրը, որ փախել է Յաակովը (Հակոբ)։",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Եվ ասվեց"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "Լավանին"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "երրորդ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "փախել է"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Յաակովը (Հակոբ)"
+    }
+  ],
+  "timestamp": "2026-09-05T18:22:10.031168865Z",
+  "model": "glm-5.3"
+}

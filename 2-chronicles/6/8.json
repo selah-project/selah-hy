@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 6:8",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ ասաց Յահվեն Դավթին՝ իմ հորը. քանի որ քո սրտում էր տուն կառուցել Իմ Անվան համար, լավ արեցիր, որովհետև քո սրտում էր։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Դավթին"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "հորս"
+    },
+    {
+      "surface": "יען",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "սրտդ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "կառուցել"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տուն"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "Անվանս"
+    },
+    {
+      "surface": "הטיבות",
+      "gloss": "լավ արեցիր"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "սրտդ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:41:07.391628033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ պահեք անելու համար, ինչպես պատվիրեց Յահվե՝ ձեր Էլոհիմը, ⟨את⟩ ձեզ. չեք շեղվի աջ կամ ձախ։",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Եվ պահեք"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "անելու համար"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ինչպես"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "պատվիրեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ձեր Էլոհիմը"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ձեզ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չեք"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "շեղվի"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "աջ"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "կամ ձախ"
+    }
+  ],
+  "timestamp": "2026-09-06T02:04:00.612025234Z",
+  "model": "glm-5.3"
+}

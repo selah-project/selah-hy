@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 15:27",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Եվ եթե մեկ նեֆեշ մեղանա սխալմամբ, նա կմոտեցնի մեկ տարեկան այծ՝ մեղքի զոհի համար։",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Եվ եթե"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "նեֆեշ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "մեղանա"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "սխալմամբ"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "կմոտեցնի"
+    },
+    {
+      "surface": "עז",
+      "gloss": "այծ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "աղջիկ"
+    },
+    {
+      "surface": "שנתה",
+      "gloss": "տարեկան"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "մեղքի զոհ"
+    }
+  ],
+  "timestamp": "2026-09-06T01:31:51.723389760Z",
+  "model": "glm-5.3"
+}

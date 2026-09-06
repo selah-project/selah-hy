@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Մատանյա, Մատենայ և Յաասավ,",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "Մատանյա"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "Մատենայ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "և Յաասավ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:18:47.430927708Z",
+  "model": "glm-5.3"
+}

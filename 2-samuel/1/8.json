@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ ասաց ինձ. ո՞վ ես դու։ Եվ ասաց նրան. ամալեքացի եմ ես։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ես դու"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "ամալեքացի"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "եմ ես"
+    }
+  ],
+  "timestamp": "2026-09-05T20:29:40.562773680Z",
+  "model": "glm-5.3"
+}

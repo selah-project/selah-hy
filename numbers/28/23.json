@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Բացի առավոտյան ողջակեզից, որ մշտական ողջակեզի համար է՝ ⟨את⟩ այս արեք։",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "բացի"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ողջակեզ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "առավոտյան"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "ողջակեզի համար"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "մշտական"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "արեք"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այս"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-05T19:26:42.278596601Z",
+  "model": "glm-5.3"
+}

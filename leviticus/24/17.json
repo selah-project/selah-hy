@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Եվ մարդ, երբ հարվածի մարդու որևէ նեֆեշ, մահով պիտի մեռնի։",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Եվ մարդ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "հարվածի"
+    },
+    {
+      "surface": "כל",
+      "gloss": "որևէ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "նեֆեշ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "מות",
+      "gloss": "մահով"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "պիտի մեռնի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:08:13.510626438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Որովհետև ամեն ցանկության կա ժամանակ և դատաստան, որովհետև մարդու չարիքը մեծ է նրա վրա։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ցանկության"
+    },
+    {
+      "surface": "יש",
+      "gloss": "կա"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ժամանակ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "և դատաստան"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "չարիքը"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "մեծ է"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "նրա վրա"
+    }
+  ],
+  "timestamp": "2026-09-06T01:19:35.005918113Z",
+  "model": "glm-5.3"
+}

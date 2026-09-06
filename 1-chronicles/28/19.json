@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 28:19",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Ամբողջը գրով՝ Յահվեի ձեռքից, ինձ վրա ⟨նա⟩ իմաստացրեց տարածքի բոլոր գործերը։",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Ամբողջը"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "գրով"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ձեռքից"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ինձ վրա"
+    },
+    {
+      "surface": "השכיל",
+      "gloss": "իմաստացրեց"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "מלאכות",
+      "gloss": "գործերը"
+    },
+    {
+      "surface": "התבנית",
+      "gloss": "տարածքի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:40:14.317193900Z",
+  "model": "glm-5.3"
+}

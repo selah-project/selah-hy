@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 25:17",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Հազիվ թե ոտքդ լինի ընկերոջդ տանը, որ նա չհագենա քեզնից և չատի քեզ։",
+  "tokens": [
+    {
+      "surface": "הקר",
+      "gloss": "հազիվ թե"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ոտքդ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ընկերոջդ տանը"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ընկերոջդ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "որ չ—"
+    },
+    {
+      "surface": "ישבעך",
+      "gloss": "հագենա քեզնից"
+    },
+    {
+      "surface": "ושנאך",
+      "gloss": "և ատի քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:22.263731604Z",
+  "model": "glm-5.3"
+}

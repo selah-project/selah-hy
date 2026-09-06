@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 25:10",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Եվ խոսեց Յահվե Մոշեի հետ՝ ասելով․",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Եվ խոսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אל",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշե"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T19:25:58.733163526Z",
+  "model": "glm-5.3"
+}

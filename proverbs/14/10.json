@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Սիրտը գիտի իր նեֆեշի դառնությունը, և իր ուրախությանը օտարը չի խառնվի։",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Սիրտը"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "գիտի"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "դառնությունը"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "իր նեֆեշի"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "և իր ուրախությանը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "խառնվի"
+    },
+    {
+      "surface": "זר",
+      "gloss": "օտարը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:31:08.987317958Z",
+  "model": "glm-5.3"
+}

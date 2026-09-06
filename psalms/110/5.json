@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 110,
+  "translation": "Ադոնայը ⟨քո⟩ աջի վրա է. կոխկրտում է թագավորներին իր ցասման օրը։",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա է"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "աջի"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "կոխկրտում է"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "իր ցասման"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "թագավորներին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:20:42.363150385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Ուզիելի որդիները՝ Միքան գլուխը և Յիշիյան երկրորդը։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Ուզիելի"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Միքան"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "գլուխը"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "և Յիշիյան"
+    },
+    {
+      "surface": "השני",
+      "gloss": "երկրորդը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:37:22.969251775Z",
+  "model": "glm-5.3"
+}

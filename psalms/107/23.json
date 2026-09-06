@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 107,
+  "translation": "Ծով իջնողները՝ նավերով, գործ անողները՝ բազմաթիվ ջրերում.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "իջնողները"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ծով"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "նավերով"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "անողները"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "գործ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ջրերում"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "բազմաթիվ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:17:20.183294195Z",
+  "model": "glm-5.3"
+}

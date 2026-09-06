@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Բիգվայի որդիները՝ երկու հազար վաթսուն յոթ։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "Բիգվայի"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "երկու հազար"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "վաթսուն"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "յոթ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:27.317311305Z",
+  "model": "glm-5.3"
+}

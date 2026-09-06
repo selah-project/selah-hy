@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "և ⟨את⟩ Օվալին և ⟨את⟩ Ավիմաելին և ⟨את⟩ Շևային։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Օվալին"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Օվալին"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Ավիմաելին"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Ավիմաելին"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Շևային"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Շևային"
+    }
+  ],
+  "timestamp": "2026-09-05T18:12:42.768931410Z",
+  "model": "glm-5.3"
+}

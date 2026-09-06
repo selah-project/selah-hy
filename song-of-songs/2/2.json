@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Ինչպես շուշանը փշատ թփերի մեջ, այնպես իմ ռայան՝ աղջիկների մեջ։",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "Ինչպես շուշանը"
+    },
+    {
+      "surface": "בין",
+      "gloss": "մեջ"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "փշատ թփերի"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այնպես"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "իմ ռայա"
+    },
+    {
+      "surface": "בין",
+      "gloss": "մեջ"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "աղջիկների"
+    }
+  ],
+  "timestamp": "2026-09-05T23:52:51.384126301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 6:17",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Գերշոնի որդիները՝ Լիվնի և Շիմի՝ իրենց տոհմերով։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Գերշոնի"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Լիվնի"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "և Շիմի"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "իրենց տոհմերով"
+    }
+  ],
+  "timestamp": "2026-09-05T18:35:23.900780305Z",
+  "model": "glm-5.3"
+}

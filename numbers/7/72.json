@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "numbers 7:72",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Տասնմեկերորդ օրը՝ Աշերի որդիների իշխանը՝ Պաղիելը՝ Օքրանի որդին։",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "տասնմեկ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "երորդ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "իշխանը"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Աշերի"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "Պաղիելը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "Օքրանի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:16:05.538805654Z",
+  "model": "glm-5.3"
+}

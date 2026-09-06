@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 28:27",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Աղքատին տվողին պակաս չկա, իսկ իր աչքերը փակողին՝ շատ անեծքներ ⟨սպասվում են⟩։",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "տվող"
+    },
+    {
+      "surface": "לרש",
+      "gloss": "աղքատին"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "պակաս"
+    },
+    {
+      "surface": "ומעלים",
+      "gloss": "իսկ փակող"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "իր աչքերը"
+    },
+    {
+      "surface": "רב",
+      "gloss": "շատ"
+    },
+    {
+      "surface": "מארות",
+      "gloss": "անեծքներ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:38:07.315668905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ եթե վախենում ես դու իջնելուց՝ իջի՛ր դու և Փուրահ՝ քո պատանին, դեպի ճամբարը։",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Եվ եթե"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "վախենում ես"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "իջնելուց"
+    },
+    {
+      "surface": "רד",
+      "gloss": "իջի՛ր"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "ופרה",
+      "gloss": "և Փուրահ"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "քո պատանին"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ճամբարը"
+    }
+  ],
+  "timestamp": "2026-09-06T02:04:43.317307704Z",
+  "model": "glm-5.3"
+}

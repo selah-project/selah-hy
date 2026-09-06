@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 19:43",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "և Էլոն, և Թիմնա, և Էքրոն։",
+  "tokens": [
+    {
+      "surface": "ואילון",
+      "gloss": "և Էլոն"
+    },
+    {
+      "surface": "ותמנתה",
+      "gloss": "և Թիմնա"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "և Էքրոն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:58:22.135603827Z",
+  "model": "glm-5.3"
+}

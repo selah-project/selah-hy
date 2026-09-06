@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 17:4",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Գնա և ասա իմ ծառայ Դավիթին. այսպես ասում է Յահվեն. դու չես կառուցի ինձ համար տուն՝ բնակվելու համար։",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Գնա"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "և ասա"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Դավիթին"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "իմ ծառայ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "այսպես"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասում է"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "կառուցի"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ համար"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "տուն"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "բնակվելու համար"
+    }
+  ],
+  "timestamp": "2026-09-06T00:36:03.298957732Z",
+  "model": "glm-5.3"
+}

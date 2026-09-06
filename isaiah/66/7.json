@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 66:7",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 66,
+  "translation": "Նախքան կծածս ծննդաբերեր, նախքան ցավը նրան հասներ, նա ծնեց արու զավակ։",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Նախքան"
+    },
+    {
+      "surface": "תחיל",
+      "gloss": "կծածս"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ծննդաբերեր"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "նախքան"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "հասներ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ցավը"
+    },
+    {
+      "surface": "לה",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "והמליטה",
+      "gloss": "նա ծնեց"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "արու զավակ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:38:20.840096330Z",
+  "model": "glm-5.3"
+}

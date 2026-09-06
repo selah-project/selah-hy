@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Նեթանելը՝ չորրորդը, Ռադայը՝ հինգերորդը։",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "Նեթանելը"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "չորրորդը"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "Ռադայը"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "հինգերորդը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:34.066197476Z",
+  "model": "glm-5.3"
+}

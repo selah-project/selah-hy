@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 5:4",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Բայց նրա վերջը դառն է ինչպես գինին, սուր է ինչպես երկշեղ թուր։",
+  "tokens": [
+    {
+      "surface": "ואחריתה",
+      "gloss": "Բայց նրա վերջը"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "դառն է"
+    },
+    {
+      "surface": "כלענה",
+      "gloss": "ինչպես գինին"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "սուր է"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "ինչպես թուր"
+    },
+    {
+      "surface": "פיות",
+      "gloss": "երկշեղ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:21.520222720Z",
+  "model": "glm-5.3"
+}

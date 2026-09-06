@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ ամրացավ Փարավոնի սիրտը, և նա չլսեց նրանց, ինչպես ասել էր Յահվեն։",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "և ամրացավ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սիրտը"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Փարավոնի"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "լսեց"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ինչպես"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ասել էր"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T18:36:21.571637738Z",
+  "model": "glm-5.3"
+}

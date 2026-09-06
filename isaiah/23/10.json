@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Անցի՛ր քո երկիրը ինչպես գետը, Թարշիշի դուստր. գոտի այլևս չկա։",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "անցիր"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "քո երկիրը"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "ինչպես գետը"
+    },
+    {
+      "surface": "בת",
+      "gloss": "դուստր"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Թարշիշի"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "գոտի"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "այլևս"
+    }
+  ],
+  "timestamp": "2026-09-05T21:21:38.643727656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Քանի որ տասը ծիրանավայր խաղողի այգու մեկ բաթ կտա, և մի խոմեր սերմ՝ մեկ էյֆա։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "տասը"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "ծիրանավայր"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "խաղողի այգու"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "կտա"
+    },
+    {
+      "surface": "בת",
+      "gloss": "բաթ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "և սերմ"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "մի խոմեր"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "կտա"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "մեկ էյֆա"
+    }
+  ],
+  "timestamp": "2026-09-05T21:15:02.194162836Z",
+  "model": "glm-5.3"
+}

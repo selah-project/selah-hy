@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Որովհետև Յովել ⟨է⟩ այն՝ սուրբ ձեզ համար կլինի. դաշտից կուտեք ⟨את⟩ նրա բերքը։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Յովել"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨է⟩ այն"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "սուրբ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "կլինի"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ համար"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ից"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "դաշտի"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "կուտեք"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "նրա բերքը"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "նրա բերքը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:09:57.312288806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Ամբողջ Իսրայելի համայնքը պիտի անի ⟨את⟩ այն։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ամբողջ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "համայնքը"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "պիտի անի"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ այն",
+      "marks": "այն (Պեսախը)"
+    }
+  ],
+  "timestamp": "2026-09-05T18:39:49.916229922Z",
+  "model": "glm-5.3"
+}

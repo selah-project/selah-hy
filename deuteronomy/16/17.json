@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 16:17",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Ամե՛ն մարդ՝ իր ձեռքի պարգևի չափով, ըստ Յահվե Էլոհիմդ օրհնության, որ նա տվել է քեզ։",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ամե՛ն մարդ"
+    },
+    {
+      "surface": "כמתנת",
+      "gloss": "ըստ …պարգևի չափով"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "իր ձեռքի"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "ըստ …օրհնության"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Էլոհիմդ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "տվել է"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:40:42.351581177Z",
+  "model": "glm-5.3"
+}

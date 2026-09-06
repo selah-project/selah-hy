@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 19:16",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Եթե կկանգնի բռնության վկա մարդու դեմ՝ նրա դեմ շեղում վկայելու համար։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "կկանգնի"
+    },
+    {
+      "surface": "עד",
+      "gloss": "վկա"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "բռնության"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "մարդու դեմ"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "վկայելու համար"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրա դեմ"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "շեղում"
+    }
+  ],
+  "timestamp": "2026-09-05T19:41:26.156817765Z",
+  "model": "glm-5.3"
+}

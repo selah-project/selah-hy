@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 23:33",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Աչքերդ կտեսնեն օտարուհիների, իսկ սրտդ կխոսի ծուռ բաներ։",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "Աչքերդ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "կտեսնեն"
+    },
+    {
+      "surface": "זרות",
+      "gloss": "օտարուհիների"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "իսկ սրտդ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "կխոսի"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "ծուռ բաներ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:21.644606010Z",
+  "model": "glm-5.3"
+}

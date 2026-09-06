@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezra 10:42",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Շալլում, Ամարյահ, Յոսեֆ։",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "Շալլում"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Ամարյահ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Յոսեֆ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:19:43.728080805Z",
+  "model": "glm-5.3"
+}

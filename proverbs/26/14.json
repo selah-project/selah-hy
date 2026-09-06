@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Դուռը շրջվում է իր ուղղանիստի վրա, և ծույլը՝ իր մահճակալի վրա։",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "Դուռը"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "շրջվում է"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "իր ուղղանիստի"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "և ծույլը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "իր մահճակալի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:29.424529269Z",
+  "model": "glm-5.3"
+}

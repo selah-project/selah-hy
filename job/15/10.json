@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 15:10",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Եվ՛ ծեր, և՛ շատ ծեր մարդ կա մեզ մոտ՝ օրերով մեծ քո հորից։",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "և՛"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ծեր"
+    },
+    {
+      "surface": "גם",
+      "gloss": "և՛"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "շատ ծեր մարդ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "մեզ մոտ"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "מאביך",
+      "gloss": "քո հորից"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օրերով"
+    }
+  ],
+  "timestamp": "2026-09-05T23:43:39.539586394Z",
+  "model": "glm-5.3"
+}

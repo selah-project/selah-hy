@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Էսավի որդիները՝ Էլիֆազը, Ռեուելը, Յեուշը, Յաալամը և Քորախը։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Էսավի"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Էլիֆազը"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Ռեուելը"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "Յեուշը"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "Յաալամը"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "Քորախը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:09.575473555Z",
+  "model": "glm-5.3"
+}

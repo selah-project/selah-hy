@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ գնաց Ավիմելեք Թեբեց, և ճամբարեց Թեբեցի դեմ, և գրավեց այն։",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "և գնաց"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Ավիմելեք"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Թեբեց"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "և ճամբարեց"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "Թեբեցի դեմ"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "և գրավեց այն"
+    }
+  ],
+  "timestamp": "2026-09-05T20:06:46.753729833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Եվ թեքեց երկինքը և իջավ, և մութ մշուշ ⟨էր⟩ իր ոտքերի տակ։",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Եվ թեքեց"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "երկինքը"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "և իջավ"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "և մութ մշուշ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "իր ոտքերի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:56:26.992613975Z",
+  "model": "glm-5.3"
+}

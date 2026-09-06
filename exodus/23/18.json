@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Զոհիս արյունը խմորվածի վրա մի զոհաբերիր, և տոնիս ճարպը գիշերը մինչև առավոտ թող չմնա։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "զոհաբերիր"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "խմորված"
+    },
+    {
+      "surface": "דם",
+      "gloss": "արյունը"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "զոհիս"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "թող չմնա գիշերը"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ճարպը"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "տոնիս"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "առավոտ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:45:14.542224075Z",
+  "model": "glm-5.3"
+}

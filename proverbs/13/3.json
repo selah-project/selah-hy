@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Իր բերանը պահողը իր նեֆեշն է պահում, իր շուրթերը բացողին՝ կործանում։",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "պահող"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "իր բերանը"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "պահում է"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "իր նեֆեշը"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "բացող"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "իր շուրթերը"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "կործանում"
+    },
+    {
+      "surface": "לו",
+      "gloss": "իրեն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:32:10.907132575Z",
+  "model": "glm-5.3"
+}

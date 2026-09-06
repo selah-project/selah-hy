@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ Խեցրոնի որդիները, որ ծնվեցին նրան՝ ⟨את⟩ Յերախմելը և ⟨את⟩ Ռամը և ⟨את⟩ Քելուբային։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Եվ որդիները"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Խեցրոնի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "ծնվեցին"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յերախմելը"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Յերախմելը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Ռամը"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ռամը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Քելուբային"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Քելուբային"
+    }
+  ],
+  "timestamp": "2026-09-06T02:10:25.491224672Z",
+  "model": "glm-5.3"
+}

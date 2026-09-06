@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Վերադարձրու նրանց հատուցումը՝ Յահվե, ըստ իրենց ձեռքերի գործի։",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "Վերադարձրու"
+    },
+    {
+      "surface": "להם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "հատուցումը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "ըստ գործի"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "իրենց ձեռքերի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:41.540163153Z",
+  "model": "glm-5.3"
+}

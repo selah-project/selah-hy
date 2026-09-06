@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 6:28",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Կամ եթե մարդ անցնի ածուխների վրայով, և իր ոտքերը չայրվեն․",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "քայլի"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրայով"
+    },
+    {
+      "surface": "הגחלים",
+      "gloss": "ածուխների"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "և ոտքերը նրա"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תכוינה",
+      "gloss": "այրվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:30:21.071700114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Եվ ես իջա կավագործի տունը, և ահա նա գործ էր անում պտտահաստանների վրա։",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "Եվ ես իջա"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տուն"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "կավագործի"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "և ահա նա"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "անում էր"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "գործ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "պտտահաստանների"
+    }
+  ],
+  "timestamp": "2026-09-05T21:49:45.053619766Z",
+  "model": "glm-5.3"
+}

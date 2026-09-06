@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "nehemiah 7:49",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Խանանի որդիները, Գիդելի որդիները, Գախարի որդիները․",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Խանանի"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "Գիդելի"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "Գախարի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:42:57.674249112Z",
+  "model": "glm-5.3"
+}

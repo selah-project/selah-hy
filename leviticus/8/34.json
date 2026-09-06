@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 8:34",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Ինչպես արվեց այս օրը, այնպես Յահվեն հրամայել է անել՝ ձեզ քավելու համար։",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ինչպես"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արվեց"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "հրամայել է"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "անել"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "քավել"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ձեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:01:16.889128641Z",
+  "model": "glm-5.3"
+}

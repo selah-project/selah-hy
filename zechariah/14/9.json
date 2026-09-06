@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 14:9",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ կլինի Յահվեն թագավոր ամբողջ երկրի վրա. այն օրը կլինի Յահվե ⟨մեկ⟩ և իր անունը ⟨մեկ⟩։",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Եվ կլինի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "թագավոր"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "այն օրը"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "կլինի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨մեկ⟩"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "և իր անունը"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨մեկ⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T22:50:54.173619663Z",
+  "model": "glm-5.3"
+}

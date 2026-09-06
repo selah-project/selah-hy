@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 1:14",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Բաժինդ գցիր մեր մեջ, մեկ պարկ թող լինի մեզ բոլորիս համար։",
+  "tokens": [
+    {
+      "surface": "גורלך",
+      "gloss": "Բաժինդ"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "գցիր"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "մեր մեջ"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "պարկ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "թող լինի"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "մեզ բոլորիս համար"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:08.253243937Z",
+  "model": "glm-5.3"
+}

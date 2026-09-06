@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 47:6",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 47,
+  "translation": "Ովահ, Յահվեի սու՛ր, մինչև ե՞րբ չես հանգստանա, հավաքվիր դեպի պատյանդ, հանդարտվիր և լռիր։",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ովահ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "սուր"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ե՞րբ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "תשקטי",
+      "gloss": "ես հանգստանա"
+    },
+    {
+      "surface": "האספי",
+      "gloss": "հավաքվիր"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "תערך",
+      "gloss": "պատյանդ"
+    },
+    {
+      "surface": "הרגעי",
+      "gloss": "հանդարտվիր"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "և լռիր"
+    }
+  ],
+  "timestamp": "2026-09-05T22:00:32.865052652Z",
+  "model": "glm-5.3"
+}

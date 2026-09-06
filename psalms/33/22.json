@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 33,
+  "translation": "Թող լինի քո խեսեդը, Յահվե, մեր վրա, որքանով մենք ենք սպասել քեզ։",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Թող լինի"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "քո խեսեդը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "մեր վրա"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "որքանով"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "սպասել ենք"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:59:35.095621031Z",
+  "model": "glm-5.3"
+}

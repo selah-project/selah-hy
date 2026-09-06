@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 4:26",
+  "book": "daniel",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Տասներկու ամսվա վերջում նա քայլում էր Բաբելի թագավորության պալատի վրա։",
+  "tokens": [
+    {
+      "surface": "לקצת",
+      "gloss": "վերջում"
+    },
+    {
+      "surface": "ירחין",
+      "gloss": "ամիսների"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "երկու"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "տասի"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "պալատ"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "թագավորության"
+    },
+    {
+      "surface": "די",
+      "gloss": "որ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Բաբելի"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "քայլում էր"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "էր"
+    }
+  ],
+  "timestamp": "2026-09-06T00:09:19.931065434Z",
+  "model": "glm-5.3"
+}

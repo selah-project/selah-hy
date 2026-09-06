@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "և Շալմոնը ծնեց ⟨את⟩ Բոազին, և Բոազը ծնեց ⟨את⟩ Օբեդին։",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "և Շալմոնը"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Բոազին"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Բոազին"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "և Բոազը"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Օբեդին"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Օբեդին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:54:14.911881789Z",
+  "model": "glm-5.3"
+}

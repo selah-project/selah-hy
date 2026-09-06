@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Գազամի որդիները, Ուզզայի որդիները, Պասեախի որդիները։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "Գազամ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Ուզզա"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Պասեախ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:31.684984192Z",
+  "model": "glm-5.3"
+}

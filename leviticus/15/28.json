@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 15:28",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Եվ եթե մաքուր լինի իր հոսքից, ապա կհաշվի իրեն յոթ օր, և դրանից հետո մաքուր կլինի։",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Եվ եթե"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "մաքուր լինի"
+    },
+    {
+      "surface": "מזובה",
+      "gloss": "իր հոսքից"
+    },
+    {
+      "surface": "וספרה",
+      "gloss": "կհաշվի"
+    },
+    {
+      "surface": "לה",
+      "gloss": "իրեն"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "և դրանից հետո"
+    },
+    {
+      "surface": "תטהר",
+      "gloss": "մաքուր կլինի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:04:52.878031143Z",
+  "model": "glm-5.3"
+}

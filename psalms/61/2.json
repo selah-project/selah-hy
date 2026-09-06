@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 61,
+  "translation": "Լսի՛ր, Էլոհիմ, իմ աղաղակը, ականջ դիր՛ իմ աղոթքին։",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Լսի՛ր"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմ"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "իմ աղաղակը"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "ականջ դիր՛"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "իմ աղոթքին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:07:03.710642935Z",
+  "model": "glm-5.3"
+}

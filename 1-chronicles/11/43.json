@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Խանանը՝ Մաաքայի որդին, և Յոշաֆատը միթնացին.",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "Խանանը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Մաաքայի"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "և Յոշաֆատը"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "միթնացին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:31:25.233741120Z",
+  "model": "glm-5.3"
+}

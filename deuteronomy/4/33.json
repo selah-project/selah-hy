@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 4:33",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Լսե՞ց երբևէ ժողովուրդ Էլոհիմի ձայնը՝ կրակի միջից խոսող, ինչպես դու լսեցիր՝ և ապրեց։",
+  "tokens": [
+    {
+      "surface": "השמע",
+      "gloss": "Լսե՞ց"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ժողովուրդ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ձայնը"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմի"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "խոսող"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "միջից"
+    },
+    {
+      "surface": "האש",
+      "gloss": "կրակի"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ինչպես"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "լսեցիր"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "և ապրեց"
+    }
+  ],
+  "timestamp": "2026-09-05T19:34:26.311076132Z",
+  "model": "glm-5.3"
+}

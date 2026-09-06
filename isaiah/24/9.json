@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Երգով գինի չեն խմում, դառնում է արբանիքը նրա խմողների համար։",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "երգով"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "խմում են"
+    },
+    {
+      "surface": "יין",
+      "gloss": "գինի"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "դառնում է"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "արբանիքը"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "նրա խմողների համար"
+    }
+  ],
+  "timestamp": "2026-09-05T21:22:10.652236215Z",
+  "model": "glm-5.3"
+}

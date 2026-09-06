@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ զղջաց Յահվեն, որ արել էր ⟨את⟩ մարդուն երկրի վրա, և տրտմեց իր սրտում։",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "և զղջաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արել էր"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "մարդուն"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "մարդուն"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրի վրա"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "և տրտմեց"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "իր սրտի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:10:19.566173844Z",
+  "model": "glm-5.3"
+}

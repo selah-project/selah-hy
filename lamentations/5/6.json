@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Միցրայիմին (Եգիպտոս) ձեռք տվեցինք, Աշուրին՝ հացով կշտանալու համար։",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Միցրայիմ (Եգիպտոս)"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "տվեցինք"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ձեռք"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Աշուր (Ասորիք)"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "կշտանալու"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "հաց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:10.942122780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Տեսա ես ⟨את⟩ զբաղմունքը, որ տվեց Էլոհիմը մարդկանց որդիներին՝ զբաղվելու դրանով։",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "տեսա ես"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "զբաղմունքը"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "զբաղմունքը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "տվեց"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "որդիներին"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "մարդկանց"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "զբաղվելու"
+    },
+    {
+      "surface": "בו",
+      "gloss": "դրանով"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:33.013996984Z",
+  "model": "glm-5.3"
+}

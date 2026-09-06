@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Եվ հղիացավ, և որդի ծնեց, և ասաց՝ հեռացրեց Էլոհիմ ⟨את⟩ իմ ամոթը։",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Եվ հղիացավ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "և որդի ծնեց"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "հեռացրեց"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "իմ ամոթը"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "իմ ամոթը"
+    }
+  ],
+  "timestamp": "2026-09-05T18:20:53.195200336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "և Յահվեն էր ⟨את⟩ Յեհոշուայի հետ, և նրա համբավը ⟨էր⟩ ամբողջ երկրում։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "և եղավ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յեհոշուա"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Յեհոշուա"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "և եղավ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "համբավը"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրում"
+    }
+  ],
+  "timestamp": "2026-09-05T19:52:27.506988319Z",
+  "model": "glm-5.3"
+}

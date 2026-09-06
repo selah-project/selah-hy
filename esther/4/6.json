@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Ելավ Հատաքը դեպի Մորդքայ՝ քաղաքի հրապարակ, որ ⟨էր⟩ թագավորի դռան առջև։",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ելավ"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Հատաքը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Մորդքայ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "հրապարակ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "քաղաքի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "שער",
+      "gloss": "դռան"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "թագավորի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:05:12.043985004Z",
+  "model": "glm-5.3"
+}

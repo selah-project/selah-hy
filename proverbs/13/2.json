@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Մարդու բերանի պտղից բարի կուտի, իսկ դավաճանների նեֆեշը՝ բռնություն։",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "պտղից"
+    },
+    {
+      "surface": "פי",
+      "gloss": "բերանի"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "կուտի"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "բարի"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "իսկ նեֆեշը"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "դավաճանների"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "բռնություն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:32:10.906979678Z",
+  "model": "glm-5.3"
+}

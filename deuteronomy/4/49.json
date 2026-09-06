@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "deuteronomy 4:49",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "և ամբողջ Արաբան՝ Յարդենից այն կողմ, դեպի արևելք, մինչև Արաբայի ծովը՝ Փիսգայի լանջերի տակ։",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "և ամբողջ"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Արաբան"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "այն կողմ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Յարդենից"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "դեպի արևելք"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ծովը"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Արաբայի"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "լանջերի"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "Փիսգայի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:32:53.955150278Z",
+  "model": "glm-5.3"
+}

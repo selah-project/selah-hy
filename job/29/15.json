@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 29:15",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Կույրի աչքեր եղա ես, և կաղի ոտքեր՝ ես։",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "աչքեր"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "եղա ես"
+    },
+    {
+      "surface": "לעור",
+      "gloss": "կույրի ⟨համար⟩"
+    },
+    {
+      "surface": "ורגלים",
+      "gloss": "և ոտքեր"
+    },
+    {
+      "surface": "לפסח",
+      "gloss": "կաղի ⟨համար⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    }
+  ],
+  "timestamp": "2026-09-05T23:47:36.909284183Z",
+  "model": "glm-5.3"
+}

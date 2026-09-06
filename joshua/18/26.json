@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "և Հա-Միցպեն, և Հա-Քեֆիրան, և Հա-Մոցան.",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "և Հա-Միցպեն"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "և Հա-Քեֆիրան"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "և Հա-Մոցան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:58:11.225042009Z",
+  "model": "glm-5.3"
+}

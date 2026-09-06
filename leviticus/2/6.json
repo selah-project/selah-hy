@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Կտրտիր ⟨את⟩ կտորները, և ձեթ լցրու նրա վրա. ընծա ⟨է⟩ դա։",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "Կտրտիր"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "կտորները"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "կտորները"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "և լցրու"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "նրա վրա"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ձեթ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ընծա"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨է⟩ դա"
+    }
+  ],
+  "timestamp": "2026-09-05T18:56:54.276495080Z",
+  "model": "glm-5.3"
+}

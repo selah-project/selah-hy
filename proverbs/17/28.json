@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 17:28",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Նույնիսկ հիմարը, երբ լռի, իմաստուն կհամարվի, իր շուրթերը փակողը՝ խոհեմ։",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "նույնիսկ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "հիմարը"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "լռի"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "իմաստուն"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "կհամարվի"
+    },
+    {
+      "surface": "אטם",
+      "gloss": "փակողը"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "իր շուրթերը"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "խոհեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:33:39.379686181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ ծանրացրեց Փարավոնը ⟨את⟩ իր սիրտը նաև այս անգամ, և չարձակեց ⟨את⟩ ժողովրդին։",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "և ծանրացրեց"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Փարավոնը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "իր սիրտը"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "իր սիրտը"
+    },
+    {
+      "surface": "גם",
+      "gloss": "նաև"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "անգամ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "այս"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "արձակեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ժողովրդին"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովրդին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:38:28.949403697Z",
+  "model": "glm-5.3"
+}

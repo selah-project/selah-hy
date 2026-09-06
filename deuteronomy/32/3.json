@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Որովհետև Յահվեի անունը կկանչեմ, տվեք մեծություն մեր Էլոհիմին։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "שם",
+      "gloss": "անունը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "կկանչեմ"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "տվեք"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "մեծություն"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "մեր Էլոհիմին"
+    }
+  ],
+  "timestamp": "2026-09-05T19:48:23.046607174Z",
+  "model": "glm-5.3"
+}

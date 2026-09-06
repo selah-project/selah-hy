@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 12:43",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Եվ ասաց Յահվեն Մոշեին (Մովսես) և Ահարոնին՝ սա Պասեքի կանոնն է. ամեն օտար որդի նրանից չի ուտի։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեին"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "և Ահարոնին"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "սա"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "կանոնը"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Պասեքի"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "օտար"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "կուտի"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրանից"
+    }
+  ],
+  "timestamp": "2026-09-05T18:40:16.965543611Z",
+  "model": "glm-5.3"
+}

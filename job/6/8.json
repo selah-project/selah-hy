@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 6:8",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Ո՛վ կտա, որ գա իմ խնդրանքը, և իմ հույսը տա Էլոահը։",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ո՛վ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "կտա, որ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "գա"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "իմ խնդրանքը"
+    },
+    {
+      "surface": "ותקותי",
+      "gloss": "և իմ հույսը"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "տա"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Էլոահը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:40:23.701681621Z",
+  "model": "glm-5.3"
+}

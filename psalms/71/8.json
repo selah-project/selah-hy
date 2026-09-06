@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 71,
+  "translation": "Թող լցվի բերանս քո փառաբանությամբ, ամբողջ օրը՝ քո փառքով։",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "թող լցվի"
+    },
+    {
+      "surface": "פי",
+      "gloss": "բերանս"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "քո փառաբանությամբ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "քո փառքով"
+    }
+  ],
+  "timestamp": "2026-09-05T23:08:18.668553816Z",
+  "model": "glm-5.3"
+}

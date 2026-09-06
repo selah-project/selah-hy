@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Կախարդուհուն չես թողնի ապրել։",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "կախարդուհուն"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "կթողնես ապրի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:44:11.210947053Z",
+  "model": "glm-5.3"
+}

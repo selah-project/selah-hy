@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 28:43",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Օտարը, որ քո մեջ է, քեզնից վերև ու վերև կբարձրանա, իսկ դու ներքև ու ներքև կիջնես։",
+  "tokens": [
+    {
+      "surface": "הגר",
+      "gloss": "Օտարը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "քո մեջ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "կբարձրանա"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "քեզնից վեր"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "վերև"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "վերև"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "իսկ դու"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "կիջնես"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ներքև"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ներքև"
+    }
+  ],
+  "timestamp": "2026-09-05T19:45:47.859412532Z",
+  "model": "glm-5.3"
+}

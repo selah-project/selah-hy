@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 12:13",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Յոխանանը ութերորդ, Էլզավադը իններորդ։",
+  "tokens": [
+    {
+      "surface": "יוחנן",
+      "gloss": "Յոխանանը"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ութերորդ"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "Էլզավադը"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "իններորդ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:33:53.207275319Z",
+  "model": "glm-5.3"
+}

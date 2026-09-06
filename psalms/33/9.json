@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 33,
+  "translation": "Որովհետև նա ասաց, և ⟨եղավ⟩. նա հրաման տվեց, և կանգնեց։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "և ⟨եղավ⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "հրաման տվեց"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "և կանգնեց"
+    }
+  ],
+  "timestamp": "2026-09-05T22:59:34.837006561Z",
+  "model": "glm-5.3"
+}

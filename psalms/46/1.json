@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 46,
+  "translation": "Խմբավարին՝ Քորախի որդիների համար, Ալամոթների վրա՝ երգ։",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Խմբավարին"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "որդիների համար"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Քորախի"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Ալամոթների"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "երգ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:03:36.998917176Z",
+  "model": "glm-5.3"
+}

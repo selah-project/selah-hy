@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Քանի որ նա չգիտի, թե ի՛նչ է լինելու, քանի որ երբ լինի, ո՞վ կպատմի նրան։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Քանի որ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "նա չ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "գիտի"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՛նչ"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "է լինելու"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "կպատմի"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-06T01:19:29.829326327Z",
+  "model": "glm-5.3"
+}

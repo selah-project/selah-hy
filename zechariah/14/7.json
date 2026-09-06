@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ կլինի մեկ օր՝ այն Յահվեին կհայտնի լինի, ոչ օր և ոչ գիշեր. և երեկոյան ժամին լույս կլինի։",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Եվ կլինի"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "կհայտնի լինի"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "գիշեր"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "և կլինի"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ժամին"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "երեկոյան"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "կլինի"
+    },
+    {
+      "surface": "אור",
+      "gloss": "լույս"
+    }
+  ],
+  "timestamp": "2026-09-05T22:50:35.596239037Z",
+  "model": "glm-5.3"
+}

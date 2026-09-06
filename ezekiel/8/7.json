@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ բերեց ⟨את⟩ ինձ բակի մուտքի մոտ, ես տեսա և ահա՝ մեկ անցք պատի մեջ։",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Եվ բերեց"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ինձ",
+      "marks": "Եզեկիել՝ բերվող անձը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "մուտք"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "բակ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "և ես տեսա"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "և ահա"
+    },
+    {
+      "surface": "חר",
+      "gloss": "անցք"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "պատի մեջ"
+    }
+  ],
+  "timestamp": "2026-09-06T01:14:18.685996674Z",
+  "model": "glm-5.3"
+}

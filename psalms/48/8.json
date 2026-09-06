@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 48,
+  "translation": "Արևելյան քամիով դու ջարդում ես Թարշիշի նավերը։",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "քամիով"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "Արևելյան"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "դու ջարդում ես"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "նավերը"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Թարշիշի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:03:39.414103070Z",
+  "model": "glm-5.3"
+}

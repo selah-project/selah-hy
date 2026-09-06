@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Միշմանա չորրորդը, Յիրմեյահ հինգերորդը։",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "Միշմանա"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "չորրորդը"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Յիրմեյահ"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "հինգերորդը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:31:34.124695625Z",
+  "model": "glm-5.3"
+}

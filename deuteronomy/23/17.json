@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 23:17",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Քեզ հետ բնակվի, քո մեջ, այն տեղում, որ կընտրի քո դարպասներից մեկում, որտեղ նրան լավ թվա. մի ճնշես նրան։",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "քեզ հետ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "բնակվի"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "քո մեջ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "այն տեղում"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "կընտրի"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "մեկում"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "քո դարպասներից"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "լավ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תוננו",
+      "gloss": "ճնշես նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:44:16.656231019Z",
+  "model": "glm-5.3"
+}

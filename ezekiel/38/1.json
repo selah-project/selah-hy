@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 38:1",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 38,
+  "translation": "Եվ եղավ Յահվեի խոսքը իմ մոտ՝ ասելով.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "եվ եղավ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "իմ մոտ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T22:25:14.295726629Z",
+  "model": "glm-5.3"
+}

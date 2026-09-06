@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Ինչ որ եղավ՝ արդեն վաղուց կոչվեց նրա անունը, և հայտնի է, որ ⟨նա⟩ մարդ է, և չի կարող դատել ⟨նրա⟩ հետ, որ զորեղ է իրենից։",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ինչ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "որ եղավ"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "արդեն վաղուց"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "կոչվեց"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "անունը"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "և հայտնի է"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "կարող է"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "դատել"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "որ զորեղ է"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "իրենից"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:46.297020048Z",
+  "model": "glm-5.3"
+}

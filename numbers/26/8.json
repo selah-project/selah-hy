@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Եվ Պալուի որդիները՝ Էլիավը։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "Պալուի"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Էլիավ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:25:47.570252983Z",
+  "model": "glm-5.3"
+}

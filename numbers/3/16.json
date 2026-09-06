@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ համարեց Մոշեն ⟨את⟩ նրանց Յահվեի բերանի ըստ, ինչպես պատվիրված էր։",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Եվ համարեց"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "նրանց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "על",
+      "gloss": "ըստ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "բերանի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ինչպես"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "պատվիրված էր"
+    }
+  ],
+  "timestamp": "2026-09-05T19:12:58.720012041Z",
+  "model": "glm-5.3"
+}

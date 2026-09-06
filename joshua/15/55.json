@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "joshua 15:55",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Մաոնը, Կարմելը, Զիֆը և Յուտան։",
+  "tokens": [
+    {
+      "surface": "מעון",
+      "gloss": "Մաոնը"
+    },
+    {
+      "surface": "כרמל",
+      "gloss": "Կարմելը"
+    },
+    {
+      "surface": "וזיף",
+      "gloss": "և Զիֆը"
+    },
+    {
+      "surface": "ויוטה",
+      "gloss": "և Յուտան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:57:14.451864561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 18:5",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Այո, չարերի լույսը կմարի, և իր կրակի բոցը չի փայլի։",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Այո, նույնպես"
+    },
+    {
+      "surface": "אור",
+      "gloss": "լույսը"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "չարերի"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "կմարի"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չի"
+    },
+    {
+      "surface": "יגה",
+      "gloss": "փայլի"
+    },
+    {
+      "surface": "שביב",
+      "gloss": "բոցը"
+    },
+    {
+      "surface": "אשו",
+      "gloss": "իր կրակի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:43:48.455030467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ արեց Նոյը ամեն ինչ, ինչ պատվիրել էր նրան Յահվեն։",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "և արեց"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Նոյը"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ամեն ինչ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ինչ"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "պատվիրել էր նրան"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T18:09:52.176319241Z",
+  "model": "glm-5.3"
+}

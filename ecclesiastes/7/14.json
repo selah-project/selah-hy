@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Բարու օրը լավ եղիր, և չարի օրը դիտարկիր. նաև ⟨את⟩ այս մեկի՝ մյուսի դիմաց, արեց Էլոհիմը, նրա համար, որ մարդն այդ իր հետևից ոչինչ չգտնի։",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "բարու"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղիր"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "լավ"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "և օրը"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "չարի"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "դիտարկիր"
+    },
+    {
+      "surface": "גם",
+      "gloss": "նաև"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այս մեկի"
+    },
+    {
+      "surface": "זה",
+      "gloss": "այս մեկի"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "դիմաց"
+    },
+    {
+      "surface": "זה",
+      "gloss": "մյուսի"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արեց"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "על",
+      "gloss": "նրա համար, որ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "համար"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "գտնի"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "մարդն"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "հետևից"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ոչինչ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:15.552860529Z",
+  "model": "glm-5.3"
+}

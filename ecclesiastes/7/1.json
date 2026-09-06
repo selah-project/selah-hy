@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Լավ է անունը քան լավ օծանելիքը, և մահվան օրը՝ քան ծննդյան օրը։",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Լավ է"
+    },
+    {
+      "surface": "שם",
+      "gloss": "անունը"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "քան օծանելիք"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "լավ"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "և օրը"
+    },
+    {
+      "surface": "המות",
+      "gloss": "մահվան"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "քան օրվանից"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "ծննդյան (նրա)"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:41.045001253Z",
+  "model": "glm-5.3"
+}

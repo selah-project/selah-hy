@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 50,
+  "translation": "Եթե քաղցած լինեմ՝ քեզ չեմ ասի, որովհետև ինձն է աշխարհը և նրա լիությունը։",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "քաղցած լինեմ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չեմ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասի"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձն է"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "աշխարհը"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "և նրա լիությունը"
+    }
+  ],
+  "timestamp": "2026-09-06T02:08:37.620318373Z",
+  "model": "glm-5.3"
+}

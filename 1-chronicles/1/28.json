@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Աբրահամի որդիները՝ Իցխակ և Իշմաել։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները՝"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Աբրահամի"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Իցխակ"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "և Իշմաել"
+    }
+  ],
+  "timestamp": "2026-09-06T00:26:46.707256193Z",
+  "model": "glm-5.3"
+}

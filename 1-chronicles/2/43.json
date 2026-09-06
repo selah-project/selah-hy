@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 2:43",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ Խեվրոնի որդիները՝ Քորախը, և Թափուխը, և Ռեքեմը, և Շաման։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Եվ որդիները"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Խեվրոնի"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Քորախը"
+    },
+    {
+      "surface": "ותפח",
+      "gloss": "և Թափուխը"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "և Ռեքեմը"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "և Շաման"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:02.307215995Z",
+  "model": "glm-5.3"
+}

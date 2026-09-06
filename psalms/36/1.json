@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 36,
+  "translation": "Երգավարին՝ Յահվեի ծառայի, Դավթի (Դավիթ) սաղմոսը։",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "երգավարին"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ծառայի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Դավթի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:00:42.300726522Z",
+  "model": "glm-5.3"
+}

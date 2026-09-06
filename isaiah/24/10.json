@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Կոտրված է քաղաքը՝ ամայություն, փակված է ամեն տուն մուտքից։",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "կոտրված է"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "քաղաքը"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ամայություն"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "փակված է"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տուն"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "մուտքից"
+    }
+  ],
+  "timestamp": "2026-09-05T21:22:10.652523146Z",
+  "model": "glm-5.3"
+}

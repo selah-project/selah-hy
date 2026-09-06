@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 42,
+  "translation": "Շատ բան տեսար, բայց չպահեցիր. ականջները բաց էին, բայց չլսեց։",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "տեսար"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "շատ բան"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "բայց չ"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "պահեցիր"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "բացված"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "ականջներ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "բայց չ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "լսեց"
+    }
+  ],
+  "timestamp": "2026-09-05T21:30:06.287531559Z",
+  "model": "glm-5.3"
+}

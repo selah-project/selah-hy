@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 18:3",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Եվ ասաց՝ Ադոնայ, եթե այսպես շնորհ գտա քո աչքերում, անցա՛ծ մի գնա քո ծառայից։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "נא",
+      "gloss": "այսպես"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "գտա"
+    },
+    {
+      "surface": "חן",
+      "gloss": "շնորհ"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "քո աչքերում"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "נא",
+      "gloss": "խնդրում եմ"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "անցած գնա"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "—"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "քո ծառայից"
+    }
+  ],
+  "timestamp": "2026-09-05T18:15:10.285540046Z",
+  "model": "glm-5.3"
+}

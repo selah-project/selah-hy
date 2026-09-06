@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 44,
+  "translation": "Այս ամենը եկավ մեզ վրա, և չմոռացանք քեզ, և չխաբեցաք քո Բրիթ-ում։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ամենը"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "այս"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "եկավ մեզ վրա"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "մոռացանք քեզ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "խաբեցաք"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "քո Բրիթ-ում"
+    }
+  ],
+  "timestamp": "2026-09-06T01:15:43.926911421Z",
+  "model": "glm-5.3"
+}

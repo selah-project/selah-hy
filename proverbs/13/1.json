@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Որդի իմաստուն ⟨է⟩ հոր խրատը, իսկ հեգնողը չի լսում ապատիկություն։",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Որդի"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "իմաստուն"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "խրատ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "հոր"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "իսկ հեգնողը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "լսում"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "ապատիկություն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:32:10.906685268Z",
+  "model": "glm-5.3"
+}

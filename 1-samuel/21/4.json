@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Իսկ հիմա ի՞նչ կա քո ձեռքի տակ՝ հինգ հաց տուր իմ ձեռքը, կամ այն, ինչ գտնվում է։",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "իսկ հիմա"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "կա"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "քո ձեռքի"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "հինգ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "հաց"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "տուր"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "իմ ձեռքը"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "գտնվողը"
+    }
+  ],
+  "timestamp": "2026-09-05T20:25:23.226080281Z",
+  "model": "glm-5.3"
+}

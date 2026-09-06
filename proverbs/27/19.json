@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Ինչպես ջրի մեջ երեսը ⟨դեմ է⟩ երեսին, այնպես մարդու սիրտը՝ մարդու դեմ։",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "ինչպես ջրի մեջ"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "երեսը"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "երեսին"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այնպես"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սիրտը"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "մարդու դեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:01.634609344Z",
+  "model": "glm-5.3"
+}

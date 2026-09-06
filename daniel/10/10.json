@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 10:10",
+  "book": "daniel",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Եվ ահա ձեռք դիպավ ինձ և դողալով դրեց ինձ ծնկներիս և ձեռքերիս ափերի վրա։",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "և ահա"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ձեռք"
+    },
+    {
+      "surface": "נגעה",
+      "gloss": "դիպավ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "ותניעני",
+      "gloss": "և դողալով դրեց ինձ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "ծնկներիս"
+    },
+    {
+      "surface": "וכפות",
+      "gloss": "և ափերի"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ձեռքերիս"
+    }
+  ],
+  "timestamp": "2026-09-06T00:13:04.662466914Z",
+  "model": "glm-5.3"
+}

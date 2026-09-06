@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 104,
+  "translation": "Սահման դրեցիր՝ ոչ կանցնեն, ոչ ետ կդառնան՝ ծածկելու երկիրը։",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "սահման"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "դրեցիր"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "կանցնեն"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "կդառնան"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "ծածկելու"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:15:53.047000493Z",
+  "model": "glm-5.3"
+}

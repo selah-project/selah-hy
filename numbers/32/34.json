@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Եվ կառուցեցին Գադի որդիները ⟨את⟩ Դիբոնը և ⟨את⟩ Ատարոտը և ⟨את⟩ Արոերը։",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "Եվ կառուցեցին"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Գադի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Դիբոնը"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Դիբոնը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Ատարոտը"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Ատարոտը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Արոերը"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Արոերը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:29:26.935607757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 32:16",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Եվ ևս խոսեցին նրա ծառաները Յահվե Էլոհիմի դեմ և Խիզկիյահուի՝ իր ծառայի դեմ։",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "և ևս"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "խոսեցին"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "նրա ծառաները"
+    },
+    {
+      "surface": "על",
+      "gloss": "դեմ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Էլոհիմի"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "և…-ի դեմ"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Խիզկիյահուի"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "իր ծառայի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:57:45.435135750Z",
+  "model": "glm-5.3"
+}

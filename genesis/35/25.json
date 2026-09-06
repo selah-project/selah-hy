@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 35:25",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 35,
+  "translation": "Եվ որդիները Բիլհայի՝ Ռախելի սպասուհու՝ Դանն ու Նաֆտալին։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Եվ որդիները"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Բիլհայի"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "սպասուհու"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Ռախելի"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Դանն"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "ու Նաֆտալին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:25:24.222937631Z",
+  "model": "glm-5.3"
+}

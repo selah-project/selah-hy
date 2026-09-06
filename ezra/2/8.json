@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Զատուի որդիները՝ ինը հարյուր քառասուն հինգ։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները՝"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "Զատուի"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ինը"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "քառասուն"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "հինգ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:14:47.506976775Z",
+  "model": "glm-5.3"
+}

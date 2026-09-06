@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 5:26",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Որովհետև ո՞վ ⟨է⟩ ամեն մարմնից, որ լսեց կենդանի Էլոհիմի ձայնը՝ խոսողի կրակի միջից, մեր պես, և ապրեց։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ով"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "մարմնից"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "լսեց"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ձայնը"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմի"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "կենդանի"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "խոսողի"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "միջից"
+    },
+    {
+      "surface": "האש",
+      "gloss": "կրակի"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "մեր պես"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "և ապրեց"
+    }
+  ],
+  "timestamp": "2026-09-05T19:33:47.582768112Z",
+  "model": "glm-5.3"
+}

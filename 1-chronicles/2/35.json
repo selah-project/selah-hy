@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 2:35",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ Շեշանը տվեց իր դստերը իր ծառա Յարխային կնության, և նա ծնեց նրան ⟨את⟩ Ատային։",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "տվեց"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "Շեշանը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "դստերը"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "իր դստերը"
+    },
+    {
+      "surface": "לירחע",
+      "gloss": "Յարխային"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "իր ծառա"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "կնության"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "և ծնեց"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ատային"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Ատայ"
+    }
+  ],
+  "timestamp": "2026-09-06T01:21:30.934515719Z",
+  "model": "glm-5.3"
+}

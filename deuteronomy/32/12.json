@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Յահվեն միայնակ առաջնորդեց նրան, և օտար Էլ չկար նրա հետ։",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "միայնակ"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "առաջնորդեց նրան"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "և չկար"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "նրա հետ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "օտար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:49:03.394091285Z",
+  "model": "glm-5.3"
+}

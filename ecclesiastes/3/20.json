@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Ամենքը գնում է դեպի մեկ տեղ. ամենքը եղել է փոշուց, և ամենքը վերադառնում է դեպի փոշին։",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Ամենքը"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "գնում է"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "տեղ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ամենքը"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղել է"
+    },
+    {
+      "surface": "מן",
+      "gloss": "–ից"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "փոշու"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "և ամենքը"
+    },
+    {
+      "surface": "שב",
+      "gloss": "վերադառնում է"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "փոշին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:10.873575601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "և Շուպիմը, և Խուպիմը՝ Իրի որդիները, Խուշիմը՝ Ախերի որդիները։",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "և Շուպիմը"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "և Խուպիմը"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Իրի"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Խուշիմը"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "Ախերի"
+    }
+  ],
+  "timestamp": "2026-09-06T02:10:08.488047557Z",
+  "model": "glm-5.3"
+}

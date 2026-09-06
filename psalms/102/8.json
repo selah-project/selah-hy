@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 102,
+  "translation": "Անքուն հսկեցի և եղա ինչպես մենակ թռչուն տանիքի վրա։",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "անքուն հսկեցի"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "և եղա"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "ինչպես թռչուն"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "մենակ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "גג",
+      "gloss": "տանիք"
+    }
+  ],
+  "timestamp": "2026-09-05T23:15:49.518985200Z",
+  "model": "glm-5.3"
+}

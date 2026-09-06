@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Մեկ տան մեջ պիտի ուտվի. միսից տնից դուրս դուրս մի տար. և ոսկոր դրանում մի կոտրեք։",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "տան մեջ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "պիտի ուտվի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "տար"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ից"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "տնից"
+    },
+    {
+      "surface": "מן",
+      "gloss": "միսից"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "միս"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "դուրս"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "և ոսկոր"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "կոտրեք"
+    },
+    {
+      "surface": "בו",
+      "gloss": "դրանում"
+    }
+  ],
+  "timestamp": "2026-09-05T18:39:49.916086386Z",
+  "model": "glm-5.3"
+}

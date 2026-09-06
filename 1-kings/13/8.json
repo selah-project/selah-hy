@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Եվ ասաց Էլոհիմի մարդը թագավորին. «Եթե ինձ տաս ⟨את⟩ քո տան կեսը, չեմ գա քեզ հետ, և հաց չեմ ուտի, և ջուր չեմ խմի այս վայրում»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդը"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Էլոհիմի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "թագավորին"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "տաս"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "քո տան կեսը"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "կեսը"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "քո տան"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չեմ"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "գա"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "քեզ հետ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չեմ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ուտի"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "հաց"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չեմ"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "խմի"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջուր"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "վայրում"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-05T20:51:18.275298057Z",
+  "model": "glm-5.3"
+}

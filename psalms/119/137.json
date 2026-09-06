@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Արդար ես դու, Յահվե, և ուղիղ են քո դատասահմանները։",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Արդար"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "և ուղիղ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "քո դատասահմանները"
+    }
+  ],
+  "timestamp": "2026-09-05T23:23:23.128832370Z",
+  "model": "glm-5.3"
+}

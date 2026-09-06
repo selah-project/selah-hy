@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Միայն Գոշեն երկրում, որտեղ Իսրայելի որդիներն էին, կարկուն չեղավ։",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "միայն"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրում"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Գոշեն"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որտեղ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "այնտեղ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիներն"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "կարկուն"
+    }
+  ],
+  "timestamp": "2026-09-05T18:37:50.122745462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 12:17",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Թապուախի թագավորը՝ մեկ, Խեպերի թագավորը՝ մեկ։",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "Թապուախի"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Խեպերի"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    }
+  ],
+  "timestamp": "2026-09-06T01:06:48.228779551Z",
+  "model": "glm-5.3"
+}

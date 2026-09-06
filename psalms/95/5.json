@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 95,
+  "translation": "Որովհետև ծովը նրանն է, և նա արեց այն, և ցամաքը նրա ձեռքերը ձևեցին։",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրանն է"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ծովը"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "և նա"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "արեց այն"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "և ցամաքը"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "նրա ձեռքերը"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "ձևեցին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:15:17.424096964Z",
+  "model": "glm-5.3"
+}

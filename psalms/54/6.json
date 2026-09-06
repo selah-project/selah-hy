@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 54,
+  "translation": "Ահա, Էլոհիմը օգնականն է ինձ, Ադոնայ՝ իմ նեֆեշը պահողների հետ ⟨է⟩։",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ահա"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "օգնական"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "պահողների հետ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "իմ նեֆեշը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:05:17.904833908Z",
+  "model": "glm-5.3"
+}

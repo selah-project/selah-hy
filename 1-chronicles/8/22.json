@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 8:22",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "և Իշպանը, և Էվերը, և Էլիելը։",
+  "tokens": [
+    {
+      "surface": "וישפן",
+      "gloss": "և Իշպան"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "և Էվեր"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "և Էլիել"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:51.653594769Z",
+  "model": "glm-5.3"
+}

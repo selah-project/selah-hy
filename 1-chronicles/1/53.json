@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 1:53",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "իշխան Քենազ, իշխան Թեյման, իշխան Միբծար։",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "իշխան"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Քենազ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "իշխան"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Թեյման"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "իշխան"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "Միբծար"
+    }
+  ],
+  "timestamp": "2026-09-06T00:26:42.849949885Z",
+  "model": "glm-5.3"
+}

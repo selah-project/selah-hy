@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 18:23",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "և հա-Ավվիմը, և հա-Պարան, և Օֆրան։",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "և հա-Ավվիմը"
+    },
+    {
+      "surface": "והפרה",
+      "gloss": "և հա-Պարան"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "և Օֆրան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:58:11.954931846Z",
+  "model": "glm-5.3"
+}

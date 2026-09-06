@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 2:20",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Երկարեց Ավները իր ետևը և ասաց՝ Դո՞ւ ես Ասահելը։ Եվ նա ասաց՝ Ես եմ։",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "և երկարեց"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Ավները"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "իր ետևը"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Դո՞ւ ես"
+    },
+    {
+      "surface": "זה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Ասահելը"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ես եմ"
+    }
+  ],
+  "timestamp": "2026-09-05T20:29:41.911585687Z",
+  "model": "glm-5.3"
+}

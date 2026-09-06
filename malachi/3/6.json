@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Որովհետև ես Յահվեն չեմ փոխվել, իսկ դուք՝ Յաակովի (Հակոբ) որդիներդ, չեք ոչնչացել։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չեմ"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "փոխվել"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "իսկ դուք"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Յաակովի (Հակոբ)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չեք"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "ոչնչացել"
+    }
+  ],
+  "timestamp": "2026-09-05T22:52:31.822902467Z",
+  "model": "glm-5.3"
+}

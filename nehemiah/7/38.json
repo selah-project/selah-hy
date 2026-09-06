@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Սենաահի որդիները՝ երեք հազար ինը հարյուր երեսուն։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "Սենաահի"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "հազար"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ինը"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "երեսուն"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:43.053472059Z",
+  "model": "glm-5.3"
+}

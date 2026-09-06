@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 1:22",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Այս ամենում չմեղավորեց Հիոբը և անմիտ բան չտվեց Էլոհիմին։",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ամենում"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "այս"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "մեղավորեց"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Հիոբը"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "տվեց"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "անմիտ բան"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Էլոհիմին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:38:47.089601004Z",
+  "model": "glm-5.3"
+}

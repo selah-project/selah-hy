@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 21:11",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եվ խիստ չար եղավ խոսքը Աբրահամի աչքերում՝ իր որդու պատճառով։",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "չար եղավ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "խիստ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "աչքերում"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Աբրահամի"
+    },
+    {
+      "surface": "על",
+      "gloss": "՝"
+    },
+    {
+      "surface": "אודת",
+      "gloss": "պատճառով"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "իր որդու"
+    }
+  ],
+  "timestamp": "2026-09-05T18:16:33.737618113Z",
+  "model": "glm-5.3"
+}

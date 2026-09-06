@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Յիսաքարի համար՝ Նտանել, Ծուարի որդին։",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "Յիսաքարի ⟨համար⟩"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Նտանել"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Ծուարի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:10:44.852171225Z",
+  "model": "glm-5.3"
+}

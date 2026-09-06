@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Եվ մարդ կամ կին, երբ իրենց մարմնի մաշկի վրա բծեր լինեն՝ բծեր սպիտակավուն,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Եվ մարդ"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "կին"
+    },
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լինեն"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "մաշկի վրա"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "իրենց մարմնի"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "բծեր"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "բծեր"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "սպիտակավուն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:01:56.453820886Z",
+  "model": "glm-5.3"
+}

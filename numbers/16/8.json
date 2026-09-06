@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Եվ ասաց Մոշեն Կորախին. լսեք հիմա, Լևիի որդինե՛ր։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Կորախին"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "լսեք"
+    },
+    {
+      "surface": "נא",
+      "gloss": "հիմա"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Լևի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:21:30.135324048Z",
+  "model": "glm-5.3"
+}

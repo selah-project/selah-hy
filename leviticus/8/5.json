@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ ասաց Մոշեն (Մովսես) ժողովրդին՝ սա է այն խոսքը, որ պատվիրեց Յահվեն անելու։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն (Մովսես)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "առ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ժողովրդին"
+    },
+    {
+      "surface": "זה",
+      "gloss": "սա"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "պատվիրեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "անելու"
+    }
+  ],
+  "timestamp": "2026-09-05T18:59:50.531347889Z",
+  "model": "glm-5.3"
+}

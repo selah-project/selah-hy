@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ ևս տեսա արևի տակ՝ դատաստանի տեղում այնտեղ էր չարիքը, և արդարության տեղում այնտեղ էր չարիքը։",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Եվ ևս"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "տեսա"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "արևի"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "տեղում"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "դատաստանի"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "այնտեղ էր"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "չարիքը"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "և տեղում"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "արդարության"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "այնտեղ էր"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "չարիքը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:56.066842575Z",
+  "model": "glm-5.3"
+}

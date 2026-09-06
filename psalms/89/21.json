@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 89,
+  "translation": "Գտա Դավիդ (Դավիթ) ծառայ իմ՝ իմ սուրբ յուղով օծեցի նրան։",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "Գտա"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Դավիդ (Դավիթ)"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ծառայ իմ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "յուղով"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "իմ սուրբ"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "օծեցի նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T23:13:49.854485401Z",
+  "model": "glm-5.3"
+}

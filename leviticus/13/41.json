@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 13:41",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Եվ եթե իր դեմքի եզրից գլուխը ճաղատանա՝ ճակատաճաղատ է նա, մաքուր է նա։",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Եվ եթե"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "եզրից"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "իր դեմքի"
+    },
+    {
+      "surface": "ימרט",
+      "gloss": "ճաղատանա"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "գլուխը"
+    },
+    {
+      "surface": "גבח",
+      "gloss": "ճակատաճաղատ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "է նա"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "մաքուր"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "է նա"
+    }
+  ],
+  "timestamp": "2026-09-05T19:02:36.048400993Z",
+  "model": "glm-5.3"
+}

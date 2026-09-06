@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 6:11",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Էլքանա, որդին՝ Էլքանա, Ծոֆայ որդին, և Նախատ որդին։",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Էլքանա"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "որդին՝"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Էլքանա"
+    },
+    {
+      "surface": "צופי",
+      "gloss": "Ծոֆայ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "և Նախատ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "որդին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:27.861818249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Եվ եղավ այդ գիշերը, և եղավ Էլոհիմի խոսքը դեպի Նաթան՝ ասելով.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "գիշերը"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "և եղավ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Նաթան"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-06T00:36:03.298544935Z",
+  "model": "glm-5.3"
+}

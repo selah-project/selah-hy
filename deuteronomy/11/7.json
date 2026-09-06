@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Քանի որ ձեր աչքերը ⟨են⟩ տեսողները ⟨את⟩ ամբողջ Յահվեի մեծ գործը, որ արեց։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Քանի որ"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ձեր աչքերը"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "տեսող"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ամբողջ մեծ գործը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "գործը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արեց"
+    }
+  ],
+  "timestamp": "2026-09-05T19:37:25.991342586Z",
+  "model": "glm-5.3"
+}

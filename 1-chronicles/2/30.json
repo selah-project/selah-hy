@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ Նադավի որդիներն էին Սելեդը և Ապայիմը, և Սելեդը մահացավ առանց որդիների։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Նադավի"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "Սելեդը"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "և Ապայիմը"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "և մահացավ"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "Սելեդը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "որդիներ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:30.373150066Z",
+  "model": "glm-5.3"
+}

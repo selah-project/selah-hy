@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 44:27",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 44,
+  "translation": "Եվ ասաց քո ծառան՝ իմ հայրս, մեզ. դուք գիտեք, որ երկու որդի ծնեց ինձ իմ կինը։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "քո ծառան"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "իմ հայրը"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "մեզ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "դուք"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "գիտեք"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "երկու"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "իմ կինը"
+    }
+  ],
+  "timestamp": "2026-09-05T18:31:13.114322148Z",
+  "model": "glm-5.3"
+}

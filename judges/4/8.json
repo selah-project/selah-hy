@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ ասաց նրան Բարաքը. եթե դու գաս ինձ հետ, կգնամ, իսկ եթե դու չգաս ինձ հետ, չեմ գնա։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Բարաքը"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "դու գաս"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ինձ հետ"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "կգնամ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "իսկ եթե"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "դու գաս"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ինձ հետ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "եմ գնա"
+    }
+  ],
+  "timestamp": "2026-09-05T20:04:09.289715240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Ճանաչեցի, որ նրանց մեջ չկա բարիք, բացի՝ ցնծալուց և բարիք գործելուց իր կյանքում։",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "ճանաչեցի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "բարիք"
+    },
+    {
+      "surface": "בם",
+      "gloss": "նրանց մեջ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "բացի"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "ցնծալուց"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "և գործելուց"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "բարիք"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "իր կյանքում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:33.014361503Z",
+  "model": "glm-5.3"
+}

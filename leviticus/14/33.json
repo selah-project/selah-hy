@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 14:33",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ խոսեց Յահվեն Մոշեին և Ահարոնին՝ ասելով.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Եվ խոսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեին"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և —"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ահարոնին"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T19:03:11.008029956Z",
+  "model": "glm-5.3"
+}

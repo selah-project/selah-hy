@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Քամք քամքաց, ասաց Կոհելեթը. ամեն ինչ քամք է։",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Քամք"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "քամքաց"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "Կոհելեթը"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ամեն ինչ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "քամք"
+    }
+  ],
+  "timestamp": "2026-09-06T00:03:34.735928012Z",
+  "model": "glm-5.3"
+}

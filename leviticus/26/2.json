@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "⟨את⟩ իմ Շաբաթները պահեք, և իմ սրբարանից երկյուղեք. ես եմ Յահվեն։",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "իմ Շաբաթները"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "իմ Շաբաթները"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "պահեք"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "և իմ սրբարանը"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "երկյուղեք"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:09:57.945831762Z",
+  "model": "glm-5.3"
+}

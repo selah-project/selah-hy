@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Եվ ավելին այդ ամենից՝ որդի՛ս, զգուշացիր. գրքեր շատ անելու վերջ չկա, և շատ զրուցելը մարմնի հոգնեցում է։",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Եվ ավելին"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "այդ ամենից"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդի՛ս"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "զգուշացիր"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "անելու"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "գրքեր"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "շատ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "վերջ"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "և զրուցելը"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "շատ"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "հոգնեցում"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "մարմնի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:02:58.109967174Z",
+  "model": "glm-5.3"
+}

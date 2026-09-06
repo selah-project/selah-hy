@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 139,
+  "translation": "Եթե ես բարձրանամ առավոտյան թևերով, եթե բնակվեմ ծովի եզրին՝",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "բարձրանամ"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "թևերով"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "առավոտյան"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "բնակվեմ"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "եզրին"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ծովի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:25:40.620643857Z",
+  "model": "glm-5.3"
+}

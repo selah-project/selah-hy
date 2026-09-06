@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Տեսայ, և ահա՝ մարդ չկար, և երկնքի ամեն թռչունը փախչել էր։",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Տեսայ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "և ահա"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չկար"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "և ամեն"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "թռչունը"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "երկնքի"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "փախչել էր"
+    }
+  ],
+  "timestamp": "2026-09-05T21:40:57.907034381Z",
+  "model": "glm-5.3"
+}

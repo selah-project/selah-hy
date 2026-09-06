@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 10:14",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Իսկ հիմարը խոսքեր է բազմապատկում․ մարդը չգիտի, թե ինչ պիտի լինի, և ինչ որ իրենից հետո լինի՝ ո՞վ կպատմի նրան։",
+  "tokens": [
+    {
+      "surface": "והסכל",
+      "gloss": "իսկ հիմարը"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "բազմապատկում"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "խոսքեր"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "գիտի"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "մարդը"
+    },
+    {
+      "surface": "מה",
+      "gloss": "թե ինչ"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "պիտի լինի"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "և ինչ որ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "իրենից հետո"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "կպատմի"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:56.355303918Z",
+  "model": "glm-5.3"
+}

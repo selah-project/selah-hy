@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Որովհետև Յահվեն կլինի քո վստահությունը, և կպահի քո ոտքը՝ որսից։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "կլինի"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "քո վստահությունը"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "և կպահի"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "քո ոտքը"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "որսից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:15.142124758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 5:5",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Միքա որդին իր, Ռեայա որդին իր, Բաալ որդին իր։",
+  "tokens": [
+    {
+      "surface": "מיכה",
+      "gloss": "Միքա"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "որդին իր"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "Ռեայա"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "որդին իր"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Բաալ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "որդին իր"
+    }
+  ],
+  "timestamp": "2026-09-06T00:28:41.224087446Z",
+  "model": "glm-5.3"
+}

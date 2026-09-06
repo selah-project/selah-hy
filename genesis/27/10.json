@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 27:10",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "և կբերես քո հորը, և նա կուտե՝ ⟨որպեսզի⟩ օրհնի քեզ իր մահվանից առաջ։",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "և կբերես"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "քո հորը"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "և կուտե"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "⟨որպեսզի⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "օրհնի քեզ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առաջ"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "իր մահվանից"
+    }
+  ],
+  "timestamp": "2026-09-06T02:43:24.407812281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "և Էվրոնը, և Ռեխովը, և Խամոնը, և Քանան՝ մինչև մեծ Ցիդոնը։",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "և Էվրոնը"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "և Ռեխովը"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "և Խամոնը"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "և Քանան"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Ցիդոնը"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "մեծ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:58:29.628953033Z",
+  "model": "glm-5.3"
+}

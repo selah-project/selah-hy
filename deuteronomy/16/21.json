@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 16:21",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Ոչ մի Աշերա՝ ոչ մի ծառ՝ չես տնկելու քեզ համար Յահվե քո Էլոհիմի զոհասեղանի կողքին, որ պիտի անես քեզ համար։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "չես տնկելու"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ համար"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "Աշերա"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ոչ մի"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ծառ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "կողքին"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "զոհասեղանի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "քո Էլոհիմի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "պիտի անես"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:40:56.024094558Z",
+  "model": "glm-5.3"
+}

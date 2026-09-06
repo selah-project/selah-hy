@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Միացած է կուռքերին Էֆրայիմը, թողե՛ք նրան։",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "միացած է"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "կուռքերին"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Էֆրայիմը"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "թողե՛ք"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T22:30:37.085252910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Եվ ծառան դրեց իր ձեռքը Աբրահամի՝ իր տիրոջ ազդրի տակ, և երդվեց նրան այդ բանի մասին։",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "դրեց"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "ծառան"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ձեռքը"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "իր ձեռքը"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ազդրի"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Աբրահամի"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "իր տիրոջ"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "և երդվեց"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "על",
+      "gloss": "մասին"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "բանի"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այդ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:17:42.890347462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 11:27",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "և Խացար-Շուալում, և Բեեր-Շևայում և նրա դուստրերում,",
+  "tokens": [
+    {
+      "surface": "ובחצר",
+      "gloss": "և Խացար-"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "Շուալում"
+    },
+    {
+      "surface": "ובבאר",
+      "gloss": "և Բեեր-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Շևայում"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "և նրա դուստրերում"
+    }
+  ],
+  "timestamp": "2026-09-06T00:25:03.041783657Z",
+  "model": "glm-5.3"
+}

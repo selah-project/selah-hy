@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Լավ է Յահվեն նրան, որ սպասում է ⟨նրան⟩, նեֆեշին, որ փնտրում է նրան։",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Լավ է"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "նրան, որ սպասում է"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "նեֆեշին"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "փնտրում է նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:12.258895209Z",
+  "model": "glm-5.3"
+}

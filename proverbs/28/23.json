@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 28:23",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Մարդուն հանդիմանողը հետո շնորհ կգտնի, քան լեզուն հարթողը։",
+  "tokens": [
+    {
+      "surface": "מוכיח",
+      "gloss": "հանդիմանող"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդուն"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "հետո"
+    },
+    {
+      "surface": "חן",
+      "gloss": "շնորհ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "կգտնի"
+    },
+    {
+      "surface": "ממחליק",
+      "gloss": "քան հարթող"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "լեզու"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:49.417132325Z",
+  "model": "glm-5.3"
+}

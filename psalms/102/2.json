@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 102,
+  "translation": "Յահվե, լսի՛ր իմ աղոթքը, և իմ աղաղակը քեզ մոտ գա’",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "լսի՛ր"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "իմ աղոթքը"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "և իմ աղաղակը"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "քեզ մոտ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "գա’"
+    }
+  ],
+  "timestamp": "2026-09-05T23:16:30.748554021Z",
+  "model": "glm-5.3"
+}

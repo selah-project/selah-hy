@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Բեռը Տեսիլքի ձորի. ի՞նչ քեզ, այժմ, որ բարձրացար դու ամբողջովիդ ⟨դեպի⟩ տանիքներ։",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Բեռը"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "ձորի"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "Տեսիլքի"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "այժմ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "բարձրացար"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "դու ամբողջովիդ"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "տանիքներ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:20:57.898506821Z",
+  "model": "glm-5.3"
+}

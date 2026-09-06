@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 18:18",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "և անցավ դեպի լանջը՝ Արավայի դիմաց, հյուսիսի կողմից, և իջավ Արավա։",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "և անցավ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "լանջը"
+    },
+    {
+      "surface": "מול",
+      "gloss": "դիմաց"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Արավայի"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "հյուսիսի կողմից"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "և իջավ"
+    },
+    {
+      "surface": "הערבתה",
+      "gloss": "Արավա"
+    }
+  ],
+  "timestamp": "2026-09-05T19:58:09.082875601Z",
+  "model": "glm-5.3"
+}

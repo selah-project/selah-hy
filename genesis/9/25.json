@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ ասաց. Անիծված լինի Կնաանը, ծառաների ծառա լինի նա իր եղբայրներին։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "անիծված"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Կնաանը"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ծառա"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ծառաների"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "իր եղբայրներին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:10:17.632406480Z",
+  "model": "glm-5.3"
+}

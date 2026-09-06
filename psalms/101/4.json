@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 101,
+  "translation": "Ծուռ սիրտ կհեռանա ինձնից. չարը չեմ ճանաչելու։",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "սիրտ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ծուռ"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "կհեռանա"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ինձնից"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չար"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "չեմ ճանաչելու"
+    }
+  ],
+  "timestamp": "2026-09-05T23:16:25.592470230Z",
+  "model": "glm-5.3"
+}

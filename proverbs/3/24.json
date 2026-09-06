@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եթե պառկես՝ չես վախենա, և պառկած՝ քաղցր կլինի քո քունը։",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "պառկես"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չես"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "վախենա"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "և պառկած"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "քաղցր կլինի"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "քո քունը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:23.390771044Z",
+  "model": "glm-5.3"
+}

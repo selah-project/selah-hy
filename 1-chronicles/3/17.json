@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ Յեխոնյա (Եխոնիա) ասրի որդիներն են՝ Շեալտիելը (Սաղաթիել) նրա որդին։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Եվ որդիներ"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Յեխոնյայի"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "ասրի"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "Շեալտիելը"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:28:55.042333312Z",
+  "model": "glm-5.3"
+}

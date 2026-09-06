@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 22:5",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Ոչ լինի տղամարդու իր կնոջ վրա, և ոչ տղամարդ կնոջ հագուստ հագնի, որովհետև ատելիք է Յահվեի՝ քո Էլոհիմի ամեն անողը այս։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ոչ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "իր"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "տղամարդու"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "կնոջ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "հագնի"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "տղամարդ"
+    },
+    {
+      "surface": "שמלת",
+      "gloss": "հագուստ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "կնոջ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ատելիք"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Էլոհիմդ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "անողը"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-05T19:42:58.709606316Z",
+  "model": "glm-5.3"
+}

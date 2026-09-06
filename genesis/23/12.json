@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "և երկրպագեց Աբրահամը երկրի ժողովրդի առջև։",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "և երկրպագեց"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Աբրահամը"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ժողովրդի"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:16:24.660834451Z",
+  "model": "glm-5.3"
+}

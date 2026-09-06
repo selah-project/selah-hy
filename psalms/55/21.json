@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 55,
+  "translation": "Երկարեց իր ձեռքերը իր խաղաղների վրա, պղծեց իր Բրիթը։",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "երկարեց"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "իր ձեռքերը"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "իր խաղաղների վրա"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "պղծեց"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "իր Բրիթը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:05:28.940816665Z",
+  "model": "glm-5.3"
+}

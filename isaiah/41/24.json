@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 41:24",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 41,
+  "translation": "Ահա՝ ոչնչից եք դուք, և ձեր գործը՝ ոչնչից. նողկանք է ձեզ ընտրողը։",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "դուք"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ոչնչից եք"
+    },
+    {
+      "surface": "ופעלכם",
+      "gloss": "և ձեր գործը"
+    },
+    {
+      "surface": "מאפע",
+      "gloss": "ոչնչից"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "նողկանք"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "է ընտրողը"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ձեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:29:57.969805366Z",
+  "model": "glm-5.3"
+}

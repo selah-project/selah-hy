@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 9:25",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ իմ օրերը ավելի թեթև էին, քան վազողը՝ փախան, չտեսան բարիք։",
+  "tokens": [
+    {
+      "surface": "וימי",
+      "gloss": "և իմ օրերը"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "թեթև էին"
+    },
+    {
+      "surface": "מני",
+      "gloss": "քան"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "վազողը"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "փախան"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "տեսան"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "բարիք"
+    }
+  ],
+  "timestamp": "2026-09-05T23:41:58.596417291Z",
+  "model": "glm-5.3"
+}

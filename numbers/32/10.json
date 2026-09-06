@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Եվ բորբոքվեց Յահվեի բարկությունը այդ օրը, և երդվեց՝ ասելով.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "և բորբոքվեց"
+    },
+    {
+      "surface": "אף",
+      "gloss": "բարկությունը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "այդ օրը"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨այդ⟩"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "և երդվեց"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T19:28:42.978803586Z",
+  "model": "glm-5.3"
+}

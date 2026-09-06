@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Սա քո հասակն է՝ նման արմավենու, և կուրծքդ՝ ողկույզների։",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "սա"
+    },
+    {
+      "surface": "קומתך",
+      "gloss": "քո հասակը"
+    },
+    {
+      "surface": "דמתה",
+      "gloss": "նման է"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "արմավենու"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "և կուրծքդ"
+    },
+    {
+      "surface": "לאשכלות",
+      "gloss": "ողկույզների"
+    }
+  ],
+  "timestamp": "2026-09-05T23:54:38.319555906Z",
+  "model": "glm-5.3"
+}

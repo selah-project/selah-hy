@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 33:21",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 33,
+  "translation": "Եվ շարժվեցին Լիվնահից, և բանակեցին Ռիսահում։",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Եվ շարժվեցին"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "Լիվնահից"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "և բանակեցին"
+    },
+    {
+      "surface": "ברסה",
+      "gloss": "Ռիսահում"
+    }
+  ],
+  "timestamp": "2026-09-05T19:29:53.328546760Z",
+  "model": "glm-5.3"
+}

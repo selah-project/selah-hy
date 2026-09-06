@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 25:2",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Եվ արեց այն ինչ ուղիղ է Յահվեի աչքերի առջև, միայն ոչ ամբողջական սրտով։",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Եվ արեց"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ուղիղը"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "աչքերի առջև"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "רק",
+      "gloss": "միայն"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "սրտով"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ամբողջական"
+    }
+  ],
+  "timestamp": "2026-09-06T00:56:44.625818695Z",
+  "model": "glm-5.3"
+}

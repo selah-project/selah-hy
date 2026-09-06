@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 135,
+  "translation": "Ազգերի կուռքերը արծաթ են և ոսկի, մարդկանց ձեռքի գործ։",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "կուռքերը"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ազգերի"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "արծաթ"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "և ոսկի"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "գործ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ձեռքի"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդկանց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:24:41.700309676Z",
+  "model": "glm-5.3"
+}

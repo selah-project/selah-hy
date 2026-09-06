@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 40,
+  "translation": "Եվ չհիշեց մատուցումների իշխանը ⟨את⟩ Յոսեֆին, և մոռացավ նրան։",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "հիշեց"
+    },
+    {
+      "surface": "שר",
+      "gloss": "իշխանը"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "մատուցումների"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յոսեֆին"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Յոսեֆին"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "և մոռացավ նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T18:26:55.316574523Z",
+  "model": "glm-5.3"
+}

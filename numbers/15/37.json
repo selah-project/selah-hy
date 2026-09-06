@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 15:37",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Եվ ասաց Յահվե Մոշեին՝ ասելով․",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Մոշեին"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեին"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T19:20:58.042599682Z",
+  "model": "glm-5.3"
+}

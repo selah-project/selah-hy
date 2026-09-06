@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Մոշեի որդիները՝ Գերշոմը և Էլիեզերը։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեի"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Գերշոմը"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "և Էլիեզերը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:37:13.306785189Z",
+  "model": "glm-5.3"
+}

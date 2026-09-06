@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "judges 11:28",
+  "book": "judges",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Բայց Ամոնի որդիների թագավորը չլսեց Յիֆթախի խոսքերը, որ նա ուղարկեց նրան։",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Բայց ոչ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "լսեց"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ամոնի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "խոսքերը"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Յիֆթախի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ուղարկեց"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T20:09:10.425692406Z",
+  "model": "glm-5.3"
+}

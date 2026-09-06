@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Հավաքելով կհավաքեմ ամեն ինչ երկրի երեսից, Յահվեի բանն է։",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Հավաքելով"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "կհավաքեմ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն ինչ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "հեռու"
+    },
+    {
+      "surface": "פני",
+      "gloss": "երեսի"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "բանն է"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:46:41.853445871Z",
+  "model": "glm-5.3"
+}

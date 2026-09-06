@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Քեյրոսի որդիները, Սիայի որդիները, Փադոնի որդիները։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "קירס",
+      "gloss": "Քեյրոսի"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "סיעא",
+      "gloss": "Սիայի"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "Փադոնի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:37.170608652Z",
+  "model": "glm-5.3"
+}

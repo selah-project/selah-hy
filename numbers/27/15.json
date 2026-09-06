@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 27:15",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Եվ խոսեց Մոշեն (Մովսես) Յահվեի հետ՝ ասելով։",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Եվ խոսեց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն (Մովսես)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-06T01:06:52.606434308Z",
+  "model": "glm-5.3"
+}

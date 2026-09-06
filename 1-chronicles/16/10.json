@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 16:10",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Փառաբանվե՛ք նրա սուրբ Անվամբ, ուրախանա սիրտը՝ Յահվեին փնտրողների։",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Փառաբանվե՛ք"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Անվամբ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "սուրբ (նրա)"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ուրախանա"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սիրտը"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "փնտրողների"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:33:20.127472709Z",
+  "model": "glm-5.3"
+}

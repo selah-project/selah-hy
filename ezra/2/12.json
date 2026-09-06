@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Ազգադի որդիներ՝ հազար երկու հարյուր քսաներկու։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Ազգադի"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "հազար"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "երկու հարյուր"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "քսան"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "երկու"
+    }
+  ],
+  "timestamp": "2026-09-06T00:15:03.487977270Z",
+  "model": "glm-5.3"
+}

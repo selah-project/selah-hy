@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 121,
+  "translation": "Յահվեն քո պահապանն է, Յահվեն քո ստվերն է՝ քո աջ ձեռքի վրա։",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "քո պահապանն է"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "քո ստվերն է"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ձեռքի"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "քո աջ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:23:52.230150331Z",
+  "model": "glm-5.3"
+}

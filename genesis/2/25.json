@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Երկուսն էլ մերկ էին՝ մարդն ու իր կինը, և չէին ամաչում։",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "էին"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "երկուսն էլ"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "մերկ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "մարդն"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ու իր կինը"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "էին ամաչում"
+    }
+  ],
+  "timestamp": "2026-09-05T18:07:38.474551860Z",
+  "model": "glm-5.3"
+}

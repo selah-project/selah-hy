@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 52,
+  "translation": "Որովհետև այսպես ասաց Յահվեն՝ անվճար վաճառվեցիք, և արծաթով չեք ազատվի։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "כה",
+      "gloss": "այսպես"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "անվճար"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "վաճառվեցիք"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "արծաթով"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "կազատվիք"
+    }
+  ],
+  "timestamp": "2026-09-05T21:35:12.800130073Z",
+  "model": "glm-5.3"
+}

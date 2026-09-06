@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 122,
+  "translation": "Յահվե Էլոհիմի՝ մեր Էլոհիմի տան պատճառով ես կփնտրեմ քո բարին։",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "պատճառով"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տան"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "մեր Էլոհիմի"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "ես կփնտրեմ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "բարին"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քո"
+    }
+  ],
+  "timestamp": "2026-09-05T23:23:41.558618231Z",
+  "model": "glm-5.3"
+}

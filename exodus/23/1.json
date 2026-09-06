@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Մի՛ բարձրացրու սուտ լուր. մի՛ դիր քո ձեռքը չարագործի հետ՝ բռնության վկա լինելու։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Մի՛"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "բարձրացրու"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "լուր"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "սուտ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "դիր"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ձեռքդ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "չարագործի"
+    },
+    {
+      "surface": "להית",
+      "gloss": "լինելու"
+    },
+    {
+      "surface": "עד",
+      "gloss": "վկա"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "բռնության"
+    }
+  ],
+  "timestamp": "2026-09-05T18:45:43.684373499Z",
+  "model": "glm-5.3"
+}

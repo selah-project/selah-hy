@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Եվ խոսեց Յահվեն Մոշեի հետ Սինայ լեռան վրա՝ ասելով․",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Եվ խոսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "՝ ...ի հետ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեի"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "լեռան վրա"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Սինայ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T19:09:23.547678834Z",
+  "model": "glm-5.3"
+}

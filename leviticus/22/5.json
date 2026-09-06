@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 22:5",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Կամ մարդ, որ դիպչի որևէ սողունի՝ որ նրան պիղծի, կամ մարդու՝ որ նրան պիղծի՝ ամեն իր պղծությանը։",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Կամ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "դիպչի"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "որևէ"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "սողունի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "պիղծի"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "պիղծի"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "պղծությանը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:07:07.689721473Z",
+  "model": "glm-5.3"
+}

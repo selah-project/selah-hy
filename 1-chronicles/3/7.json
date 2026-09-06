@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "և Նոգաա, և Նեֆեգ, և Յաֆիա",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "և Նոգաա"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "և Նեֆեգ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "և Յաֆիա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:28:32.388792522Z",
+  "model": "glm-5.3"
+}

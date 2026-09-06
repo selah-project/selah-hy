@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 7:52",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Մեկ շատամազ այծ՝ այծերից, խատատի համար։",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "շատամազ այծ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "այծերից"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "խատատի համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:15:21.928515055Z",
+  "model": "glm-5.3"
+}

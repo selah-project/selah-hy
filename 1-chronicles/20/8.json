@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 20:8",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Սրանք ծնվել էին Ռաֆային Գաթում, և ընկան Դավիդի ձեռքով և իր ծառաների ձեռքով։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Սրանք"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "ծնվել էին"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "Ռաֆային"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "Գաթում"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "և ընկան"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ձեռքով"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Դավիդի"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "և ձեռքով"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "նրա ծառաների"
+    }
+  ],
+  "timestamp": "2026-09-06T00:35:40.661779483Z",
+  "model": "glm-5.3"
+}

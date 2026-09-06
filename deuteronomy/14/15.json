@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "և ⟨את⟩ ջայլամի դստրերը, և ⟨את⟩ թախմասը, և ⟨את⟩ ճայը, և ⟨את⟩ բազեն՝ ըստ իր տեսակի․",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "ջայլամի դստրերը"
+    },
+    {
+      "surface": "בת",
+      "gloss": "դուստր"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "ջայլամի"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "թախմասը"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "թախմասը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "ճայը"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "ճայը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "բազեն"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "բազեն"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ըստ իր տեսակի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:38:41.438716811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 23:30",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Եվ ամեն նեֆեշ, որ ամեն գործ անի հենց այդ օրվա մեջ, ես կոչնչացնեմ այն ⟨את⟩ այդ նեֆեշը իր ժողովրդի միջից։",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Եվ ամեն"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "նեֆեշ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "անի"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "գործ"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "հենց"
+    },
+    {
+      "surface": "היום",
+      "gloss": "օրվա մեջ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "ես կոչնչացնեմ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այդ նեֆեշը"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "նեֆեշ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "միջից"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "իր ժողովրդի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:09:06.604344417Z",
+  "model": "glm-5.3"
+}

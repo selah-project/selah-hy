@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 31:16",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Մտադրեց ագարակ և գնեց այն. իր ձեռքերի պտղից այգի տնկեց։",
+  "tokens": [
+    {
+      "surface": "זממה",
+      "gloss": "Մտադրեց"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ագարակ"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "և գնեց այն"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "պտղից"
+    },
+    {
+      "surface": "כפיה",
+      "gloss": "իր ձեռքերի"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "տնկեց"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "այգի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:38:27.332412467Z",
+  "model": "glm-5.3"
+}

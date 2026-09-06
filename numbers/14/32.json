@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Իսկ ձեր դիակները՝ դուք իսկ, ընկնելու են այս անապատում։",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "իսկ ձեր դիակները"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "դուք իսկ"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ընկնելու են"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "անապատում"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-05T19:18:55.242071208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 32:10",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Դրա համար ասացի՝ լսեք իմ խոսքը, ես էլ կցուցադրեմ իմ գիտելիքը։",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Դրա համար"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ասացի"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "լսեք"
+    },
+    {
+      "surface": "לי",
+      "gloss": "իմ"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "կցուցադրեմ"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "գիտելիքս"
+    },
+    {
+      "surface": "אף",
+      "gloss": "էլ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    }
+  ],
+  "timestamp": "2026-09-05T23:47:51.362140506Z",
+  "model": "glm-5.3"
+}

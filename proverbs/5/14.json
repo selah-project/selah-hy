@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Գրեթե ես եկա բոլոր չարիքերի մեջ՝ ժողովրդի և համայնքի միջում։",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Գրեթե"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ես եկա"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չարիքերի մեջ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "միջում"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ժողովրդի"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "և համայնքի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:50.402431953Z",
+  "model": "glm-5.3"
+}

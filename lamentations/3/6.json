@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Խավարներում նստեցրեց ինձ՝ ինչպես հավերժության մեռելներին։",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "Խավարներում"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "նստեցրեց ինձ"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "ինչպես մեռելներին"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "հավերժության"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:46.278593443Z",
+  "model": "glm-5.3"
+}

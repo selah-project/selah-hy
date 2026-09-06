@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ ասաց Սեդոմի թագավորը Աբրամին՝ տուր ինձ անձերը, իսկ ունեցվածքը վերցրու քեզ։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավոր"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Սեդոմի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Աբրամ"
+    },
+    {
+      "surface": "תן",
+      "gloss": "տուր"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "անձերը"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "իսկ ունեցվածքը"
+    },
+    {
+      "surface": "קח",
+      "gloss": "վերցրու"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:13:45.879484090Z",
+  "model": "glm-5.3"
+}

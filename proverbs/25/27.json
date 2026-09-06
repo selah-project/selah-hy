@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 25:27",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Մեղր շատ ուտելը լավ չէ, և ուրիշի պատվի խորացումը՝ պատիվ ⟨է⟩։",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "ուտելը"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "մեղր"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "շատ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "լավ"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "և խորացումը"
+    },
+    {
+      "surface": "כבדם",
+      "gloss": "պատվի"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "պատիվ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:15.219379953Z",
+  "model": "glm-5.3"
+}

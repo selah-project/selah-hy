@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Իսրայելի տան ցանկացած մարդ, որ մորթի ցուլ կամ գառ կամ այծ՝ ճամբարում, կամ որ մորթի ճամբարից դուրս,",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ցանկացած մարդ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "տան"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "մորթի"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ցուլ"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "գառ"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "այծ"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ճամբարում"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "մորթի"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "դուրս"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ճամբարից"
+    }
+  ],
+  "timestamp": "2026-09-05T19:04:55.634962431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Եվ գնաց Բիլամը Բալակի հետ, և եկան Քիրյաթ-Խուցոտ (փողոցների քաղաք)։",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Եվ գնաց"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Բիլամը"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Բալակի"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "և եկան"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Քիրյաթ"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "Խուցոտ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:24:39.103088342Z",
+  "model": "glm-5.3"
+}

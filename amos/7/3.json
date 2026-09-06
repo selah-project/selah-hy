@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Զղջաց Յահվեն սրա համար. «չի լինի», ասաց Յահվեն։",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "Զղջաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "על",
+      "gloss": "՝ սրա համար"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "(սրա համար)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T22:39:02.607258693Z",
+  "model": "glm-5.3"
+}

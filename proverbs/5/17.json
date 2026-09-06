@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Թող լինեն միայն քոնը, և ոչ օտարներին ⟨את⟩ քեզ հետ։",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "թող լինեն"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քոնը"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "միայն"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "օտարներին"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ քեզ հետ",
+      "marks": "օտարներին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:05.846880419Z",
+  "model": "glm-5.3"
+}

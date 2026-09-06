@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 35,
+  "translation": "և ամեն իմաստուն սրտով՝ ձեր մեջ, թող գա և անի ⟨את⟩ ամեն ինչ, որ պատվիրեց Յահվեն։",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "և ամեն"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "իմաստուն"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սրտով"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ձեր մեջ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "թող գա"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "և անի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ամեն ինչ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն ինչ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "պատվիրեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T18:52:58.378091451Z",
+  "model": "glm-5.3"
+}

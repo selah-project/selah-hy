@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ հարուցվեց նոր թագավոր Միցրայիմի վրա, որ Յոսեֆին չէր ճանաչում ⟨את⟩ Յոսեֆին։",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Եվ հարուցվեց"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավոր"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "նոր"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Միցրայիմի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չէր"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ճանաչում"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յոսեֆին"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Յոսեֆին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:33:54.904334393Z",
+  "model": "glm-5.3"
+}

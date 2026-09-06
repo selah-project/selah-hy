@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 84,
+  "translation": "Որքան սիրելի են քո շինությունները, Յահվե Ծեվաո՛թ։",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Որքան"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "սիրելի են"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "քո շինությունները"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ծեվաոթ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:14:00.255030049Z",
+  "model": "glm-5.3"
+}

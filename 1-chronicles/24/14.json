@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 24:14",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Տասնհինգերորդը՝ Բիլգային, տասնվեցերորդը՝ Իմերին։",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "Բիլգային"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "հինգ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "տասը"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "Իմերին"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "վեց"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "տասը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:36:57.708285919Z",
+  "model": "glm-5.3"
+}

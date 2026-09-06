@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Երկու-երկու եկան առ Նոյ (Նոե)՝ տապանը, արու և էգ, ինչպես պատվիրել էր Էլոհիմ ⟨את⟩ Նոյին։",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "երկու"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "երկու"
+    },
+    {
+      "surface": "באו",
+      "gloss": "եկան"
+    },
+    {
+      "surface": "אל",
+      "gloss": "առ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Նոյ (Նոե)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "առ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "տապանը"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "արու"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "և էգ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ինչպես"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "պատվիրել էր"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Նոյին"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Նոյին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:09:48.292255227Z",
+  "model": "glm-5.3"
+}

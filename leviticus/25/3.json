@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Վեց տարի ցանի՛ր քո դաշտը, և վեց տարի խնամի՛ր քո այգին, և հավաքի՛ր ⟨את⟩ նրա բերքը։",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "Վեց"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ցանի՛ր"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "քո դաշտը"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "և վեց"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "խնամի՛ր"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "քո այգին"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "և հավաքի՛ր"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "նրա բերքը"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "նրա բերքը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:09:23.548157287Z",
+  "model": "glm-5.3"
+}

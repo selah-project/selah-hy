@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Ծերերը դարպասից դադարեցին, երիտասարդները՝ իրենց նվագից։",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "Ծերերը"
+    },
+    {
+      "surface": "משער",
+      "gloss": "դարպասից"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "դադարեցին"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "երիտասարդները"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "իրենց նվագից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:12.457733408Z",
+  "model": "glm-5.3"
+}

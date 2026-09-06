@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "և ⟨את⟩ Ռեսենը՝ Նինվեի և Քալախի միջև. դա ⟨է⟩ մեծ քաղաքը։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Ռեսենը"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Ռեսենը"
+    },
+    {
+      "surface": "בין",
+      "gloss": "միջև"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Նինվեի"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "և"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Քալախի"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "դա"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "քաղաքը"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "մեծ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:12:56.141239563Z",
+  "model": "glm-5.3"
+}

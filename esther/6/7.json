@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ ասաց Համանը թագավորին՝ «մարդու, որին թագավորը ուզում է պատվել…",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Համանը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որին"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ուզում է"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "պատվել նրան"
+    }
+  ],
+  "timestamp": "2026-09-06T00:04:26.606273634Z",
+  "model": "glm-5.3"
+}

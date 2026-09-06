@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 124,
+  "translation": "Եթե Յահվեն չլիներ մեզ համար, երբ կանգնեց մարդը մեզ վրա՝",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "Եթե չլիներ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "լիներ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "մեզ համար"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "կանգնելիս"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "մեզ վրա"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:24:46.659072695Z",
+  "model": "glm-5.3"
+}

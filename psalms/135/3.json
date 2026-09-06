@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 135,
+  "translation": "Փառաբանեք Յահին, որ բարի ⟨է⟩ Յահվեն, երգեք նրա անվանը, որ գեղեցիկ ⟨է⟩։",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Փառաբանեք"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Յահին"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "բարի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "երգեք"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "նրա անվանը"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "գեղեցիկ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:24:46.705920802Z",
+  "model": "glm-5.3"
+}

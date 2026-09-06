@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 24:9",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Հինգերորդը՝ Մալկիյային, վեցերորդը՝ Միյամինին։",
+  "tokens": [
+    {
+      "surface": "למלכיה",
+      "gloss": "Մալկիյային"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "հինգերորդը"
+    },
+    {
+      "surface": "למימן",
+      "gloss": "Միյամինին"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "վեցերորդը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:36:54.620116916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 78,
+  "translation": "Եվ պատվիրեց ամպերին վերևից, և երկնքի դռները բացեց։",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "և պատվիրեց"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ամպերին"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "վերևից"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "և դռները"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "երկնքի"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "բացեց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:10:28.806486941Z",
+  "model": "glm-5.3"
+}

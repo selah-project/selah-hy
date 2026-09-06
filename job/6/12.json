@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Մի՞թե քարերի ուժն է իմ ուժը, մի՞թե իմ միսը պղինձ է։",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "մի՞թե"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ուժը"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "քարերի"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "իմ ուժը"
+    },
+    {
+      "surface": "אם",
+      "gloss": "մի՞թե"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "իմ միսը"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "պղինձ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:40:27.598181352Z",
+  "model": "glm-5.3"
+}

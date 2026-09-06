@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ ծագեց արևը, և մտավ արևը, և դեպի իր տեղը շնչասպառ ձգտելով՝ ծագողն այն այնտեղ է։",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "և ծագեց"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "արևը"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "և մտավ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "արևը"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և դեպի"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "իր տեղը"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "շնչասպառ ձգտելով"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "ծագողը"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "שם",
+      "gloss": "այնտեղ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:30.278879565Z",
+  "model": "glm-5.3"
+}

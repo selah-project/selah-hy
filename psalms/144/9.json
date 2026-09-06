@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 144,
+  "translation": "Էլոհիմ, նոր երգ երգել եմ քեզ, տասնալար քնարի վրա նվագելու եմ քեզ։",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "երգ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "նոր"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "երգել եմ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "քնարի վրա"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "տասնալար"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "նվագելու եմ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:27:13.512908351Z",
+  "model": "glm-5.3"
+}

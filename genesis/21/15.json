@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եվ սպառվեցին ջրերը տիկից, և նա գցեց ⟨את⟩ երեխային թփերից մեկի տակ։",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "և սպառվեցին"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ջրերը"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ից"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "տիկից"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "և գցեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "երեխային"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "երեխային"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկի"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "թփերից"
+    }
+  ],
+  "timestamp": "2026-09-06T01:02:01.396867442Z",
+  "model": "glm-5.3"
+}

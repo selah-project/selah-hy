@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 77,
+  "translation": "Մի՞թե հավերժ Ադոնայը կմերժի, և այլևս բարեհաճ չի լինի։",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "մի՞թե հավերժ"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "կմերժի"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "կավելացնի"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "բարեհաճ լինել"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "այլևս"
+    }
+  ],
+  "timestamp": "2026-09-05T23:09:44.830506350Z",
+  "model": "glm-5.3"
+}

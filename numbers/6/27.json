@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ դնեն ⟨את⟩ իմ Անունը Իսրայելի որդիների վրա, և ես՝ ես օրհնեմ նրանց։",
+  "tokens": [
+    {
+      "surface": "ושמו",
+      "gloss": "և դնեն"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "իմ Անունը"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "իմ Անունը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայել"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "և ես"
+    },
+    {
+      "surface": "אברכם",
+      "gloss": "օրհնեմ նրանց"
+    }
+  ],
+  "timestamp": "2026-09-05T19:14:07.239606584Z",
+  "model": "glm-5.3"
+}

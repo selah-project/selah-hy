@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Այդ ժամանակ հիվանդացավ Ավիյան՝ Յարովամի (Երովամ) որդին։",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "ժամանակին"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "հիվանդացավ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Ավիյան"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Յարովամի"
+    }
+  ],
+  "timestamp": "2026-09-05T20:52:38.831254439Z",
+  "model": "glm-5.3"
+}

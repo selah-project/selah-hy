@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 14:7",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Հանգստացավ, հանդարտվեց ամբողջ երկիրը, երգով պայթեցին։",
+  "tokens": [
+    {
+      "surface": "נחה",
+      "gloss": "Հանգստացավ"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "հանդարտվեց"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "պայթեցին"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "երգով"
+    }
+  ],
+  "timestamp": "2026-09-05T21:17:50.770745165Z",
+  "model": "glm-5.3"
+}

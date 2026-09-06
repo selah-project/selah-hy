@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 134,
+  "translation": "Թող օրհնի քեզ Յահվեն Ցիոնից՝ երկնքի և երկրի Արարիչը։",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "Թող օրհնի քեզ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Ցիոնից"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Արարիչը"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "երկնքի"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "և երկրի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:23:52.085680807Z",
+  "model": "glm-5.3"
+}

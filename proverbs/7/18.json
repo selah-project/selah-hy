@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 7:18",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Ե՛կ, հագենանք սիրով մինչև առավոտ, ուրախ թափահարենք սիրում։",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "ե՛կ"
+    },
+    {
+      "surface": "נרוה",
+      "gloss": "հագենանք"
+    },
+    {
+      "surface": "דדים",
+      "gloss": "սիրով"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "առավոտ"
+    },
+    {
+      "surface": "נתעלסה",
+      "gloss": "ուրախ թափահարենք"
+    },
+    {
+      "surface": "באהבים",
+      "gloss": "սիրում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:30:13.772685790Z",
+  "model": "glm-5.3"
+}

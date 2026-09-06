@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 28:5",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Երկրից դուրս եկավ հաց, իսկ նրա տակը շրջվեց ինչպես կրակ։",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "երկրից"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "նրանից"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "եկավ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "հաց"
+    },
+    {
+      "surface": "ותחתיה",
+      "gloss": "և նրա տակը"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "շրջվեց"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ինչպես"
+    },
+    {
+      "surface": "אש",
+      "gloss": "կրակ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:47:08.800136280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 40,
+  "translation": "և արեց Մոշեն ամեն այն, ինչ պատվիրել էր Յահվեն ⟨את⟩ նրան. այնպես արեց։",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "և արեց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ամեն այն"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ինչ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "պատվիրել էր"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ նրան",
+      "marks": "Մոշեին"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այնպես"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արեց"
+    }
+  ],
+  "timestamp": "2026-09-05T18:56:24.652315838Z",
+  "model": "glm-5.3"
+}

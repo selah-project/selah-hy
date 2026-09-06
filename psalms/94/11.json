@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 94,
+  "translation": "Յահվեն գիտի մարդու մտքերը, որ նրանք ապարդյուն են։",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "գիտի"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "մտքերը"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "նրանք"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ապարդյուն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:14:28.307462320Z",
+  "model": "glm-5.3"
+}

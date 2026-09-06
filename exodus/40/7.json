@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 40,
+  "translation": "Եվ դրե՛սդ ⟨את⟩ լվացարանը Հանդիպման վրանի և խորանի միջև, և այնտեղ ջուր դրե՛սդ։",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "և դրե՛սդ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "լվացարանը"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "լվացարանը"
+    },
+    {
+      "surface": "בין",
+      "gloss": "միջև"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "վրան"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Հանդիպման"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "և"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "խորանի"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "և դրե՛սդ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "այնտեղ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջուր"
+    }
+  ],
+  "timestamp": "2026-09-05T18:56:35.882586462Z",
+  "model": "glm-5.3"
+}

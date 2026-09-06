@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 3:25",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Մարդիկդ սրով կընկնեն, և հզորներդ՝ պատերազմում։",
+  "tokens": [
+    {
+      "surface": "מתיך",
+      "gloss": "մարդիկդ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "սրով"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "կընկնեն"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "և հզորներդ"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "պատերազմում"
+    }
+  ],
+  "timestamp": "2026-09-05T21:14:36.892851955Z",
+  "model": "glm-5.3"
+}

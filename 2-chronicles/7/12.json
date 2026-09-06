@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 7:12",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ երևաց Յահվեն Շլոմոյին գիշերը և ասաց նրան. Լսեցի ⟨את⟩ աղոթքդ, և ընտրեցի այս վայրը ինձ՝ զոհի տան։",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "և երևաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Շլոմոյին"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "գիշերը"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Լսեցի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "աղոթքդ"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "աղոթքդ"
+    },
+    {
+      "surface": "ובחרתי",
+      "gloss": "և ընտրեցի"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "վայրը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "տան"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "զոհի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:43:42.410055558Z",
+  "model": "glm-5.3"
+}

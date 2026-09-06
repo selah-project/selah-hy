@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 16:15",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Հիշեցե՛ք հավերժ իր Բրիթը՝ խոսքը, որ պատվիրեց հազար սերնդի։",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Հիշեցեք"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "հավերժ"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "իր Բրիթը"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "պատվիրեց"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "հազար"
+    },
+    {
+      "surface": "דור",
+      "gloss": "սերնդի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:34:15.637147151Z",
+  "model": "glm-5.3"
+}

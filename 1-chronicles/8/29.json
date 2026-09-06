@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 8:29",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ Գիվոնում բնակվեց Գիվոնի հայրը (Եղիել), իսկ նրա կնոջ անունը՝ Մաախա։",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "Եվ Գիվոնում"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "բնակվեց"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "հայրը"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Գիվոնի"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "իսկ անունը"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "նրա կնոջ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Մաախա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:52.658977117Z",
+  "model": "glm-5.3"
+}

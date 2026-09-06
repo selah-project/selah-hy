@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 36:41",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 36,
+  "translation": "իշխան Օհոլիվամա, իշխան Էլա, իշխան Պինոն։",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "իշխան"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Օհոլիվամա"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "իշխան"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Էլա"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "իշխան"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "Պինոն"
+    }
+  ],
+  "timestamp": "2026-09-05T18:25:47.987601013Z",
+  "model": "glm-5.3"
+}

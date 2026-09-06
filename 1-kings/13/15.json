@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Եվ ասաց նրան. «Արի’ ⟨את⟩ իմ հետ տուն, և կեր հաց»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Արի’"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ իմ հետ"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "տուն"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "և կեր"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "հաց"
+    }
+  ],
+  "timestamp": "2026-09-05T20:50:56.160084895Z",
+  "model": "glm-5.3"
+}

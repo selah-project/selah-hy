@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 50:22",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 50,
+  "translation": "Հասկացե՛ք այժմ այս՝ Էլոահ մոռացողներ, գուցե ես պատռեմ, և փրկող չլինի։",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "Հասկացեք"
+    },
+    {
+      "surface": "נא",
+      "gloss": "այժմ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "այս"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "մոռացողներ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Էլոահ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "գուցե"
+    },
+    {
+      "surface": "אטרף",
+      "gloss": "պատռեմ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "և չկա"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "փրկող"
+    }
+  ],
+  "timestamp": "2026-09-05T23:03:34.239754244Z",
+  "model": "glm-5.3"
+}

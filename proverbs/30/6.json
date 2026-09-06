@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 30:6",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Մի ավելացրու Իր խոսքերի վրա, գուցե Նա հանդիմանի քեզ, և դու սուտ գտնվես։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Մի"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "ավելացրու"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "խոսքերի Իր"
+    },
+    {
+      "surface": "פן",
+      "gloss": "գուցե"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "հանդիմանի"
+    },
+    {
+      "surface": "בך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "ונכזבת",
+      "gloss": "և սուտ գտնվես"
+    }
+  ],
+  "timestamp": "2026-09-06T01:18:34.955416662Z",
+  "model": "glm-5.3"
+}

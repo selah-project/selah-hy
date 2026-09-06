@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 59,
+  "translation": "Ահա, Յահվեի ձեռքը կարճ չի եղել՝ փրկելուց, և ոչ ականջը ծանրացել է՝ լսելուց։",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ահա"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "կարճ չի եղել"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ձեռքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "փրկելուց"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "ծանրացել է"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ականջը"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "լսելուց"
+    }
+  ],
+  "timestamp": "2026-09-05T21:37:14.834627002Z",
+  "model": "glm-5.3"
+}

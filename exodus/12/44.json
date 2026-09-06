@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Իսկ ամեն ծառա՝ մարդու արծաթով գնվածը, և թլփատես ⟨את⟩ նրան՝ ապա կուտի նրանից։",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Իսկ ամեն"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ծառա"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "գնվածը"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "արծաթով"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "և թլփատես"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "նրան"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ապա"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "կուտի"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրանից"
+    }
+  ],
+  "timestamp": "2026-09-05T18:40:16.965677507Z",
+  "model": "glm-5.3"
+}

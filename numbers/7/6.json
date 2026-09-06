@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ վերցրեց Մոշեն ⟨את⟩ սայլերը և ⟨את⟩ եզերը, և տվեց դրանք Լևիացիներին։",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "և վերցրեց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "սայլերը"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "սայլերը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "եզերը"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "եզերը"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "և տվեց"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ դրանք",
+      "marks": "Լևիացիներին"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Լևիացիներին"
+    }
+  ],
+  "timestamp": "2026-09-05T19:14:43.485453247Z",
+  "model": "glm-5.3"
+}

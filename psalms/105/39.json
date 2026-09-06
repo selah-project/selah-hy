@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 105:39",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 105,
+  "translation": "Փռեց ամպ՝ ծածկոց, և կրակ՝ գիշերը լուսավորելու համար։",
+  "tokens": [
+    {
+      "surface": "פרש",
+      "gloss": "Փռեց"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ամպ"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "ծածկոց"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "և կրակ"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "լուսավորելու համար"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "գիշերը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:17:01.519830251Z",
+  "model": "glm-5.3"
+}

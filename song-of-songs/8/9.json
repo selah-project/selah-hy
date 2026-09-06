@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 8:9",
+  "book": "song-of-songs",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եթե նա պատ է՝ նրա վրա արծաթե աշտարակ կկառուցենք, իսկ եթե դուռ է՝ մայրիու տախտակներով կպարսպենք նրան։",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "պատ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "նա ⟨է⟩"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "կկառուցենք"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "նրա վրա"
+    },
+    {
+      "surface": "טירת",
+      "gloss": "աշտարակ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "արծաթ(ե)"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "իսկ եթե"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "դուռ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "նա ⟨է⟩"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "կպարսպենք"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "տախտակ"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "մայրիու"
+    }
+  ],
+  "timestamp": "2026-09-06T01:19:34.778313672Z",
+  "model": "glm-5.3"
+}

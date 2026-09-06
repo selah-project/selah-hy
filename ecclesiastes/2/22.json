@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Որովհետև ի՞նչ է մարդու համար ամբողջ իր աշխատանքից և իր սրտի ձգտումից, որով նա աշխատում է արևի տակ։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "է"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "մարդու համար"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "իր աշխատանքից"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "և ձգտումից"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "իր սրտի"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "որով նա"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "աշխատում է"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "արևի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:15.223920129Z",
+  "model": "glm-5.3"
+}

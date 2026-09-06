@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 13:6",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "և կանգնեց Յարովամը՝ Նավատի որդին, Շլոմոյի՝ Դավիդի որդու ծառան, և ապստամբեց իր տիրոջ դեմ։",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "կանգնեց"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Յարովամը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Նավատի"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ծառան"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Շլոմոյի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդու"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Դավիդի"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "և ապստամբեց"
+    },
+    {
+      "surface": "על",
+      "gloss": "դեմ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "իր տիրոջը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:46:27.204919781Z",
+  "model": "glm-5.3"
+}

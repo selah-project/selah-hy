@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ կմաշկազերծի ⟨את⟩ ողջակերծը և կկտրատի ⟨את⟩ նրան իր կտորների։",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "կմաշկազերծի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ողջակերծը"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ողջակերծը"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "կկտրատի"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "նրան"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "իր կտորների"
+    }
+  ],
+  "timestamp": "2026-09-05T18:57:10.054367511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Ո՞վ գիտի՝ մարդու որդիների հոգին՝ ⟨նա⟩ բարձրանում է վերև, և գազանի հոգին՝ ⟨նա⟩ իջնում է ներքև՝ երկիրը։",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ո՞վ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "գիտի"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "հոգին"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "բարձրանում է"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨նա⟩"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "վերև"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "և հոգին"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "գազանի"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "իջնում է"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨նա⟩"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ներքև"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "երկիրը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:24.912045460Z",
+  "model": "glm-5.3"
+}

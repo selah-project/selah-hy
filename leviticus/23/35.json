@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Առաջին օրը սուրբ հրավեր է. ոչ մի ծառայողական գործ մի՛ անիք։",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "Առաջին"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "հրավեր"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "սուրբ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ոչ մի"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "գործ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ծառայողական"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "անիք"
+    }
+  ],
+  "timestamp": "2026-09-05T19:08:36.747621283Z",
+  "model": "glm-5.3"
+}

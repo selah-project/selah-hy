@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Ահա նրանք ասում են ինձ՝ որտե՞ղ է Յահվեի խոսքը, թող գա՛ այժմ։",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ահա"
+    },
+    {
+      "surface": "המה",
+      "gloss": "նրանք"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ասում են"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "որտե՞ղ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "թող գա՛"
+    },
+    {
+      "surface": "נא",
+      "gloss": "այժմ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:47:50.785023406Z",
+  "model": "glm-5.3"
+}

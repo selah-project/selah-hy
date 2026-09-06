@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 1:40",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Շովալի որդիները՝ Ալյան, Մանախատ, Եվալ, Շեֆի և Օնամ, իսկ Ծիբեոնի որդիները՝ Այյա և Անա։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Շովալի"
+    },
+    {
+      "surface": "עלין",
+      "gloss": "Ալյան"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "և Մանախատ"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "և Եվալ"
+    },
+    {
+      "surface": "שפי",
+      "gloss": "Շեֆի"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "և Օնամ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "իսկ որդիները"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Ծիբեոնի"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Այյա"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "և Անա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:26:47.690267413Z",
+  "model": "glm-5.3"
+}

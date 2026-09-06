@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Եվ կփնտրեք ինձ և կգտնեք, որովհետև կդիմեք ինձ ամբողջ ձեր սրտով։",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "և կփնտրեք"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ինձ",
+      "marks": "ինձ"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "և կգտնեք"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "կդիմեք ինձ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ձեր սրտով"
+    }
+  ],
+  "timestamp": "2026-09-05T21:54:33.877095323Z",
+  "model": "glm-5.3"
+}

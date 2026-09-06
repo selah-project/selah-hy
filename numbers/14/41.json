@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 14:41",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ ասաց Մոշեն՝ ինչու՞ սա՝ դուք անցնում եք ⟨את⟩ բերանը Յահվեի, իսկ այն չի հաջողվի։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ինչու"
+    },
+    {
+      "surface": "זה",
+      "gloss": "սա"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "դուք"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "անցնում եք"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յահվեի բերանը"
+    },
+    {
+      "surface": "פי",
+      "gloss": "բերանը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "իսկ այն"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "תצלח",
+      "gloss": "հաջողվի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:20:07.799484687Z",
+  "model": "glm-5.3"
+}

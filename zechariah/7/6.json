@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Երբ ուտում էիք և երբ խմում էիք՝ ոչ արդյո՞ք դուք էիք ուտողները և դուք խողողները։",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ուտում էիք"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "խմում էիք"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ոչ արդյո՞ք"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "դուք"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "ուտողները"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "և դուք"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "խմողները"
+    }
+  ],
+  "timestamp": "2026-09-05T22:48:09.676682391Z",
+  "model": "glm-5.3"
+}

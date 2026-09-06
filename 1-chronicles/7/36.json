@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Ծոփախի որդիներն էին՝ Սուախը, և Խարնեֆերը, և Շուալը, և Բերին, և Իմրան։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "Ծոփախի"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "Սուախը"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "և Խարնեֆերը"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "և Շուալը"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "և Բերին"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "և Իմրան"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:26.378822846Z",
+  "model": "glm-5.3"
+}

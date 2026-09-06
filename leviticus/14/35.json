@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 14:35",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ կգա նա, ումն է տունը, և կպատմի քահանային՝ ասելով՝ վերքի պես ինչ-որ բան եմ տեսել տան մեջ.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "Եվ կգա"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ում"
+    },
+    {
+      "surface": "לו",
+      "gloss": "—"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "տունը"
+    },
+    {
+      "surface": "והגיד",
+      "gloss": "և կպատմի"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "քահանային"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    },
+    {
+      "surface": "כנגע",
+      "gloss": "վերքի պես"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "եմ տեսել"
+    },
+    {
+      "surface": "לי",
+      "gloss": "եմ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "տան մեջ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:03:11.008423265Z",
+  "model": "glm-5.3"
+}

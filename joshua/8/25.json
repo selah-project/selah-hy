@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 8:25",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ եղան բոլոր ընկնողները այն օրը՝ տղամարդուց մինչև կին՝ տասներկու հազար՝ Այի բոլոր մարդիկ։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղան"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "ընկնողները"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "տղամարդուց"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "կին"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "երկու"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "տաս"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "հազար"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "մարդիկ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Այի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:52:31.721699141Z",
+  "model": "glm-5.3"
+}

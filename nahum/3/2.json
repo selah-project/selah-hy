@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Ձայն մտրակի և ձայն անիվի որոտի, և ձի վազող, և մարտակառք պարող։",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Ձայն"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "մտրակի"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "և ձայն"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "որոտի"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "անիվի"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "և ձի"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "վազող"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "և մարտակառք"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "պարող"
+    }
+  ],
+  "timestamp": "2026-09-05T22:43:21.091529128Z",
+  "model": "glm-5.3"
+}

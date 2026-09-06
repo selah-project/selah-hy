@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 38:5",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 38,
+  "translation": "Ո՞վ դրեց իր չափերը՝ եթե դու գիտես, կամ ո՞վ ձգեց նրա վրայով չափալան։",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ո՞վ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "դրեց"
+    },
+    {
+      "surface": "ממדיה",
+      "gloss": "չափերը"
+    },
+    {
+      "surface": "כי",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "դու գիտես"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ո՞վ"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ձգեց"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "նրա վրայով"
+    },
+    {
+      "surface": "קו",
+      "gloss": "չափալան"
+    }
+  ],
+  "timestamp": "2026-09-05T23:51:09.317730319Z",
+  "model": "glm-5.3"
+}

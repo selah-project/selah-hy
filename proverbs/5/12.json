@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 5:12",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "և ասես՝ «Ինչպե՛ս ատեցի ես խրատը, և սրտիս արհամարհեց հանդիմանը»։",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "և ասես"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ինչպես"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ատեցի ես"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "խրատը"
+    },
+    {
+      "surface": "ותוכחת",
+      "gloss": "և հանդիմանը"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "արհամարհեց"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "սրտիս"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:27.234614843Z",
+  "model": "glm-5.3"
+}

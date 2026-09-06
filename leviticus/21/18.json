@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 21:18",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Քանի որ ամեն մարդ, որի մեջ արատ կա, թող մոտ չգա. կույր մարդ, կամ կաղ, կամ կտրատված-քիթ, կամ երկարավուն այլանդակ։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրա մեջ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "արատ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "մոտ գա"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "կույր"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "կաղ"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "կտրատված-քիթ"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "երկարավուն այլանդակ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:07:05.648584851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 18:6",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Մարդ՝ մարդ, մոտ չմոտենա ոչ մի մերձավոր մարմնի, մերկություն բացելու՝ ես եմ Յահվեն։",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ոչ մի"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "մերձավոր"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "մարմնի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "תקרבו",
+      "gloss": "մոտենա"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "բացելու"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "մերկություն"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:03:43.597871018Z",
+  "model": "glm-5.3"
+}

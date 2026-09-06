@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 36,
+  "translation": "Եվ ⟨את⟩ Բաշեմաթին՝ Յիշմաելի դստերը, Նևայոթի քրոջը։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Եվ ⟨את⟩",
+      "marks": "Բաշեմաթին"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Բաշեմաթին"
+    },
+    {
+      "surface": "בת",
+      "gloss": "դստերը"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Յիշմաելի"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "քրոջը"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Նևայոթի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:02:17.315463703Z",
+  "model": "glm-5.3"
+}

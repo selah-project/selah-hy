@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ ողբեց Դավիդը (Դավիթ) ⟨את⟩ այս ողբը՝ Շաուլի և իր որդի Յեհոնատանի վրա։",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "եվ ողբեց"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Դավիդը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այս ողբը"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "ողբը"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "այս"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Շաուլի"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "և վրա"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Յեհոնատանի"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "իր որդի"
+    }
+  ],
+  "timestamp": "2026-09-05T20:29:56.575485201Z",
+  "model": "glm-5.3"
+}

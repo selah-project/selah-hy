@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "⟨את⟩ Շաբաթներս պահեք, և սրբարանս հարգեք. ես եմ Յահվեն։",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Շաբաթներս"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Շաբաթներս"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "պահեք"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "և սրբարանս"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "հարգեք\/երկնեք"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:06:15.772163077Z",
+  "model": "glm-5.3"
+}

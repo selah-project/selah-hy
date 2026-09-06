@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "lamentations 3:57",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Մոտեցար օրը, երբ կանչեմ քեզ. ասացիր՝ մի՛ վախեցիր։",
+  "tokens": [
+    {
+      "surface": "קרבת",
+      "gloss": "Մոտեցար"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "կանչեմ քեզ"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ասացիր"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "վախեցիր"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:09.536694020Z",
+  "model": "glm-5.3"
+}

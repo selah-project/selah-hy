@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 24:25",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Եվ ասաց նրան՝ նաև ծղոտ կա մեզ մոտ, նաև կեր՝ առատ, նաև տեղ՝ գիշերելու։",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "גם",
+      "gloss": "նաև"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "ծղոտ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "նաև"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "կեր"
+    },
+    {
+      "surface": "רב",
+      "gloss": "առատ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "մեզ մոտ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "նաև"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "տեղ"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "գիշերելու"
+    }
+  ],
+  "timestamp": "2026-09-05T18:18:39.214214886Z",
+  "model": "glm-5.3"
+}

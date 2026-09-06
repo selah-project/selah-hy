@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Շեոլը և փակ արգանդը, ջրով չհագեցող երկիրը, և կրակը, որ «Բավական է» չասաց։",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Շեոլը"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "և փակ"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "արգանդը"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "հագեցող"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջրով"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "և կրակը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "הון",
+      "gloss": "«Բավական է»"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:59.760624577Z",
+  "model": "glm-5.3"
+}

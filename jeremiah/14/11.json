@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ ասաց Յահվեն ինձ. մի աղոթի՛ր այս ժողովրդի համար բարօրության համար։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "աղոթիր"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "համար"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովրդի"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "բարօրության"
+    }
+  ],
+  "timestamp": "2026-09-05T21:46:45.516672062Z",
+  "model": "glm-5.3"
+}

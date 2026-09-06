@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 44,
+  "translation": "Եվ գինի չեն խմի ոչ մի քահանա՝ ներքին բակը մտնելիս։",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "և գինի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "չեն խմի"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ոչ մի"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "քահանա"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "մտնելիս"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "բակը"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "ներքին"
+    }
+  ],
+  "timestamp": "2026-09-05T22:28:53.301506341Z",
+  "model": "glm-5.3"
+}

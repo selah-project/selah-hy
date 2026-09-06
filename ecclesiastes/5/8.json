@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ երկրի առավելությունը ամեն ինչում ⟨է⟩՝ թագավորը դաշտին է ծառայում։",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "և առավելությունը"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ամեն ինչում"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨է⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "դաշտին"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ծառայում է"
+    }
+  ],
+  "timestamp": "2026-09-06T00:02:00.203296931Z",
+  "model": "glm-5.3"
+}

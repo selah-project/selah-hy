@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 43,
+  "translation": "Ես եմ Յահվե՛, ձեր Սուրբը, Իսրայելի Արարիչը, ձեր Արքան։",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ես"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "ձեր Սուրբը"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Արարիչը"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "ձեր Արքան"
+    }
+  ],
+  "timestamp": "2026-09-06T02:05:32.339981755Z",
+  "model": "glm-5.3"
+}

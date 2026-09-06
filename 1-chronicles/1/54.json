@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "իշխան Մագդիել, իշխան Իրամ։ Սրանք են Էդոմի իշխանները։",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "իշխան"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "Մագդիել"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "իշխան"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "Իրամ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "սրանք"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "իշխանները"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Էդոմի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:26:42.850374762Z",
+  "model": "glm-5.3"
+}

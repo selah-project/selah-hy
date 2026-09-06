@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Ինչո՞ւ դժգոհի կենդանի մարդը՝ տղամարդ՝ իր մեղքի ⟨պատժի⟩ համար։",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ինչո՞ւ"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "դժգոհի"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդը"
+    },
+    {
+      "surface": "חי",
+      "gloss": "կենդանի"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "տղամարդ"
+    },
+    {
+      "surface": "על",
+      "gloss": "՝ իր մեղքի համար"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "մեղքի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:21.512986686Z",
+  "model": "glm-5.3"
+}

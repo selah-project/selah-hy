@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 12:26",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Միայն քո սրբությունները, որ քեզ լինեն, և քո երդումներդ՝ վերցրու և արի այն տեղը, որ ընտրի Յահվեն։",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Միայն"
+    },
+    {
+      "surface": "קדשיך",
+      "gloss": "քո սրբությունները"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "լինեն"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "ונדריך",
+      "gloss": "և քո երդումներդ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "վերցրու"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "և արի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "առ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "տեղը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "ընտրի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:40:35.475764613Z",
+  "model": "glm-5.3"
+}

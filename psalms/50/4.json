@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 50,
+  "translation": "Կանչում ⟨է⟩ երկինքը վերևից և երկիրը՝ դատելու իր ժողովրդին։",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "կանչում"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "երկինքը"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "վերևից"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և դեպի"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "դատելու"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "իր ժողովրդին"
+    }
+  ],
+  "timestamp": "2026-09-06T02:51:26.219527131Z",
+  "model": "glm-5.3"
+}

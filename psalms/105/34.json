@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 105,
+  "translation": "Ասաց՝ և եկավ մորեխը, և թրթուր-մորեխները՝ առանց համարի։",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ասաց"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "և եկավ"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "մորեխը"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "և թրթուր-մորեխները"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "առանց"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "համարի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:17:16.696103986Z",
+  "model": "glm-5.3"
+}

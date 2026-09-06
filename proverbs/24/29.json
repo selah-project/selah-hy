@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 24:29",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Մի՛ ասա՝ «ինչպես ինձ արեց, այնպես ես կանեմ նրան. մարդուն կհատուցեմ իր գործի համար»։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Մի՛"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ասա"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ինչպես"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արեց"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այնպես"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "կանեմ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "կհատուցեմ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "մարդուն"
+    },
+    {
+      "surface": "כפעלו",
+      "gloss": "իր գործի համար"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:12.610109814Z",
+  "model": "glm-5.3"
+}

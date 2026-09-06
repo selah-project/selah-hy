@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 4:8",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ պիտի լինի. եթե չհավատան քեզ և չլսեն առաջին նշանի ձայնին, կհավատան վերջին նշանի ձայնին։",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Եվ պիտի լինի"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "հավատան"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "լսեն"
+    },
+    {
+      "surface": "לקל",
+      "gloss": "ձայնին"
+    },
+    {
+      "surface": "האת",
+      "gloss": "նշանի"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "առաջին"
+    },
+    {
+      "surface": "והאמינו",
+      "gloss": "կհավատան"
+    },
+    {
+      "surface": "לקל",
+      "gloss": "ձայնին"
+    },
+    {
+      "surface": "האת",
+      "gloss": "նշանի"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "վերջին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:36:13.927101992Z",
+  "model": "glm-5.3"
+}

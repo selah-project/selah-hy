@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Հարուստն ու աղքատը հանդիպում են իրար. բոլորին արարողը Յահվեն է։",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "Հարուստը"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "և աղքատը"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "հանդիպում են իրար"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արարողը"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "բոլորին"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:06.163660229Z",
+  "model": "glm-5.3"
+}

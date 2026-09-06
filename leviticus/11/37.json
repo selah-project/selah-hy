@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 11:37",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Եվ եթե ընկնի նրանց լեշից ⟨ինչ-որ բան⟩ ամեն ցանվող սերմի վրա, որը ցանվելու է՝ մաքուր է այն։",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Եվ եթե"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ընկնի"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "նրանց լեշից"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "սերմ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ցանվող"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որը"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "ցանվելու է"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "մաքուր"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "է այն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:00:39.684760195Z",
+  "model": "glm-5.3"
+}

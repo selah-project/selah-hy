@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ մնացորդը զոհի մսից երրորդ օրը հրում պետք է այրվի։",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "և մնացորդը"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "մսից"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "զոհի"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "երրորդ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "հրում"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "այրվի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:59:18.046567124Z",
+  "model": "glm-5.3"
+}

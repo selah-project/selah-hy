@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Ծիրանի ողկույզ է իմ սիրելին ինձ՝ Էյն Գեդիի այգիներում։",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "ողկույզ"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "ծիրանի"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "իմ սիրելին"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "այգիներում"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Էյն"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Գեդի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:52:30.339762058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 39,
+  "translation": "Դեմքին դաշտի՝ դու կընկնես, որովհետև ես խոսեցի, — Ադոնայ Յահվեի հռչակումն է։",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "դեմքին"
+    },
+    {
+      "surface": "פני",
+      "gloss": "դեմքին"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "դաշտի"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "դու կընկնես"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "խոսեցի"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "հռչակումն է"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:25:34.340936891Z",
+  "model": "glm-5.3"
+}

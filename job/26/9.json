@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 26:9",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Բռնում է գահի երեսը՝ իր ամպն է պարզում դրա վրա։",
+  "tokens": [
+    {
+      "surface": "מאחז",
+      "gloss": "Բռնում է"
+    },
+    {
+      "surface": "פני",
+      "gloss": "երեսը"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "գահի"
+    },
+    {
+      "surface": "פרשז",
+      "gloss": "պարզում է"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "դրա վրա"
+    },
+    {
+      "surface": "עננו",
+      "gloss": "իր ամպը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:46:32.361336113Z",
+  "model": "glm-5.3"
+}

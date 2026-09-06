@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 43:23",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 43,
+  "translation": "Երբ ավարտես մաքրումը, կմոտեցնես անթերի ցուլ՝ երագի ձագ, և անթերի խոյ՝ հոտից։",
+  "tokens": [
+    {
+      "surface": "בכלותך",
+      "gloss": "Երբ ավարտես"
+    },
+    {
+      "surface": "מחטא",
+      "gloss": "մաքրումը"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "կմոտեցնես"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ցուլ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ձագ (որդի)"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "երագի"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "անթերի"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "և խոյ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ծից"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "հոտի"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "անթերի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:28:20.525799161Z",
+  "model": "glm-5.3"
+}

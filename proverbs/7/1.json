@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Որդի՛ս, պահիր իմ խոսքերը, և իմ պատվիրանները թաքցրու ⟨את⟩ քեզ մոտ։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Որդիս"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "պահիր"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "իմ խոսքերը"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "և իմ պատվիրանները"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "թաքցրու"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ քեզ մոտ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:30:39.506192102Z",
+  "model": "glm-5.3"
+}

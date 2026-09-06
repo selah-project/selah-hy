@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 2:28",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եև Օնամի որդիները եղան՝ Շամմայը և Յադաան, և Շամմայի որդիները՝ Նադավը և Ավիշուրը։",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "եղան"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "Օնամի"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Շամմայ"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "և Յադաա"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Շամմայի"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Նադավ"
+    },
+    {
+      "surface": "ואבישור",
+      "gloss": "և Ավիշուր"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:26.468900941Z",
+  "model": "glm-5.3"
+}

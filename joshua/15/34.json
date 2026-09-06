@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 15:34",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "և Զանոախը, և Էյն Գանիմը, Տապուախը, և ՀաԷյնամը։",
+  "tokens": [
+    {
+      "surface": "וזנוח",
+      "gloss": "և Զանոախը"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "և Էյն"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "Գանիմը"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "Տապուախը"
+    },
+    {
+      "surface": "והעינם",
+      "gloss": "և ՀաԷյնամը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:57:04.353626397Z",
+  "model": "glm-5.3"
+}

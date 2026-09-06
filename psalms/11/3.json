@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Երբ հիմքերը կործանվեն՝ արդարը ի՞նչ է գործել։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "հիմքերը"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "կործանվեն"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "արդարը"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "գործել է"
+    }
+  ],
+  "timestamp": "2026-09-05T22:55:31.802987499Z",
+  "model": "glm-5.3"
+}

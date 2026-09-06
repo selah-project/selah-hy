@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "haggai 2:1",
+  "book": "haggai",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Յոթներորդ ամսվա քսան և մեկ օրը եղավ Յահվեի խոսքը Նավի Խագգայի ձեռքով՝ ասելով։",
+  "tokens": [
+    {
+      "surface": "בשביעי",
+      "gloss": "Յոթներորդ"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "քսան"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "և մեկ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ամսվա"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ձեռքով"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Խագգայի"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "նավի"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T22:46:38.480015915Z",
+  "model": "glm-5.3"
+}

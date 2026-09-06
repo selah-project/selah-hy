@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 7:2",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Դու, մարդու որդի՛, այսպես ասաց Ադոնայ Յահվեն Իսրայելի հողին՝ վերջը՝ եկավ վերջը երկրի չորս թևքերի վրա։",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Դու"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "כה",
+      "gloss": "այսպես"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "לאדמת",
+      "gloss": "հողին"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "վերջը՝"
+    },
+    {
+      "surface": "בא",
+      "gloss": "եկավ"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "վերջը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "չորս"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "թևքերի"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:09:27.328726516Z",
+  "model": "glm-5.3"
+}

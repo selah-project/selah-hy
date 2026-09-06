@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Եվ նստեցին երեք տարի՝ պատերազմ չկար Արամի և Իսրայելի միջև։",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Եվ նստեցին"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չկար"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "պատերազմ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "միջև"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Արամի"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "և միջև"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    }
+  ],
+  "timestamp": "2026-09-05T20:58:06.303854420Z",
+  "model": "glm-5.3"
+}

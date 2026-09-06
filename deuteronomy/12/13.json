@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 12:13",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Զգո՛յ եղիր քո համար, որ քո ողջակեզները չբարձրացնես ամեն մի տեղ, որ տեսնես՝",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "զգո՛յ եղիր"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քո համար"
+    },
+    {
+      "surface": "פן",
+      "gloss": "որ... չ"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "բարձրացնես"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "քո ողջակեզները"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ամեն մի"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "տեղ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "տեսնես"
+    }
+  ],
+  "timestamp": "2026-09-05T19:39:48.752623056Z",
+  "model": "glm-5.3"
+}

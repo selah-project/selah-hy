@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 13:20",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Միայն երկու բան ա՛լ արի ինձ հետ, ապա քո երեսից ես չեմ թաքնվի։",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Միայն"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "երկու բան"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ա՛լ"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "արի"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ինձ հետ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ապա"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "քո երեսից"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չեմ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "թաքնվի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:42:45.091671292Z",
+  "model": "glm-5.3"
+}

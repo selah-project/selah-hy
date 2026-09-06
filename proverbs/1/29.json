@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 1:29",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Որովհետև ատեցին գիտությունը, և Յահվեի երկյուղը չընտրեցին։",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "ատեցին"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "գիտությունը"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "և երկյուղը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "ընտրեցին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:13.586949705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եկավ թագավորը և Համանը Էստեր թագուհու հետ գինի խմելու։",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "եկավ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "և Համանը"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "խմելու"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Էստեր"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "թագուհու"
+    }
+  ],
+  "timestamp": "2026-09-06T00:05:49.035131946Z",
+  "model": "glm-5.3"
+}

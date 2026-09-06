@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 88,
+  "translation": "Աչքս մարեց տառապանքիցս. դիմեցի առ քեզ, Յահվե, ամեն օր, պարզեցի դեպի քեզ ափերս։",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "աչքս"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "մարեց"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ից"
+    },
+    {
+      "surface": "עני",
+      "gloss": "տառապանք"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "դիմեցի առ քեզ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "պարզեցի"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "դեպի քեզ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ափերս"
+    }
+  ],
+  "timestamp": "2026-09-05T23:12:49.272204403Z",
+  "model": "glm-5.3"
+}

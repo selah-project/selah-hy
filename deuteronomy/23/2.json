@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Ջարդված-կտրատված և անդամակտրված ⟨մարդ⟩ չի մտնի Յահվեի համայնք։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "չի մտնի"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "ջարդված"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "կտրատված"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "և անդամակտրված"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "⟨անդամ⟩"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "համայնք"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:43:42.632712370Z",
+  "model": "glm-5.3"
+}

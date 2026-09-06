@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Լսեք ⟨את⟩ այս խոսքը, որ ես եմ բարձրացնում ձեզ վրա՝ ողբ, Իսրայելի տան ⟨համար⟩։",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Լսեք"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այս խոսքը"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ես"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "եմ բարձրացնում"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ձեզ վրա"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ողբ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տան"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:38:42.391586825Z",
+  "model": "glm-5.3"
+}

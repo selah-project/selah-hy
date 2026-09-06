@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Եվ նա դատեց ⟨את⟩ Իսրայելը փղշտացիների օրերում քսան տարի։",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Եվ դատեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Իսրայելը"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելը"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "օրերում"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "փղշտացիների"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "քսան"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    }
+  ],
+  "timestamp": "2026-09-05T20:09:31.437422408Z",
+  "model": "glm-5.3"
+}

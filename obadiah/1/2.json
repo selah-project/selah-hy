@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Ահա՛ փոքր եմ դարձրել քեզ ազգերի մեջ. խիստ արհամարհված ես դու։",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ահա՛"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "փոքր"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "եմ դարձրել քեզ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ազգերի մեջ"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "արհամարհված"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "խիստ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:39:23.326111890Z",
+  "model": "glm-5.3"
+}

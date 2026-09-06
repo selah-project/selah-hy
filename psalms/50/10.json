@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 50,
+  "translation": "Քանի որ իմն է անտառի ամեն գազանը, և լեռների հազարի վրա գտնվող անասունները։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "իմն է"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "գազանը"
+    },
+    {
+      "surface": "יער",
+      "gloss": "անտառի"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "անասունները"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "լեռների"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "հազարի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:03:24.557630528Z",
+  "model": "glm-5.3"
+}

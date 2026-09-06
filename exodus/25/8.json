@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "և ինձ համար սուրբարան կանեն, և ես կբնակվեմ նրանց մեջ՝",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "և կանեն"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ համար"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "սուրբարան"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "և կբնակվեմ"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "նրանց մեջ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:46:07.707972024Z",
+  "model": "glm-5.3"
+}

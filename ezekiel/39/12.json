@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 39,
+  "translation": "Եվ կթաղեն նրանց Իսրայելի տունը՝ երկիրը մաքրելու համար՝ յոթ ամիս։",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "և կթաղեն նրանց"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տունը"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "למען",
+      "gloss": "համար"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "մաքրելու"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "երկիրը"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ամիս"
+    }
+  ],
+  "timestamp": "2026-09-05T22:24:41.182355522Z",
+  "model": "glm-5.3"
+}

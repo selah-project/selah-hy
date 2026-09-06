@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 15:26",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Զզվելի է Յահվեի համար չարի մտքերը, մաքուր են քնքուշ խոսքերը։",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "Զզվելի է"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "մտքերը"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չարի"
+    },
+    {
+      "surface": "וטהרים",
+      "gloss": "մաքուր են"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "խոսքերը"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "քնքուշ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:33:21.418623862Z",
+  "model": "glm-5.3"
+}

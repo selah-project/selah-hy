@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Դուք լինելու եք ինձ ժողովուրդ, և Ես եմ լինելու ձեզ Էլոհիմ։",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "Դուք լինելու եք"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ժողովուրդ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "և Ես"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "եմ լինելու"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Էլոհիմ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:53:15.892170188Z",
+  "model": "glm-5.3"
+}

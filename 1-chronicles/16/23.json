@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 16:23",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Երգեցեք Յահվեին, ամբողջ երկիրը. բարբառեցեք օրից օն իր փրկությունը։",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Երգեցեք"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "բարբառեցեք"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "օրից"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "իր փրկությունը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:33:04.109775646Z",
+  "model": "glm-5.3"
+}

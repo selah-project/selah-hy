@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 4:13",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ ասաց ինձ՝ ասելով․ «Իսկ չես գիտես, թե ինչ են այս»։ Եվ ես ասացի․ «Ոչ, տե՛ր իմ»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Իսկ չ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ես գիտես"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ինչ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Եվ ես ասացի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ոչ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "տեր իմ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:46:59.659062488Z",
+  "model": "glm-5.3"
+}

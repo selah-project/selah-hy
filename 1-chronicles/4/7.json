@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ Խելայի որդիներն էին՝ Ծերեթը, Յիցխարը և Էթնանը։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Եվ որդիները"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "Խելայի"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "Ծերեթ"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "Յիցխար"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "և Էթնան"
+    }
+  ],
+  "timestamp": "2026-09-06T00:28:47.878360714Z",
+  "model": "glm-5.3"
+}

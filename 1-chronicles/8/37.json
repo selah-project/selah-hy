@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "և Մոցան ծնեց ⟨את⟩ Բինեային. Ռաֆան՝ իր որդին, Էլասան՝ իր որդին, Ացելը՝ իր որդին։",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "և Մոցան"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Բինեային"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "Բինեա"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "Ռաֆա"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "իր որդին"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Էլասա"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "իր որդին"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "Ացելը"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "իր որդին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:31:21.538243575Z",
+  "model": "glm-5.3"
+}

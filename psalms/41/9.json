@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 41,
+  "translation": "Անպետ խոսք է լցվում նրա վրա, և որ պառկել է՝ այլևս չի վեր կենա։",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "խոսք"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "անպետ"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "լցվում է"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրա վրա"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "և որ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "պառկել է"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "այլևս"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "վեր կենալ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:02:12.596563605Z",
+  "model": "glm-5.3"
+}

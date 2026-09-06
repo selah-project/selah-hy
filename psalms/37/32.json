@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 37,
+  "translation": "Չարը դիտում է արդարին և փնտրում է սպանել նրան։",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "դիտում է"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "չարը"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "արդարին"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "և փնտրում է"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "սպանել նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T23:01:28.531740958Z",
+  "model": "glm-5.3"
+}

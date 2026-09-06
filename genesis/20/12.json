@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Եվ նաև, իսկապես, քույրն է իմ՝ հորս դուստրը, միայն ոչ մորս դուստրը. և եղավ ինձ կնոջ»։",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Եվ նաև"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "իսկապես"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "քույրն է իմ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "դուստր"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "հորս"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա ⟨է⟩"
+    },
+    {
+      "surface": "אך",
+      "gloss": "միայն"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "դուստր"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "մորս"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "և եղավ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "կնոջ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:16:38.122152834Z",
+  "model": "glm-5.3"
+}

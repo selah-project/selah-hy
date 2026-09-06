@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Մաղմուր Դավիդի՝ փախչելիս իր որդի Ավշալոմի երեսից։",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Մաղմուր"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Դավիդի"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "փախչելիս"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "երեսից"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Ավշալոմի"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "որդի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:52:36.327818867Z",
+  "model": "glm-5.3"
+}

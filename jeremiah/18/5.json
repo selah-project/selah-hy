@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 18:5",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Եվ եղավ Յահվեի խոսքը ինձ մոտ՝ ասելով․",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ինձ մոտ"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T21:48:57.998009637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 5:29",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Սա է խանդի Թորան՝ երբ կինը շեղվի իր ամուսնու ⟨տակից⟩ և պիղծվի։",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Սա"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Թորան"
+    },
+    {
+      "surface": "הקנאת",
+      "gloss": "խանդի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "תשטה",
+      "gloss": "շեղվի"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "կինը"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ամուսնու"
+    },
+    {
+      "surface": "ונטמאה",
+      "gloss": "և պիղծվի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:13:57.721524898Z",
+  "model": "glm-5.3"
+}

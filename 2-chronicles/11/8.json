@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "և ⟨את⟩ Գաթը, և ⟨את⟩ Մարեշան, և ⟨את⟩ Զիֆը։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Գաթը"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Գաթը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Մարեշան"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Մարեշան"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Զիֆը"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Զիֆը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:42:38.643302171Z",
+  "model": "glm-5.3"
+}

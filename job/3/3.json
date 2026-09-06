@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 3:3",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Կորչի՛ այն օրը, որ ես ծնվեցի, և այն գիշերը, որ ասացին. «Մարդ է հղացել»։",
+  "tokens": [
+    {
+      "surface": "יאבד",
+      "gloss": "Կորչի՛"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "אולד",
+      "gloss": "ծնվեցի"
+    },
+    {
+      "surface": "בו",
+      "gloss": "որ"
+    },
+    {
+      "surface": "והלילה",
+      "gloss": "և գիշերը"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասացին"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "հղացել"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "մարդ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:39:02.784331057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 48:25",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 48,
+  "translation": "Կտրված է Մոաբի եղջյուրը, և նրա բազուկը կոտրված է՝ Յահվեի խոսքով։",
+  "tokens": [
+    {
+      "surface": "נגדעה",
+      "gloss": "կտրված է"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "եղջյուրը"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Մոաբի"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "և նրա բազուկը"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "կոտրված է"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "խոսքով"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:03:40.326807346Z",
+  "model": "glm-5.3"
+}

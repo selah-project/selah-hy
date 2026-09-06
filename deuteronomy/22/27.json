@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 22:27",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Որովհետև դաշտում գտավ նրան, գոչեց աղջիկը՝ նշանվածը, և փրկող չկար նրան։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "դաշտում"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "գտավ նրան"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "գոչեց"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "աղջիկը"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "նշանվածը"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "և չկար"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "փրկող"
+    },
+    {
+      "surface": "לה",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:43:35.408028768Z",
+  "model": "glm-5.3"
+}

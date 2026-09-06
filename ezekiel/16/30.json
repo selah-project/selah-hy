@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 16:30",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Որքան թուլացած է քո սիրտը, Ադոնայ Յահվեի ասքն է՝ այս ամենն անելիս՝ տիրող պոռնիկ կնոջ գործ։",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "որքան"
+    },
+    {
+      "surface": "אמלה",
+      "gloss": "թուլացած"
+    },
+    {
+      "surface": "לבתך",
+      "gloss": "քո սիրտը"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ասքն է"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "בעשותך",
+      "gloss": "անելիս քո"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այս ամենը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "գործ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "կնոջ"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "պոռնիկ"
+    },
+    {
+      "surface": "שלטת",
+      "gloss": "տիրող"
+    }
+  ],
+  "timestamp": "2026-09-05T22:13:17.354930645Z",
+  "model": "glm-5.3"
+}

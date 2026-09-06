@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Ո՞վ է այս՝ փառքի արքան։ Յահվե Ծեվաոթ՝ նա ⟨է⟩ փառքի արքան։ Սելա։",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ո՞վ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "է"
+    },
+    {
+      "surface": "זה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "արքան"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "փառքի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ծեվաոթ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "արքան"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "փառքի"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Սելա"
+    }
+  ],
+  "timestamp": "2026-09-05T22:57:42.091908046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 4:37",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "և Զիզան՝ որդին Շիֆիի, որդին Ալոնի, որդին Յեդայայի, որդին Շիմրիի, որդին Շեմայայի։",
+  "tokens": [
+    {
+      "surface": "וזיזא",
+      "gloss": "և Զիզան"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "שפעי",
+      "gloss": "Շիֆիի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "Ալոնի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "Յեդայայի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "Շիմրիի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Շեմայայի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:16.510441177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 10:12",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Միքա, Ռեխով, Խաշավյահ։",
+  "tokens": [
+    {
+      "surface": "מיכא",
+      "gloss": "Միքա"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "Ռեխով"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Խաշավյահ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:24:54.840900777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 36,
+  "translation": "Եվ նյութը բավական էր ամբողջ գործի համար՝ այն անելու, և ավելաց։",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "Եվ գործը"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "էր"
+    },
+    {
+      "surface": "דים",
+      "gloss": "բավական"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "գործի"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "անելու"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "այն"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "և ավելաց"
+    }
+  ],
+  "timestamp": "2026-09-05T18:55:02.029360320Z",
+  "model": "glm-5.3"
+}

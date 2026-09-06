@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 105,
+  "translation": "Եվ կանչեց սով երկրի վրա, ամեն հացի ցողունը կոտրեց։",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "եվ կանչեց"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "սով"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ցողուն"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "հացի"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "կոտրեց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:17:25.781743178Z",
+  "model": "glm-5.3"
+}

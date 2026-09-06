@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Եվ Լավանին երկու դուստր կային. մեծի անունը՝ Լեա, և փոքրի անունը՝ Ռախել։",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "Եվ Լավանին"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "երկու"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "դուստր"
+    },
+    {
+      "surface": "שם",
+      "gloss": "անունը"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "մեծի"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Լեա"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "և անունը"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "փոքրի"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Ռախել"
+    }
+  ],
+  "timestamp": "2026-09-05T18:21:09.670525728Z",
+  "model": "glm-5.3"
+}

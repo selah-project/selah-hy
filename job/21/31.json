@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 21:31",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Ո՞վ կպատմի նրա երեսի առջև իր ճանապարհը, և ինքն արածը ո՞վ կվճարի նրան։",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "կպատմի"
+    },
+    {
+      "surface": "על",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "նրա երեսի"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "իր ճանապարհը"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "և նա"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արածը"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "կվճարի"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T23:46:00.873456214Z",
+  "model": "glm-5.3"
+}

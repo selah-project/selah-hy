@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եվ քահանայի դուստրը՝ եթե պղծի իրեն զինավեր անելով, իր հորն է նա պղծում. կրակով պիտի այրվի։",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Եվ դուստրը"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "քահանայի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "պղծի"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "զինավեր անելով"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "իր հորն"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "իր հորն"
+    },
+    {
+      "surface": "היא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "պղծում է"
+    },
+    {
+      "surface": "באש",
+      "gloss": "կրակով"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "պիտի այրվի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:30:35.901936550Z",
+  "model": "glm-5.3"
+}

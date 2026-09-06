@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Եթե մի մարդ կին առնի, և նրա մոտ մտնի, և ատի նրան՝",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "առնի"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "կին"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "մտնի"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "նրա մոտ"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "ատի նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:42:57.037869880Z",
+  "model": "glm-5.3"
+}

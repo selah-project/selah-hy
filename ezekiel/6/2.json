@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 6:2",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Մարդու որդի, դիր քո երեսը դեպի Իսրայելի լեռները և մարգարեա նրանց դեմ․",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "שים",
+      "gloss": "դիր"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "քո երեսը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "լեռները"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "և մարգարեա"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "նրանց դեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:09:27.920094602Z",
+  "model": "glm-5.3"
+}

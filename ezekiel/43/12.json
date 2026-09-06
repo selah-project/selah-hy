@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 43:12",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 43,
+  "translation": "Սա է տան Թորան. լեռան գագաթին նրա ամբողջ սահմանը շուրջբոլոր սուրբ սրբոց կլինի. ահա, սա է տան Թորան։",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Սա"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Թորան"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "տան"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "գագաթին"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "լեռան"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "גבלו",
+      "gloss": "նրա սահմանը"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "շուրջբոլոր"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "շուրջբոլոր"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "սուրբ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "սրբոց"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "սա"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Թորան"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "տան"
+    }
+  ],
+  "timestamp": "2026-09-05T22:27:46.237737446Z",
+  "model": "glm-5.3"
+}

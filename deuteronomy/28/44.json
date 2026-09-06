@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 28:44",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Նա քեզ պարտք կտա, իսկ դու նրան պարտք չես տա. նա գլուխ կլինի, իսկ դու կլինիս պոչ։",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Նա"
+    },
+    {
+      "surface": "ילוך",
+      "gloss": "պարտք կտա"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "իսկ դու"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "պարտք չես տա"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "կլինի"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "գլուխ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "իսկ դու"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "կլինիս"
+    },
+    {
+      "surface": "לזנב",
+      "gloss": "պոչ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:45:47.859537139Z",
+  "model": "glm-5.3"
+}

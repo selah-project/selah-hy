@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "և Բանի, և Բինույ, Շիմի,",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "և Բանի"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "և Բինույ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Շիմի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:18:47.431238107Z",
+  "model": "glm-5.3"
+}

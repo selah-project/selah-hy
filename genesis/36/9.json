@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 36,
+  "translation": "Եվ սա Էսավի (Եսավ) ծագումն է՝ Էդոմի հոր, Սեիր լեռան մեջ։",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Եվ սա"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "ծագումն"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Էսավի"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "հոր"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Էդոմի"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "լեռան մեջ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Սեիր"
+    }
+  ],
+  "timestamp": "2026-09-05T18:24:22.064170989Z",
+  "model": "glm-5.3"
+}

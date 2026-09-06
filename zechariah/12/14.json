@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Բոլոր մնացած տոհմերը՝ տոհմ տոհմի հետ առանձին, և նրանց կանայք՝ առանձին։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Բոլոր"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "տոհմերը"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "մնացած"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "տոհմ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "տոհմի"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "առանձին"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "և նրանց կանայք"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "առանձին"
+    }
+  ],
+  "timestamp": "2026-09-05T22:49:08.101151199Z",
+  "model": "glm-5.3"
+}

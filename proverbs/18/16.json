@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 18:16",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Մարդու ընծան նրա համար տեղ է բացում և մեծերի առջև նրան տանում։",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "ընծա"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "բացում է տեղ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրա համար"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "և առջև"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "մեծերի"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "տանում է նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T23:33:45.404047591Z",
+  "model": "glm-5.3"
+}

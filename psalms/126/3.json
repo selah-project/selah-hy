@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 126,
+  "translation": "Մեծացրեց Յահվեն անել մեզ հետ՝ եղանք ուրախներ։",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "Մեծացրեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "անել"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "մեզ հետ"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "եղանք"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "ուրախներ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:25:01.875628954Z",
+  "model": "glm-5.3"
+}

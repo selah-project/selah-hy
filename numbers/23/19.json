@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 23:19",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Ոչ մարդ է Էլ, որ ստի, և ոչ մարդու որդի, որ զղջա. ասա՞լ է և չանի, խոսե՞լ է և չկատարի այն։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ոչ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլ"
+    },
+    {
+      "surface": "ויכזב",
+      "gloss": "որ ստի"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "և որդի"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "ויתנחם",
+      "gloss": "որ զղջա"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ասա՞լ է"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասա՞լ է"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "անի"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "խոսե՞լ է"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "יקימנה",
+      "gloss": "կատարի այն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:25:19.168643680Z",
+  "model": "glm-5.3"
+}

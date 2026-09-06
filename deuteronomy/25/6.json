@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 25:6",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Եվ լինի, որ նա ծնած անդրանիկը կանգնի իր մեռել եղբոր անվան վրա, և ոչ ջնջվի նրա անունը Իսրայելից։",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Եվ լինի"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "անդրանիկը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "ծնած"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "կանգնի"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "שם",
+      "gloss": "անվան"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "իր եղբոր"
+    },
+    {
+      "surface": "המת",
+      "gloss": "մեռել"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "ջնջվի"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "նրա անունը"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Իսրայելից"
+    }
+  ],
+  "timestamp": "2026-09-05T19:44:49.290456781Z",
+  "model": "glm-5.3"
+}

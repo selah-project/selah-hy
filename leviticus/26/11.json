@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Եվ կդնեմ Միշքանս իմը ձեր մեջտեղում, և Նեֆեշս իմը ⟨את⟩ ձեզ չի զզվի։",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "եվ կդնեմ"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Միշքանս իմը"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "ձեր մեջտեղում"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "չի զզվի"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Նեֆեշս իմը"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ձեզ",
+      "marks": "ձեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:09:35.601631915Z",
+  "model": "glm-5.3"
+}

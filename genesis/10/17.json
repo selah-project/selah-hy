@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "և ⟨את⟩ հիվվին, և ⟨את⟩ արքին, և ⟨את⟩ սինին։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "հիվվին"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "հիվվին"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "արքին"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "արքին"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "սինին"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "սինին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:12:22.964464533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 3:11",
+  "book": "daniel",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "իսկ ով չի ընկնում և երկրպագում, գցվի բոցավառ հնոցի կրակի մեջ։",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "իսկ ով"
+    },
+    {
+      "surface": "די",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ընկնում"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "և երկրպագում"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "գցվի"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "մեջ"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "հնոցի"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "կրակի"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "բոցավառ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:08:38.777428648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 139,
+  "translation": "Ո՞ւր գնամ քո Ռուխից, և ո՞ւր քո երեսից փախչեմ։",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "ո՞ւր"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "գնամ"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "քո Ռուխից"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "և ո՞ւր"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "քո երեսից"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "փախչեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:25:47.503858416Z",
+  "model": "glm-5.3"
+}

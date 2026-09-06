@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Անիծված լինի հոր դստեր կամ մոր դստեր՝ իր քրոջ հետ պառկողը, և ասի ամբողջ ժողովուրդը՝ Ամեն։",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Անիծված լինի"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "պառկողը"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "իր քրոջ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "դստեր"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "հոր"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "դստեր"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "մոր"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "և ասի"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովուրդը"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ամեն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:45:25.014963017Z",
+  "model": "glm-5.3"
+}

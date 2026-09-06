@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Զակայի որդիները՝ յոթ հարյուր վաթսուն։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները՝"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "Զակայի"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "վաթսուն"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:27.240196479Z",
+  "model": "glm-5.3"
+}

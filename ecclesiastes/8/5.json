@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Պահողը պատվիրանի՝ չար բան չի ճանաչի, և ժամանակն ու դատաստանը՝ կճանաչի իմաստունի սիրտը։",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Պահողը"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "պատվիրանի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ճանաչի"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "բան"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չար"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "և ժամանակը"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "և դատաստանը"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "կճանաչի"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սիրտը"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "իմաստունի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:19:35.005374215Z",
+  "model": "glm-5.3"
+}

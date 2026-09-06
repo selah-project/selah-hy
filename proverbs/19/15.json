@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Ծուլությունը խոր քուն է գցում, և անփույթ նեֆեշը կքաղցի։",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "ծուլությունը"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "գցում է"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "խոր քուն"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "և նեֆեշը"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "անփույթ"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "կքաղցի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:19.076679303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 39,
+  "translation": "Լռեցի, չբացեցի իմ բերանը, որովհետև դու ես արել ⟨այն⟩։",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Լռեցի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "բացեցի"
+    },
+    {
+      "surface": "פי",
+      "gloss": "իմ բերանը"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ես արել"
+    }
+  ],
+  "timestamp": "2026-09-05T23:02:06.701187868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Ամբարշտ մարդու մահով կորչում է հույսը, և ուժեղների սպասումը կորել է։",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "մահով"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ամբարշտ"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "կորչում է"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "հույսը"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "և սպասումը"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "ուժեղների"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "կորել է"
+    }
+  ],
+  "timestamp": "2026-09-05T23:31:28.959534004Z",
+  "model": "glm-5.3"
+}

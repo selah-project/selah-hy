@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "և ⟨את⟩ Ատարոտ Շոֆանը և ⟨את⟩ Յազերը և Յոգբեհան։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Ատարոտ Շոֆանը"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Ատարոտ"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "Շոֆան"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Յազերը"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Յազերը"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "և Յոգբեհան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:29:26.935751502Z",
+  "model": "glm-5.3"
+}

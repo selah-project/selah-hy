@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 86,
+  "translation": "Ողորմի՛ր ինձ, Ադոնայ, որովհետև քեզ եմ կանչում ամբողջ օրը։",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ողորմի՛ր ինձ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "եմ կանչում"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "օրը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:13:52.972311048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Իսկ հիմա մեր նեֆեշը չորացած է․ ոչինչ չկա, բացի մանից՝ մեր աչքերի առջև։",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "իսկ հիմա"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "մեր նեֆեշը"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "չորացած է"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ոչինչ"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "բացի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "միայն"
+    },
+    {
+      "surface": "המן",
+      "gloss": "մանից"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "մեր աչքերի առջև"
+    }
+  ],
+  "timestamp": "2026-09-06T02:44:27.544992369Z",
+  "model": "glm-5.3"
+}

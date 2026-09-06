@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 1:46",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "և նաև Շելոմոն նստեց արքայության գահի վրա։",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "և նաև"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "նստեց"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Շելոմոն"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "գահի"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "արքայության"
+    }
+  ],
+  "timestamp": "2026-09-05T20:44:10.725092984Z",
+  "model": "glm-5.3"
+}

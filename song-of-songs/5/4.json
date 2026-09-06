@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Իմ սիրելին իր ձեռքը անցքից ներս մտցրեց, և ներսիստքս նրա համար խռովվեցին։",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "Իմ սիրելին"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "մտցրեց"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "իր ձեռքը"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ից"
+    },
+    {
+      "surface": "החר",
+      "gloss": "անցք"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "և ներսիստքս"
+    },
+    {
+      "surface": "המו",
+      "gloss": "խռովվեցին"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "նրա համար"
+    }
+  ],
+  "timestamp": "2026-09-05T23:53:38.056029822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Մեր ժառանգությունը դարձավ օտարների, մեր տները՝ օտարազգիների։",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "մեր ժառանգությունը"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "դարձավ"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "օտարների"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "մեր տները"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "օտարազգիների"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:03.899330043Z",
+  "model": "glm-5.3"
+}

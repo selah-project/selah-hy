@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Շուրթերովս պատմեցի ամբողջ քո բերանի որոշումները։",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "Շուրթերովս"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "պատմեցի"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "որոշումները"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "քո բերանի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:22:03.068859097Z",
+  "model": "glm-5.3"
+}

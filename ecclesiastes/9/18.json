@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Լավ է իմաստությունը պատերազմի զենքերից, և մեկ մեղավոր կործանում է շատ բարիք։",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "Լավ է"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "իմաստությունը"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "զենքերից"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "պատերազմի"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "և մեղավոր"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "կործանում է"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "բարիք"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "շատ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:47.360656830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ Յերախմեելի կին եղավ ուրիշ՝ և նրա անունը Ատարա էր, նա Օնամի մայրն է։",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "կին"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "ուրիշ"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "Յերախմեելի"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "և նրա անունը"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "Ատարա"
+    },
+    {
+      "surface": "היא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "אם",
+      "gloss": "մայր"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "Օնամի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:26.468572521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Այս բոլորը միացան Սդիմի հովտում, որը ⟨է⟩ Աղի ծովը։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "բոլորը"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Այս"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "միացան"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "հովտում"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "Սդիմի"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "որը ⟨է⟩"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ծովը"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Աղի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:13:20.003184636Z",
+  "model": "glm-5.3"
+}

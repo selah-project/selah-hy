@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "numbers 7:69",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "մեկ ցուլ՝ եղջերավորի որդի, մեկ խոյ, մեկ գառ՝ մեկ տարեկան՝ ողջակիզության համար։",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ցուլ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "եղջերավորի"
+    },
+    {
+      "surface": "איל",
+      "gloss": "խոյ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "գառ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի՝ տարեկան"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "մեկ տարեկան"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ողջակիզության համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:16:05.538354022Z",
+  "model": "glm-5.3"
+}

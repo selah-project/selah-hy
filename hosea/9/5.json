@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Ի՞նչ եք անելու նշանակված օրվան, և Յահվեի տոնի օրվան։",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "եք անելու"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "օրվան"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "նշանակված"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "և օրվան"
+    },
+    {
+      "surface": "חג",
+      "gloss": "տոնի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:34:41.338242806Z",
+  "model": "glm-5.3"
+}

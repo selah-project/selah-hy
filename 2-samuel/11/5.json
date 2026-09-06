@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 11:5",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Եվ հղիացավ կինը, և ուղարկեց և հայտնեց Դավիթին և ասաց՝ հղի եմ ես։",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "և հղիացավ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "կինը"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "և ուղարկեց"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "և հայտնեց"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Դավիթին"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "հղի"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "եմ ես"
+    }
+  ],
+  "timestamp": "2026-09-05T20:34:33.800649486Z",
+  "model": "glm-5.3"
+}

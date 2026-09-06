@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "որովհետև երազը գալիս ⟨է⟩ հոգսերի առատությունից, և հիմարի ձայնը՝ խոսքերի առատությունից։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "בא",
+      "gloss": "գալիս"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "երազը"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "առատությունից"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "հոգսերի"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "և ձայնը"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "հիմարի"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "առատությունից"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "խոսքերի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:52.109150884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 12:18",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Եվ կանչեց Փարավոնը Աբրամին և ասաց՝ ի՞նչ ես արել ինձ, ինչո՞ւ չպատմեցիր ինձ, որ նա քո կինն է։",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "և կանչեց"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Փարավոնը"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Աբրամին"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "այս"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ես արել"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ինչո՞ւ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "պատմեցիր"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "քո կինն է"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    }
+  ],
+  "timestamp": "2026-09-05T18:12:52.823573220Z",
+  "model": "glm-5.3"
+}

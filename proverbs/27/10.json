@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 27:10",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Ընկերդ և հորդ ընկերը մի թողնես, և եղբորդ տուն մի մտնես քո պատահարի օրը. լավ է մոտ հարևանը, քան հեռու եղբայրը։",
+  "tokens": [
+    {
+      "surface": "רעך",
+      "gloss": "ընկերդ"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "և ընկերը"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "հորդ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "թողնես"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "և տուն"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "եղբորդ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "մտնես"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "אידך",
+      "gloss": "պատահարիդ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "լավ է"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "հարևան"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "քան եղբայր"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "հեռու"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:05.450223097Z",
+  "model": "glm-5.3"
+}

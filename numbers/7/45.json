@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 7:45",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "մեկ ցուլ, խոշոր եղջերավորի ձագ, մեկ խոյ, մեկ գառ՝ մեկ տարեկան, որպես օլա։",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ցուլ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ձագ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "խոշոր եղջերավորի"
+    },
+    {
+      "surface": "איל",
+      "gloss": "խոյ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "գառ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ձագ՝"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "մեկ տարեկան"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "որպես օլա"
+    }
+  ],
+  "timestamp": "2026-09-05T19:15:14.117180921Z",
+  "model": "glm-5.3"
+}

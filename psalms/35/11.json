@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 35,
+  "translation": "Կկանգնեն բռնության վկաներ, ինչ չգիտեի՝ ինձնից են հարցնում։",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "Կկանգնեն"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "վկաներ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "բռնության"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ինչ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "գիտեի"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "ինձնից են հարցնում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:00:01.284241405Z",
+  "model": "glm-5.3"
+}

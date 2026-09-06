@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Վա՛յ երկրին՝ թևերի խշշոցի, որն է Կուշի գետերից այն կողմ։",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Վա՛յ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկիր"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "խշշոցի"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "թևերի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "այն կողմ"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "գետերի"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Կուշ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:21:06.667578448Z",
+  "model": "glm-5.3"
+}

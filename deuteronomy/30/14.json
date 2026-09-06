@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 30:14",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Որովհետև շատ մոտ է քեզ բանը՝ քո բերանում և քո սրտում, այն անելու համար։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "բանը"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "շատ"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "քո բերանում"
+    },
+    {
+      "surface": "ובלבבך",
+      "gloss": "և քո սրտում"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "այն անելու համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:47:34.211066248Z",
+  "model": "glm-5.3"
+}

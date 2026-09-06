@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Իմերի որդիները՝ հազար հիսուն ու երկու։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Իմերի"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "հազար"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "հիսուն"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ու երկու"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:43.053778057Z",
+  "model": "glm-5.3"
+}

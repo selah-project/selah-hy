@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Տասնինըերորդը՝ Պտախյային, քսաներորդը՝ Յեխեզքելին։",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "Պտախյային"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ինը"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "տասը"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "Յեխեզքելին"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "քսաներորդը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:36:57.711820746Z",
+  "model": "glm-5.3"
+}

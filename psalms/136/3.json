@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 136,
+  "translation": "Փառք տվեք տերերի Ադոնային, որովհետև հավերժ է խեսեդը։",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Փառք տվեք"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Ադոնային"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "տերերի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "հավերժ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "խեսեդը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:25:43.574851863Z",
+  "model": "glm-5.3"
+}

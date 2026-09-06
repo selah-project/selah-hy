@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 27:18",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Թզենին հսկողը կուտի նրա պտուղը, և իր տիրոջը պահպանողը կպատվվի։",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "հսկողը"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "թզենին"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "կուտի"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "նրա պտուղը"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "և պահպանողը"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "իր տիրոջը"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "կպատվվի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:01.634468740Z",
+  "model": "glm-5.3"
+}

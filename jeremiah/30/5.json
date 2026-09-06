@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Որովհետև այսպես ասաց Յահվե՝ սարսուփի ձայն լսեցինք, վախ՝ և խաղաղություն չկա։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "כה",
+      "gloss": "այսպես"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ձայն"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "սարսուփի"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "լսեցինք"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "վախ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "և չկա"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "խաղաղություն"
+    }
+  ],
+  "timestamp": "2026-09-05T21:54:24.595991159Z",
+  "model": "glm-5.3"
+}

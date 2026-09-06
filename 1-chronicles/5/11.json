@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 5:11",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ Գադի որդիները նրանց դիմաց բնակվեցին Բաշանի երկրում՝ մինչև Սալքահ։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Եվ որդիները"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Գադի"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "նրանց դիմաց"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "բնակվեցին"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրում"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Բաշանի"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Սալքահ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:28:58.679553340Z",
+  "model": "glm-5.3"
+}

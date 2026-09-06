@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Ծաղրող ⟨է⟩ գինին, աղմկող ⟨է⟩ շեքարը, և ամեն նրանում մոլորվող իմաստուն չի լինի։",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "ծաղրող"
+    },
+    {
+      "surface": "היין",
+      "gloss": "գինին"
+    },
+    {
+      "surface": "המה",
+      "gloss": "աղմկող"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "շեքարը"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "և ամեն"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "մոլորվող"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրանում"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "իմաստուն լինի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:57.010794020Z",
+  "model": "glm-5.3"
+}

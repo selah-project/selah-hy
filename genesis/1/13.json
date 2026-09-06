@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ եղավ երեկո, և եղավ առավոտ՝ երրորդ օր։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "երեկո"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "և եղավ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "առավոտ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "երրորդ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:07:59.789214579Z",
+  "model": "glm-5.3"
+}

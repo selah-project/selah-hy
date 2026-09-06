@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 11:33",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Խածոր, Ռամա, Գիթայիմ։",
+  "tokens": [
+    {
+      "surface": "חצור",
+      "gloss": "Խածոր"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "Ռամա"
+    },
+    {
+      "surface": "גתים",
+      "gloss": "Գիթայիմ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:25:37.768543710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 98,
+  "translation": "Թող գետերը ծափ տան, միասին թող լեռները ցնծագերգեն։",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "գետերը"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "թող…ծափ տան"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ափ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "միասին"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "լեռները"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ցնծագերգեն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:15:59.608138089Z",
+  "model": "glm-5.3"
+}

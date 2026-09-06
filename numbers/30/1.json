@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 30:1",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Եվ ասաց Մոշեն Իսրայելի որդիներին ամեն այն, ինչ պատվիրեց Յահվեն ⟨את⟩ Մոշեին։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ամեն այն"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ինչ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "պատվիրեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Մոշեին"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեին"
+    }
+  ],
+  "timestamp": "2026-09-05T19:28:17.604526919Z",
+  "model": "glm-5.3"
+}

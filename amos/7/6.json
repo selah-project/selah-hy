@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Զղջաց Յահվեն սրա համար. «Նաև դա չի լինի», — ասաց Ադոնայ Յահվեն։",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "Զղջաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "על",
+      "gloss": "սրա համար"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "սա"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Նաև"
+    },
+    {
+      "surface": "היא",
+      "gloss": "դա"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T22:38:33.915707286Z",
+  "model": "glm-5.3"
+}

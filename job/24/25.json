@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 24:25",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Եվ եթե ոչ ⟨այժմ⟩, ո՞վ կխաբեսցա ինձ և կդարձնի ոչնչի իմ խոսքը։",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Եվ եթե"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "⟨այժմ⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "יכזיבני",
+      "gloss": "կխաբեսցա ինձ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "և կդարձնի"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ոչնչի"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "իմ խոսքը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:46:08.105455077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Լսե՛ք Յահվեի խոսքը, Յաակովի (Հակոբ) տուն և Իսրայելի տան բոլոր ընտանիքները.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Լսեք"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տուն"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Յաակովի"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "և բոլոր"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ընտանիքները"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տան"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:39:32.469550614Z",
+  "model": "glm-5.3"
+}

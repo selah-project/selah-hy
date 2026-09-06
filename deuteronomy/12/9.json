@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 12:9",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Որովհետև դեռ չէք եկել մինչև այժմ դեպի հանգստությունը և դեպի ժառանգությունը, որ Յահվե Էլոհիմդ քեզ տալիս է։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "եկել եք"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "այժմ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "հանգստությունը"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և դեպի"
+    },
+    {
+      "surface": "הנחלה",
+      "gloss": "ժառանգությունը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Էլոհիմդ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "տալիս է"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:40:40.718674658Z",
+  "model": "glm-5.3"
+}

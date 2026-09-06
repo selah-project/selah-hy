@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Դիտի՛ր ⟨את⟩ Էլոհիմի գործը, որովհետև ո՛վ կկարողանա ուղղել ⟨את⟩ այն, ինչ նա աղավաղել է։",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Դիտի՛ր"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Էլոհիմի գործը"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "գործը"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Էլոհիմի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ո՛վ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "կկարողանա"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "ուղղել"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այն, ինչ նա աղավաղել է"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "այն, ինչ"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "աղավաղել է"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:15.552592324Z",
+  "model": "glm-5.3"
+}

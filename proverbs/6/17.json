@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Հառաչ աչքեր, ստի լեզու և մեղավոր արյուն թափող ձեռքեր․",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "աչքեր"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "Հառաչ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "լեզու"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ստի"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "և ձեռքեր"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "թափող"
+    },
+    {
+      "surface": "דם",
+      "gloss": "արյուն"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "մեղավոր"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:46.446225711Z",
+  "model": "glm-5.3"
+}

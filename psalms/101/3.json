@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 101,
+  "translation": "Ո՛չ, աչքիս առջև անարժեք բան չեմ դնելու. շեղվողների գործը ատում եմ, ինձ չի կպնելու։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ո՛չ"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "չեմ դնելու"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "աչքիս"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "բան"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "անարժեք"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "գործ"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "շեղվողների"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ատում եմ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "չի կպնելու"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ինձ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:16:25.592335216Z",
+  "model": "glm-5.3"
+}

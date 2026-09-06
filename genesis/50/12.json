@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 50,
+  "translation": "Եվ իր որդիները արեցին նրան այնպես, ինչպես նա պատվիրել էր նրանց։",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "արեցին"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այնպես"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ինչպես"
+    },
+    {
+      "surface": "צום",
+      "gloss": "պատվիրել էր նրանց"
+    }
+  ],
+  "timestamp": "2026-09-05T18:34:38.560546378Z",
+  "model": "glm-5.3"
+}

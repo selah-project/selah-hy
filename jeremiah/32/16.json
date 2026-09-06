@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 32:16",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Եվ աղոթեցի Յահվեին՝ երբ տվեցի ⟨את⟩ գնման գիրքը Բարուքին՝ Ներիայի որդուն, ասելով.",
+  "tokens": [
+    {
+      "surface": "ואתפלל",
+      "gloss": "և աղոթեցի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ին"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "տվեցի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "գնման գիրքը"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "գիրքը"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "գնման"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Բարուքին"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Ներիայի"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T21:55:25.839447599Z",
+  "model": "glm-5.3"
+}

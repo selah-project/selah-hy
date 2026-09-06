@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ եղան Խանոխի բոլոր օրերը երեք հարյուր վաթսունհինգ տարի։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղան"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "օրերը"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Խանոխի"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "հինգ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "և վաթսուն"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "և երեք"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:10:21.634034711Z",
+  "model": "glm-5.3"
+}

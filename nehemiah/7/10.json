@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 7:10",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Արախի որդիները՝ վեց հարյուր հիսուն ու երկու։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Արախի"
+    },
+    {
+      "surface": "שש",
+      "gloss": "վեց"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "հիսուն"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ու երկու"
+    }
+  ],
+  "timestamp": "2026-09-06T00:22:15.598588399Z",
+  "model": "glm-5.3"
+}

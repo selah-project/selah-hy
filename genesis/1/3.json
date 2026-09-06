@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ ասաց Էլոհիմ. «Թող լույս լինի», և եղավ լույսը։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Թող լինի"
+    },
+    {
+      "surface": "אור",
+      "gloss": "լույս"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "և եղավ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "լույսը"
+    }
+  ],
+  "timestamp": "2026-09-05T18:08:14.565599155Z",
+  "model": "glm-5.3"
+}

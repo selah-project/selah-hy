@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եվ եթե վնաս լինի, տաս Նեֆեշ Նեֆեշի փոխարեն։",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Եվ եթե"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "վնաս"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "տաս"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Նեֆեշ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "փոխարեն"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Նեֆեշի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:44:09.452200836Z",
+  "model": "glm-5.3"
+}

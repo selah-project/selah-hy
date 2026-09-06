@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 49:21",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 49,
+  "translation": "Նաֆթալի՝ արձակված եղնիկ ⟨է⟩, տվող գեղեցկության խոսքեր։",
+  "tokens": [
+    {
+      "surface": "נפתלי",
+      "gloss": "Նաֆթալի"
+    },
+    {
+      "surface": "אילה",
+      "gloss": "եղնիկ"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "արձակված"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "տվող"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "խոսքեր"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "գեղեցկության"
+    }
+  ],
+  "timestamp": "2026-09-05T18:33:43.989575643Z",
+  "model": "glm-5.3"
+}

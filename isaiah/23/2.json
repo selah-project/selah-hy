@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Լռեք, կղզու բնակիչներ, Ցիդոնի առևտրականի, ծով անցնողի. լցրել են քեզ։",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "Լռեք"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "բնակիչներ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "կղզու"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "առևտրականի"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Ցիդոնի"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "անցնողի"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ծով"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "լցրել են քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:22:54.287590123Z",
+  "model": "glm-5.3"
+}

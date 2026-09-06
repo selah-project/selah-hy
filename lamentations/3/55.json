@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Կանչեցի քո Անունը՝ Յահվե, խորագույն անդունդից։",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "կանչեցի"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "քո Անունը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "անդունդից"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "խորագույն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:09.288363536Z",
+  "model": "glm-5.3"
+}

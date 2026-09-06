@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 2:9",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ ես կլինեմ նրան՝ Յահվեի խոսքը, կրակի պարիսպ շուրջը, և փառք կլինեմ նրա մեջ։",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Եվ ես"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "կլինեմ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "պարիսպ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "կրակի"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "շուրջը"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "և փառք"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "կլինեմ"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "նրա մեջ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:47:10.122234728Z",
+  "model": "glm-5.3"
+}

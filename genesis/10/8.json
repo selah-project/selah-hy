@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Իսկ Քուշը ծնեց ⟨את⟩ Նիմրոդին. նա սկսեց լինել հզոր երկրի վրա։",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Իսկ Քուշը"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Նիմրոդին"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Նիմրոդին"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "החל",
+      "gloss": "սկսեց"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "լինել"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "հզոր"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրի վրա"
+    }
+  ],
+  "timestamp": "2026-09-05T18:11:11.871484050Z",
+  "model": "glm-5.3"
+}

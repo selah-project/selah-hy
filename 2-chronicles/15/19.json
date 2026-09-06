@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 15:19",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Եվ պատերազմ չեղավ մինչև Ասայի թագավորության երեսուն և հինգերորդ տարին։",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "և պատերազմ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "տարին"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "երեսուն"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "և հինգ"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "թագավորության"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Ասայի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:45:29.254975999Z",
+  "model": "glm-5.3"
+}

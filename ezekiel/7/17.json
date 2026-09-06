@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Ամեն ձեռք կթուլանա, և ամեն ծունկ ջրի պես կդառնա։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "ձեռք"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "կթուլանա"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "և ամեն"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "ծունկ"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "կդառնա"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջրի պես"
+    }
+  ],
+  "timestamp": "2026-09-05T22:08:59.836606820Z",
+  "model": "glm-5.3"
+}

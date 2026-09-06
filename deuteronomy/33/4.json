@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 33,
+  "translation": "Թորա պատվիրեց մեզ Մոշեն՝ Յաակովի (Հակոբ) ժողովրդի ժառանգություն։",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Թորա"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "պատվիրեց"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "մեզ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "ժառանգություն"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ժողովրդի"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Յաակովի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:48:44.313242604Z",
+  "model": "glm-5.3"
+}

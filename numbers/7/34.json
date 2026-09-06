@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "մեկ այծ ծիսական այծերից՝ մեղքի զոհի։",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "այծ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ծիսական այծերից"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "մեղքի զոհի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:15:16.539549212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 24:26",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Մերարիի որդիները՝ Մախլին և Մուշին. Յաազիյահի որդիները՝ նրա որդին։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Մերարիի"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Մախլին"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "և Մուշին"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "יעזיהו",
+      "gloss": "Յաազիյահի"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:37:13.360285973Z",
+  "model": "glm-5.3"
+}

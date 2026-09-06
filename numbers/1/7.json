@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Յեհուդայի համար՝ Նախշոն, Ամինադավի որդին։",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "Յեհուդայի ⟨համար⟩"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Նախշոն"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Ամինադավի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:10:44.852060098Z",
+  "model": "glm-5.3"
+}

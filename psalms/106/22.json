@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 106,
+  "translation": "հրաշքներ Խամի երկրում, սարսափելի գործեր Սուֆ ծովի վրա։",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "հրաշքներ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրում"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Խամ"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "սարսափելի գործեր"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ծով"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Սուֆ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:17:33.404381350Z",
+  "model": "glm-5.3"
+}

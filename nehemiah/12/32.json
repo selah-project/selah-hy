@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 12:32",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "և գնաց նրանց հետևից Հոշայան և Յեհուդայի իշխանների կեսը։",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "և գնաց"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "նրանց հետևից"
+    },
+    {
+      "surface": "הושעיה",
+      "gloss": "Հոշայան"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "և … կեսը"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "իշխանների"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Յեհուդայի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:26:10.213089807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 37,
+  "translation": "Եվ ասաց նրանց. լսեցե՛ք խնդրեմ այս երազը, որ երազեցի։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "լսեցե՛ք"
+    },
+    {
+      "surface": "נא",
+      "gloss": "խնդրեմ"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "երազը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "երազեցի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:25:56.631030101Z",
+  "model": "glm-5.3"
+}

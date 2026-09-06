@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ Յադայի որդիները՝ Շամայի եղբոր՝ Յեթերը և Յոնատանը, և Յեթերը մահացավ առանց որդիների։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "Յադայի"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "եղբոր"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Շամայի"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Յեթերը"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "և Յոնատանը"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "և մահացավ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Յեթերը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "որդիներ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:30.373420582Z",
+  "model": "glm-5.3"
+}

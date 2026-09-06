@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "lamentations 3:40",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Քննենք մեր ճանապարհները և ուսումնասիրենք, և դառնանք դեպի Յահվե։",
+  "tokens": [
+    {
+      "surface": "נחפשה",
+      "gloss": "Քննենք"
+    },
+    {
+      "surface": "דרכינו",
+      "gloss": "մեր ճանապարհները"
+    },
+    {
+      "surface": "ונחקרה",
+      "gloss": "և ուսումնասիրենք"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "և դառնանք"
+    },
+    {
+      "surface": "עד",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:21.513103535Z",
+  "model": "glm-5.3"
+}

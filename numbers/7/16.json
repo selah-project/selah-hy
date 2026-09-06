@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "մեկ այծեղջյուր՝ մեղքի զոհաբերության համար։",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "այծեղջյուր"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "այծերի"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "մեղքի զոհաբերության համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:14:51.227106294Z",
+  "model": "glm-5.3"
+}

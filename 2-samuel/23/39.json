@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Ուրիա խեթցին. բոլորը՝ երեսուն և յոթ։",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "Ուրիա"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "խեթցին"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլորը"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "երեսուն"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "և յոթ"
+    }
+  ],
+  "timestamp": "2026-09-05T20:41:56.624364434Z",
+  "model": "glm-5.3"
+}

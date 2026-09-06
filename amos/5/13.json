@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 5:13",
+  "book": "amos",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Դրա համար իմաստունը կլռի այդ ժամանակ, որովհետև չար ժամանակ է այն։",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Դրա համար"
+    },
+    {
+      "surface": "המשכיל",
+      "gloss": "իմաստունը"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ժամանակ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "կլռի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ժամանակ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "չար"
+    },
+    {
+      "surface": "היא",
+      "gloss": "է այն"
+    }
+  ],
+  "timestamp": "2026-09-05T22:39:00.413634513Z",
+  "model": "glm-5.3"
+}

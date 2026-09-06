@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 13:13",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Եթե լսես քո քաղաքներից մեկում, որ Յահվե Էլոհիմդ քեզ տալիս է այնտեղ բնակվելու համար՝ ասելով՝",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "լսես"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "մեկում"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "քո քաղաքներից"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Էլոհիմդ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "տալիս է"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "բնակվելու համար"
+    },
+    {
+      "surface": "שם",
+      "gloss": "այնտեղ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T19:39:20.138662313Z",
+  "model": "glm-5.3"
+}

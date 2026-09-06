@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "և Ախիտուբը ծնեց ⟨את⟩ Ծադոկին, և Ծադոկը ծնեց ⟨את⟩ Շալումին։",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "և Ախիտուբը"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ծադոկին"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Ծադոկին"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "և Ծադոկը"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Շալումին"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Շալումին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:28:30.122679711Z",
+  "model": "glm-5.3"
+}

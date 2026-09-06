@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 16:24",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Մեղմ խոսքերը՝ մեղրի մոմ, քաղցր են նեֆեշի համար և բուժում են ոսկորը։",
+  "tokens": [
+    {
+      "surface": "צוף",
+      "gloss": "մոմ"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "մեղրի"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "խոսքերը"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "մեղմ"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "քաղցր են"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "նեֆեշի համար"
+    },
+    {
+      "surface": "ומרפא",
+      "gloss": "և բուժում"
+    },
+    {
+      "surface": "לעצם",
+      "gloss": "ոսկորին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:33:01.996931436Z",
+  "model": "glm-5.3"
+}

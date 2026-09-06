@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Լեմուել թագավորի խոսքերը՝ բեռը, որ սովորեցրեց նրա մայրը ⟨նրան⟩։",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "խոսքերը"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Լեմուելի"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավորի"
+    },
+    {
+      "surface": "משא",
+      "gloss": "բեռ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "սովորեցրեց"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "մայրը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:38:45.816375305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 6:12",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Էլիավ որդին, Յերոխամ որդին, Էլքանա որդին։",
+  "tokens": [
+    {
+      "surface": "אליאב",
+      "gloss": "Էլիավ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Յերոխամ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Էլքանա"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "որդին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:27.861976524Z",
+  "model": "glm-5.3"
+}

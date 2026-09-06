@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Եվ Շիմիի որդիները՝ Յախատը, Զինան, Յեուշը և Բերյան. այս չորսը Շիմիի որդիներն էին։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Եվ որդիները"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Շիմիի"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Յախատը"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "Զինան"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "և Յեուշը"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "և Բերյան"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիներն"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Շիմիի"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "չորսը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:37:12.251696404Z",
+  "model": "glm-5.3"
+}

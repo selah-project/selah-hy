@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 132,
+  "translation": "Դավթի՝ քո ծառայի համար մի շրջես երեսը դեպի քո Մաշիախից։",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "համար"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Դավթի"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ծառայդ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "շրջես"
+    },
+    {
+      "surface": "פני",
+      "gloss": "երեսը"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Մաշիախդ"
+    }
+  ],
+  "timestamp": "2026-09-06T01:17:33.550469407Z",
+  "model": "glm-5.3"
+}

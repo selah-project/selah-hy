@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "որդին Տախատի, որդին Ասիրի, որդին Էվյասաֆի, որդին Քորախի։",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "Տախատի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Ասիրի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "Էվյասաֆի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Քորախի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:56.588854694Z",
+  "model": "glm-5.3"
+}

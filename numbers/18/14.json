@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Ամեն նվիրվածը Իսրայելում քեզ կլինի։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "նվիրված"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Իսրայելում"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "կլինի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:22:11.052175676Z",
+  "model": "glm-5.3"
+}

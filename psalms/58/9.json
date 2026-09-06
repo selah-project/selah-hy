@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 58,
+  "translation": "Ինչպես խխունջ՝ հալվելով կգնա, կնոջ վիժունքի պես՝ որ երբեք չտեսավ արևը։",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "ինչպես"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "խխունջ"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "հալվելով"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "կգնա"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "վիժունքի պես"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "կնոջ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "տեսավ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "արևը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:05:23.545267686Z",
+  "model": "glm-5.3"
+}

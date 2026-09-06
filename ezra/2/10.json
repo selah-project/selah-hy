@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Բանիի որդիներ՝ վեց հարյուր քառասուներկու։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Բանիի"
+    },
+    {
+      "surface": "שש",
+      "gloss": "վեց"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "քառասուն"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "երկու"
+    }
+  ],
+  "timestamp": "2026-09-06T00:15:03.487712761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 10:7",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "ըստ քո գիտության, որ ես չարագործ չեմ, և քո ձեռքից փրկող չկա։",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ըստ"
+    },
+    {
+      "surface": "דעתך",
+      "gloss": "քո գիտության"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "չարագործ եմ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "և չկա"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "քո ձեռքից"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "փրկող"
+    }
+  ],
+  "timestamp": "2026-09-05T23:42:04.579375970Z",
+  "model": "glm-5.3"
+}

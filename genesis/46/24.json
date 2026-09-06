@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 46:24",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 46,
+  "translation": "Եվ Նաֆթալիի որդիները՝ Յախծել և Գունի և Յեցեր և Շիլեմ։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Նաֆթալիի"
+    },
+    {
+      "surface": "יחצאל",
+      "gloss": "Յախծել"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "և Գունի"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "և Յեցեր"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "և Շիլեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:30:42.168135129Z",
+  "model": "glm-5.3"
+}

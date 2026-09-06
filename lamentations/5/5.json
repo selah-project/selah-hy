@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Մեր պարանոցի վրա՝ հետապնդվեցինք․ հոգնեցինք, մեզ հանգիստ չտրվեց։",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "մեր պարանոց"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "հետապնդվեցինք"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "հոգնեցինք"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "հանգիստ տրվեց"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "մեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:10.941834601Z",
+  "model": "glm-5.3"
+}

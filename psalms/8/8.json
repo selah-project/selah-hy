@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "հոտը և եզները՝ բոլորն էլ, և նույնպես դաշտի անասունները.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "հոտը"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "և եզները"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "բոլորն էլ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "և նույնպես"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "անասունները"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "դաշտի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:40:04.119775352Z",
+  "model": "glm-5.3"
+}

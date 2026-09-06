@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "և ⟨את⟩ Բեթ Ծուրը (Բեթձոր), և ⟨את⟩ Սոխոն, և ⟨את⟩ Ադուլամը։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Բեթ Ծուրը"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Բեթ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Ծուրը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Սոխոն"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Սոխոն"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Ադուլամը"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Ադուլամը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:42:38.643175678Z",
+  "model": "glm-5.3"
+}

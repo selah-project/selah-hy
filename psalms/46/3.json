@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 46,
+  "translation": "Դրա համար չենք վախենա, երբ երկիրը փոխվի, և լեռները շարժվեն ծովերի սրտում։",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Դրա"
+    },
+    {
+      "surface": "כן",
+      "gloss": "համար"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "ենք վախենա"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "երբ փոխվի"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "և երբ շարժվեն"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "լեռները"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "սրտում"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ծովերի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:03:36.999376490Z",
+  "model": "glm-5.3"
+}

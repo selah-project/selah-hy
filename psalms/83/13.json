@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 83,
+  "translation": "որոնք ասացին՝ «կտիրենք մեզ ⟨את⟩ Էլոհիմի արոտավայրերը»։",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "որոնք"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ասացին"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "կտիրենք"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "մեզ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "արոտավայրերը"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "արոտավայրերը"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:11:44.721000135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Կալը և գինու տապը չեն կերակրի նրանց, և նոր գինին կստի իրենց մեջ։",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "կալը"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "և գինու տապը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չեն"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "կերակրի նրանց"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "և նոր գինին"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "կստի"
+    },
+    {
+      "surface": "בה",
+      "gloss": "իրենց մեջ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:34:17.031856013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ Նախշոնը ծնեց ⟨את⟩ Սալմային, և Սալման ծնեց ⟨את⟩ Բոազին։",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Եվ Նախշոնը"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Սալմային"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Սալմա"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "և Սալման"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Բոազին"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Բոազ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:26.883126424Z",
+  "model": "glm-5.3"
+}

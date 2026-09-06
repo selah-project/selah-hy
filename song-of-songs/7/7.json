@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 7:7",
+  "book": "song-of-songs",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Որքան գեղեցիկ ես և որքան հաճելի ես, սեր՝ հաճույքների մեջ։",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "որքան"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "գեղեցիկ ես"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "և որքան"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "հաճելի ես"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "սեր"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "հաճույքների մեջ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:54:38.319429072Z",
+  "model": "glm-5.3"
+}

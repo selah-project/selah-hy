@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Մի՛ հագնես շաատնեզ՝ բուրդ և վուշ միասին։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "հագնես"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "շաատնեզ"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "բուրդ"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "և վուշ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "միասին"
+    }
+  ],
+  "timestamp": "2026-09-05T19:42:23.747271968Z",
+  "model": "glm-5.3"
+}

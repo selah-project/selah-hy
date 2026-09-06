@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 77,
+  "translation": "Դու բռնեցիր աչքիս դրվագները, ցնցվեցի և չեմ խոսում։",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "բռնեցիր"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "դրվագները"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "աչքիս"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "ցնցվեցի"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չեմ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "խոսում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:09:44.829921451Z",
+  "model": "glm-5.3"
+}

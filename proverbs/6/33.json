@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 6:33",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Հարված և ամոթ կգտնի, և իր պատիժը չի ջնջվի։",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "հարված"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "և ամոթ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "կգտնի"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "և իր պատիժը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "תמחה",
+      "gloss": "ջնջվի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:25.241709987Z",
+  "model": "glm-5.3"
+}

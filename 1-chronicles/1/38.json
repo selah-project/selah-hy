@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 1:38",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Իսկ Սեիրի որդիները՝ Լոտան, Շովալ, Ծիբեոն, Անա, Դիշոն, Եծեր և Դիշան։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Իսկ որդիները"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Սեիրի"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Լոտան"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "և Շովալ"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "և Ծիբեոն"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "և Անա"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "և Դիշոն"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "և Եծեր"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "և Դիշան"
+    }
+  ],
+  "timestamp": "2026-09-06T00:26:47.689819136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 29:26",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Բազումներ են փնտրում տիրակալի երեսը, իսկ մարդու դատը Յահվեից ⟨է⟩։",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Բազումներ"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "փնտրում են"
+    },
+    {
+      "surface": "פני",
+      "gloss": "երեսը"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "տիրակալի"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "իսկ Յահվեից"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "դատը"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդու"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:43.266140102Z",
+  "model": "glm-5.3"
+}

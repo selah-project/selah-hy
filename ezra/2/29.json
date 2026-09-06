@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezra 2:29",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Նեվոյի որդիները՝ հիսուն երկու։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Նեվոյի"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "հիսուն"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "երկու"
+    }
+  ],
+  "timestamp": "2026-09-06T00:14:50.110864716Z",
+  "model": "glm-5.3"
+}

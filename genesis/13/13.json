@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 13:13",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Եվ Սդոմի մարդիկ չար էին և մեղավորներ՝ Յահվեի առջև՝ խիստ։",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "Եվ մարդիկ"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Սդոմի"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "չար"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "և մեղավորներ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեի առջև"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "խիստ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:12:25.172298568Z",
+  "model": "glm-5.3"
+}

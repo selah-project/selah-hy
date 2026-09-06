@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Քո հոր քրոջ մերկությունը չպետք է բացահայտես, որովհետև քո հոր միսն է նա։",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "մերկությունը"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "քրոջ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "քո հոր"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "բացահայտես"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "միսն է"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "քո հոր"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    }
+  ],
+  "timestamp": "2026-09-05T19:03:39.776908623Z",
+  "model": "glm-5.3"
+}

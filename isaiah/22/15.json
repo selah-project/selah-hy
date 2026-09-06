@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 22:15",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Այսպես ասաց Ադոնայ Յահվե Ծեվաոթը. գնա, մտի՛ր այս վերակացուի մոտ՝ Շեվնայի, որ տան վրա է․",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Այսպես"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ծեվաոթը"
+    },
+    {
+      "surface": "לך",
+      "gloss": "գնա"
+    },
+    {
+      "surface": "בא",
+      "gloss": "մտի՛ր"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "הסכן",
+      "gloss": "վերակացուի"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "על",
+      "gloss": "մոտ՝"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Շեվնայի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "տան"
+    }
+  ],
+  "timestamp": "2026-09-06T01:37:02.287926812Z",
+  "model": "glm-5.3"
+}

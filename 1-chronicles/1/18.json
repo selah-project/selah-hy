@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "և Արփախշադը ծնեց ⟨את⟩ Շալախին, և Շալախը ծնեց ⟨את⟩ Էվերին։",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "և Արփախշադը"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Շալախին"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Շալախին"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "և Շալախը"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Էվերին"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Էվերին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:14.244694629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 17:26",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Հենց այդ օրը թլփատվեց Աբրահամը (Աբրահամ) և Յիշմաելը՝ որդին։",
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "հենց"
+    },
+    {
+      "surface": "היום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "נמול",
+      "gloss": "թլփատվեց"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Աբրահամը (Աբրահամ)"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "և Յիշմաելը"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "որդին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:13:47.721489188Z",
+  "model": "glm-5.3"
+}

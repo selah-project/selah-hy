@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 31:25",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Ուժ և փառք են նրա հանդերձը, և նա ծիծաղում է վերջին օրվա ⟨համար⟩։",
+  "tokens": [
+    {
+      "surface": "עז",
+      "gloss": "Ուժ"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "և փառք"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "նրա հանդերձը"
+    },
+    {
+      "surface": "ותשחק",
+      "gloss": "և նա ծիծաղում է"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "օրվա"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "վերջին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:38:28.431248845Z",
+  "model": "glm-5.3"
+}

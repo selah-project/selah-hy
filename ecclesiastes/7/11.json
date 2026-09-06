@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Լավ է խելքը ժառանգության հետ, և օգուտ է արևը տեսնողների համար։",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "լավ է"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "խելքը"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ժառանգության"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "և օգուտ"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "տեսնողների համար"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "արևը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:49.229784221Z",
+  "model": "glm-5.3"
+}

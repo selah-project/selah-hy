@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 137,
+  "translation": "Ուռենիների վրա՝ դրա մեջ կախեցինք մեր քնարները։",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "ուռենիների"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "դրա մեջ"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "կախեցինք"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "մեր քնարները"
+    }
+  ],
+  "timestamp": "2026-09-05T23:26:07.889907930Z",
+  "model": "glm-5.3"
+}

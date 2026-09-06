@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 4:44",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ սա է Թորան, որ դրեց Մոշեն Իսրայելի որդիների առջև։",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Եվ սա"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Թորան"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "դրեց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:34:28.544849227Z",
+  "model": "glm-5.3"
+}

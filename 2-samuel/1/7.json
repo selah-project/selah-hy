@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 1:7",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ շուռ եկավ ետև, և տեսավ ինձ, և կանչեց ինձ, և ասացի. ահա ես։",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "և շուռ եկավ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ետև"
+    },
+    {
+      "surface": "ויראני",
+      "gloss": "և տեսավ ինձ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "և կանչեց"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "և ասացի"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ահա ես"
+    }
+  ],
+  "timestamp": "2026-09-05T20:29:40.562665277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 68,
+  "translation": "Էլոհիմի լեռն է Բաշանի լեռը, գագաթների լեռ է Բաշանի լեռը։",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "լեռ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմի"
+    },
+    {
+      "surface": "הר",
+      "gloss": "լեռ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Բաշանի"
+    },
+    {
+      "surface": "הר",
+      "gloss": "լեռ"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "գագաթների"
+    },
+    {
+      "surface": "הר",
+      "gloss": "լեռ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Բաշանի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:08:26.774341540Z",
+  "model": "glm-5.3"
+}

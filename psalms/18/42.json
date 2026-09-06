@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Բղավեցին, բայց փրկող չկար՝ Յահվեին, բայց չպատավեց նրանց։",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "բղավեցին"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "բայց չկար"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "փրկող"
+    },
+    {
+      "surface": "על",
+      "gloss": "՝"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "բայց ոչ"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "պատավեց նրանց"
+    }
+  ],
+  "timestamp": "2026-09-05T22:56:45.804022881Z",
+  "model": "glm-5.3"
+}

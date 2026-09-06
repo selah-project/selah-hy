@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 23:11",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Եթե լինի քեզ մեջ մարդ, որ մաքուր չլինի գիշերվա պատահարից, դուրս կգա դեպի ճամբարի դուրսը՝ չի մտնի դեպի ճամբարի մեջտեղը։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "בך",
+      "gloss": "քեզ մեջ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "մաքուր"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "պատահարից"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "գիշերվա"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "և դուրս կգա"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "դուրսը"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ճամբարի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "մտնի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "մեջտեղը"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ճամբարի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:43:35.646181521Z",
+  "model": "glm-5.3"
+}

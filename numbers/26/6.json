@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Խեցրոնի՝ Խեցրոնցի տոհմը; Կարմիի՝ Կարմիցի տոհմը։",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "Խեցրոնի"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "տոհմ"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "խեցրոնցի"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "Կարմիի"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "տոհմ"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "կարմիցի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:25:47.569925750Z",
+  "model": "glm-5.3"
+}

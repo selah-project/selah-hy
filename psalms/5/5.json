@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Որովհետև դու ոչ թե Էլ ես, որ չարիքով է ուրախանում. չարը քեզ մոտ չի բնակվի։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ուրախանում է"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "չարիքով"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "կբնակվի քեզ մոտ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չարը"
+    }
+  ],
+  "timestamp": "2026-09-05T22:52:15.107342302Z",
+  "model": "glm-5.3"
+}

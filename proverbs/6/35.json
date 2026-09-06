@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Ո՛չ որևէ փրկագնի դեմք չի բարձրացնի, ո՛չ կհամաձայնի, թեկուզ շատացնես կաշառքը։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ո՛չ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "չի բարձրացնի"
+    },
+    {
+      "surface": "פני",
+      "gloss": "դեմք"
+    },
+    {
+      "surface": "כל",
+      "gloss": "որևէ"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "փրկագնի"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ո՛չ"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "կհամաձայնի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "թեկուզ"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "շատացնես"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "կաշառքը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:25.242116853Z",
+  "model": "glm-5.3"
+}

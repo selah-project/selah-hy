@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 27:20",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Շեոլը և Աբադոնը չեն հագենում, և մարդու աչքերը չեն հագենում։",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Շեոլը"
+    },
+    {
+      "surface": "ואבדה",
+      "gloss": "և Աբադոնը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չեն"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "հագենում"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "և աչքերը"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չեն"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "հագենում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:01.634741985Z",
+  "model": "glm-5.3"
+}

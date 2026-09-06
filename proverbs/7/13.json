@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 7:13",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ բռնեց նրան և համբուրեց նրան, համարձակեց իր երեսը և ասաց նրան․",
+  "tokens": [
+    {
+      "surface": "והחזיקה",
+      "gloss": "և բռնեց"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "ונשקה",
+      "gloss": "և համբուրեց"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "העזה",
+      "gloss": "համարձակեց"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "իր երեսը"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-06T01:18:31.333679307Z",
+  "model": "glm-5.3"
+}

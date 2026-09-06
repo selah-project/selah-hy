@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Եվ Դավիդը (Դավիթ) ասաց նրան՝ եթե անցնես ⟨את⟩ ինձ հետ, դառնաս ինձ վրա բեռի։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Դավիդը"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "անցնես"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ինձ հետ",
+      "marks": "ինձ"
+    },
+    {
+      "surface": "והית",
+      "gloss": "դառնաս"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ինձ վրա"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "բեռի"
+    }
+  ],
+  "timestamp": "2026-09-05T20:37:07.320258516Z",
+  "model": "glm-5.3"
+}

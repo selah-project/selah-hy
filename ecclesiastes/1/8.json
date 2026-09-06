@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Բոլոր բաները հոգնալի են. մարդը չի կարող ասել. աչքը չի հագենում տեսնելուց, և ականջը չի լցվում լսելուց։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "բաները"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "հոգնալի են"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "կարող է"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդը"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ասել"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "չի հագենում"
+    },
+    {
+      "surface": "עין",
+      "gloss": "աչքը"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "տեսնելուց"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "չի լցվում"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ականջը"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "լսելուց"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:30.279509077Z",
+  "model": "glm-5.3"
+}

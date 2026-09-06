@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Որովհետև ով որ միացած է բոլոր կենդանիների հետ, հույս կա. որովհետև շունը՝ կենդանի, նա լավ է մեռած առյուծից։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ով"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "միացած է"
+    },
+    {
+      "surface": "אל",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "կենդանիների"
+    },
+    {
+      "surface": "יש",
+      "gloss": "կա"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "հույս"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "շանը"
+    },
+    {
+      "surface": "חי",
+      "gloss": "կենդանի"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "լավ է"
+    },
+    {
+      "surface": "מן",
+      "gloss": "քան"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "առյուծից"
+    },
+    {
+      "surface": "המת",
+      "gloss": "մեռած"
+    }
+  ],
+  "timestamp": "2026-09-06T00:02:48.923369187Z",
+  "model": "glm-5.3"
+}

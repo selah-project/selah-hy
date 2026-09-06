@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 11:38",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Եվ եթե ջուր դրվի սերմի վրա և նրանց լեշից ընկնի դրա վրա՝ անմաքուր է այն ձեզ համար։",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Եվ եթե"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "դրվի"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջուր"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "սերմ"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "և ընկնի"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "նրանց լեշից"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "դրա վրա"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "անմաքուր"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "է այն"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:00:39.684992227Z",
+  "model": "glm-5.3"
+}

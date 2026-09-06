@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Որդիներ և դուստրեր կծնես, բայց նրանք քո ⟨չեն լինի⟩, որովհետև գերի կգնան։",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "Որդիներ"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "և դուստրեր"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "կծնես"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "բայց ոչ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "չեն լինի"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քո"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "կգնան"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "գերի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:45:47.859080550Z",
+  "model": "glm-5.3"
+}

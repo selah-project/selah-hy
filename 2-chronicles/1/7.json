@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 1:7",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Այդ գիշեր Էլոհիմը երևյալ եղավ Շլոմոնին և ասաց նրան. «Խնդրի՛ր, թե ի՛նչ տամ քեզ»։",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "գիշեր"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "երևյալ եղավ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Շլոմոնին"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "խնդրի՛ր"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՛նչ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "տամ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:40:02.566760152Z",
+  "model": "glm-5.3"
+}

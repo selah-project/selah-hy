@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "և չորս մեծ գազաններ էին բարձրանում ծովից՝ տարբեր մեկը մյուսից։",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "և չորս"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "գազաններ"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "բարձրանում էին"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ծովից"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "ծով"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "տարբեր"
+    },
+    {
+      "surface": "דא",
+      "gloss": "մեկը"
+    },
+    {
+      "surface": "מן",
+      "gloss": "մյուսից"
+    },
+    {
+      "surface": "דא",
+      "gloss": "մյուս"
+    }
+  ],
+  "timestamp": "2026-09-06T00:13:30.470340016Z",
+  "model": "glm-5.3"
+}

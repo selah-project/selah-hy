@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Հիշի՛ր, Յահվե, ինչ եղավ մեզ; նայի’ր և տե’ս ⟨את⟩ մեր ամոթը։",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Հիշի՛ր"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ինչ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "մեզ"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "նայի’ր"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "և տե’ս"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "մեր ամոթը"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "մեր ամոթը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:03.899075739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Վաթսունն են թագուհիները, ութսունը՝ հարճերը, և կույսերը՝ առանց համարի։",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "Վաթսուն"
+    },
+    {
+      "surface": "המה",
+      "gloss": "են"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "թագուհիները"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ութսունը՝"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "հարճերը"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "և կույսերը՝"
+    },
+    {
+      "surface": "אין",
+      "gloss": "առանց"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "համարի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:53:16.268144016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 120,
+  "translation": "Հզորի սուր նետեր՝ բռնչենու ածուխների հետ։",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "նետեր"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "հզորի"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "սուր"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "ածուխների"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "բռնչենու"
+    }
+  ],
+  "timestamp": "2026-09-05T23:23:34.626505741Z",
+  "model": "glm-5.3"
+}

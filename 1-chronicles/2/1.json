@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Ահա Իսրայելի որդիները՝ Ռեուվեն, Շիմոն, Լևի և Յեհուդա, Իսաշար և Զվուլուն։",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ահա"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ռեուվեն"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Շիմոն"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Լևի"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "և Յեհուդա"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Իսաշար"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "և Զվուլուն"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:44.491668146Z",
+  "model": "glm-5.3"
+}

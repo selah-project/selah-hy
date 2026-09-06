@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ ասաց նրան. «Ամեն ինչ, ինչ ասես, կանեմ»։",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Ամեն ինչ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ինչ"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "ասես"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "կանեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:55:03.159208520Z",
+  "model": "glm-5.3"
+}

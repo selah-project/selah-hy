@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Ապա կքայլես ապահով քո ճանապարհով, և քո ոտքը չի բախվի։",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ապա"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "կքայլես"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ապահով"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "քո ճանապարհով"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "և քո ոտքը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "բախվի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:23.390659496Z",
+  "model": "glm-5.3"
+}

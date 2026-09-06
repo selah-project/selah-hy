@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Եվ ապրեց Էվերը չորս և երեսուն տարի, և ծնեց ⟨את⟩ Պելեգին։",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Եվ ապրեց"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Էվերը"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "չորս"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "և երեսուն"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "և ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Պելեգին"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Պելեգ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:12:06.667749748Z",
+  "model": "glm-5.3"
+}

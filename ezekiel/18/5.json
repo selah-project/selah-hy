@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Եվ մարդ, եթե լինի արդար, և անի դատաստան և արդարություն՝",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Եվ մարդ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "արդար"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "և անի"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "դատաստան"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "և արդարություն"
+    }
+  ],
+  "timestamp": "2026-09-05T22:14:21.047017922Z",
+  "model": "glm-5.3"
+}

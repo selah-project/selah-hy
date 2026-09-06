@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Եվ Մոշեն տվեց ⟨את⟩ Գիլադը Մախիրին՝ Մենաշեի որդուն, և նա բնակվեց այնտեղ։",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Եվ տվեց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Գիլադը"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Գիլադը"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "Մախիրին"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդուն"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Մենաշեի"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "և բնակվեց"
+    },
+    {
+      "surface": "בה",
+      "gloss": "այնտեղ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:29:06.884281400Z",
+  "model": "glm-5.3"
+}

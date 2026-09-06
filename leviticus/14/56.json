@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 14:56",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "և շեթի, և սապախաթի, և բահեթի համար։",
+  "tokens": [
+    {
+      "surface": "ולשאת",
+      "gloss": "և շեթի"
+    },
+    {
+      "surface": "ולספחת",
+      "gloss": "և սապախաթի"
+    },
+    {
+      "surface": "ולבהרת",
+      "gloss": "և բահեթի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:03:20.320871068Z",
+  "model": "glm-5.3"
+}

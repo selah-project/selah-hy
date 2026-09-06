@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Որովհետև ինչպես փշատերևների խուխունն է կաթսայի տակ, այնպես է հիմարի ծիծաղը. և սա էլ հաբել է։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "ինչպես ձայնը"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "փշատերևների"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "կաթսայի"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այնպես է"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "ծիծաղը"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "հիմարի"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "և նաև"
+    },
+    {
+      "surface": "זה",
+      "gloss": "սա"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "հաբել է"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:04.468631537Z",
+  "model": "glm-5.3"
+}

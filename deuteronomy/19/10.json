@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 19:10",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "և անմեղ արյուն չթափվի քո երկրի մեջ, որ Յահվե Էլոհիմդ տալիս է քեզ ժառանգություն, և եղի քո վրա արյուններ։",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "թափվի"
+    },
+    {
+      "surface": "דם",
+      "gloss": "արյուն"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "անմեղ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "մեջ"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "երկրիդ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Էլոհիմդ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "տալիս է"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ժառանգություն"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "և եղի"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "քո վրա"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "արյուններ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:41:38.973124286Z",
+  "model": "glm-5.3"
+}

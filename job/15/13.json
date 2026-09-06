@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 15:13",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Որ դեպի Էլ ես շրջում քո հոգին, և քո բերանից ես հանում խոսքեր՝",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ես շրջում"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլ"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "քո հոգին"
+    },
+    {
+      "surface": "והצאת",
+      "gloss": "և ես հանում"
+    },
+    {
+      "surface": "מפיך",
+      "gloss": "քո բերանից"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "խոսքեր"
+    }
+  ],
+  "timestamp": "2026-09-05T23:43:46.681550165Z",
+  "model": "glm-5.3"
+}

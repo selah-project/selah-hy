@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Եվ սպառի ապարդյուն ձեր ուժը, և ձեր երկիրը չտա ⟨את⟩ իր բերքը, և երկրի ծառը ոչ տա իր պտուղը։",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "և սպառի"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "ապարդյուն"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "ձեր ուժը"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "տա"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ձեր երկիրը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "իր բերքը"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "իր բերքը"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "և ծառը"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "տա"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "իր պտուղը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:10:18.720126208Z",
+  "model": "glm-5.3"
+}

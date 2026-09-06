@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 56,
+  "translation": "Օրը, երբ ես վախենամ՝ քեզ եմ վստահելու։",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "օրը, երբ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "վախենամ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "եմ վստահելու"
+    }
+  ],
+  "timestamp": "2026-09-05T23:05:40.346202228Z",
+  "model": "glm-5.3"
+}

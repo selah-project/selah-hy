@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Երկու ձիթենի կա դրա վրա՝ մեկը գնդի աջ կողմում և մեկը ձախ կողմում։",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "Երկու"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "ձիթենի"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "դրա վրա"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկը"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "աջ կողմում"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "գնդի"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "և մեկը"
+    },
+    {
+      "surface": "על",
+      "gloss": "ձախ կողմում"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "ձախ կողմում"
+    }
+  ],
+  "timestamp": "2026-09-05T22:48:08.433967175Z",
+  "model": "glm-5.3"
+}

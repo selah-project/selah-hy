@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 107,
+  "translation": "Քանի որ նա կոտրեց բրոնզե դռները և երկաթե ձողերը կտրեց։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "կոտրեց"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "դռները"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "բրոնզե"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "և ձողերը"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "երկաթե"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "կտրեց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:18:11.188247482Z",
+  "model": "glm-5.3"
+}

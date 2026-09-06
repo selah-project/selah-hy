@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 23:25",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Շամմա Հարոդցին, Էլիկա Հարոդցին․",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Շամմա"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "Հարոդցին"
+    },
+    {
+      "surface": "אליקא",
+      "gloss": "Էլիկա"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "Հարոդցին"
+    }
+  ],
+  "timestamp": "2026-09-05T20:41:56.766825609Z",
+  "model": "glm-5.3"
+}

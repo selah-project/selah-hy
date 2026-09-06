@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 40:35",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 40,
+  "translation": "Եվ բերեց ինձ դեպի հյուսիսի դարպասը, և չափեց ⟨այն⟩ այս չափերով։",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "բերեց ինձ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "שער",
+      "gloss": "դարպասը"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "հյուսիսի"
+    },
+    {
+      "surface": "ומדד",
+      "gloss": "չափեց"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "չափերով"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-05T22:26:43.767330003Z",
+  "model": "glm-5.3"
+}

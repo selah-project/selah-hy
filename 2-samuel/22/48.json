@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "2-samuel 22:48",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Հենց Էլն է՝ տվողը վրեժը ինձ, և իջեցնողը ժողովուրդներին իմ տակ։",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Էլը"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "տվողը"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "վրեժը"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "ומוריד",
+      "gloss": "և իջեցնողը"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ժողովուրդներին"
+    },
+    {
+      "surface": "תחתני",
+      "gloss": "իմ տակ"
+    }
+  ],
+  "timestamp": "2026-09-05T20:42:13.824902973Z",
+  "model": "glm-5.3"
+}

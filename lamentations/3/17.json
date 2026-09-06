@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ հեռացրեց խաղաղությունից Նեֆեշս՝ ես մոռացա բարիքը։",
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "և հեռացրեց"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "խաղաղությունից"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Նեֆեշս"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "ես մոռացա"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "բարիքը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:06.101229805Z",
+  "model": "glm-5.3"
+}

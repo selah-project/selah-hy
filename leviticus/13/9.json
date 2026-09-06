@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Բորբոսի ախտ երբ լինի մարդու վրա, նա բերվի քահանայի մոտ։",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "ախտ"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "բորբոսի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "մարդու վրա"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "նա բերվի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "քահանայի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:02:06.180919798Z",
+  "model": "glm-5.3"
+}

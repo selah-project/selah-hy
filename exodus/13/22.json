@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Չհեռացավ ամպի սյունը ցերեկը, ոչ էլ կրակի սյունը գիշերը՝ ժողովրդի առջևից։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "հեռացավ"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "սյունը"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ամպի"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ցերեկը"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "ոչ էլ սյունը"
+    },
+    {
+      "surface": "האש",
+      "gloss": "կրակի"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "գիշերը"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջևից"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովրդի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:39:41.484414051Z",
+  "model": "glm-5.3"
+}

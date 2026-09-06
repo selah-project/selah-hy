@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "և մարդկային անձ՝ տասնվեց հազար։",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "և անձ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդկային"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "տասն"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "վեց"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "հազար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:28:08.472707333Z",
+  "model": "glm-5.3"
+}

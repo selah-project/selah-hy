@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 7:13",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ եղավ՝ ինչպես կանչեց և չլսեցին, այնպես կկանչեն, և ես չեմ լսի, ասաց Յահվե Ծեվաոթ։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ինչպես"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "կանչեց"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "լսեցին"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այնպես"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "կկանչեն"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "չեմ լսի ես"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ծեվաոթ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:47:13.136439351Z",
+  "model": "glm-5.3"
+}

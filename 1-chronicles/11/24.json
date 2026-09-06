@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 11:24",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Այս արեց Բնայահուն՝ Յեհոյադայի որդին, և նրան անուն կար երեք հզորների մեջ։",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Այս"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արեց"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Բնայահուն"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Յեհոյադայի"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "և նրան"
+    },
+    {
+      "surface": "שם",
+      "gloss": "անուն"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "հզորների մեջ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:32:36.842632056Z",
+  "model": "glm-5.3"
+}

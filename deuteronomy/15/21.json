@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 15:21",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Եվ եթե լինի նրա մեջ արատ՝ կաղ կամ կույր, որևէ չար արատ, չմորթես այն Յահվեի՝ քո Էլոհիմի համար։",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Եվ եթե"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրա մեջ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "արատ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "կաղ"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "կույր"
+    },
+    {
+      "surface": "כל",
+      "gloss": "որևէ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "արատ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չար"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "תזבחנו",
+      "gloss": "մորթես այն"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Էլոհիմդ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:38:37.352951911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Այն օրը եկավ սպանվածների թիվը՝ Շուշան բերդում, թագավորի առջև։",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "այն օրը"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "בא",
+      "gloss": "եկավ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "թիվը"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "սպանվածների"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "Շուշան"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "բերդում"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "թագավորի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:05:37.250504972Z",
+  "model": "glm-5.3"
+}

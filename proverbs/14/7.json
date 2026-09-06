@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 14:7",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Հեռու արա հիմար մարդուց, երբ նրա մեջ գիտության շուրթեր չեն ճանաչում։",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Արա\/գնա"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "Հեռու\/առջևից"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "մարդուց"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "հիմար"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "երբ չես"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ճանաչում"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "շուրթեր"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "գիտության"
+    }
+  ],
+  "timestamp": "2026-09-05T23:32:09.847044913Z",
+  "model": "glm-5.3"
+}

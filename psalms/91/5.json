@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 91,
+  "translation": "Չես վախենա գիշերվա սարսափից, ցերեկը թռչող նետից։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "վախենաս"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "սարսափից"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "գիշերվա"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "նետից"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "թռչող"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ցերեկը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:15:07.253201752Z",
+  "model": "glm-5.3"
+}

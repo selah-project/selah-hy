@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Քո բոլոր ծառերը և քո հողի պտուղը կնվաճի ծղրիդը։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "ծառերդ"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "և պտուղ"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "հողիդ"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "կնվաճի"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "ծղրիդը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:45:47.859278985Z",
+  "model": "glm-5.3"
+}

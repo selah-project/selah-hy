@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Երբ առաջանա ձեր մեջ Նավի (մարգարե) կամ երազ տեսնող, և տա ձեզ նշան կամ հրաշք,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "առաջանա"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ձեր մեջ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "Նավի"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "երազ տեսնող"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "երազ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "և տա"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "אות",
+      "gloss": "նշան"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "հրաշք"
+    }
+  ],
+  "timestamp": "2026-09-05T19:38:53.821229599Z",
+  "model": "glm-5.3"
+}

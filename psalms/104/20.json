@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 104,
+  "translation": "Դնում ես խավար, և գիշեր է լինում, որի մեջ անտառի ամեն գազան սողում է։",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "դնում ես"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "խավար"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "և լինում է"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "գիշեր"
+    },
+    {
+      "surface": "בו",
+      "gloss": "որի մեջ"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "սողում է"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "գազան"
+    },
+    {
+      "surface": "יער",
+      "gloss": "անտառի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:16:43.844845830Z",
+  "model": "glm-5.3"
+}

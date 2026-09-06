@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Երբ մշակես ⟨את⟩ հողը, նա այլևս չի տա իր ուժը քեզ. թափառական ու մեկնվող կլինես երկրի վրա։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "մշակես"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "հողը"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "հողը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "այլևս"
+    },
+    {
+      "surface": "תת",
+      "gloss": "կտա"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "իր ուժը"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "נע",
+      "gloss": "թափառական"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "և մեկնվող"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "կլինես"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրի վրա"
+    }
+  ],
+  "timestamp": "2026-09-05T18:08:37.084636706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 144,
+  "translation": "Որոնց բերանը սուտ է խոսում, և նրանց աջ ձեռքը աջ ձեռք է ստի։",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "որոնց"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "նրանց բերանը"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսում է"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "սուտ"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "և նրանց աջ ձեռքը"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "աջ ձեռք"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "սուտ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:27:23.573716388Z",
+  "model": "glm-5.3"
+}

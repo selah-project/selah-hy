@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Յահվեն, մեր Էլոհիմը, խոսեց մեզ հետ Խորեվում՝ ասելով. Բավական է ձեզ՝ այս լեռան վրա բնակված մնալը.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "մեր Էլոհիմը"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսեց"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "մեզ հետ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Խորեվում"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    },
+    {
+      "surface": "רב",
+      "gloss": "բավական"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "բնակված մնալը"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "լեռան վրա"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-05T19:32:18.454493189Z",
+  "model": "glm-5.3"
+}

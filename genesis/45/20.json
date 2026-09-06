@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 45:20",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 45,
+  "translation": "և ձեր աչքը թող մի խնայի ձեր իրերի վրա, քանի որ Միցրայիմի ամբողջ երկրի բարիքը ձեզն ⟨է⟩։",
+  "tokens": [
+    {
+      "surface": "ועינכם",
+      "gloss": "և ձեր աչքը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "խնայի"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "כליכם",
+      "gloss": "իրերդ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "բարիքը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Միցրայիմի"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզն"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨է⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T18:32:13.297870260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 48,
+  "translation": "Եվ Դանի սահմանի վրայից՝ արևելքի կողմից մինչև ծովի կողմը. Աշեր ⟨է⟩ մեկ։",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Եվ վրայից"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "սահմանի"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Դանի"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "կողմից"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "արևելքի"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "կողմը"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ծովի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Աշեր"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:29:52.811962222Z",
+  "model": "glm-5.3"
+}

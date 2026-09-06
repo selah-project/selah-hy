@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "և Ուզզին ծնեց ⟨את⟩ Զերախյահին, և Զերախյահը ծնեց ⟨את⟩ Մերայոտին։",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "և Ուզզին"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Զերախյահին"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Զերախյահին"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "և Զերախյահը"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Մերայոտին"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Մերայոտին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:10.202705584Z",
+  "model": "glm-5.3"
+}

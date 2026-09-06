@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 84:13",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 84,
+  "translation": "Յահվե Ծեվաոթ, երանելի ⟨է⟩ մարդը, որ ապավինում է քեզ։",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ծեվաոթ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "երանելի"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդը"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ապավինում է"
+    },
+    {
+      "surface": "בך",
+      "gloss": "քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:12:28.020487060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 118,
+  "translation": "Ես չեմ մեռնելու, այլ ապրելու եմ, և պատմելու եմ Յահ-ի գործերը։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ես չեմ մեռնելու"
+    },
+    {
+      "surface": "כי",
+      "gloss": "այլ"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ապրելու եմ"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "և պատմելու եմ"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "…-ի գործերը"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Յահ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:36.767767350Z",
+  "model": "glm-5.3"
+}

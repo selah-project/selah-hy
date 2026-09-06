@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Որովհետև դեպի երկինք եմ բարձրացնում իմ ձեռքը և ասում. Որքան ես ապրում՝ հավիտյան։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "բարձրացնում եմ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "երկինք"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "իմ ձեռքը"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "և ասում եմ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ապրող"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ես"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "հավիտյան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:48:04.013363892Z",
+  "model": "glm-5.3"
+}

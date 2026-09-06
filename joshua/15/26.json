@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 15:26",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Ամամ, և Շեմա, և Մոլադա",
+  "tokens": [
+    {
+      "surface": "אמם",
+      "gloss": "Ամամ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "և Շեմա"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "և Մոլադա"
+    }
+  ],
+  "timestamp": "2026-09-05T19:57:01.647610968Z",
+  "model": "glm-5.3"
+}

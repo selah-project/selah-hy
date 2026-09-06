@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 48,
+  "translation": "և Դիբոնի, և Նեվոյի, և Բեթ-Դիբլատայիմի (Բեթ-Դեբլաթայիմ) վրա։",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "և վրա"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "Դիբոնի"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "և վրա"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Նեվոյի"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "և վրա"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Բեթ-"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "Դիբլատայիմի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:02:58.869849475Z",
+  "model": "glm-5.3"
+}

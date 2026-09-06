@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Մի հանձնես ծառային իր տիրոջ մոտ, որ փրկվի քեզ մոտ՝ իր տիրոջից։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Մի"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "հանձնես"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ծառային"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "իր տիրոջը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "փրկվի"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "քեզ մոտ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "իր"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "տիրոջից"
+    }
+  ],
+  "timestamp": "2026-09-05T19:43:52.709685561Z",
+  "model": "glm-5.3"
+}

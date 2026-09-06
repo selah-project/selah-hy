@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "genesis 31:48",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Եվ ասաց Լավանը՝ այս կույտը վկա է իմ և քո միջև այսօր, դրա համար կոչվեց նրա անունը Գալեդ։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Լավանը"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "կույտը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "עד",
+      "gloss": "վկա"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "իմ մեջ"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "և քո միջև"
+    },
+    {
+      "surface": "היום",
+      "gloss": "այսօր"
+    },
+    {
+      "surface": "על",
+      "gloss": "դրա վրա"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այդ պատճառով"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "կոչեց"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "նրա անունը"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Գալեդ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:23:30.891201568Z",
+  "model": "glm-5.3"
+}

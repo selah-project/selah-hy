@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ Շալումը ծնեց ⟨את⟩ Յեկամյահին, և Յեկամյահը ծնեց ⟨את⟩ Էլիշամաին։",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Եվ Շալումը"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յեկամյահին"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Յեկամյահին"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "և Յեկամյահը"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Էլիշամաին"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Էլիշամաին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:02.306769394Z",
+  "model": "glm-5.3"
+}

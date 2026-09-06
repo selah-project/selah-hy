@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 10:31",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Փախավ Մադմենան, Գեբիմի բնակիչները ամրացան։",
+  "tokens": [
+    {
+      "surface": "נדדה",
+      "gloss": "Փախավ"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "Մադմենան"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "բնակիչները"
+    },
+    {
+      "surface": "הגבים",
+      "gloss": "Գեբիմի"
+    },
+    {
+      "surface": "העיזו",
+      "gloss": "ամրացան"
+    }
+  ],
+  "timestamp": "2026-09-05T21:17:28.740552643Z",
+  "model": "glm-5.3"
+}

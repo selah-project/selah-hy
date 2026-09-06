@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "⟨את⟩ ծովը՝ մեկ, և ⟨את⟩ ցուլերը՝ տասներկու՝ դրա տակ։",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ծովը"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ծովը"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "ցուլերը"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ցուլերը"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "տասներկու (երկու)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "տասներկու (տաս)"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "դրա տակ"
+    }
+  ],
+  "timestamp": "2026-09-06T02:52:36.641782944Z",
+  "model": "glm-5.3"
+}

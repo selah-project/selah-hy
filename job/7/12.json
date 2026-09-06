@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Ծո՞վ եմ ես, թե ծովահրեշ, որ ինձ վրա հսկություն ես դնում։",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "ծո՞վ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "եմ ես"
+    },
+    {
+      "surface": "אם",
+      "gloss": "թե"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "ծովահրեշ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ես դնում"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ինձ վրա"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "հսկություն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:40:24.460941102Z",
+  "model": "glm-5.3"
+}

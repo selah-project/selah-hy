@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Եվ եթե տարածվի այն մաշկի վրա, քահանան կպիտակի ⟨את⟩ ⟨նրան⟩ որպես անմաքուր. վարակ է դա։",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Եվ եթե"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "տարածվի"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "տարածվի"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "մաշկի վրա"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "կպիտակի անմաքուր"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "քահանան"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "նրան"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "վարակ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "է դա"
+    }
+  ],
+  "timestamp": "2026-09-05T19:01:58.338880115Z",
+  "model": "glm-5.3"
+}

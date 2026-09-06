@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 13:26",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Եվ եթե տեսնի քահանան, և ահա՝ բծի վրա սպիտակ մազ չկա, և այն մաշկից խորը չէ, այլ խամրած է, ապա կփակի նրան քահանան յոթ օր։",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "և եթե"
+    },
+    {
+      "surface": "יראנה",
+      "gloss": "տեսնի"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "քահանան"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "և ահա"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "בבהרת",
+      "gloss": "բծի վրա"
+    },
+    {
+      "surface": "שער",
+      "gloss": "մազ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "սպիտակ"
+    },
+    {
+      "surface": "ושפלה",
+      "gloss": "և խորը"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "չէ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "քան"
+    },
+    {
+      "surface": "העור",
+      "gloss": "մաշկից"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "և այն"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "խամրած"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "կփակի"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "քահանան"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    }
+  ],
+  "timestamp": "2026-09-05T19:02:54.010024640Z",
+  "model": "glm-5.3"
+}

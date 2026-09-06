@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ Դանիելը մնաց մինչև Կյուրոս (Կորես) արքայի առաջին տարին։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Դանիելը"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "տարին"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "առաջին"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "Կյուրոսի (Կորես)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "արքայի"
+    }
+  ],
+  "timestamp": "2026-09-06T02:09:43.730225756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Երբ գիշերով ամպիր էր իջնում ճամբարի վրա, մանն էլ իջնում էր դրա վրա։",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "Երբ իջնում էր"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "ամպիրը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ճամբարի"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "գիշերով"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "իջնում էր"
+    },
+    {
+      "surface": "המן",
+      "gloss": "մանը"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "դրա վրա"
+    }
+  ],
+  "timestamp": "2026-09-05T19:18:43.099442614Z",
+  "model": "glm-5.3"
+}

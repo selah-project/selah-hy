@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Բոլորը շեղվեցին, միասին պղծվեցին. չկա բարի գործող, չկա ⟨նույնիսկ⟩ մեկը։",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Բոլորը"
+    },
+    {
+      "surface": "סר",
+      "gloss": "շեղվեցին"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "միասին"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "պղծվեցին"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "գործող"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "բարի"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "גם",
+      "gloss": "նույնիսկ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկը"
+    }
+  ],
+  "timestamp": "2026-09-05T22:54:54.732260414Z",
+  "model": "glm-5.3"
+}

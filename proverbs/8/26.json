@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 8:26",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Մինչ դեռ ոչ երկիրը էր արել և ոչ դաշտերը, և ոչ աշխարհի փոշիների սկիզբը։",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Մինչ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "էր արել"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "וחוצות",
+      "gloss": "և դաշտերը"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "և սկիզբը"
+    },
+    {
+      "surface": "עפרות",
+      "gloss": "փոշիների"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "աշխարհի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:30:48.784207863Z",
+  "model": "glm-5.3"
+}

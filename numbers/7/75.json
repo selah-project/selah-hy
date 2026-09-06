@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "numbers 7:75",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "մեկ ցուլ՝ երկրի որդի, մեկ խոյ, մեկ գառ՝ մեկ տարեկան՝ օլայի համար։",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ցուլ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "איל",
+      "gloss": "խոյ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "գառ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "մեկ տարեկան"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "օլայի համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:15:51.479680683Z",
+  "model": "glm-5.3"
+}

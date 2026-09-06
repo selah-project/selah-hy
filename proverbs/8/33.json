@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Լսե՛ք ծանուցումը և իմաստուն եղե՛ք, և մի՛ արհամարհեք ⟨այն⟩։",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Լսե՛ք"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ծանուցումը"
+    },
+    {
+      "surface": "וחכמו",
+      "gloss": "և իմաստուն եղե՛ք"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և մի՛"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "արհամարհեք ⟨այն⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T23:30:10.410969212Z",
+  "model": "glm-5.3"
+}

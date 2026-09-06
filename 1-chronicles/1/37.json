@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Րեուելի որդիները՝ Նախատ, Զերախ, Շամմա և Միզզա։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Րեուելի"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "Նախատ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Զերախ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Շամմա"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "և Միզզա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:26:47.689557769Z",
+  "model": "glm-5.3"
+}

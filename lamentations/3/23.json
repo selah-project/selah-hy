@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Նոր են առավոտների համար, մեծ է քո հավատարմությունդ։",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "Նոր"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "առավոտների համար"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "քո հավատարմությունդ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:55.990265352Z",
+  "model": "glm-5.3"
+}

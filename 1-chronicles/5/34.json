@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Իսկ Ախիտուբը ծնեց ⟨את⟩ Ցադոկին (Ցադոկ), և Ցադոկը ծնեց ⟨את⟩ Ախիմաածին։",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "իսկ Ախիտուբը"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ցադոկին"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Ցադոկին"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "և Ցադոկը"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ախիմաածին"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ախիմաածին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:05.681261264Z",
+  "model": "glm-5.3"
+}

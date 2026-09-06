@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 23:8",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Քո կտորը, որ կերել ես, կփսխես, և կկորցնես քո հաճելի խոսքերը։",
+  "tokens": [
+    {
+      "surface": "פתך",
+      "gloss": "քո կտորը"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "կերել ես"
+    },
+    {
+      "surface": "תקיאנה",
+      "gloss": "կփսխես"
+    },
+    {
+      "surface": "ושחת",
+      "gloss": "և կկորցնես"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "քո խոսքերը"
+    },
+    {
+      "surface": "הנעימים",
+      "gloss": "հաճելի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:03.509144115Z",
+  "model": "glm-5.3"
+}

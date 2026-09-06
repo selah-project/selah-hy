@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 13:1",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Այսպես ասաց Յահվե ինձ՝ գնա և գնիր քեզ կտավե գոտի, և դիր այն քո մեջքին, և ջուրը մի՛ տանիր այն։",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Այսպես"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "գնա"
+    },
+    {
+      "surface": "וקנית",
+      "gloss": "և գնիր"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "գոտի"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "կտավե"
+    },
+    {
+      "surface": "ושמתו",
+      "gloss": "և դիր այն"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "քո մեջքին"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "և ջուրը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תבאהו",
+      "gloss": "տանիր այն"
+    }
+  ],
+  "timestamp": "2026-09-05T21:46:43.757919096Z",
+  "model": "glm-5.3"
+}

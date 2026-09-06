@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 48,
+  "translation": "Իսրայելը տեսավ ⟨את⟩ Հովսեփի որդիներին և ասաց. «Ովքե՞ր են սրանք»։",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "և տեսավ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Հովսեփի որդիներին"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիներին"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Հովսեփի"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ովքե՞ր"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "սրանք"
+    }
+  ],
+  "timestamp": "2026-09-05T18:32:45.762942274Z",
+  "model": "glm-5.3"
+}

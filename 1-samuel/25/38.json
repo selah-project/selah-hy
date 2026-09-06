@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Եվ եղավ տասը օր հետո, և հարվածեց Յահվե ⟨את⟩ Նավալին, և նա մեռավ։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "տասը"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "օր հետո"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "և հարվածեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Նավալին"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Նավալին"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "և մեռավ"
+    }
+  ],
+  "timestamp": "2026-09-05T20:28:24.897645486Z",
+  "model": "glm-5.3"
+}

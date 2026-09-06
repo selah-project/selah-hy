@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "և Իվխար, և Էլիշամա, և Էլիֆալեթ",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "և Իվխար"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "և Էլիշամա"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "և Էլիֆալեթ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:28:32.388696970Z",
+  "model": "glm-5.3"
+}

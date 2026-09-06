@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 47,
+  "translation": "Եվ ասաց Փարավոնը Յոսեֆին՝ ասելով. հայրդ և եղբայրներդ եկել են քեզ մոտ․",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Փարավոնը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Յոսեֆին"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "հայրդ"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "և եղբայրներդ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "եկել են"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "քեզ մոտ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:31:35.543053851Z",
+  "model": "glm-5.3"
+}

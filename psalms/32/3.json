@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Երբ լռեցի, հնացան իմ ոսկորները իմ ոռնոցից ամբողջ օրը։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Երբ"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "լռեցի"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "հնացան"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "իմ ոսկորները"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "իմ ոռնոցից"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "օրը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:00:33.384047302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Եվ Իշայը անցկացրեց Շամային, և նա ասաց՝ նաև այսի մեջ չընտրեց Յահվեն։",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "և անցկացրեց"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Իշայ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Շամային"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "גם",
+      "gloss": "նաև"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "այսի մեջ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ընտրեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T20:21:30.469639256Z",
+  "model": "glm-5.3"
+}

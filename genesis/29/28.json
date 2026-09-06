@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 29:28",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Եվ Յաակովը արեց այսպես և լրացրեց այս շաբաթը, և տվեց նրան ⟨את⟩ Ռախելին՝ իր դստերը, նրան կնոջ։",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "և արեց"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Յաակովը"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այսպես"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "և լրացրեց"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "շաբաթը"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "այս"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "և տվեց"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ռախելին"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Ռախելին"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "իր դստերը"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "կնող"
+    }
+  ],
+  "timestamp": "2026-09-05T18:21:32.373184280Z",
+  "model": "glm-5.3"
+}

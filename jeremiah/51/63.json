@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "jeremiah 51:63",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 51,
+  "translation": "Եվ եղած՝ երբ ավարտես կարդալ ⟨את⟩ այս մատյանը, կկապես նրա վրա քար",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "և եղած լինի"
+    },
+    {
+      "surface": "ככלתך",
+      "gloss": "երբ ավարտես"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "կարդալ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այս մատյանը"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "մատյան"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "תקשר",
+      "gloss": "կկապես"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "նրա վրա"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "քար"
+    },
+    {
+      "surface": "והשלכתו",
+      "gloss": "և կնետես այն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "մեջ"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Պերատ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:05:52.121915781Z",
+  "model": "glm-5.3"
+}

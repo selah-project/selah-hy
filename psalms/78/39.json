@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 78,
+  "translation": "և հիշեց, որ մարմին են նրանք՝ հոգի, որ գնում է և ոչ ետ է գալիս։",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "և հիշեց"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "մարմին"
+    },
+    {
+      "surface": "המה",
+      "gloss": "նրանք են"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "հոգի"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "գնում է"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ետ է գալիս"
+    }
+  ],
+  "timestamp": "2026-09-05T23:11:03.035977296Z",
+  "model": "glm-5.3"
+}

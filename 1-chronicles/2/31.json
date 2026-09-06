@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 2:31",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ Ապայիմի որդիները՝ Իշին, և Իշիի որդիները՝ Շեշանը, և Շեշանի որդիները՝ Ախլային։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "Ապայիմի"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Իշին"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Իշիի"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "Շեշանը"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "Շեշանի"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Ախլային"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:30.373295626Z",
+  "model": "glm-5.3"
+}

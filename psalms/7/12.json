@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Էլոհիմը դատող արդար ⟨է⟩, և Էլ՝ զայրացող ամեն օր։",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "դատող"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "արդար"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և Էլ"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "զայրացող"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    }
+  ],
+  "timestamp": "2026-09-05T22:51:58.507140109Z",
+  "model": "glm-5.3"
+}

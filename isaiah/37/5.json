@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 37,
+  "translation": "Եվ եկան Խիզկիյահու արքայի ծառաները Եշայահուի մոտ։",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "եկան"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ծառաները"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "արքայի"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Խիզկիյահուի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Եշայահուի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:28:08.097031780Z",
+  "model": "glm-5.3"
+}

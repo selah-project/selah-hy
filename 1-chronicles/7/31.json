@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ Բերիայի որդիները՝ Խեբերը և Մալքիելը. նա ⟨է⟩ Բիրզոթի հայրը։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "Բերիայի"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "Խեբեր"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "և Մալքիել"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "հայրը"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "Բիրզոթ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:31:09.030956865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Հիմարի բերանը նրա կործանումն է, և նրա շուրթերը նրա Նեֆեշի ծուղակն են։",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "բերանը"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "հիմարի"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "կործանում"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրա"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "և նրա շուրթերը"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "ծուղակ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "նրա Նեֆեշի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:33:45.609559974Z",
+  "model": "glm-5.3"
+}

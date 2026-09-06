@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 63,
+  "translation": "Կպել է իմ նեֆեշը քո հետևից, ինձ է պահում քո աջ ձեռքը։",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "կպել է"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "իմ նեֆեշը"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "քո հետևից"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "պահում է"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "քո աջ ձեռքը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:06:34.005921858Z",
+  "model": "glm-5.3"
+}

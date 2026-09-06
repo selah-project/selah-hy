@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ անձրևը եղավ երկրի վրա քառասուն օր և քառասուն գիշեր։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "անձրևը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "քառասուն"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "և քառասուր"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "գիշեր"
+    }
+  ],
+  "timestamp": "2026-09-05T18:09:48.293299298Z",
+  "model": "glm-5.3"
+}

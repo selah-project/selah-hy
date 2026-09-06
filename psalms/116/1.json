@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 116,
+  "translation": "Սիրեցի, քանի որ լսում է Յահվե ⟨את⟩ ձայնս՝ աղաչանքներս։",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Սիրեցի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "լսում է"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ձայնս"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ձայնս"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "աղաչանքներս"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:49.553432985Z",
+  "model": "glm-5.3"
+}

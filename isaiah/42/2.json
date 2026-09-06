@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 42,
+  "translation": "Ոչ կճչա, և ոչ կբարձրացնի, և ոչ կլսեցնի դրսում իր ձայնը։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "կճչա"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "կբարձրացնի"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "կլսեցնի"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "դրսում"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "իր ձայնը"
+    }
+  ],
+  "timestamp": "2026-09-05T21:30:41.117180101Z",
+  "model": "glm-5.3"
+}

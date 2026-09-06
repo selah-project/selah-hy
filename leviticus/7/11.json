@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ սա ⟨է⟩ խաղաղության զոհերի Թորան, որ մատուցվում է Յահվեին։",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Եվ սա"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Թորան"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "զոհի"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "խաղաղության"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "մատուցվում է"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:58:11.723253664Z",
+  "model": "glm-5.3"
+}

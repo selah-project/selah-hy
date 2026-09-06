@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ կ’դնես վրան յուղ, և կ’դնես վրան խունկ. ընծա է նա։",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Եվ կ’դնես"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "վրան"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "յուղ"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "և կ’դնես"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "վրան"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "խունկ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ընծա"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "է նա"
+    }
+  ],
+  "timestamp": "2026-09-05T18:56:24.614950045Z",
+  "model": "glm-5.3"
+}

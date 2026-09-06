@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 4:6",
+  "book": "song-of-songs",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Մինչև որ շունչ քաշի օրը և փախչեն ստվերները՝ ես կգնամ դեպի դառչավի լեռը և դեպի խնկի բլուրը։",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Մինչև որ"
+    },
+    {
+      "surface": "שיפוח",
+      "gloss": "շունչ քաշի"
+    },
+    {
+      "surface": "היום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "և փախչեն"
+    },
+    {
+      "surface": "הצללים",
+      "gloss": "ստվերները"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ես կգնամ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨իմ անձը⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "הר",
+      "gloss": "լեռը"
+    },
+    {
+      "surface": "המור",
+      "gloss": "դառչավի"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և դեպի"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "բլուրը"
+    },
+    {
+      "surface": "הלבונה",
+      "gloss": "խնկի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:53:36.512130042Z",
+  "model": "glm-5.3"
+}

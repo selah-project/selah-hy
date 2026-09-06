@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Եվ Արամը տեսավ, որ պարտվել է Իսրայելի առջև, և հավաքվեցին միասին։",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "տեսավ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Արամը"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "պարտվել է"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "հավաքվեցին"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "միասին"
+    }
+  ],
+  "timestamp": "2026-09-05T20:34:11.350253596Z",
+  "model": "glm-5.3"
+}

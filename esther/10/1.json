@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Եվ թագավոր Աղաշվերոշը հարկ դրեց երկրի և ծովի կղզիների վրա։",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "դրեց"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Աղաշվերոշ"
+    },
+    {
+      "surface": "מס",
+      "gloss": "հարկ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "և կղզիների"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ծովի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:05:26.208434150Z",
+  "model": "glm-5.3"
+}

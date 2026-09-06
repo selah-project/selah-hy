@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 37:16",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 37,
+  "translation": "Երբ Երմիյահուն եկավ փոսի տունը՝ և խցերը, Երմիյահուն նստեց այնտեղ շատ օրեր։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Երբ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "եկավ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Երմիյահուն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տունը"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "փոսի"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և դեպի"
+    },
+    {
+      "surface": "החניות",
+      "gloss": "խցերը"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "և նստեց"
+    },
+    {
+      "surface": "שם",
+      "gloss": "այնտեղ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Երմիյահուն"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օրեր"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "շատ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:58:11.619108948Z",
+  "model": "glm-5.3"
+}

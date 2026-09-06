@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Գծից և շեքարից կ’առանձնանա. գծի քացախ և շեքարի քացախ չի խմի, և ոչ մի խաղողի հյութ չի խմի, և թարմ ու չոր խաղող չի ուտի.",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "Գծից"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "և շեքարից"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "կ’առանձնանա"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "քացախ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "գծի"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "և քացախ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "շեքարի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "խմի"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "և ոչ մի"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "հյութ"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "խաղողի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "խմի"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "և խաղող"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "թարմ"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "և չոր"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ուտի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:15:28.410456362Z",
+  "model": "glm-5.3"
+}

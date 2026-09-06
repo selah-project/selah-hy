@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Քանի որ ոչ իր սրտից է ճնշել, և ոչ էլ տրտմացրել է մարդկանց որդիներին։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ճնշել"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "իր սրտից"
+    },
+    {
+      "surface": "ויגה",
+      "gloss": "և տրտմացրեց"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդու"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:58.794360030Z",
+  "model": "glm-5.3"
+}

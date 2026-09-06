@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 21:12",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Այնտեղից ճանապարհ ընկան և բանակեցին Զերեդի հոսքում։",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "այնտեղից"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "ճանապարհ ընկան"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "և բանակեցին"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "հոսքում"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Զերեդի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:22:19.253440892Z",
+  "model": "glm-5.3"
+}

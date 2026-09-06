@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Հորը և մորը կողոպտողը և ասողը՝ «Ապստամբություն չկա», ընկեր է կործանող մարդու հետ։",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "կողոպտող"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "հորը"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "և մորը"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "և ասողը"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ապստամբություն"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ընկեր"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "կործանող"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:49.417289273Z",
+  "model": "glm-5.3"
+}

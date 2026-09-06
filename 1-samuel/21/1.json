@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եվ վեր կացավ և գնաց, իսկ Յեհոնատանը քաղաք մտավ։",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "և վեր կացավ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "և գնաց"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "իսկ Յեհոնատանը"
+    },
+    {
+      "surface": "בא",
+      "gloss": "մտավ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "քաղաք"
+    }
+  ],
+  "timestamp": "2026-09-05T20:25:23.225456546Z",
+  "model": "glm-5.3"
+}

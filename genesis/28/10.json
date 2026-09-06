@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Եվ դուրս եկավ Յաակովը (Հակոբ) Բեեր-Շևայից և գնաց Խարան։",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Եվ դուրս եկավ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Յաակովը"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "Բեեր-Շևայից"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "(Շևա)"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "և գնաց"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "Խարան"
+    }
+  ],
+  "timestamp": "2026-09-05T18:20:57.470386843Z",
+  "model": "glm-5.3"
+}

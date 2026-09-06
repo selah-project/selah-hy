@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Երգչախմբի ղեկավարին. Դավիդի (Դավիթ) սաղմոսը։",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "երգչախմբի ղեկավարին"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "սաղմոս"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Դավիդի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:57:17.291143397Z",
+  "model": "glm-5.3"
+}

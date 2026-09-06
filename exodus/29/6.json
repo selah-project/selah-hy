@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Եվ կդնես գլխարանքը նրա գլխի վրա, և կդնես ⟨את⟩ սրբության պսակը գլխարանքի վրա։",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "կդնես"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "գլխարանքը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "նրա գլխի"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "կդնես"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "պսակը"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "պսակը"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "սրբության"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "գլխարանքի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:51:04.180624090Z",
+  "model": "glm-5.3"
+}

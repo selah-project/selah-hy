@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Բարի աչքովը՝ նա օրհնված կլինի, որովհետև իր հացից տվել է աղքատին։",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Բարի"
+    },
+    {
+      "surface": "עין",
+      "gloss": "աչքովը"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "օրհնված կլինի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "տվել է"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "իր հացից"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "աղքատին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:29.815505813Z",
+  "model": "glm-5.3"
+}

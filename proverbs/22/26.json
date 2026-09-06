@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 22:26",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Մի՛ եղիր ձեռք խփողների մեջ, պարտքերի երաշխավորների մեջ։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "եղիր"
+    },
+    {
+      "surface": "בתקעי",
+      "gloss": "խփողների մեջ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ձեռք"
+    },
+    {
+      "surface": "בערבים",
+      "gloss": "երաշխավորների մեջ"
+    },
+    {
+      "surface": "משאות",
+      "gloss": "պարտքերի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:13.458927095Z",
+  "model": "glm-5.3"
+}

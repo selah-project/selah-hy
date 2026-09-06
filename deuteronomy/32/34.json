@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 32:34",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Մի՞թե այն իմ մոտ կուտակված չէ, կնքված իմ գանձարաններում։",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "մի՞թե"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "כמס",
+      "gloss": "կուտակված"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "իմ մոտ"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "կնքված"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "իմ գանձարաններում"
+    }
+  ],
+  "timestamp": "2026-09-05T19:48:56.689847723Z",
+  "model": "glm-5.3"
+}

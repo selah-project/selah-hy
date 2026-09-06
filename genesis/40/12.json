@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 40,
+  "translation": "Եվ ասաց նրան Յոսեֆ՝ «Դա նրա մեկնությունն է՝ երեք ճյուղերը երեք օր են։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Յոսեֆ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Դա"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "նրա մեկնությունը"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "ճյուղերը"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    },
+    {
+      "surface": "הם",
+      "gloss": "դրանք են"
+    }
+  ],
+  "timestamp": "2026-09-05T18:27:02.503460684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Մի՛ նախանձիր չար մարդկանց, և մի՛ ցանկա նրանց հետ լինել ⟨את⟩ նրանց։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "նախանձիր"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "մարդկանց"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "չար"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և մի՛"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ցանկա"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "լինել"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "նրանց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:57.588541930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Սա եղավ ինձ, որովհետև քո պատվիրանները պահեցի։",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "սա"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "քո պատվիրանները"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "պահեցի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:22:05.876065918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 27:13",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Եվ եթե գնի նա այն, ապա ավելացնի դրա հինգերորդ մասը քո գնահատման վրա։",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "եվ եթե"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "գնի"
+    },
+    {
+      "surface": "יגאלנה",
+      "gloss": "նա այն"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ավելացնի"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "դրա հինգերորդ մասը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "քո գնահատման"
+    }
+  ],
+  "timestamp": "2026-09-05T19:11:38.290882142Z",
+  "model": "glm-5.3"
+}

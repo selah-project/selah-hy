@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Չլինեն քեզ այլ աստվածներ իմ երեսի վրա։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լինեն"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "աստվածներ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "այլ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "פני",
+      "gloss": "իմ երեսի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:33:34.408521142Z",
+  "model": "glm-5.3"
+}

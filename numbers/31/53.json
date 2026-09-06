@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 31:53",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Զի զորքի մարդիկ ավար առան՝ յուրաքանչյուրը իր համար։",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "մարդիկ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "զորքի"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "ավար առան"
+    },
+    {
+      "surface": "איש",
+      "gloss": "յուրաքանչյուրը"
+    },
+    {
+      "surface": "לו",
+      "gloss": "իր համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:28:23.157844613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Երեք բանի տակ երկիրը դողում է, և չորսի տակ՝ չի կարող հեռացնել ⟨շնորհիվ⟩։",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "դողում է"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "և տակ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "չորսի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "կարող"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "հեռացնել"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:11.678979792Z",
+  "model": "glm-5.3"
+}

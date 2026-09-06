@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Եվ անես ⟨את⟩ էֆուդի զգեստը՝ ամբողջովին թեխելեթ կապույտ։",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "և անես"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "զգեստը"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "զգեստը"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "էֆուդի"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ամբողջովին"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "թեխելեթ կապույտ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:49:19.464640607Z",
+  "model": "glm-5.3"
+}

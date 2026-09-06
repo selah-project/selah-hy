@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Ամեն ժամանակ սիրում է բարեկամը, իսկ եղբայր նեղության համար է ծնվում։",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Ամեն"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ժամանակ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "սիրում է"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "բարեկամը"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "իսկ եղբայր"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "նեղության համար"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "ծնվում է"
+    }
+  ],
+  "timestamp": "2026-09-05T23:33:18.500247549Z",
+  "model": "glm-5.3"
+}

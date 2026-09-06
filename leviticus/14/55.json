@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "և ծարաաթի՝ հագուստի և տան համար՝",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "և ծարաաթի"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "հագուստի"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "և տան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:03:20.320749185Z",
+  "model": "glm-5.3"
+}

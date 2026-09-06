@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Որդի խայտի կամ դուստր խայտի՝ այս դատաստանի պես արվի նրան։",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "խայտի"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "դուստր"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "խայտի"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "դատաստանի պես"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "արվի"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T18:45:12.527021749Z",
+  "model": "glm-5.3"
+}

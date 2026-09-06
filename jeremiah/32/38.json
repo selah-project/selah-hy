@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "և նրանք կլինեն ինձ ժողովուրդ, և ես կլինեմ նրանց Էլոհիմ։",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "և կլինեն"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ժողովուրդ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "և ես"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "կլինեմ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Էլոհիմ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:55:29.337661262Z",
+  "model": "glm-5.3"
+}

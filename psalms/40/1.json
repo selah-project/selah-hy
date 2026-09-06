@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 40,
+  "translation": "Երգչապետին՝ Դավիդի (Դավիթ) սաղմոս։",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "երգչապետին"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Դավիդի (Դավիթ)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "սաղմոս"
+    }
+  ],
+  "timestamp": "2026-09-05T23:02:31.968816822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 34,
+  "translation": "և Դանի որդիների ցեղի համար՝ իշխան Բուկին, Յոգլիի որդին։",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "և ցեղի համար"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Դանի"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "իշխան"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Բուկին"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "Յոգլիի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:29:58.804982257Z",
+  "model": "glm-5.3"
+}

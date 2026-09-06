@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 25:29",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Եվ եփեց Յաակով (Հակոբ) ապուր, և եկավ Էսավ դաշտից, իսկ նա հյուծված էր։",
+  "tokens": [
+    {
+      "surface": "ויזד",
+      "gloss": "և եփեց"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Յաակով"
+    },
+    {
+      "surface": "נזיד",
+      "gloss": "ապուր"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "և եկավ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Էսավ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ից"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "դաշտ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "իսկ նա"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "հյուծված"
+    }
+  ],
+  "timestamp": "2026-09-05T18:19:08.192617899Z",
+  "model": "glm-5.3"
+}

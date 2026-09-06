@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 16:12",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Եվ տվեցի մատանի քո քթին, ականջօղեր՝ քո ականջներին, և փառքի պսակ՝ քո գլխին։",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "տվեցի"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "մատանի"
+    },
+    {
+      "surface": "על",
+      "gloss": "քո…-ին"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "քթին"
+    },
+    {
+      "surface": "ועגילים",
+      "gloss": "ականջօղեր"
+    },
+    {
+      "surface": "על",
+      "gloss": "քո…-ին"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "ականջներին"
+    },
+    {
+      "surface": "ועטרת",
+      "gloss": "պսակ"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "փառքի"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "գլխին"
+    }
+  ],
+  "timestamp": "2026-09-05T22:12:55.224096448Z",
+  "model": "glm-5.3"
+}

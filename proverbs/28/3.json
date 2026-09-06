@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Աղքատ մարդ, որ ճնշում է աղքատներին, անձրև է քամող, և հաց չկա։",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "רש",
+      "gloss": "աղքատ"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "և ճնշում է"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "աղքատներին"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "անձրև"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "քամող"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "և չկա"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "հաց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:38:06.512361227Z",
+  "model": "glm-5.3"
+}

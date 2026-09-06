@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 9:4",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Ո՞վ է պարզամիտը՝ թող շրջվի այստեղ, սրտից զուրկին՝ նա ասում է նրան․",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "պարզամիտը"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "թող շրջվի"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "այստեղ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "զուրկ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սրտից"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "ասում է"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-06T02:08:41.826651836Z",
+  "model": "glm-5.3"
+}

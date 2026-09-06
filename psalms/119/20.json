@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Կոտրվեց նեֆեշս տենչով դեպի քո դատաստանները ամեն ժամանակ։",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "կոտրվեց"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "նեֆեշս"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "տենչով"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "քո դատաստանները"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ժամանակ"
+    }
+  ],
+  "timestamp": "2026-09-06T02:09:08.435193694Z",
+  "model": "glm-5.3"
+}

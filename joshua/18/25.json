@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Գիվոնը, և Հա-Ռաման, և Բեերոտը.",
+  "tokens": [
+    {
+      "surface": "גבעון",
+      "gloss": "Գիվոնը"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "և Հա-Ռաման"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "և Բեերոտը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:58:11.224750048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "և խոսեց Մոշեն Իսրայելի որդիներին Յահվեի տոների մասին ⟨את⟩ Յահվեի տոները։",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "և խոսեց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յահվեի տոները"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "տոներ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի (–ին)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:08:27.105995502Z",
+  "model": "glm-5.3"
+}

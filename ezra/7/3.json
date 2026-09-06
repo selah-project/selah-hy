@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "որդի Ամարյայի, որդի Ազարյայի, որդի Մերայոթի։",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Ամարյայի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Ազարյայի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Մերայոթի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:17:58.899532515Z",
+  "model": "glm-5.3"
+}

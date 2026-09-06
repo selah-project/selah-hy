@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 10:19",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Եվ Շիմոնի որդիների ցեղի զորքի վրա ⟨էր⟩ Շելումիելը՝ Ծուրիշադայի որդին։",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Եվ … վրա"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "զորքի"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ցեղի"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Շիմոնի"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "Շելումիելը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "Ծուրի-"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "շադայի"
+    }
+  ],
+  "timestamp": "2026-09-06T02:03:05.944628281Z",
+  "model": "glm-5.3"
+}

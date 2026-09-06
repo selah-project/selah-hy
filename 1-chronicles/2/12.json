@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ Բոազը ծնեց ⟨את⟩ Օվեդին, և Օվեդը ծնեց ⟨את⟩ Յիշային։",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Եվ Բոազը"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Օվեդին"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Օվեդ"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "և Օվեդը"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յիշային"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Յիշայ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:26.883256199Z",
+  "model": "glm-5.3"
+}

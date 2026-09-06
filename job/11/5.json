@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 11:5",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Բայց ով՝ թող Էլոահ խոսեր, և բացեր իր շուրթերը քո դեմ։",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Բայց"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ով"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "թող տար"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Էլոահ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսեր"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "և բացեր"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "իր շուրթերը"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "քո դեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:43:08.085713337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "և Խաշուբան, և Օհելը, և Բերեքյան, և Խասադյան, Յուշաբ-Խեսեդը՝ հինգը։",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "և Խաշուբան"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "և Օհելը"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "և Բերեքյան"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "և Խասադյան"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "Յուշաբ-"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Խեսեդը"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "հինգը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:28:55.042854165Z",
+  "model": "glm-5.3"
+}

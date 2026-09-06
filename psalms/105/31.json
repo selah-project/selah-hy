@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 105,
+  "translation": "Ասաց, և եկավ մժեղ՝ ոջիլներ իրենց ամբողջ սահմանի վրա։",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "և եկավ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "մժեղ"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ոջիլներ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "իրենց սահմանի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:17:56.653635607Z",
+  "model": "glm-5.3"
+}

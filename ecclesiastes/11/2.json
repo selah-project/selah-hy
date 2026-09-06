@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Տու՛ր բաժին յոթին և նույնպես ութին, քանի որ չգիտես, թե ինչ չարիք պիտի լինի երկրի վրա։",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Տու՛ր"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "բաժին"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "յոթին"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "և նույնպես"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "ութին"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "գիտես"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ինչ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "պիտի լինի"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "չարիք"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:56.541572823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 69,
+  "translation": "և մի թաքցրու քո երեսը քո ծառայից, որովհետև նեղ է ինձ. արագ պատասխանիր ինձ։",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "և մի"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "թաքցրու"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "քո երեսը"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "քո ծառայից"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "צר",
+      "gloss": "նեղ է"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "արագ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "պատասխանիր ինձ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:08:21.681547785Z",
+  "model": "glm-5.3"
+}

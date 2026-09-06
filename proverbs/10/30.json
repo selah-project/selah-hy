@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Արդարը դարադար չի տատանվի, իսկ ամբարիշտները երկիր չեն բնակվի։",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Արդարը"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "դարադար"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "կտատանվի"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "իսկ ամբարիշտները"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չեն"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "կբնակվեն"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկիր"
+    }
+  ],
+  "timestamp": "2026-09-05T23:31:04.625150770Z",
+  "model": "glm-5.3"
+}

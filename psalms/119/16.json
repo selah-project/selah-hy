@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Քո կանոններով կվայելեմ, քո խոսքը չեմ մոռանա։",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "քո կանոններով"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "կվայելեմ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ-"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "կմոռանամ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "քո խոսքը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:22:03.069333935Z",
+  "model": "glm-5.3"
+}

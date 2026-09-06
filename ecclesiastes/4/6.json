@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Լավ է մեկ ափ հանգստություն, քան երկու բռունցք լիքը աշխատանք և քամու տառապանք։",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Լավ է"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "լիքը"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ափ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "հանգստություն"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "քան լիքը"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "երկու բռունցք"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "աշխատանք"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "և տառապանք"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "քամի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:26.198589833Z",
+  "model": "glm-5.3"
+}

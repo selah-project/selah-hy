@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Իրա յաթրին, Գարեվ յաթրին։",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "Իրա"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "յաթրին"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "Գարեվ"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "յաթրին"
+    }
+  ],
+  "timestamp": "2026-09-05T20:41:56.624259594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Ահ, և փոս, և որոգայթ քեզ վրա, երկրի բնակի՛ր։",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "Ահ"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "և փոս"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "և որոգայթ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "քեզ վրա"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "բնակի՛ր"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:22:50.249783764Z",
+  "model": "glm-5.3"
+}

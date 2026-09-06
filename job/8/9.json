@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Որովհետև երեկ ենք մենք և չգիտենք, որովհետև ստվեր են մեր օրերը երկրի վրա։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "երեկ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "մենք"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "գիտենք"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "צל",
+      "gloss": "ստվեր"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "մեր օրերը"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկրի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:40:18.298971798Z",
+  "model": "glm-5.3"
+}

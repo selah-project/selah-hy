@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 13:12",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Եվ ամբողջ Իսրայելը կլսի և կվախենա, և չեն ավելացնի անել այսպիսի գործ՝ չարը, քո մեջ։",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "և ամբողջ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելը"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "կլսի"
+    },
+    {
+      "surface": "ויראון",
+      "gloss": "և կվախենա"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "ավելացնեն"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "անել"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "այսպիսի գործ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "չար"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "քո մեջ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:38:55.608305103Z",
+  "model": "glm-5.3"
+}

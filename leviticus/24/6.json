@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Եվ դիր ⟨את⟩ դրանք երկու շարքով՝ վեցական շարքը, մաքուր սեղանի վրա, Յահվեի առջև։",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "և դիր"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "դրանք (խմորեղեղները)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "երկու"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "շարքով"
+    },
+    {
+      "surface": "שש",
+      "gloss": "վեցական"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "շարքը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "սեղանի"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "մաքուր"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:08:16.860134239Z",
+  "model": "glm-5.3"
+}

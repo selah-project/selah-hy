@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "և սա ⟨թեթև բան⟩ է Յահվեի աչքին, և կտա ⟨את⟩ Մոաբը ձեր ձեռքի մեջ։",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "և թեթև է"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "սա"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "աչքին"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "և կտա"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Մոաբը"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Մոաբ"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "ձեր ձեռքին"
+    }
+  ],
+  "timestamp": "2026-09-05T20:59:59.909651954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 21:3",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եվ լինի՝ այն քաղաքը, որ մոտ է սպանվածին, այն քաղաքի ծերերը վերցնեն երինջ՝ եղջերավորներից, որի հետ չեն աշխատել, որ լծով չի քաշել։",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Եվ լինի"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "քաղաքը"
+    },
+    {
+      "surface": "הקרבה",
+      "gloss": "մոտ է"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "սպանվածին"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "վերցնեն"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ծերերը"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "քաղաքի"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "երինջ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "եղջերավորներից"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "աշխատել"
+    },
+    {
+      "surface": "בה",
+      "gloss": "նրա հետ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "משכה",
+      "gloss": "քաշել"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "լծով"
+    }
+  ],
+  "timestamp": "2026-09-05T19:42:56.272544928Z",
+  "model": "glm-5.3"
+}

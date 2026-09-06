@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Եվ վեց տարի ցանես ⟨את⟩ քո երկիրը և հավաքես ⟨את⟩ նրա բերքը։",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "և վեց"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ցանես"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "քո երկիրը"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "քո երկիրը"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "և հավաքես"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "նրա բերքը"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "նրա բերքը"
+    }
+  ],
+  "timestamp": "2026-09-05T18:45:01.232806044Z",
+  "model": "glm-5.3"
+}

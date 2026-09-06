@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Այն օրերին ես՝ Դանիելը, ողբ էի անում երեք շաբաթ՝ օրեր։",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "Այն օրերին"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "այն"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Դանիելը"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "էի"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "ողբ անելով"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "շաբաթ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    }
+  ],
+  "timestamp": "2026-09-06T00:13:09.036188567Z",
+  "model": "glm-5.3"
+}

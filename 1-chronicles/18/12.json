@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Եվ Աբիշայը՝ Ծրույայի որդին, հարվածեց ⟨את⟩ Էդոմը աղի հովտում՝ տասնութ հազար։",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "և Աբիշայը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Ծրույայի"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "հարվածեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Էդոմը"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Էդոմ"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "հովտում"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "աղի"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ութ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "տասն"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "հազար"
+    }
+  ],
+  "timestamp": "2026-09-06T00:35:54.804676027Z",
+  "model": "glm-5.3"
+}

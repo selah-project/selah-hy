@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Թող խմի և մոռանա իր աղքատությունը, և իր տառապանքը այլևս չհիշի։",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "Թող խմի"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "և մոռանա"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "իր աղքատությունը"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "և իր տառապանքը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "հիշի"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "այլևս"
+    }
+  ],
+  "timestamp": "2026-09-05T23:38:32.041691008Z",
+  "model": "glm-5.3"
+}

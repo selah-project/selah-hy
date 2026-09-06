@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ լցրեց օծման յուղից Ահարոնի գլխի վրա, և օծեց ⟨את⟩ նրան՝ նրան սրբելու համար։",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "և լցրեց"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "յուղից"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "օծման"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "գլխի"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ահարոնի"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "և օծեց"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ նրան"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "նրան սրբելու համար"
+    }
+  ],
+  "timestamp": "2026-09-05T18:59:40.557070334Z",
+  "model": "glm-5.3"
+}

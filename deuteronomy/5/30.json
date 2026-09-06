@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Գնա՛, ասա նրանց՝ վերադարձեք ձեզ մոտ՝ ձեր վրանները։",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Գնա՛"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասա"
+    },
+    {
+      "surface": "להם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "վերադարձեք"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ մոտ"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "ձեր վրանները"
+    }
+  ],
+  "timestamp": "2026-09-06T01:07:32.239956804Z",
+  "model": "glm-5.3"
+}

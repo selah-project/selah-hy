@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 32:20",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Եվ ասաց նրանց Մոշեն՝ եթե անեք ⟨את⟩ այս խոսքը, եթե զինվեք Յահվեի առջև պատերազմի,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "անեք"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այս խոսքը"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "תחלצו",
+      "gloss": "զինվեք"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "պատերազմի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:29:02.561454832Z",
+  "model": "glm-5.3"
+}

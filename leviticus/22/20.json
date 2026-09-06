@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Ամեն ինչ, որի մեջ արատ կա, մի՛ մոտեցրեք, որովհետև ձեզ համար բարեհաճություն չի լինի․",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ամեն ինչ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրա մեջ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "արատ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "մոտեցրեք"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "բարեհաճության"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "կլինի"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:07:10.923700024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "և կորչում է այն հարստությունը չար զբաղման մեջ, և նա որդի է ծնում, և իր ձեռքում ոչինչ չկա։",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "և կորչում է"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "հարստությունը"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "զբաղման մեջ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չար"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "և ծնում է"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "և չկա"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "իր ձեռքում"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ոչինչ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:12.091800272Z",
+  "model": "glm-5.3"
+}

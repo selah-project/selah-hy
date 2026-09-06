@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 10:16",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "և Զվուլոնի որդիների ցեղի զորքի վրա ⟨է⟩ Էլիավը՝ Խելոնի որդին։",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "և…վրա"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "զորքի"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ցեղի"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Զվուլոնի"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Էլիավը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "Խելոնի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:16:45.119846641Z",
+  "model": "glm-5.3"
+}

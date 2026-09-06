@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Եվ Արփաքշադը ծնեց ⟨את⟩ Շելախին, և Շելախը ծնեց ⟨את⟩ Եվերին։",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Եվ Արփաքշադը"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Շելախին"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Շելախին"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "և Շելախը"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Եվերին"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Եվերին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:11:59.404852794Z",
+  "model": "glm-5.3"
+}

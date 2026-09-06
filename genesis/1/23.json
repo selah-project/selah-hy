@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ եղավ երեկո, և եղավ առավոտ. հինգերորդ օրը։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "և եղավ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "երեկո"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "և եղավ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "առավոտ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "հինգերորդ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:07:57.874469142Z",
+  "model": "glm-5.3"
+}

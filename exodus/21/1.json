@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եվ այս են դատաստանները, որ դնես դու նրանց առջև։",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Եվ այս"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "դատաստանները"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "դնես դու"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "նրանց առջև"
+    }
+  ],
+  "timestamp": "2026-09-05T18:44:29.432007528Z",
+  "model": "glm-5.3"
+}

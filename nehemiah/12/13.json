@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 12:13",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Էզրայի՝ Մեշուլամ, Ամարյայի՝ Յեհոխանան։",
+  "tokens": [
+    {
+      "surface": "לעזרא",
+      "gloss": "Էզրայի՝"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Մեշուլամ"
+    },
+    {
+      "surface": "לאמריה",
+      "gloss": "Ամարյայի՝"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "Յեհոխանան"
+    }
+  ],
+  "timestamp": "2026-09-06T00:25:14.239342931Z",
+  "model": "glm-5.3"
+}

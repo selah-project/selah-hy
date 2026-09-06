@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 73,
+  "translation": "Մինչև մտնեմ Էլ-ի սրբավայրերը, կհասկանեմ նրանց վերջը։",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Մինչև"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "մտնեմ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "սրբավայրերը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլ-ի"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "կհասկանեմ"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "նրանց վերջը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:09:37.983812002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 3:17",
+  "book": "ruth",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ ասաց՝ այս վեց չափը գարի ինձ տվեց, որովհետև ասաց. «թող չգաս դատարկ քո զեխի մոտ»։",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "שש",
+      "gloss": "վեց"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "չափ գարի"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "տվեց"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "אל",
+      "gloss": "թող չ"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "գաս"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "դատարկ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "חמותך",
+      "gloss": "քո զեխի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:54:22.677686121Z",
+  "model": "glm-5.3"
+}

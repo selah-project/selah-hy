@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 9:33",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Ոչ ⟨կա⟩ մեզ միջև վեճարկող, որ դնի իր ձեռքը մեզ երկուսի վրա։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨կա⟩"
+    },
+    {
+      "surface": "בינינו",
+      "gloss": "մեզ միջև"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "վեճարկող"
+    },
+    {
+      "surface": "ישת",
+      "gloss": "դնի"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "իր ձեռքը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "մեզ երկուսի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:41:58.759203674Z",
+  "model": "glm-5.3"
+}

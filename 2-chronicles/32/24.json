@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 32:24",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Այն օրերին հիվանդացավ Յեխիզկիյահուն մինչև մահ, և աղոթեց Յահվեին, և նրան ասաց, և նշան տվեց նրան։",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "օրերին"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "այն"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "հիվանդացավ"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Յեխիզկիյահուն"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "למות",
+      "gloss": "մահ"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "և աղոթեց"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "ומופת",
+      "gloss": "և նշան"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "տվեց"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-06T00:58:06.755318473Z",
+  "model": "glm-5.3"
+}

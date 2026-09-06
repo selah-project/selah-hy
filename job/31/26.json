@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 31:26",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Եթե տեսա լույսը, երբ փայլում էր, և լուսինը՝ պանծալի քայլող՝",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "տեսա"
+    },
+    {
+      "surface": "אור",
+      "gloss": "լույսը"
+    },
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "יהל",
+      "gloss": "փայլում էր"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "և լուսինը"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "պանծալի"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "քայլող"
+    }
+  ],
+  "timestamp": "2026-09-05T23:48:18.378852890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Յահվե բարձրացնի իր դեմքը դեպի քեզ և դնի քեզ համար շալոմ։",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "բարձրացնի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "իր դեմքը"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "դեպի քեզ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "և դնի"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ համար"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "շալոմ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:14:07.239474573Z",
+  "model": "glm-5.3"
+}

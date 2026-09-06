@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 15:12",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Ծաղրողը չի սիրում իրեն հանդիմանողին, իմաստունների մոտ չի գնա։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "սիրում"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "Ծաղրողը"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "հանդիմանողին"
+    },
+    {
+      "surface": "לו",
+      "gloss": "իրեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "իմաստունների"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "գնա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:32:43.765180736Z",
+  "model": "glm-5.3"
+}

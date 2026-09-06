@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 16:11",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Փնտրե՛ք Յահվեին և նրա զորությունը, ուզեցե՛ք նրա երեսը մշտապես։",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Փնտրե՛ք"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "և զորությունը (նրա)"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ուզե՛ք"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "երեսը (նրա)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "մշտապես"
+    }
+  ],
+  "timestamp": "2026-09-06T00:33:20.127646420Z",
+  "model": "glm-5.3"
+}

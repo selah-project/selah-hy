@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ մահացավ Յոսեֆը, և բոլոր եղբայրները, և ամբողջ այն սերունդը։",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Եվ մահացավ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Յոսեֆը"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "և բոլոր"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "եղբայրները"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "և ամբողջ"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "սերունդը"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այն"
+    }
+  ],
+  "timestamp": "2026-09-05T18:33:54.903973215Z",
+  "model": "glm-5.3"
+}

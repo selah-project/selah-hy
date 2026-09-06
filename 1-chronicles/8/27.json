@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 8:27",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "և Յաարեշյահուն, և Էլիյահուն, և Զիքրիին՝ Յերոխամի որդիները.",
+  "tokens": [
+    {
+      "surface": "ויערשיה",
+      "gloss": "և Յաարեշյահ"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "և Էլիյահ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "և Զիքրի"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Յերոխամի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:44.166904326Z",
+  "model": "glm-5.3"
+}

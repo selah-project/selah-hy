@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 27:26",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Միայն անդրանիկը, որ անդրանիկ է Յահվեի անասունից, ոչ ոք չի սրբացնի ⟨את⟩ այն՝ թե եզ է, թե գառ՝ Յահվեինն է այն։",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Միայն"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "անդրանիկը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יבכר",
+      "gloss": "անդրանիկ է եղել"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "անասունից"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "չի սրբացնի"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ոք"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ այն",
+      "marks": "անդրանիկը"
+    },
+    {
+      "surface": "אם",
+      "gloss": "թե"
+    },
+    {
+      "surface": "שור",
+      "gloss": "եզ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "թե"
+    },
+    {
+      "surface": "שה",
+      "gloss": "գառ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեինն"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "է"
+    }
+  ],
+  "timestamp": "2026-09-05T19:10:59.838346926Z",
+  "model": "glm-5.3"
+}

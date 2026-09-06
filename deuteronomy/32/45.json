@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Եվ Մոշեն ավարտեց խոսել բոլոր այդ խոսքերը ամբողջ Իսրայելի հետ։",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ավարտեց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "խոսել"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "բոլոր խոսքերը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "խոսքերը"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:49:03.263729078Z",
+  "model": "glm-5.3"
+}

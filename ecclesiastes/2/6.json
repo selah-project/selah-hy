@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Արեցի ինձ ջրի ջրամբարներ՝ դրանցից ոռոգելու անտառը՝ ծառեր ծլեցնող։",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Արեցի"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "ջրամբարներ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջրի"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "ոռոգելու"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "դրանցից"
+    },
+    {
+      "surface": "יער",
+      "gloss": "անտառը"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "ծլեցնող"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ծառեր"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:13.407354539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Մի՛ թեքիր գաղթականի և որբի դատը, և մի՛ գրավ առ այրու հագուստը։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "թեքիր"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "դատը"
+    },
+    {
+      "surface": "גר",
+      "gloss": "գաղթականի"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "որբի"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և մի՛"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "գրավ առ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "հագուստը"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "այրու"
+    }
+  ],
+  "timestamp": "2026-09-05T19:44:50.859366667Z",
+  "model": "glm-5.3"
+}

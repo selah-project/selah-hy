@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 130,
+  "translation": "Որովհետև քեզ մոտ է ներումը, որպեսզի քեզից երկնեն։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "քեզ մոտ"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "ներումը"
+    },
+    {
+      "surface": "למען",
+      "gloss": "որպեսզի"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "քեզից երկնեն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:24:07.534457283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 115,
+  "translation": "Իսկ մեր Էլոհիմը երկնքում ⟨է⟩՝ ամեն ինչ, ինչ կամեցավ, արեց։",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "մեր Էլոհիմը"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "երկնքում"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն ինչ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "կամեցավ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արեց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:07.911994203Z",
+  "model": "glm-5.3"
+}

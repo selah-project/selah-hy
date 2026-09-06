@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Քո վեճը վարիր ⟨את⟩ քո ընկերոջ հետ, և ուրիշի խորհուրդը մի բացի։",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "քո վեճը"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "վարիր"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "քո ընկերոջը"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "քո ընկերոջ հետ"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "և խորհուրդը"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ուրիշի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "բացի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:47.688279938Z",
+  "model": "glm-5.3"
+}

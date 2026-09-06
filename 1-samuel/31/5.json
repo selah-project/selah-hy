@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Երբ տեսավ նրա զենքկրողը, որ մեռած է Շաուլը, ընկավ նա էլ իր սրի վրա և մեռավ նրա հետ։",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "տեսավ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "կրողը"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "նրա զենքերը"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "մեռած է"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Շաուլը"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ընկավ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "նա էլ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "իր սուրը"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "մեռավ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "նրա հետ"
+    }
+  ],
+  "timestamp": "2026-09-05T20:29:53.598134118Z",
+  "model": "glm-5.3"
+}

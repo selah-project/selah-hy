@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 15:13",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Եվ երբ նրան ազատ արձակես քո միջից, չես արձակի նրան դատարկ։",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Եվ երբ"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "արձակես նրան"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "ազատ"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "քո միջից"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "կարձակես նրան"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "դատարկ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:39:48.775748097Z",
+  "model": "glm-5.3"
+}

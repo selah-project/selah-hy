@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 94,
+  "translation": "Երբ ասացի՝ «սայլվում է իմ ոտքը», քո խեսեդը, Յահվե, ինձ հենեց։",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Երբ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ասացի"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "սայլվում է"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ոտքը իմ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "խեսեդդ քո"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "հենեց ինձ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:14:30.972819868Z",
+  "model": "glm-5.3"
+}

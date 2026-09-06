@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "obadiah 1:6",
+  "book": "obadiah",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Ինչպես փնտրվեց Էսավը, հոսեցին իր թաքուն գանձերը։",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Ինչպես"
+    },
+    {
+      "surface": "נחפשו",
+      "gloss": "փնտրվեց"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Էսավը"
+    },
+    {
+      "surface": "נבעו",
+      "gloss": "հոսեցին"
+    },
+    {
+      "surface": "מצפניו",
+      "gloss": "իր թաքուն գանձերը"
+    }
+  ],
+  "timestamp": "2026-09-05T22:38:48.014680913Z",
+  "model": "glm-5.3"
+}

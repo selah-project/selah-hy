@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 78,
+  "translation": "Բացեմ առակով իմ բերանը, հոսեցնեմ առեղծվածներ հնուց։",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "բացեմ"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "առակով"
+    },
+    {
+      "surface": "פי",
+      "gloss": "իմ բերանը"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "հոսեցնեմ"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "առեղծվածներ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-ից"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "հնում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:10:56.573280431Z",
+  "model": "glm-5.3"
+}

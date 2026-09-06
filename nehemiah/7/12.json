@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 7:12",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Էյլամի որդիները՝ հազար երկու հարյուր հիսուն ու չորս։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Էյլամի"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "հազար"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "երկու հարյուր"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "հիսուն"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ու չորս"
+    }
+  ],
+  "timestamp": "2026-09-06T00:22:15.598965082Z",
+  "model": "glm-5.3"
+}

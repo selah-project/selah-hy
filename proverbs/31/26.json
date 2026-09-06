@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 31:26",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Իր բերանը բացում է իմաստությամբ, և խեսեդի Թորան ⟨է⟩ իր լեզվի վրա։",
+  "tokens": [
+    {
+      "surface": "פיה",
+      "gloss": "իր բերանը"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "բացում է"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "իմաստությամբ"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "և Թորան"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "խեսեդի"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "לשונה",
+      "gloss": "իր լեզվի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:38:28.431504558Z",
+  "model": "glm-5.3"
+}

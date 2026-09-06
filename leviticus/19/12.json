@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Եվ իմ անով չեք երդվանա ստի, և կպղծես ⟨את⟩ քո Էլոհիմի անունը. ես եմ Յահվե։",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "չեք երդվանա"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "իմ անով"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "ստի"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "և կպղծես"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "անունը"
+    },
+    {
+      "surface": "שם",
+      "gloss": "անունը"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "քո Էլոհիմի"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    }
+  ],
+  "timestamp": "2026-09-05T19:05:25.867641159Z",
+  "model": "glm-5.3"
+}

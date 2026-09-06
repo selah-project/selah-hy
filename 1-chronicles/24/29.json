@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Կիշից՝ Կիշի որդիները՝ Յերախմեել։",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "Կիշից"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Կիշի"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Յերախմեել"
+    }
+  ],
+  "timestamp": "2026-09-06T00:37:41.268217700Z",
+  "model": "glm-5.3"
+}

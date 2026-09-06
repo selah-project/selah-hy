@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Առաջին օրը՝ սուրբ ժողով. ոչ մի ծառայական գործ մի արեք։",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "առաջին"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "ժողով"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "սուրբ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "գործ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ծառայական"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "մի արեք"
+    }
+  ],
+  "timestamp": "2026-09-05T19:26:53.884135901Z",
+  "model": "glm-5.3"
+}

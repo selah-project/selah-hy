@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Իսկ կավե անոթը, որի մեջ այն եփվի, կկոտրվի, իսկ եթե պղնձե անոթի մեջ եփվի, այն քերվի և ողողվի ջրով։",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "իսկ անոթը"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "կավե"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որի մեջ"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "եփվի"
+    },
+    {
+      "surface": "בו",
+      "gloss": "այն"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "կկոտրվի"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "իսկ եթե"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "անոթի մեջ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "պղնձե"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "եփվի"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "քերվի"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "և ողողվի"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ջրով"
+    }
+  ],
+  "timestamp": "2026-09-05T18:57:23.319172205Z",
+  "model": "glm-5.3"
+}

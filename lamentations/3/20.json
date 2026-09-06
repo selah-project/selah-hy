@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Հիշելով կհիշի Նեֆեշս, և խոնարհվում է իմ մեջ։",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "հիշելով"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "կհիշի"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "և խոնարհվում է"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "իմ մեջ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Նեֆեշս"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:06.101940117Z",
+  "model": "glm-5.3"
+}

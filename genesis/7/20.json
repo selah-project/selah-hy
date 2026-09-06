@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Տասնհինգ կանգուն վերև՝ տիրեցին ջրերը, և ծածկվեցին լեռները։",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "Տասնհինգ (հինգ)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(տաս)"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "կանգուն"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "վերև"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "տիրեցին"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ջրերը"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "և ծածկվեցին"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "լեռները"
+    }
+  ],
+  "timestamp": "2026-09-05T18:10:46.652176933Z",
+  "model": "glm-5.3"
+}

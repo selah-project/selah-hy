@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Կաշառքը շնորհի քար է իր տիրոջ աչքերում. ուր էլ որ դառնա՝ հաջողում է։",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "քար"
+    },
+    {
+      "surface": "חן",
+      "gloss": "շնորհի"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "կաշառքը"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "աչքերում"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "իր տիրոջ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ուր"
+    },
+    {
+      "surface": "כל",
+      "gloss": "էլ որ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "դառնա"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "հաջողում է"
+    }
+  ],
+  "timestamp": "2026-09-05T23:33:22.728575079Z",
+  "model": "glm-5.3"
+}

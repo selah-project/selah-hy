@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Շիգայոն Դավիդի, որ երգեց Յահվեին՝ Քուշ Բենյամինցու խոսքերի մասին։",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Շիգայոն"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Դավիդի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "երգեց"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "על",
+      "gloss": "մասին"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "խոսքերի"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Քուշ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Բենյամինցու"
+    }
+  ],
+  "timestamp": "2026-09-05T22:52:48.634725433Z",
+  "model": "glm-5.3"
+}

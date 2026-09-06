@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 65,
+  "translation": "Երգչապետին՝ սաղմոս Դավթի (Դավիթ), երգ։",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "երգչապետին"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "սաղմոս"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Դավթի (Դավիթ)"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "երգ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:07:17.732329084Z",
+  "model": "glm-5.3"
+}

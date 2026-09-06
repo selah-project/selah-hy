@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "և վերցրին մարդիկ նրանց պաշարից, իսկ ⟨את⟩ բերանը Յահվեի չհարցրին։",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "և վերցրին"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "մարդիկ"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "նրանց պաշարից"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "բերանը"
+    },
+    {
+      "surface": "פי",
+      "gloss": "բերանը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "հարցրին"
+    }
+  ],
+  "timestamp": "2026-09-05T19:53:41.231431878Z",
+  "model": "glm-5.3"
+}

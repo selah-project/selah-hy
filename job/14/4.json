@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Ո՞վ կտա մաքուր ⟨բան⟩ անմաքուրից. ոչ մեկին։",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "կտա"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "մաքուր ⟨բան⟩"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "անմաքուրից"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկին"
+    }
+  ],
+  "timestamp": "2026-09-06T01:18:27.828151028Z",
+  "model": "glm-5.3"
+}

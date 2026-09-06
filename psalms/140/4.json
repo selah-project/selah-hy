@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 140,
+  "translation": "Սրել են իրենց լեզուն ինչպես օձ, իժի թույն է իրենց շուրթերի տակ։ Սելահ։",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "Սրել են"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "իրենց լեզուն"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ինչպես"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "օձ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "թույն"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "իժ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "իրենց շուրթերի"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Սելահ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:25:58.751162892Z",
+  "model": "glm-5.3"
+}

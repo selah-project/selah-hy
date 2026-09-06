@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Դրա համար հիվանդացավ մեր սիրտը, այս բաներից մգացան մեր աչքերը։",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "դրա համար"
+    },
+    {
+      "surface": "זה",
+      "gloss": "սրա"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "հիվանդացավ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "մեր սիրտը"
+    },
+    {
+      "surface": "על",
+      "gloss": "այս բաներից"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "այս բաների"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "մգացան"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "մեր աչքերը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:58:58.597273715Z",
+  "model": "glm-5.3"
+}

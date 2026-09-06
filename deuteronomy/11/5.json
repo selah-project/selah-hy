@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Եվ ինչ արեց ձեզ անապատում՝ մինչև ձեր գալը մինչև այս տեղը։",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Եվ ինչ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արեց"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "անապատում"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "ձեր գալը"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "տեղը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-05T19:37:25.990826416Z",
+  "model": "glm-5.3"
+}

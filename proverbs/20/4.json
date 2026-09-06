@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Ձմռանից ծույլը վար չի անի. հնձի ժամանակ կխնդրի, և ոչինչ չկա։",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "ձմռանից"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ծույլը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "վար անի"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "կխնդրի"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "հնձի ժամանակ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "և ոչինչ չկա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:57.011252502Z",
+  "model": "glm-5.3"
+}

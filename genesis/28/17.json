@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 28:17",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Երկնչեց և ասաց՝ ի՛նչ սարսափելի է այս վայրը։ Սա այլ բան չէ, այլ Էլոհիմի տուն է, և սա երկնքի դուռն է։",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "Երկնչեց"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՛նչ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "սարսափելի"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "վայրը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չէ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "սա"
+    },
+    {
+      "surface": "כי",
+      "gloss": "այլ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "միայն"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տուն"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմի"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "և սա"
+    },
+    {
+      "surface": "שער",
+      "gloss": "դուռ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "երկնքի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:21:35.681570186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ կտղրեց ⟨את⟩ Լո-Ռուխամային, և հղացավ և ծնեց որդի։",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "և կտղրեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Լո-Ռուխամային"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Լո-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ռուխամային"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "և հղացավ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "և ծնեց"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:32:08.696416932Z",
+  "model": "glm-5.3"
+}

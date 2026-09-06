@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 1:45",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ վերադարձաք և լաց եղաք Յահվեի առջև, և չլսեց Յահվե ձեր ձայնը, և ականջ չդարձրեց ձեզ։",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "և վերադարձաք"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "և լաց եղաք"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "լսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "ձեր ձայնը"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "האזין",
+      "gloss": "ականջ դարձրեց"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ձեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:31:11.593829497Z",
+  "model": "glm-5.3"
+}

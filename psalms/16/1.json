@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Միխտամ Դավիդի։ Պահի՛ր ինձ, Էլ, որովհետև քո մեջ եմ ապաստանել։",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Միխտամ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Դավիդի"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Պահի՛ր ինձ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ապաստանել եմ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "քո մեջ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:54:53.351903812Z",
+  "model": "glm-5.3"
+}

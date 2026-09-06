@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 74,
+  "translation": "Քո՛նն է ցերեկը, նաև քո՛նն է գիշերը. Դու պատրաստեցիր լույսը և արևը։",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "քո"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ցերեկը"
+    },
+    {
+      "surface": "אף",
+      "gloss": "նաև"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քո"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "գիշերը"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Դու"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "պատրաստեցիր"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "լույսը"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "և արևը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:10:08.406280723Z",
+  "model": "glm-5.3"
+}

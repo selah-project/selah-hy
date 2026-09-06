@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Որին չունի ո՛չ դատապետ, ո՛չ հսկիչ և իշխան.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Որին"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չունի"
+    },
+    {
+      "surface": "לה",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "դատապետ"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "հսկիչ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "և իշխան"
+    }
+  ],
+  "timestamp": "2026-09-06T01:57:41.672185427Z",
+  "model": "glm-5.3"
+}

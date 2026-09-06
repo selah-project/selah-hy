@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 136,
+  "translation": "Արևը՝ օրում տիրելու, որովհետև հավերժ է նոր խեսեդը։",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "արևը"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "արևը"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "տիրելու"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրում"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "հավերժ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "նոր խեսեդը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:25:26.160679165Z",
+  "model": "glm-5.3"
+}

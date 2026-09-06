@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 30:3",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Որովհետև մոտ է օրը, և մոտ է Յահվեի օրը՝ ամպերի օր, ազգերի ժամանակ այն կլինի։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "մոտ է"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "և մոտ է"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ամպերի"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ժամանակ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ազգերի"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "կլինի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:21:23.139604658Z",
+  "model": "glm-5.3"
+}

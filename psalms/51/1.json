@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 51,
+  "translation": "Դիրիժորին՝ սաղմոս Դավիդի (Դավիթ)։",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Դիրիժորին"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "սաղմոս"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Դավիդի (Դավիթ)"
+    }
+  ],
+  "timestamp": "2026-09-05T23:04:50.875198787Z",
+  "model": "glm-5.3"
+}

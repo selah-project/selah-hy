@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 25:19",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Եվ եղավ հարվածից հետո․",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "հետո"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "հարվածից"
+    }
+  ],
+  "timestamp": "2026-09-05T19:24:39.195278527Z",
+  "model": "glm-5.3"
+}

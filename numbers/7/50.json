@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 7:50",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Մեկ ոսկե ձեռքի գուռ՝ տասը շեկել, լցված խունկով։",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ձեռքի գուռ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "տասը"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ոսկե"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "լցված"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "խունկով"
+    }
+  ],
+  "timestamp": "2026-09-05T19:15:21.928246563Z",
+  "model": "glm-5.3"
+}

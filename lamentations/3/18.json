@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 3:18",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ ասացի՝ կորած է իմ ամրությունը և իմ հույսը՝ Յահվեից։",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "և ասացի"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "կորած է"
+    },
+    {
+      "surface": "נצחי",
+      "gloss": "իմ ամրությունը"
+    },
+    {
+      "surface": "ותוחלתי",
+      "gloss": "և իմ հույսը"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Յահվեից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:06.101596136Z",
+  "model": "glm-5.3"
+}

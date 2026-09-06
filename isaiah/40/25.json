@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 40:25",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 40,
+  "translation": "Եվ ում եք ինձ համեմատելու, և ու՞մ ես հավասար, — ասում է Սուրբը։",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "և ում"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "կհամեմատեք ինձ"
+    },
+    {
+      "surface": "ואשוה",
+      "gloss": "և հավասար եմ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ասում է"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Սուրբը"
+    }
+  ],
+  "timestamp": "2026-09-05T21:29:33.765362349Z",
+  "model": "glm-5.3"
+}

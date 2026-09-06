@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Մի հեռանաս ինձնից, քանի որ նեղությունը մոտ է, քանի որ օգնական չկա։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "հեռանաս"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ինձնից"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "նեղությունը"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "մոտ է"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "օգնական"
+    }
+  ],
+  "timestamp": "2026-09-05T22:56:26.938234095Z",
+  "model": "glm-5.3"
+}

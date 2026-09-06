@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Գեղեցիկ են քո այտերը վզնոցներով, քո վիզը՝ մարգարտաշարերով։",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "գեղեցիկ են"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "քո այտերը"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "վզնոցներով"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "քո վիզը"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "մարգարտաշարերով"
+    }
+  ],
+  "timestamp": "2026-09-05T23:52:19.197290325Z",
+  "model": "glm-5.3"
+}

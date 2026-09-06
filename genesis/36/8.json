@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 36,
+  "translation": "և բնակվեց Էսավը Սեիր լեռան վրա. Էսավը՝ նա ⟨է⟩ Էդոմը։",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "և բնակվեց"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Էսավը"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "լեռան վրա"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Սեիր"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Էսավը"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Էդոմը"
+    }
+  ],
+  "timestamp": "2026-09-05T18:25:29.916200219Z",
+  "model": "glm-5.3"
+}

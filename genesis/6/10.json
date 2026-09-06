@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ ծնեց Նոախը երեք որդի՝ ⟨את⟩ Շեմին, ⟨את⟩ Խամին և ⟨את⟩ Յեֆեթին։",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Եվ ծնեց"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Նոախը"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Շեմին"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Շեմին"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Խամին"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Խամին"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Յեֆեթին"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Յեֆեթին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:10:09.851765918Z",
+  "model": "glm-5.3"
+}

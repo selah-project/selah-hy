@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 7:12",
+  "book": "micah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Այն օրը քեզ կգան՝ Աշշուրից և Մացորի քաղաքներից, Մացորից մինչև գետը, ծովից ծով և լեռից լեռ։",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "ועדיך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "կգան"
+    },
+    {
+      "surface": "למני",
+      "gloss": "—ից"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Աշշուրից"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "և քաղաքները"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Մացորի"
+    },
+    {
+      "surface": "ולמני",
+      "gloss": "և մինչև"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Մացոր"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "և մինչև"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "գետը"
+    },
+    {
+      "surface": "וים",
+      "gloss": "և ծով"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ծովից"
+    },
+    {
+      "surface": "והר",
+      "gloss": "և լեռ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "լեռը"
+    }
+  ],
+  "timestamp": "2026-09-05T22:42:36.431816594Z",
+  "model": "glm-5.3"
+}

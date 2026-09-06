@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Այժմ ե՛կեք վեր կենալ և անցեք ձեզ համար ⟨את⟩ Զերեդ գետակը, և անցանք ⟨את⟩ Զերեդ գետակը։",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Այժմ"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ե՛կեք վեր կենալ"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "և անցեք"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ համար"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Զերեդ գետակը"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "գետակը"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Զերեդ"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "և անցանք"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Զերեդ գետակը"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "գետակը"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Զերեդ"
+    }
+  ],
+  "timestamp": "2026-09-06T02:03:13.611652619Z",
+  "model": "glm-5.3"
+}

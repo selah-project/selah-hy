@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "և ⟨את⟩ խիվցուն, և ⟨את⟩ արքցուն, և ⟨את⟩ սինցուն։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "խիվցուն"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "խիվցուն"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "արքցուն"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "արքցուն"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "սինցուն"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "սինցուն"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:03.161315692Z",
+  "model": "glm-5.3"
+}

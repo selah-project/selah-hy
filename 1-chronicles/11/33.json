@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 11:33",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Ազմավեթ բախարումցին, Էլյախբա շաալբոնցին։",
+  "tokens": [
+    {
+      "surface": "עזמות",
+      "gloss": "Ազմավեթ"
+    },
+    {
+      "surface": "הבחרומי",
+      "gloss": "բախարումցին"
+    },
+    {
+      "surface": "אליחבא",
+      "gloss": "Էլյախբա"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "շաալբոնցին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:31:30.420866875Z",
+  "model": "glm-5.3"
+}

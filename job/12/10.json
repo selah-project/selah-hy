@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Ում ձեռքին է ամեն կենդանու նեֆեշը, և ամեն մարդու մարմնի հոգին։",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ում"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ձեռքին"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "նեֆեշ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "חי",
+      "gloss": "կենդանու"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "և հոգի"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "մարմնի"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդու"
+    }
+  ],
+  "timestamp": "2026-09-05T23:42:13.072103893Z",
+  "model": "glm-5.3"
+}

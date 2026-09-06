@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Եվ հարվածեց Յահվեն ⟨את⟩ ժողովրդին, որովհետև արեցին ⟨את⟩ որդին, որ արեց Ահարոնը։",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "Եվ հարվածեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ժողովրդին"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովրդին"
+    },
+    {
+      "surface": "על",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "արեցին"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "որդին"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արեց"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ահարոնը"
+    }
+  ],
+  "timestamp": "2026-09-05T18:51:30.771974498Z",
+  "model": "glm-5.3"
+}

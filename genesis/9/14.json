@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 9:14",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ պատահի, երբ ես ամպ եմ բերում երկրի վրա, և երևի աղեղը ամպի մեջ՝",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "և պատահի"
+    },
+    {
+      "surface": "בענני",
+      "gloss": "երբ ես ամպ եմ բերում"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ամպ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "ונראתה",
+      "gloss": "և երևի"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "աղեղը"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "ամպի մեջ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:10:55.183880545Z",
+  "model": "glm-5.3"
+}

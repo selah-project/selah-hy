@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Լարեց իր աղեղը և ինձ կանգնեցրեց որպես թիրախ խոյանալու համար։",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "Լարեց"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "իր աղեղը"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "և ինձ կանգնեցրեց"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "որպես թիրախ"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "խոյանալու համար"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:41.153083113Z",
+  "model": "glm-5.3"
+}

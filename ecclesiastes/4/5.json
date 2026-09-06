@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Հիմարը գրկում է ⟨את⟩ իր ձեռքերը և ուտում ⟨את⟩ իր միսը։",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "հիմարը"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "գրկում է"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "իր ձեռքերը"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "իր ձեռքերը"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "և ուտում"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "իր միսը"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "իր միսը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:26.198361161Z",
+  "model": "glm-5.3"
+}

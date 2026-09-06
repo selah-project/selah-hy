@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 27:6",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Եվ ասաց Յահվեն Մոշեին ասելով՝",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "եվ ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "՝"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեին"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T19:26:23.406650119Z",
+  "model": "glm-5.3"
+}

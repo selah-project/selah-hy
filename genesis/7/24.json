@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ տիրեցին ջրերը երկրի վրա հիսուն և հարյուր օր։",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "Եվ տիրեցին"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ջրերը"
+    },
+    {
+      "surface": "על",
+      "gloss": "երկրի վրա"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի վրա"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "հիսուն"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "և հարյուր"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    }
+  ],
+  "timestamp": "2026-09-05T18:10:23.547574479Z",
+  "model": "glm-5.3"
+}

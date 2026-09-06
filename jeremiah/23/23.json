@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Միթե մոտ Էլոհիմ եմ ես, Յահվեի ասույթը, և ոչ թե հեռու Էլոհիմ։",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "միթե Էլոհիմ"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "եմ ես"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ասույթը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ թե"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Էլոհիմ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "հեռու"
+    }
+  ],
+  "timestamp": "2026-09-05T21:50:12.017288839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Խոսի՛ր Իսրայելի որդիների հետ և ասա նրանց․ Ես եմ Յահվեն՝ ձեր Էլոհիմը։",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Խոսի՛ր"
+    },
+    {
+      "surface": "אל",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "և ասա"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ես եմ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ձեր Էլոհիմը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:04:31.437677457Z",
+  "model": "glm-5.3"
+}

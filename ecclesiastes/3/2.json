@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Պահ՝ ծնվելու, և պահ՝ մեռնելու, պահ՝ տնկելու, և պահ՝ տնկածն արմատախիլ անելու։",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "պահ"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "ծնվելու"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "և պահ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "մեռնելու"
+    },
+    {
+      "surface": "עת",
+      "gloss": "պահ"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "տնկելու"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "և պահ"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "արմատախիլ անելու"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "տնկածը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:53.231872007Z",
+  "model": "glm-5.3"
+}

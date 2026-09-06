@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ կանչեց ⟨դեպի⟩ Մոշեին, և խոսեց Յահվեն նրան հանդիպումի վրանից՝ ասելով.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "կանչեց"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեին"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "խոսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "վրանից"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "հանդիպումի"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T18:57:18.894375128Z",
+  "model": "glm-5.3"
+}

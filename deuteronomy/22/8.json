@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 22:8",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Երբ նոր տուն կառուցես՝ քո տանիքի համար պարսպիկ արա, և արյուն չդնես քո տան վրա, երբ ընկնողը դրանից ընկնի։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Երբ"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "կառուցես"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տուն"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "նոր"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "արա"
+    },
+    {
+      "surface": "מעקה",
+      "gloss": "պարսպիկ"
+    },
+    {
+      "surface": "לגגך",
+      "gloss": "քո տանիքի համար"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "դնես"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "արյուն"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "քո տան վրա"
+    },
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ընկնի"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "ընկնողը"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "դրանից"
+    }
+  ],
+  "timestamp": "2026-09-05T19:42:58.710211120Z",
+  "model": "glm-5.3"
+}

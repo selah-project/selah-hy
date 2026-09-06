@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Ամացյահուն՝ նրա որդին, Ազարյան՝ նրա որդին, Յոթամը՝ նրա որդին։",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "Ամացյահուն"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Ազարյան"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Յոթամը"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:28:32.173312855Z",
+  "model": "glm-5.3"
+}

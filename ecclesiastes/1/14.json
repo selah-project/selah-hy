@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Տեսա ես ⟨את⟩ ամեն գործերը, որ արված են արևի տակ, և ահա՝ ամենքը գոլորշի ⟨է⟩ և քամու ձգտում։",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Տեսա ես"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ամեն գործերը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "գործերը"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "արված են"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "արևի"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "և ահա"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ամենքը"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "գոլորշի"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "և ձգտում"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "քամու"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:58.540843543Z",
+  "model": "glm-5.3"
+}

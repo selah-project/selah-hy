@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Իսկ Խուրը ծնեց ⟨את⟩ Ուրիին, և Ուրին ծնեց ⟨את⟩ Բեցալելին։",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Իսկ Խուրը"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ուրիին"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Ուրիին"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "և Ուրին"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Բեցալելին"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Բեցալելին"
+    }
+  ],
+  "timestamp": "2026-09-06T01:43:09.324836871Z",
+  "model": "glm-5.3"
+}

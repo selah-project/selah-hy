@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 41:47",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 41,
+  "translation": "Եվ երկիրը բերք տվեց բերքառատ յոթ տարիների ընթացքում՝ ափերով։",
+  "tokens": [
+    {
+      "surface": "ותעש",
+      "gloss": "և արեց-բերք տվեց"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "տարիների"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "բերքառատը"
+    },
+    {
+      "surface": "לקמצים",
+      "gloss": "ափերով"
+    }
+  ],
+  "timestamp": "2026-09-05T18:30:23.546749652Z",
+  "model": "glm-5.3"
+}

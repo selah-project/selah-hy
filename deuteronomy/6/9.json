@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "և գրի՛ր դրանք քո տան դռնասյուներին և քո դարպասներին։",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "և գրի՛ր դրանք"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "դռնասյուներին"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "քո տան"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "և քո դարպասներին"
+    }
+  ],
+  "timestamp": "2026-09-05T19:34:47.979675281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Յահվեն կթագավորի հավիտյան և հավերժ։",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "կթագավորի"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "հավիտյան"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "և հավերժ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:41:30.660023977Z",
+  "model": "glm-5.3"
+}

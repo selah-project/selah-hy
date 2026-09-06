@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Մի՛ վիճիր մարդու հետ անպատճառ, եթե նա չգործեց քեզ դեմ չարություն։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "վիճիր"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "անպատճառ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "գործեց քեզ դեմ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "չարություն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:11.380287703Z",
+  "model": "glm-5.3"
+}

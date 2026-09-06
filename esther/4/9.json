@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եկավ Հատաքը և պատմեց Էսթերին ⟨את⟩ Մորդոքեի խոսքերը։",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "Եկավ"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Հատաքը"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "և պատմեց"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Էսթերին"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "խոսքերը"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "խոսքերը"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Մորդոքեի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:03:07.245221471Z",
+  "model": "glm-5.3"
+}

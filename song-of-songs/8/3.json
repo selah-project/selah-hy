@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Նրա ձախ ձեռքը ՝ գլխիս տակ, իսկ աջը ՝ գրկում է ինձ։",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "Նրա ձախ ձեռքը"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "գլխիս"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "իսկ աջը"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "գրկում է ինձ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:54:38.303585835Z",
+  "model": "glm-5.3"
+}

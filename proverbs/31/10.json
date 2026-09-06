@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Արժանի կին՝ ո՞վ կգտնի, և պիտակը նրա հեռու է մարգարիտներից։",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "կին"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "արժանի"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "կգտնի"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "և հեռու է"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "մարգարիտներից"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "պիտակը նրա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:38:26.763784023Z",
+  "model": "glm-5.3"
+}

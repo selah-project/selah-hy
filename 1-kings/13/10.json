@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Եվ գնաց այլ ճանապարհով, և ետ չդարձավ այն ճանապարհով, որով եկել էր դեպի Բեյթ-Էլ։",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "և գնաց"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ճանապարհով"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "այլ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "դարձավ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ճանապարհով"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "եկել էր"
+    },
+    {
+      "surface": "בה",
+      "gloss": "դրանով"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Բեյթ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլ"
+    }
+  ],
+  "timestamp": "2026-09-05T20:52:11.525465689Z",
+  "model": "glm-5.3"
+}

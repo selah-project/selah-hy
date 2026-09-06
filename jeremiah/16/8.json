@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Եվ խնջույքի տուն մի՛ մտնիր նրանց հետ նստելու՝ ⟨את⟩ ուտելու և խմելու համար։",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "և տուն"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "խնջույքի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "մտնիր"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "նստելու"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ նրանց",
+      "marks": "ուտելու"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ուտելու"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "և խմելու"
+    }
+  ],
+  "timestamp": "2026-09-05T21:46:38.525952897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Կեղծիքների վկան չի արդարացվի, և սուտ շնչողը կորչի։",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "վկան"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "կեղծիքների"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "արդարացվի"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "և շնչողը"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "սուտ"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "կորչի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:01.930156094Z",
+  "model": "glm-5.3"
+}

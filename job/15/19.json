@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 15:19",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "նրանց միայն է տրված ⟨է⟩ երկիրը, և օտար չի անցել նրանց միջով։",
+  "tokens": [
+    {
+      "surface": "להם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "միայն"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "է տրված"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չի"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "անցել"
+    },
+    {
+      "surface": "זר",
+      "gloss": "օտար"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "նրանց միջով"
+    }
+  ],
+  "timestamp": "2026-09-05T23:44:00.155524931Z",
+  "model": "glm-5.3"
+}

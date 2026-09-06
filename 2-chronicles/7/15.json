@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 7:15",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Այժմ իմ աչքերը բաց կլինեն, և իմ ականջները՝ ուշադիր, այս տեղի աղոթքին։",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "այժմ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "իմ աչքերը"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "կլինեն"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "բաց"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "և իմ ականջները"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "ուշադիր"
+    },
+    {
+      "surface": "לתפלת",
+      "gloss": "աղոթքին"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "տեղի"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-06T00:44:19.429830286Z",
+  "model": "glm-5.3"
+}

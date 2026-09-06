@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Արդարության ճանապարհին կյանք ⟨է⟩, իսկ արահետի ճանապարհին՝ ո՛չ մահ։",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "ճանապարհին"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "արդարության"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "կյանք"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "իսկ ճանապարհին"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "արահետի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ո՛չ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "մահ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:31:52.301790811Z",
+  "model": "glm-5.3"
+}

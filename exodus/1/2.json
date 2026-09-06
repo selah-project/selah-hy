@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Ռեուվեն, Շիմոն, Լեվի և Յեհուդա (Հուդա)։",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Ռեուվեն"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Շիմոն"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Լեվի"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "և Յեհուդա (Հուդա)"
+    }
+  ],
+  "timestamp": "2026-09-05T18:34:19.728336834Z",
+  "model": "glm-5.3"
+}

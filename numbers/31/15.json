@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 31:15",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Եվ ասաց նրանց Մոշեն. «Արդյոք կենդանի պահեցի՞ք ամեն մի իգական»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "החייתם",
+      "gloss": "կենդանի պահեցի՞ք"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն մի"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "իգական"
+    }
+  ],
+  "timestamp": "2026-09-05T19:28:47.232656730Z",
+  "model": "glm-5.3"
+}

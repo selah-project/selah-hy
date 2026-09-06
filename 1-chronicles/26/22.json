@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 26:22",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Յեխիելիի որդիները՝ Զետամը և նրա եղբայր Յոելը՝ Յահվեի տան գանձարանների վրա։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "יחיאלי",
+      "gloss": "Յեխիելիի"
+    },
+    {
+      "surface": "זתם",
+      "gloss": "Զետամը"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "և Յոելը"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "նրա եղբայր"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "գանձարանների"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տան"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:38:34.601048144Z",
+  "model": "glm-5.3"
+}

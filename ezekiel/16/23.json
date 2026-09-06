@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 16:23",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Եվ եղավ քո ամբողջ չարությունից հետո՝ վա՜յ, վա՜յ քեզ, — Ադոնայ Յահվեի նվերը ⟨է⟩։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "հետո"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "քո չարությունից"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "վա՜յ"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "վա՜յ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "նվերը"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:12:47.305271682Z",
+  "model": "glm-5.3"
+}

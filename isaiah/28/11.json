@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "որովհետև ծաղրելի շրթունքով և ուրիշ լեզվով կխոսի այս ժողովրդին։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "ծաղրելի"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "շրթունքով"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "և լեզվով"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "ուրիշ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "կխոսի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովրդին"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-05T21:22:24.935667257Z",
+  "model": "glm-5.3"
+}

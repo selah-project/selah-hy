@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 39:12",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 39,
+  "translation": "Վերցրու՛ նրան և աչքերդ դիր նրա վրա, և մի արա նրան ոչ մի չար բան, այլ ինչպես նա խոսի քեզ հետ, այնպես արա նրա հետ։",
+  "tokens": [
+    {
+      "surface": "קחנו",
+      "gloss": "Վերցրու՛ նրան"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "և աչքերդ"
+    },
+    {
+      "surface": "שים",
+      "gloss": "դիր"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "նրա վրա"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և մի"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "արա"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ոչ մի բան"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չար"
+    },
+    {
+      "surface": "כי",
+      "gloss": "այլ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե միայն"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ինչպես"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "խոսի"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "քեզ հետ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այնպես"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արա"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "նրա հետ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:58:06.063308959Z",
+  "model": "glm-5.3"
+}

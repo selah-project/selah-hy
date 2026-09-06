@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 14:26",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ խոսեց Յահվեն Մոշեի հետ և Ահարոնի հետ՝ ասելով։",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "և խոսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեի"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և հետ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ահարոնի"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T19:19:35.304128540Z",
+  "model": "glm-5.3"
+}

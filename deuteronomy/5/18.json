@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ չես պոռնկանա։",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "պոռնկանա"
+    }
+  ],
+  "timestamp": "2026-09-05T19:33:00.702092450Z",
+  "model": "glm-5.3"
+}

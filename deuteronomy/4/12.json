@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 4:12",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ խոսեց Յահվեն ձեզ հետ կրակի միջից՝ բառերի ձայն դուք լսում էիք, և կերպ չէիք տեսնում, բացի ձայնից։",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Եվ խոսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ձեզ հետ"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "միջից"
+    },
+    {
+      "surface": "האש",
+      "gloss": "կրակի"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ձայն"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "բառերի"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "դուք"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "լսում էիք"
+    },
+    {
+      "surface": "ותמונה",
+      "gloss": "և կերպ"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "չէիք"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "տեսնում"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "բացի"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ձայնից"
+    }
+  ],
+  "timestamp": "2026-09-05T19:34:33.236133974Z",
+  "model": "glm-5.3"
+}

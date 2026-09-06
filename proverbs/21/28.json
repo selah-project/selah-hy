@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Կեղծիքի վկան կկորչի, իսկ լսող մարդը հավերժ կխոսի։",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "վկան"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "կեղծիքի"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "կկորչի"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "իսկ մարդ"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "լսող"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "հավերժ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "կխոսի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:50.929761668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Գերշոմի որդիները՝ Շեբուելը՝ գլուխը։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Գերշոմի"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "Շեբուելը"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "գլուխը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:37:13.308424433Z",
+  "model": "glm-5.3"
+}

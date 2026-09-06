@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 3:15",
+  "book": "habakkuk",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Տրորեցիր ծովը քո ձիերովդ՝ շատ ջրերի ցեխը։",
+  "tokens": [
+    {
+      "surface": "דרכת",
+      "gloss": "Տրորեցիր"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ծովը"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "քո ձիերովդ"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ցեխը"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջրերի"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "շատ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:44:45.579961099Z",
+  "model": "glm-5.3"
+}

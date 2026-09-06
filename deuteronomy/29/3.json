@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "բայց Յահվեն ձեզ չտվեց սիրտ՝ իմանալու, և աչքեր՝ տեսնելու, և ականջներ՝ լսելու՝ մինչև այս օրը։",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "բայց չ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "տվեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սիրտ"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "իմանալու"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "և աչքեր"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "տեսնելու"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "և ականջներ"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "լսելու"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "היום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-05T19:46:54.779157332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 38,
+  "translation": "Եվ հղիացավ, և ծնեց որդի, և կոչեց ⟨את⟩ նրա անունը՝ Էր։",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Եվ հղիացավ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "և ծնեց"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "և կոչեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "նրա անունը"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "նրա անունը"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Էր"
+    }
+  ],
+  "timestamp": "2026-09-05T18:26:25.771724955Z",
+  "model": "glm-5.3"
+}

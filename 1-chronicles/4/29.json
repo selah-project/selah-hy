@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 4:29",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "և Բիլհայում, և Էցեմում, և Թոլադում։",
+  "tokens": [
+    {
+      "surface": "ובבלהה",
+      "gloss": "Բիլհայում"
+    },
+    {
+      "surface": "ובעצם",
+      "gloss": "Էցեմում"
+    },
+    {
+      "surface": "ובתולד",
+      "gloss": "Թոլադում"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:21.689022718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Երկնքի թռչունը և ծովի ձկները՝ ծովերի ուղիներով անցնողը։",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "թռչունը"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "երկնքի"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "և ձկները"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ծովի"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "անցնողը"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ուղիներով"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ծովերի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:53:52.497265982Z",
+  "model": "glm-5.3"
+}

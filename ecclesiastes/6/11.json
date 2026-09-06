@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Քանի որ շատ բաներ կան, որոնք բազմացնում են հեբելը. ի՞նչ ավելցուկ ⟨է⟩ մարդուն։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "կան"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "բաներ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "շատ"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "բազմացնող"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "հեբել"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ավելցուկ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "մարդուն"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:46.297154221Z",
+  "model": "glm-5.3"
+}

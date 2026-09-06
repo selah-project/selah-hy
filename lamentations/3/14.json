@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եղա ծաղր ամբողջ իմ ժողովրդի համար, նրանց երգը՝ ամբողջ օրվա ընթացքում։",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "Եղա"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "ծաղր"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "իմ ժողովրդի համար"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "նրանց երգը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "օրվա ընթացքում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:04.665866875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 102,
+  "translation": "Խոնարձեցրեց ճանապարհին իմ ուժը, կարճեց իմ օրերը։",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Խոնարձեցրեց"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ճանապարհին"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "իմ ուժը"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "կարճեց"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "իմ օրերը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:15:43.540357179Z",
+  "model": "glm-5.3"
+}

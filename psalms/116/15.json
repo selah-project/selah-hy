@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 116,
+  "translation": "Թանկ է Յահվեի աչքերում իր խսդերի մահը։",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "թանկ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "աչքերում"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "մահը"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "իր խսդերի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:42.982584476Z",
+  "model": "glm-5.3"
+}

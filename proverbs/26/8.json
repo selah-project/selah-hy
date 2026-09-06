@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Ինչպես քար կապելը պարսանքին, այնպես պատիվ տալը հիմարին։",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "ինչպես կապելը"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "քար"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "պարսանքին"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այնպես"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "տալը"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "հիմարին"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "պատիվ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:38.426386557Z",
+  "model": "glm-5.3"
+}

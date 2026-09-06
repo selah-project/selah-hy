@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 30:19",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Եվ դատաստաններ կանեմ Միցրայիմում, և կիմանան, որ ես եմ Յահվեն։",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "Եվ կանեմ"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "դատաստաններ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Միցրայիմում"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "և կիմանան"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես եմ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T22:20:48.969728964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 20:24",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Յահվեից են մարդու քայլերը, և մարդը՝ ինչպե՞ս կհասկանա իր ճանապարհը։",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "Յահվեից"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "քայլերը"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "և մարդը"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ինչպե՞ս"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "կհասկանա"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "իր ճանապարհը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:09.749606054Z",
+  "model": "glm-5.3"
+}

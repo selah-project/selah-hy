@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Իսկ դու և քո ծառաները՝ գիտեմ, որ դեռ չեք վախենա Յահվե Էլոհիմի երեսից։",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Իսկ դու"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "և քո ծառաները"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "գիտեմ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "դեռ չ"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "վախենաք"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "երեսից"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:37:26.920379355Z",
+  "model": "glm-5.3"
+}

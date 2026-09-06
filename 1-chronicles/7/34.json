@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ Շամերի որդիներն էին՝ Ախին, և Ռոհգան, և Յեխուբան, և Արամը։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Շամերի"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Ախին"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "և Ռոհգան"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "և Յեխուբան"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "և Արամը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:26.378532071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Եվ երբ ձեռնպահ մնաս երդվելուց, մեղք չի լինի քո մեջ։",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "և երբ"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "ձեռնպահ մնաս"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "երդվելուց"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "կլինի"
+    },
+    {
+      "surface": "בך",
+      "gloss": "քո մեջ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "մեղք"
+    }
+  ],
+  "timestamp": "2026-09-05T19:43:44.169080465Z",
+  "model": "glm-5.3"
+}

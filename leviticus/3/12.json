@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ եթե նրա ընծան այծ է, կմոտեցնի այն Յահվեի առջև։",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "եվ եթե"
+    },
+    {
+      "surface": "עז",
+      "gloss": "այծ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "նրա ընծան"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "կմոտեցնի այն"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    }
+  ],
+  "timestamp": "2026-09-05T18:56:28.539717668Z",
+  "model": "glm-5.3"
+}

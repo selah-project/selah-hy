@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 87,
+  "translation": "Փառավոր բաներ ասվում են քո մասին՝ Էլոհիմի քաղաք։ Սելահ։",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "փառավոր բաներ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ասվում են"
+    },
+    {
+      "surface": "בך",
+      "gloss": "քո մասին"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "քաղաք"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Էլոհիմի"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Սելահ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:13:45.853934217Z",
+  "model": "glm-5.3"
+}

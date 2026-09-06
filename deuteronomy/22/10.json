@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Մի՛ հերկես եզի և էշի հետ միասին։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "հերկես"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "եզի"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "և էշի հետ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "միասին"
+    }
+  ],
+  "timestamp": "2026-09-05T19:42:23.747163496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "միայն ⟨את⟩ ոսկին և ⟨את⟩ արծաթը, ⟨את⟩ պղինձը, ⟨את⟩ երկաթը, ⟨את⟩ անագը և ⟨את⟩ արճինը՝",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "միայն"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ոսկին"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ոսկին"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "արծաթը"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "արծաթը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "պղինձը"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "պղինձը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "երկաթը"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "երկաթը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "անագը"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "անագը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "արճինը"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "արճինը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:28:10.886950747Z",
+  "model": "glm-5.3"
+}

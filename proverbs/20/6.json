@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 20:6",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Շատերն են իրենց խեսեդը կանչում, բայց հավատարիմ մարդ՝ ո՞վ կգտնի։",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "շատերն"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդկանցից"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "կանչում են"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ամեն մարդ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "իր խեսեդը"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "բայց մարդ"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "հավատարիմ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "կգտնի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:08.060149552Z",
+  "model": "glm-5.3"
+}

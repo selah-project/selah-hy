@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ սպանված ⟨կը⟩ ընկնի ձեր մեջ, և դուք կիմանաք, որ ես եմ Յահվեն։",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "և կընկնի"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "սպանված"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "ձեր մեջ"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "և կիմանաք"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-06T01:38:40.346089419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Միթե մարդը կանի իր համար աստվածներ, և դրանք աստվածներ չեն։",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "Միթե կանի"
+    },
+    {
+      "surface": "לו",
+      "gloss": "իր համար"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդը"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "աստվածներ"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "և դրանք"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "աստվածներ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:46:47.423799551Z",
+  "model": "glm-5.3"
+}

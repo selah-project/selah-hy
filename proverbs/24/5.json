@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Իմաստուն մարդն ուժեղ է ուժով, և գիտության մարդը հզորացնում է ուժը։",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "իմաստուն"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "ուժով"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "և մարդ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "գիտության"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "հզորացնում է"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ուժ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:34.422303987Z",
+  "model": "glm-5.3"
+}

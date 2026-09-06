@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Որ փոս է փորում՝ դրա մեջ կընկնի, և որ պարիսպ է քանդում՝ օձ կխայթի նրան։",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "է փորում"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "փոս"
+    },
+    {
+      "surface": "בו",
+      "gloss": "դրա մեջ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "կընկնի"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "և որ քանդում է"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "պարիսպ"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "կխայթի նրան"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "օձ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:08.012782879Z",
+  "model": "glm-5.3"
+}

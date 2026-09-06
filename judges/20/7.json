@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 20:7",
+  "book": "judges",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Ահա՝ դուք բոլորդ Իսրայելի որդիներն էք. տվե՛ք ձեզ խոսք և խորհուրդ այստեղ։",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "բոլորդ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "տվեք"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսք"
+    },
+    {
+      "surface": "ועצה",
+      "gloss": "և խորհուրդ"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "այստեղ"
+    }
+  ],
+  "timestamp": "2026-09-05T20:12:02.174911342Z",
+  "model": "glm-5.3"
+}

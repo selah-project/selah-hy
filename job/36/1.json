@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 36:1",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 36,
+  "translation": "Եվ ավելացրեց Էլիհուն (Էլիհու) և ասաց․",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "և ավելացրեց"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "Էլիհուն"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:49:58.139601159Z",
+  "model": "glm-5.3"
+}

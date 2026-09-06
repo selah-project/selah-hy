@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Պոռնկությունը և գինին ու նոր գինին խլում են սիրտը։",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "Պոռնկությունը"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "և գինին"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "և նոր գինին"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "խլում են"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սիրտը"
+    }
+  ],
+  "timestamp": "2026-09-05T22:31:04.916751919Z",
+  "model": "glm-5.3"
+}

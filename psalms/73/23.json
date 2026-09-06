@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 73,
+  "translation": "Բայց ես միշտ քեզ հետ եմ. դու բռնել ես իմ աջ ձեռքը։",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "բայց ես"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "միշտ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "քեզ հետ"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "բռնել ես"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ձեռք"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "իմ աջ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:09:39.738002111Z",
+  "model": "glm-5.3"
+}

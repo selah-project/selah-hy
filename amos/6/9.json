@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 6:9",
+  "book": "amos",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ եթե տասը մարդ մնան մեկ տան մեջ, նրանք կմեռնեն։",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "մնան"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "տասը"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "տան մեջ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "կմեռնեն"
+    }
+  ],
+  "timestamp": "2026-09-05T22:37:47.685625614Z",
+  "model": "glm-5.3"
+}

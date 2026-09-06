@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "և Ցիկլաղը, և Բեյթ հա-Մարքավոթը, և Խացար Սուսան",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "և Ցիկլագը"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "և Բեյթ"
+    },
+    {
+      "surface": "המרכבות",
+      "gloss": "հա-Մարքավոթը"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "և Խացար"
+    },
+    {
+      "surface": "סוסה",
+      "gloss": "Սուսան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:57:24.761970612Z",
+  "model": "glm-5.3"
+}

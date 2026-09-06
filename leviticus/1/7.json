@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ Ահարոն քահանայի որդիք կրակ կդնեն զոհասեղանի վրա և փայտեր կշարեն կրակի վրա։",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "կդնեն"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիք"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ահարոն"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "քահանայի"
+    },
+    {
+      "surface": "אש",
+      "gloss": "կրակ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "զոհասեղանի"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "կշարեն"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "փայտեր"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "האש",
+      "gloss": "կրակի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:57:10.054509511Z",
+  "model": "glm-5.3"
+}

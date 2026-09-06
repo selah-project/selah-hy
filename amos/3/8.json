@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Առյուծը մռնչաց՝ ո՞վ չի վախենա։ Ադոնայ Յահվե խոսեց՝ ո՞վ չի մարգարեանա։",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "առյուծը"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "մռնչաց"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "վախենա"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսեց"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "մարգարեանա"
+    }
+  ],
+  "timestamp": "2026-09-05T22:36:11.709155951Z",
+  "model": "glm-5.3"
+}

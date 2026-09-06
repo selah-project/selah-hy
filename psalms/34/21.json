@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 34,
+  "translation": "Բոլոր ոսկրերը պահում է ⟨նա⟩՝ դրանցից մեկը չի կոտրվել։",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "պահում է"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "ոսկրերը"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "մեկը"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "դրանցից"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "կոտրվել"
+    }
+  ],
+  "timestamp": "2026-09-05T22:59:30.508811669Z",
+  "model": "glm-5.3"
+}

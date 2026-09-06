@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 68,
+  "translation": "Օրհնյալ է Ադոնայն, որ օր օրի մեր բեռը կրում է. Էլը մեր փրկությունն է։ Սելա։",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Օրհնյալ է"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայն"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օրի"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "բեռը կրում է"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "մեր"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Էլը"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "փրկությունն է"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Սելա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:08:35.803104750Z",
+  "model": "glm-5.3"
+}

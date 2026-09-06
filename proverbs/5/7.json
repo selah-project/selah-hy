@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 5:7",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ հիմա, որդինե՛ր, լսեցեք ինձ, և մի՛ շեղվեք իմ բերանի խոսքերից։",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "և հիմա"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "լսեցեք"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և մի"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "շեղվեք"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "խոսքերից"
+    },
+    {
+      "surface": "פי",
+      "gloss": "իմ բերանի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:45.615274970Z",
+  "model": "glm-5.3"
+}

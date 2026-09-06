@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Սառն ջուր՝ հոգնած նեֆեշի վրա, և լավ լուր՝ հեռավոր երկրից։",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ջուր"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "սառն"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "նեֆեշի"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "հոգնած"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "և լուր"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "լավ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "երկրից"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "հեռավոր"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:15.219027990Z",
+  "model": "glm-5.3"
+}

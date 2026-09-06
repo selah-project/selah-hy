@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Որովհետև ո՞վ է Էլ՝ բացի Յահվեից, և ո՞վ է ժայռ՝ բացի մեր Էլոհիմից։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլ"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "բացի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեից"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "և ո՞վ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ժայռ"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "բացի"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "մեր Էլոհիմից"
+    }
+  ],
+  "timestamp": "2026-09-05T20:41:51.161692907Z",
+  "model": "glm-5.3"
+}

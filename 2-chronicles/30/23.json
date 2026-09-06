@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 30:23",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Եվ խորհրդակցեց ամբողջ ժողովուրդը՝ անելու այլ յոթ օր, և արեցին յոթ օր ուրախությամբ։",
+  "tokens": [
+    {
+      "surface": "ויועצו",
+      "gloss": "և խորհրդակցեց"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ժողովուրդը"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "անելու"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "այլ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "և արեցին"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ուրախությամբ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:57:50.254994248Z",
+  "model": "glm-5.3"
+}

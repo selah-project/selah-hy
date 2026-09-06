@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ կելնի քահանան տանից՝ դեպի տան մուտքը, և կփակի ⟨את⟩ տունը յոթ օր։",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "և կելնի"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "քահանան"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ից"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "տան"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "մուտքը"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "տան"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "և կփակի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "տունը"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "տունը"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    }
+  ],
+  "timestamp": "2026-09-05T19:02:55.168410653Z",
+  "model": "glm-5.3"
+}

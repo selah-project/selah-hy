@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Լավ է ինձ քո բերանի Թորան՝ ավելի, քան հազարավոր ոսկի և արծաթ։",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Լավ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "է ինձ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Թորան"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "քո բերանի"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "ավելի, քան հազարավոր"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ոսկի"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "և արծաթ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:23:09.482384707Z",
+  "model": "glm-5.3"
+}

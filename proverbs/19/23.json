@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 19:23",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Յահվեի երկյուղը՝ կյանքի, և հագեցածը գիշերեց՝ չարը նրան չի այցելի։",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "երկյուղը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "կյանքի"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "և հագեցածը"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "գիշերեց"
+    },
+    {
+      "surface": "בל",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "այցելի"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չարը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:33:59.031792406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 41,
+  "translation": "Այստեղից իմացա ես, որ ինձ ես հավանում, որովհետև իմ թշնամին չի ծափահարի իմ դեմ։",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "այստեղից"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "իմացա ես"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "հավանեցիր"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "ծափահարի"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "իմ թշնամին"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "իմ դեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:02:12.597312644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Եվ նա նրանց համար խնջույք արեց, և նրանք կերան և խմեցին։",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "և արեց"
+    },
+    {
+      "surface": "להם",
+      "gloss": "նրանց համար"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "խնջույք"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "և կերան"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "և խմեցին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:20:10.240210763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "և Քեդեշ, և Էդրեի, և Էյն Խածոր։",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "և Քեդեշ"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "և Էդրեի"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "և Էյն"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Խածոր"
+    }
+  ],
+  "timestamp": "2026-09-05T19:58:37.097332866Z",
+  "model": "glm-5.3"
+}

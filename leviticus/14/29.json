@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 14:29",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ քահանայի ափի վրա գտնվող յուղի մնացորդը կդնի մաքրվողի գլխի վրա՝ քավելու նրա համար Յահվեի առջև։",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "և մնացորդը"
+    },
+    {
+      "surface": "מן",
+      "gloss": "հուն"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "յուղի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ափի"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "քահանայի"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "կդնի"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "գլխի"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "մաքրվողի"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "քավելու"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "նրա համար"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:02:47.632260590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Հոգնածին ջուր չես խմեցնում, և քաղցածից հաց ես զրկում։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջուր"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "հոգնածին"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "ես խմեցնում"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "և քաղցածից"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ես զրկում"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "հաց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:45:07.878478517Z",
+  "model": "glm-5.3"
+}

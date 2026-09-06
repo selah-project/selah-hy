@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Եվ կտեսնեն երկրի բոլոր ժողովուրդները, որ Յահվեի անունը կանչված է քո վրա, և կվախենան քեզնից։",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "Եվ կտեսնեն"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ժողովուրդների"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "անունը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "կանչված է"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "քո վրա"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "և կվախենան"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "քեզնից"
+    }
+  ],
+  "timestamp": "2026-09-05T19:46:23.553277258Z",
+  "model": "glm-5.3"
+}

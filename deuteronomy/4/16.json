@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 4:16",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "մի փչացնեք և արեք ձեզ քանդակ՝ որևէ կերպարի տեսքով, արու կամ էգ պատկերի նմանություն։",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תשחתון",
+      "gloss": "փչացնեք"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "և արեք"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "քանդակ"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "տեսքով"
+    },
+    {
+      "surface": "כל",
+      "gloss": "որևէ"
+    },
+    {
+      "surface": "סמל",
+      "gloss": "կերպարի"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "նմանություն"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "արու"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "էգ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:33:37.273562281Z",
+  "model": "glm-5.3"
+}

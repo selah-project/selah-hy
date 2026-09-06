@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Չար աչքով մարդը հարստության համար անհանգստանում է, և չգիտի, որ պակասը իրեն կգա։",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "անհանգստանում է"
+    },
+    {
+      "surface": "להון",
+      "gloss": "հարստության"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չար"
+    },
+    {
+      "surface": "עין",
+      "gloss": "աչք"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "գիտի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "պակասը"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "կգա իրեն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:49.416948136Z",
+  "model": "glm-5.3"
+}

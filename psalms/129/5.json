@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 129,
+  "translation": "Թող ամոթահար լինեն և ետ քաշվեն ահջակ Ցիոնի ատողները։",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ամոթահար լինեն"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "և ետ քաշվեն"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ահջակ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ատողները"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ցիոնի"
+    }
+  ],
+  "timestamp": "2026-09-06T02:08:35.768349213Z",
+  "model": "glm-5.3"
+}

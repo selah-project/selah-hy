@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Մի՛ լինիս չափազանց արդար, և մի՛ իմաստունանա ավելի, քան պետք է. ինչո՞ւ պետք է քեզ ամայանաս։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Մի՛"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "լինիս"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "արդար"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "չափազանց"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և մի՛"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "իմաստունանա"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ավելի, քան պետք է"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ինչո՞ւ"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "ամայանաս"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:15.553229940Z",
+  "model": "glm-5.3"
+}

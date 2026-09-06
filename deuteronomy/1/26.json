@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "և չուզեցիք բարձրանալ, և ապստամբեցիք ⟨את⟩ բերանի դիմաց՝ ձեր Էլոհիմ Յահվեի։",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "ուզեցիք"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "բարձրանալ"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "և ապստամբեցիք"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "բերանի"
+    },
+    {
+      "surface": "פי",
+      "gloss": "բերանի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ձեր Էլոհիմի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:32:01.843242914Z",
+  "model": "glm-5.3"
+}

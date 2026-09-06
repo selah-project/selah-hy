@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ ասաց. Օրհնված լինի Յահվեն, Շեմի Էլոհիմը, և լինի Կնաանը ծառա նրանց։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "օրհնված"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Շեմի"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "և լինի"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Կնաանը"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ծառա"
+    },
+    {
+      "surface": "למו",
+      "gloss": "նրանց"
+    }
+  ],
+  "timestamp": "2026-09-05T18:10:17.632834152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Եվ եկավ Իցխակը (Իսահակ) իր հոր մոտ և ասաց. «Իմ հայրիկ»։ Եվ նա ասաց. «Ահա ե՛ս։ Դու ո՞վ ես, որդիս»։",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "եվ եկավ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "իր հայրը"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "իմ հայր"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ահա ես"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ով"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիս"
+    }
+  ],
+  "timestamp": "2026-09-05T18:20:50.756111110Z",
+  "model": "glm-5.3"
+}

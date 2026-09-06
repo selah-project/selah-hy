@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 12:17",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Եկան Բինյամինի որդիներից և Յեհուդայից մինչև բերդը՝ Դավիդի մոտ։",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Եկան"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…ից"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիներից"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Բինյամինի"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "և Յեհուդայից"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "բերդը"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Դավիդի մոտ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:33:59.645906196Z",
+  "model": "glm-5.3"
+}

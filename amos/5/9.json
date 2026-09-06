@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 5:9",
+  "book": "amos",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Որ ավերը հզորի վրա հանկարծակի է շողացնում, և ավերը բերդի վրա կգա։",
+  "tokens": [
+    {
+      "surface": "המבליג",
+      "gloss": "հանկարծակի շողացնող"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ավեր"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "עז",
+      "gloss": "հզորի"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "և ավերը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "բերդ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "կգա"
+    }
+  ],
+  "timestamp": "2026-09-05T22:38:23.901862101Z",
+  "model": "glm-5.3"
+}

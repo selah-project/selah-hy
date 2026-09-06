@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 82,
+  "translation": "Ազատեք թույլին և կարիքյալին, չարերի ձեռքից փրկեք նրանց։",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "Ազատեք"
+    },
+    {
+      "surface": "דל",
+      "gloss": "թույլին"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "և կարիքյալին"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ձեռքից"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "չարերի"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "փրկեք"
+    }
+  ],
+  "timestamp": "2026-09-05T23:11:32.352682332Z",
+  "model": "glm-5.3"
+}

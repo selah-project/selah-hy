@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Եվ եթե էգ է ⟨նա⟩՝ ⟨լինի⟩ քո գնահատությունը երեսուն շքել.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "և եթե"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "էգ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "է ⟨նա⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "⟨լինի⟩"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "քո գնահատությունը"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "երեսուն"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "շքել"
+    }
+  ],
+  "timestamp": "2026-09-05T19:11:46.590874610Z",
+  "model": "glm-5.3"
+}

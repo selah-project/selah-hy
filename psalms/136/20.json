@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 136,
+  "translation": "և Օգին՝ Բաշանի թագավորին, որովհետև հավերժ է նրա խեսեդը։",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "և Օգին"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավորին"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Բաշանի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "հավերժ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "նրա խեսեդը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:25:29.447252413Z",
+  "model": "glm-5.3"
+}

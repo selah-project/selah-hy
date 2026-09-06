@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Ինչ որ եղած է՝ արդեն կա, և ինչ որ լինելու է՝ արդեն եղել է, և Էլոհիմը փնտրում է ⟨את⟩ հետևվածին։",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ինչ որ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "եղած է"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "արդեն"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "կա"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "և ինչ որ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "լինելու է"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "արդեն"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղել է"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "և Էլոհիմը"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "փնտրում է"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "հետևվածին"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "հետևվածին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:56.066653087Z",
+  "model": "glm-5.3"
+}

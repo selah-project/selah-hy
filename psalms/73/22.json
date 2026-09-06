@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 73,
+  "translation": "Ես անմիտ էի և ոչինչ չգիտեի, անասուն էի քեզ հետ։",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "בער",
+      "gloss": "անմիտ էի"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "գիտեի"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "անասուն"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "էի"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "քեզ հետ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:09:39.737814921Z",
+  "model": "glm-5.3"
+}

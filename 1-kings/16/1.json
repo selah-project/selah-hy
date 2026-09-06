@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Եվ եղավ Յահվեի խոսքը Յեհուի՝ Խանանի որդու մոտ՝ Բաշայի դեմ, ասելով՝",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Յեհուի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդու"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Խանանի"
+    },
+    {
+      "surface": "על",
+      "gloss": "դեմ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Բաշայի"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով՝"
+    }
+  ],
+  "timestamp": "2026-09-05T20:53:51.279523047Z",
+  "model": "glm-5.3"
+}

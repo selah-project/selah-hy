@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Մի՛ եղիր ինձ սարսափ՝ ապաստանս դու ես չարի օրը։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "եղիր"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "սարսափ"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ապաստանս"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "չարի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:48:16.948919970Z",
+  "model": "glm-5.3"
+}

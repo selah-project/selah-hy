@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Մաշեց իմ միսը և իմ մաշկը. կոտրեց իմ ոսկրերը։",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "Մաշեց"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "իմ միսը"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "և իմ մաշկը"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "կոտրեց"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "իմ ոսկրերը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:00.293435170Z",
+  "model": "glm-5.3"
+}

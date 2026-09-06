@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Ինչո՞ւ դա՝ գին հիմարի ձեռքին՝ իմաստություն գնելու, երբ սիրտ չկա։",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Ինչո՞ւ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "դա"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "գին"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ձեռքին"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "հիմարի"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "գնելու"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "իմաստություն"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "երբ սիրտ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չկա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:32:53.765135958Z",
+  "model": "glm-5.3"
+}

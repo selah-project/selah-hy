@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Եվ ապրեց Պելեգը (Փալեգ) երեսուն տարի և ծնեց ⟨את⟩ Ռեուին։",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Եվ ապրեց"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Պելեգը"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "երեսուն"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "և ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ռեուին"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Ռեուին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:12:33.213314479Z",
+  "model": "glm-5.3"
+}

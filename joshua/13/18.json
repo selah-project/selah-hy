@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "և Յահցան, և Քեդեմոտը, և Մեֆաատը։",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "և Յահցան"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "և Քեդեմոտը"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "և Մեֆաատը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:55:00.571323596Z",
+  "model": "glm-5.3"
+}

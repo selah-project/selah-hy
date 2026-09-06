@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 4:21",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "և ծաղիկները, և լամպերը, և ածելիները՝ ոսկու, դրանք ամբողջովին ոսկի են։",
+  "tokens": [
+    {
+      "surface": "והפרח",
+      "gloss": "և ծաղիկները"
+    },
+    {
+      "surface": "והנרות",
+      "gloss": "և լամպերը"
+    },
+    {
+      "surface": "והמלקחים",
+      "gloss": "և ածելիները"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ոսկու"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "դրանք"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "ամբողջովին"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ոսկի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:40:37.214925318Z",
+  "model": "glm-5.3"
+}

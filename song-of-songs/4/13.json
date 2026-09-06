@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 4:13",
+  "book": "song-of-songs",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Քո ընձյուղները նռան այգի են՝ ընտիր պտուղներով, քրքրջամ ծաղիկներ՝ նարդոսի հետ։",
+  "tokens": [
+    {
+      "surface": "שלחיך",
+      "gloss": "Քո ընձյուղները"
+    },
+    {
+      "surface": "פרדס",
+      "gloss": "այգի"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "նռան"
+    },
+    {
+      "surface": "עם",
+      "gloss": "՝ հետ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "պտուղներ"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "ընտիր"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "քրքրջամ ծաղիկներ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "נרדים",
+      "gloss": "նարդոսի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:52:55.876597413Z",
+  "model": "glm-5.3"
+}

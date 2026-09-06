@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 3:23",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ Նեարյահի որդիներն էին՝ Էլյոհոենայ, և Խիզկիյահ, և Ազրիկամ՝ երեքը։",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "և որդի"
+    },
+    {
+      "surface": "נעריה",
+      "gloss": "Նեարյահի"
+    },
+    {
+      "surface": "אליועיני",
+      "gloss": "Էլյոհոենայ"
+    },
+    {
+      "surface": "וחזקיה",
+      "gloss": "և Խիզկիյահ"
+    },
+    {
+      "surface": "ועזריקם",
+      "gloss": "և Ազրիկամ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "երեք"
+    }
+  ],
+  "timestamp": "2026-09-06T00:28:41.765470002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "և Յահվեն ասաց Կայինին. ինչո՞ւ բարկացար, և ինչո՞ւ ընկավ քո երեսը։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Կայինին"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ինչու"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "բարկացար"
+    },
+    {
+      "surface": "לך",
+      "gloss": "դու"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "և ինչու"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ընկավ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "քո երեսը"
+    }
+  ],
+  "timestamp": "2026-09-05T18:08:35.546426502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 23:6",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Եվ այս ամսվա տասնհինգ օրը մացոտի տոնն է՝ Յահվեի համար. յոթ օր մացոտ պետք է ուտեք։",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "Եվ տասնհինգ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "հինգ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ամսվա"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "חג",
+      "gloss": "տոն"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "մացոտի"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեի համար"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "մացոտ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "պետք է ուտեք"
+    }
+  ],
+  "timestamp": "2026-09-05T19:07:34.943841873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "⟨Դա⟩ էր Յահվեի խոսքը, որ եղավ դեպի Յիրմեյահուն՝ բարձր երաշտի դեպքերի մասին։",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Յիրմեյահուն"
+    },
+    {
+      "surface": "על",
+      "gloss": "մասին"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "դեպքերի"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "երաշտի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:47:04.198373819Z",
+  "model": "glm-5.3"
+}

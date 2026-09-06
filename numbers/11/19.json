@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Ոչ մեկ օր կուտեք, և ոչ երկու օր, և ոչ հինգ օր, և ոչ տասը օր, և ոչ քսան օր",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "կուտեք"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "երկու օր"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "հինգ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "տասը"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "քսան"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    }
+  ],
+  "timestamp": "2026-09-05T19:19:01.841865588Z",
+  "model": "glm-5.3"
+}

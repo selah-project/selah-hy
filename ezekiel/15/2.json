@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 15:2",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Մարդու որդի, ի՞նչ կլինի խաղողի ծառը ամեն ծառից, որթատունկը, որ եղել է անտառի ծառերի մեջ։",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "կլինի"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ծառը"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "խաղողի ծառը"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ամեն … -ից"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ծառից"
+    },
+    {
+      "surface": "הזמורה",
+      "gloss": "որթատունկը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղել է"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "ծառերի մեջ"
+    },
+    {
+      "surface": "היער",
+      "gloss": "անտառի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:14:33.447186159Z",
+  "model": "glm-5.3"
+}

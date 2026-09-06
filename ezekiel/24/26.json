@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 24:26",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Այն օրը այն փախչողը կգա քեզ մոտ ականջներիդ լսեցնելու։",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "այն օրը"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "կգա"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "փախչողը"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "քեզ մոտ"
+    },
+    {
+      "surface": "להשמעות",
+      "gloss": "լսեցնելու"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "ականջներիդ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:18:22.686938971Z",
+  "model": "glm-5.3"
+}

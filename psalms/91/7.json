@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 91,
+  "translation": "Քո կողքիդ հազար կընկնի, և տասը հազար՝ աջ ձեռքիդ, բայց քեզ չի մոտենա։",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "կընկնի"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "քո կողքիդ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "հազար"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "և տասը հազար"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "աջ ձեռքիդ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "կմոտենա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:15:07.254459487Z",
+  "model": "glm-5.3"
+}

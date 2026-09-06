@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Երգժողովի ղեկավարին։ Դավթի մզմորը։",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Երգժողովի ղեկավարին"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "մզմոր"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Դավթի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:57:04.642136381Z",
+  "model": "glm-5.3"
+}

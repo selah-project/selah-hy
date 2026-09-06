@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Քանի՞ են քո ծառայի օրերը. ե՞րբ դատ կանես իմ հետապնդողների դեմ։",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "քանի"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "օրեր"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "քո ծառայի"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "կանես"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "իմ հետապնդողների դեմ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "դատ"
+    }
+  ],
+  "timestamp": "2026-09-06T01:17:54.024810543Z",
+  "model": "glm-5.3"
+}

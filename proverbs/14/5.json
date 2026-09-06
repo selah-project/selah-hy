@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Հավատարիմ վկան չի ստի, իսկ ստեր է փչում սուտ վկան։",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "վկան"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "Հավատարիմ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "ստի"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "է փչում"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ստեր"
+    },
+    {
+      "surface": "עד",
+      "gloss": "վկան"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "սուտ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:32:09.846645173Z",
+  "model": "glm-5.3"
+}

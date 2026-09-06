@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 8:25",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Երբ դեռ լեռները չէին խրվել, բլուրներից առաջ ես ծնվեցի։",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Երբ դեռ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "լեռները"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "չէին խրվել"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առաջ"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "բլուրներ"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "ծնվեցի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:30:48.783971217Z",
+  "model": "glm-5.3"
+}

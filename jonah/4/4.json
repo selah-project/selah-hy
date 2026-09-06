@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ ասաց Յահվեն. «Լա՞վ է քեզ համար բորբոքվելը»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "Լա՞վ է"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "բորբոքվելը"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ համար"
+    }
+  ],
+  "timestamp": "2026-09-05T22:40:06.198491465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Եվ Աշերի դստեր անունը՝ Սերախ։",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Եվ անունը"
+    },
+    {
+      "surface": "בת",
+      "gloss": "դստեր"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Աշերի"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "Սերախ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:26:13.851798212Z",
+  "model": "glm-5.3"
+}

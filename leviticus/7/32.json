@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ ⟨את⟩ աջ ազդրը տվեք ընծա քահանային՝ ձեր խաղաղության զոհերից։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "աջ ազդրը"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ազդր"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "աջ"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "տվեք"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "ընծա"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "քահանային"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "զոհերից"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "ձեր խաղաղության"
+    }
+  ],
+  "timestamp": "2026-09-05T18:59:08.343657422Z",
+  "model": "glm-5.3"
+}

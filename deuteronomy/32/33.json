@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Տանիճների թույն ⟨է⟩ նրանց գինին, և իժերի թույնը՝ դաժան։",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "թույն"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "տանիճների"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "գինին"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "և թույն"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "իժերի"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "դաժան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:48:56.689590546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Ով հիմար է ծնում՝ իր վշտի համար է, և անամոթի հայրը ուրախ չի լինի։",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "ծնում է"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "հիմար"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "վշտի"
+    },
+    {
+      "surface": "לו",
+      "gloss": "իր"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ուրախ կլինի"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "հայրը"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "անամոթ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:32:52.094562867Z",
+  "model": "glm-5.3"
+}

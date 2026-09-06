@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 50,
+  "translation": "Եվ ընկավ Յոսեֆը հոր դեմքի վրա, լաց եղավ նրա վրա և համբուրեց նրան։",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "և ընկավ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Յոսեֆը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "פני",
+      "gloss": "դեմքի"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "հոր"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "և լաց եղավ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "նրա վրա"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "և համբուրեց"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-06T01:02:21.353077700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Եվ պատասխանեցին Խեթի որդիները ⟨את⟩ Աբրահամին՝ ասելով նրան.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Եվ պատասխանեցին"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Խեթի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Աբրահամին"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Աբրահամին"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T18:17:06.488643535Z",
+  "model": "glm-5.3"
+}

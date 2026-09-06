@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 33:25",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 33,
+  "translation": "Այսպես ասաց Յահվե. եթե իմ Բրիթը ցերեկ ու գիշեր ⟨չլինի⟩, ապա երկնքի և երկրի կարգերը ես չդրեցի։",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Այսպես"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "իմ Բրիթը"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ցերեկ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "և գիշեր"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "կարգերը"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "երկնքի"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "և երկրի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "դրեցի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:55:21.166198111Z",
+  "model": "glm-5.3"
+}

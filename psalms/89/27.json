@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 89,
+  "translation": "Նա ինձ կկանչի՝ «Հայր իմ ես դո՛ւ, Էլ իմ և ժայռ՝ փրկությանս»։",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Նա"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "ինձ կկանչի"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Հայր իմ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Էլ իմ"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "և ժայռ"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "փրկություն իմ"
+    }
+  ],
+  "timestamp": "2026-09-06T01:17:41.032758948Z",
+  "model": "glm-5.3"
+}

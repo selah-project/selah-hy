@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Որսալով որսացին ինձ թռչունի պես թշնամիներս՝ առանց պատճառի։",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "Որսալով"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "որսացին ինձ"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "թռչունի պես"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "թշնամիներս"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "առանց պատճառի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:47.375610428Z",
+  "model": "glm-5.3"
+}

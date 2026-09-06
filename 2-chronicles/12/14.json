@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Եվ արեց չարը, քանի որ չպատրաստեց իր սիրտը փնտրելու ⟨את⟩ Յահվեին։",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "և արեց"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "չարը"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "պատրաստեց"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "իր սիրտը"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "փնտրելու"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յահվեին"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:45:56.277139171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Եվ կհիշես, որ ծառա ես եղել Միցրայիմում (Եգիպտոս), և կպահես և կանես ⟨את⟩ այս կանոնները։",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "Եվ կհիշես"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ծառա"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ես եղել"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Միցրայիմում"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "և կպահես"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "և կանես"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այս կանոնները"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "կանոնները"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-05T19:40:32.106601564Z",
+  "model": "glm-5.3"
+}

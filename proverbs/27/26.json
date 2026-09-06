@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 27:26",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Գառներ՝ քո հագուստի համար, և այծեր՝ դաշտի գինը։",
+  "tokens": [
+    {
+      "surface": "כבשים",
+      "gloss": "Գառներ"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "քո հագուստի համար"
+    },
+    {
+      "surface": "ומחיר",
+      "gloss": "և գինը"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "դաշտի"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "այծեր"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:26.814982529Z",
+  "model": "glm-5.3"
+}

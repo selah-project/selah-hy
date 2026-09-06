@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Սերունդը գնում է, և սերունդ է գալիս, իսկ երկիրը հավիտյան կանգնած է։",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Սերունդը"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "գնում է"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "և սերունդ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "է գալիս"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "իսկ երկիրը"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "հավիտյան"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "կանգնած է"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:53.268521211Z",
+  "model": "glm-5.3"
+}

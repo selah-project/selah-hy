@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 116,
+  "translation": "Ես ասացի իմ շտապանքի մեջ՝ ամեն մարդ ստամպ է։",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ասացի"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "իմ շտապանքի մեջ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ստամպ է"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:31.734098590Z",
+  "model": "glm-5.3"
+}

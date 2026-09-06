@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 9:21",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Զքարյահ Բեն-Մեշելեմյահ ⟨էր⟩ դռնապան մուտքին՝ Վկայության խորանի։",
+  "tokens": [
+    {
+      "surface": "זכריה",
+      "gloss": "Զքարյահ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "משלמיה",
+      "gloss": "Մեշելեմյահի"
+    },
+    {
+      "surface": "שער",
+      "gloss": "դռնապան"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "մուտքին"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "խորանի"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "հանդիպության"
+    }
+  ],
+  "timestamp": "2026-09-06T01:43:00.742035301Z",
+  "model": "glm-5.3"
+}

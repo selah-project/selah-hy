@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Ոչ պիտի լինեն քեզ այլ աստվածներ իմ դեմքից.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ոչ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "պիտի լինեն"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "աստվածներ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "այլ"
+    },
+    {
+      "surface": "על",
+      "gloss": "դեմքից վերև"
+    },
+    {
+      "surface": "פני",
+      "gloss": "իմ դեմքից"
+    }
+  ],
+  "timestamp": "2026-09-05T18:42:17.331175389Z",
+  "model": "glm-5.3"
+}

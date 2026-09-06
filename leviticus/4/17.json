@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ թաթախեց քահանան իր մատը արյան մեջ և ծեց յոթ անգամ Յահվեի առջև՝ ⟨את⟩ վարագուրի եերեսի վրա։",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "և թաթախեց"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "քահանան"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "իր մատը"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—ից"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "արյուն"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "և ծեց"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "անգամ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "վարագուրի եերեսը"
+    },
+    {
+      "surface": "פני",
+      "gloss": "եերեսի"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "վարագուրի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:57:55.233582853Z",
+  "model": "glm-5.3"
+}

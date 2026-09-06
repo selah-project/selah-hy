@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Այն ժամանակ ասաց Շլոմոն (Սողոմոն)՝ Յահվեն ասաց բնակվել մթության մեջ։",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Այն ժամանակ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Շլոմոն"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "բնակվել"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "մթության մեջ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:41:33.434415381Z",
+  "model": "glm-5.3"
+}

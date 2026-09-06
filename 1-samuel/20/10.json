@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Եվ ասաց Դավիդը Յոնատանին՝ ո՞վ կհայտնի ինձ, կամ ի՞նչ, եթե հայրդ քեզ կոպիտ պատասխանի։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Դավիդը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ին"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Յոնատան"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "կհայտնի"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "քեզ պատասխանի"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "հայրդ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "կոպիտ"
+    }
+  ],
+  "timestamp": "2026-09-05T20:23:00.176829460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Եվ դուք կկորչեք ազգերի մեջ, և ձեր թշնամիների երկիրը կխժի ⟨את⟩ ձեզ։",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "կկորչեք"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ազգերի մեջ"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "կխժի"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ձեզ",
+      "marks": "ձեզ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ձեր թշնամիների"
+    }
+  ],
+  "timestamp": "2026-09-05T19:11:02.093029474Z",
+  "model": "glm-5.3"
+}

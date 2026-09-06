@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Եվ ասաց Էսավ՝ «Ահա, ես գնում եմ մեռնելու, և ինչո՞ւ է ինձ սա՝ անդրանիկություն»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Էսավ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ես"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "գնում եմ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "մեռնելու"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "և ինչու"
+    },
+    {
+      "surface": "זה",
+      "gloss": "սա"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "անդրանիկություն"
+    }
+  ],
+  "timestamp": "2026-09-05T18:19:08.193686489Z",
+  "model": "glm-5.3"
+}

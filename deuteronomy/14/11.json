@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Ամեն մաքուր թռչուն կերացեք։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "թռչուն"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "մաքուր"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "կերացեք"
+    }
+  ],
+  "timestamp": "2026-09-05T19:38:36.664790535Z",
+  "model": "glm-5.3"
+}

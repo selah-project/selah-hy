@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 31:21",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Ոչ վախենում է իր տունը ձյանից, որովհետև ամբողջ իր տունը հագած է շանիով։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ոչ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "վախենում է"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "իր տան համար"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "ձյանից"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "իր տունը"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "հագած է"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "շանիով"
+    }
+  ],
+  "timestamp": "2026-09-05T23:38:31.001396054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Եվ եթե ասես քո սրտում՝ «Ինչպե՞ս պիտի իմանանք ⟨את⟩ խոսքը, որ չի խոսել Յահվեն»։",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Եվ եթե"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ասես"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "քո սրտում"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "ինչպե՞ս"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "պիտի իմանանք"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "խոսքը"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "խոսել"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:41:08.913392928Z",
+  "model": "glm-5.3"
+}

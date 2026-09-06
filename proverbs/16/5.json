@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Յահվեի արհամարհանքն է ամեն հպարտ սիրտը. ձեռք ձեռքի՝ ⟨ան⟩ չի արդարանա։",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "արհամարհանք"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "հպարտ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սիրտ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ձեռք"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ձեռքի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "կարդարանա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:33:08.473480284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 105,
+  "translation": "Ուղարկեց խավար, և մթնեց, և չընդվզեցին ⟨את⟩ իր խոսքի դեմ։",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Ուղարկեց"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "խավար"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "և մթնեց"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "ընդվզեցին"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "իր խոսքի դեմ"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "խոսքի դեմ իր"
+    }
+  ],
+  "timestamp": "2026-09-05T23:17:59.826596073Z",
+  "model": "glm-5.3"
+}

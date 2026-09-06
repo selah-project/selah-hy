@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 33,
+  "translation": "Եվ ասաց՝ ճամփա ընկնենք և գնանք, և ես կգնամ առջևից քո։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "ճամփա ընկնենք"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "և գնանք"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "և ես կգնամ"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "առջևից քո"
+    }
+  ],
+  "timestamp": "2026-09-05T18:23:22.035910353Z",
+  "model": "glm-5.3"
+}

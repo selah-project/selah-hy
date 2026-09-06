@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Ոչ ոք գրավի ջաղագ և վերին քարը, քանի որ Նեֆեշ ⟨է⟩, որ նա գրավում է։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ոչ"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "գրավի"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "ջաղագ"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "և վերին քարը"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Նեֆեշ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨է⟩"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "գրավում է"
+    }
+  ],
+  "timestamp": "2026-09-05T19:44:05.078701356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 14:1",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Ահա օր է գալիս Յահվեի համար, և քո ավարը կբաժանվի քո մեջտեղում։",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ահա"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "בא",
+      "gloss": "գալիս ⟨է⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեի համար"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "և կբաժանվի"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "քո ավարը"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "քո մեջտեղում"
+    }
+  ],
+  "timestamp": "2026-09-05T22:50:47.725979865Z",
+  "model": "glm-5.3"
+}

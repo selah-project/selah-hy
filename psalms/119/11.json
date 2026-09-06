@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Սրտումս թաքցրել եմ քո խոսքը՝ որպեսզի քեզ դեմ չմեղանամ։",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "սրտումս"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "թաքցրել եմ ես"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "քո խոսքը"
+    },
+    {
+      "surface": "למען",
+      "gloss": "որպեսզի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "մեղանամ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:22:28.673647689Z",
+  "model": "glm-5.3"
+}

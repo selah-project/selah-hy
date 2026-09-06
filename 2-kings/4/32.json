@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ Էլիշան մտավ տուն, և ահա՝ տղան մեռած, պառկած իր մահճակալի վրա։",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Եվ մտավ"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Էլիշան"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "տուն"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "և ահա"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "տղան"
+    },
+    {
+      "surface": "מת",
+      "gloss": "մեռած"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "պառկած"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "իր մահճակալի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:01:00.663945916Z",
+  "model": "glm-5.3"
+}

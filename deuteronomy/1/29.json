@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ ասացի ձեզ՝ ոչ ահագացեք և ոչ վախեցեք նրանցից։",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Եվ ասացի"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "ահագացեք"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "վախեցեք"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "նրանցից"
+    }
+  ],
+  "timestamp": "2026-09-05T19:32:10.382113290Z",
+  "model": "glm-5.3"
+}

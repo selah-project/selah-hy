@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezekiel 36:34",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 36,
+  "translation": "Եվ կմշակվի ամայի երկիրը՝ փոխարեն նրա, որ եղել էր ամայի՝ ամեն անցնողի աչքի առջև։",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "և երկիրը"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "ամայի"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "կմշակվի"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "փոխարեն"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "եղել էր"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ամայի"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "աչքի առջև"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "անցնող"
+    }
+  ],
+  "timestamp": "2026-09-05T22:24:39.533540043Z",
+  "model": "glm-5.3"
+}

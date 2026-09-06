@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 121,
+  "translation": "Ահա, չի նինջում և չի քնում Իսրայելի պահապանը։",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "նինջում"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չի"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "քնում"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "պահապան"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:23:44.717278532Z",
+  "model": "glm-5.3"
+}

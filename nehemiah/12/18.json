@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 12:18",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Բիլգայի՝ Շամուա. Շմայայի՝ Յեհոնատան։",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "Բիլգայի"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Շամուա"
+    },
+    {
+      "surface": "לשמעיה",
+      "gloss": "Շմայայի"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Յեհոնատան"
+    }
+  ],
+  "timestamp": "2026-09-06T00:25:42.078126585Z",
+  "model": "glm-5.3"
+}

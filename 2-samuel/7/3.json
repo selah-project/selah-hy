@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ ասաց Նատանը թագավորին. ամեն ինչ, որ առկա է քո սրտում, արա, որովհետև Յահվեն քեզ հետ է։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Նատանը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն ինչ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "քո սրտում"
+    },
+    {
+      "surface": "לך",
+      "gloss": "գնա"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արա"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "քեզ հետ"
+    }
+  ],
+  "timestamp": "2026-09-05T20:33:24.203779971Z",
+  "model": "glm-5.3"
+}

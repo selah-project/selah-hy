@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Եվ Յահվեի կանոնով՝ Յաակովը (Հակոբ) լսեց իր հորը և իր մորը և գնաց Պադան-Արամ։",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "և լսեց"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Յաակովը (Հակոբ)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "իր հորը"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և դեպի"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "իր մորը"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "և գնաց"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Պադան"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Արամ"
+    }
+  ],
+  "timestamp": "2026-09-06T01:29:08.655564656Z",
+  "model": "glm-5.3"
+}

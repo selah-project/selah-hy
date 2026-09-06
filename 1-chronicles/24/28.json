@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Մախլիի համար՝ Էլազարը, և նրան որդիներ չեղան։",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "Մախլիի համար"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Էլազարը"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "չեղան"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "որդիներ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:37:13.363415337Z",
+  "model": "glm-5.3"
+}

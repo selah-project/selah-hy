@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Նաև ծառայդ զգուշացված է դրանցով, դրանք պահելու մեջ ⟨կա⟩ մեծ վարձ։",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "նաև"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ծառայդ"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "զգուշացված է"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "դրանցով"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "դրանք պահելու մեջ"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "վարձ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "մեծ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:56:04.596458261Z",
+  "model": "glm-5.3"
+}

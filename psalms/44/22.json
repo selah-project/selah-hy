@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 44,
+  "translation": "Միթե Էլոհիմը չի՞ քննի այս, քանի որ նա գիտի սրտի ծածուկները։",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Միթե…չի՞"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "քննի"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "այս"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "գիտի"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "ծածուկները"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սրտի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:17:25.674326897Z",
+  "model": "glm-5.3"
+}

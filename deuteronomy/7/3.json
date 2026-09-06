@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "և մի ամուսնակցիր նրանց հետ. քո դստերը մի տուր նրա որդուն, և նրա դստերը մի վերցրու քո որդու համար։",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "և մի"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "ամուսնակցիր"
+    },
+    {
+      "surface": "בם",
+      "gloss": "նրանց հետ"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "քո դստերը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "տուր"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "նրա որդուն"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "և նրա դստերը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "վերցրու"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "քո որդու համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:34:57.404149938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "և ⟨את⟩ ձեզ հետ թող լինեն մարդ, մարդ՝ ցեղի համար, մարդ՝ գլուխ իր հայրերի տանը, նա․",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "և ⟨את⟩ ձեզ հետ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "թող լինեն"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ցեղի համար"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "գլուխ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "տանը"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "իր հայրերի"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    }
+  ],
+  "timestamp": "2026-09-05T19:11:39.971248083Z",
+  "model": "glm-5.3"
+}

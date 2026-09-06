@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 13:13",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Աշերի ցեղից՝ Սետուրը, Միքաելի որդին։",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ցեղից"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Աշերի"
+    },
+    {
+      "surface": "סתור",
+      "gloss": "Սետուրը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "Միքաելի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:18:41.670329162Z",
+  "model": "glm-5.3"
+}

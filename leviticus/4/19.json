@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ ⟨את⟩ ամբողջ ճարպը բարձրացնի նրանից և ծխեցնի զոհասեղանի վրա։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "ամբողջ ճարպը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "նրա ճարպը"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "բարձրացնի"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "նրանից"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "և ծխեցնի"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "զոհասեղանի վրա"
+    }
+  ],
+  "timestamp": "2026-09-05T18:57:55.234060537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 22:28",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Երբ մարդ գտնի աղջիկ՝ կույս, որ նշանված չէ, և բռնի նրան և պառկի նրա հետ, և երևեն։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Երբ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "գտնի"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "աղջիկ"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "կույս"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չէ"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "նշանված"
+    },
+    {
+      "surface": "ותפשה",
+      "gloss": "և բռնի նրան"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "և պառկի"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "նրա հետ"
+    },
+    {
+      "surface": "ונמצאו",
+      "gloss": "և երևեն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:43:35.408152956Z",
+  "model": "glm-5.3"
+}

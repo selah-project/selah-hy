@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Իմաստունի բերանի խոսքերը շնորհ են, իսկ հիմարի շուրթերը նրան կկուլ տան։",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "խոսքերը"
+    },
+    {
+      "surface": "פי",
+      "gloss": "բերանի"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "իմաստունի"
+    },
+    {
+      "surface": "חן",
+      "gloss": "շնորհ են"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "իսկ շուրթերը"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "հիմարի"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "նրան կկուլ տան"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:55.863655321Z",
+  "model": "glm-5.3"
+}

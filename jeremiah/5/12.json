@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 5:12",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Ուրացան Յահվեին և ասացին՝ «Նա չէ, և չարիք չի գալու մեզ վրա, և թուր ու սով չենք տեսնի»։",
+  "tokens": [
+    {
+      "surface": "כחשו",
+      "gloss": "Ուրացան"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "և ասացին"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չէ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Նա"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չի"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "գալու"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "մեզ վրա"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "չարիք"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "և թուր"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "ու սով"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "չենք"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "տեսնի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:41:32.853646378Z",
+  "model": "glm-5.3"
+}

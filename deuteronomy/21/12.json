@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "ապա նրան կբերես քո տան մեջ, և նա կսափրի ⟨את⟩ իր գլուխը և կանի ⟨את⟩ իր եղունգները՝",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "կբերես"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "մեջ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "քո տան"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "և կսափրի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "իր գլուխը"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "իր գլուխը"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "և կանի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "իր եղունգները"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "իր եղունգները"
+    }
+  ],
+  "timestamp": "2026-09-05T19:42:15.445173801Z",
+  "model": "glm-5.3"
+}

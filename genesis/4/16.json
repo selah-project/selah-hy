@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ ելավ Կայինը Յահվեի երեսից և բնակվեց Նոդ երկրում՝ Եդեմի արևելքում։",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Եվ ելավ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Կայինը"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "-ի երեսից"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "և բնակվեց"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրում"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Նոդ"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "արևելքում"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Եդեմի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:08:48.404212706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Խորհե՛ք խորհուրդ, և այն կփլվի. խոսե՛ք խոսք, և այն չի կանգնի, քանի որ Էլ ⟨է⟩ մեզ հետ։",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "Խորհե՛ք"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "խորհուրդ"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "և կփլվի"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "խոսե՛ք"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսք"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "կկանգնի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "մեզ հետ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:15:12.033140511Z",
+  "model": "glm-5.3"
+}

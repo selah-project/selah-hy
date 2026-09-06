@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 34:26",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 34,
+  "translation": "և Յիսասքարի որդիների ցեղի համար՝ իշխան Պալտիելը՝ Ազանի որդին։",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "ցեղի համար՝"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Յիսասքարի"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "իշխան"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "Պալտիելը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "עזן",
+      "gloss": "Ազանի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:29:56.444486195Z",
+  "model": "glm-5.3"
+}

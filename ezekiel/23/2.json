@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Մարդու որդի՛, երկու կանայք եղան՝ մի մոր դուստրեր.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "երկու"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "կանայք"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "դուստրեր"
+    },
+    {
+      "surface": "אם",
+      "gloss": "մոր"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "մի"
+    },
+    {
+      "surface": "היו",
+      "gloss": "եղան"
+    }
+  ],
+  "timestamp": "2026-09-05T22:18:23.788841995Z",
+  "model": "glm-5.3"
+}

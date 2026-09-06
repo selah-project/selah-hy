@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 43:31",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 43,
+  "translation": "Եվ լվաց իր երեսը և դուրս եկավ, և զսպեց իրեն, և ասաց՝ դրե՛ք հաց։",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "լվաց"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "երեսը (իր)"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "դուրս եկավ"
+    },
+    {
+      "surface": "ויתאפק",
+      "gloss": "զսպեց իրեն"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "դրե՛ք"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "հաց"
+    }
+  ],
+  "timestamp": "2026-09-05T18:30:48.636334646Z",
+  "model": "glm-5.3"
+}

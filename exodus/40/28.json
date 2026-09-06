@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 40,
+  "translation": "Եվ դրեց ⟨את⟩ մուտքի ծածկոցը Միշքանի համար։",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "դրեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "մուտքի ծածկոցը"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ծածկոց"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "մուտքի"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Միշքանի համար"
+    }
+  ],
+  "timestamp": "2026-09-05T18:55:47.288681345Z",
+  "model": "glm-5.3"
+}

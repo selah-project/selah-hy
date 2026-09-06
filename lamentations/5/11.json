@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Կանայք Ծիոնում նվաստացվեցին, կույսերը՝ Յեհուդայի (Հրեաստանի) քաղաքներում։",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "կանայք"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Ծիոնում"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "նվաստացվեցին"
+    },
+    {
+      "surface": "בתלת",
+      "gloss": "կույսերը"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "քաղաքներում"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Յեհուդայի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:10.687295258Z",
+  "model": "glm-5.3"
+}

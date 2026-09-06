@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 21:20",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "կամ կուզ, կամ նիհար-թզուկ, կամ մգակալած բիծ աչքի մեջ, կամ քոս, կամ խուզող ցան, կամ ճզմված ամորձի։",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "גבן",
+      "gloss": "կուզ"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "דק",
+      "gloss": "նիհար-թզուկ"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "תבלל",
+      "gloss": "մգակալած բիծ"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "աչքի մեջ"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "քոս"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "ילפת",
+      "gloss": "խուզող ցան"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "ճզմված"
+    },
+    {
+      "surface": "אשך",
+      "gloss": "ամորձի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:07:05.648912225Z",
+  "model": "glm-5.3"
+}

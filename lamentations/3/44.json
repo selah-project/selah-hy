@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Ծածկեղին եղար ամպով՝ քո առջև, որ աղոթքը չանցնի։",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "Ծածկեղին եղար"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "ամպով"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քո առջև"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "որ չանցնի"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "աղոթքը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:51.344250712Z",
+  "model": "glm-5.3"
+}

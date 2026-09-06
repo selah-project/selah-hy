@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Եվ ⟨את⟩ շաֆանին՝ որովհետև կզկզում է նա, բայց սմբակ չունի պառակտված՝ անմաքուր է նա ձեզ համար։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "շաֆանին"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "շաֆանին"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "կզկզում է"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "կզզ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "բայց սմբակ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "պառակտում"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "անմաքուր է"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:01:10.444793541Z",
+  "model": "glm-5.3"
+}

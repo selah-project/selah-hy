@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Ոչ լինի քո տանը եյֆա և եյֆա՝ մեծ և փոքր։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քո"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "տանը"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "եյֆա"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "և եյֆա"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "և փոքր"
+    }
+  ],
+  "timestamp": "2026-09-05T19:43:58.344109169Z",
+  "model": "glm-5.3"
+}

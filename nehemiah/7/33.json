@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Նեբոյի մարդիկ՝ ⟨այլ⟩ ⟨Նեբո⟩, հիսուն և երկու։",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "մարդիկ"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Նեբո"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "այլ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "հիսուն"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "և երկու"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:28.033236452Z",
+  "model": "glm-5.3"
+}

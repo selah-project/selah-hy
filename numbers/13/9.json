@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Բնիամինի ցեղից՝ Պալտին, Ռաֆուի որդին։",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ցեղից"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Բնիամինի"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "Պալտին"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "Ռաֆուի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:18:05.420372030Z",
+  "model": "glm-5.3"
+}

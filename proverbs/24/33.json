@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 24:33",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Մի քիչ քուն, մի քիչ թմրածություն, մի քիչ ձեռքերը գրկել՝ պառկելու համար։",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "մի քիչ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "քուն"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "մի քիչ"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "թմրածություն"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "մի քիչ"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "գրկել"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ձեռքեր"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "պառկելու համար"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:12.840516254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ ուրաք ու տատասկ կբույսի քեզ համար, և կուտես ⟨את⟩ դաշտի խոտը։",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Եվ ուրաք"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "և տատասկ"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "կբույսի"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ համար"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "և կուտես"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "դաշտի խոտը"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "խոտը"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "դաշտի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:09:37.159336018Z",
+  "model": "glm-5.3"
+}

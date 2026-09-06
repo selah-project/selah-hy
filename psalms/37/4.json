@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 37,
+  "translation": "Եվ վայելիր Յահվեով, և նա կտա քեզ քո սրտի խնդրանքները։",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "և վայելիր"
+    },
+    {
+      "surface": "על",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "և կտա"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "խնդրանքները"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "քո սրտի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:00:58.586052326Z",
+  "model": "glm-5.3"
+}

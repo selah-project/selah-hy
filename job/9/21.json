@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Անարատ ես՝ չեմ ճանաչում իմ նեֆեշը, մերժում եմ իմ կյանքը։",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "Անարատ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ճանաչում եմ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "իմ նեֆեշը"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "մերժում եմ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "իմ կյանքը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:42:10.759908600Z",
+  "model": "glm-5.3"
+}

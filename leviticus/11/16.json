@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "և ⟨את⟩ ջայլամի էգը, և ⟨את⟩ տախմասը, և ⟨את⟩ շախաֆը, և ⟨את⟩ բազեն իր տեսակով։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "ջայլամի էգը"
+    },
+    {
+      "surface": "בת",
+      "gloss": "էգը"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "ջայլամի"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "տախմասը"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "տախմասը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "շախաֆը"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "շախաֆը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "բազեն"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "բազեն"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "իր տեսակով"
+    }
+  ],
+  "timestamp": "2026-09-05T18:59:52.158870070Z",
+  "model": "glm-5.3"
+}

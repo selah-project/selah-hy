@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ հանգրավեց տապանը յոթերորդ ամսին՝ ամսվա տասնյոթ օրին, Արարատի լեռների վրա։",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "հանգրավեց"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "տապանը"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ամսին"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "յոթերորդ"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "տասն"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ամսվա"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "լեռների"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "Արարատի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:11:15.507933337Z",
+  "model": "glm-5.3"
+}

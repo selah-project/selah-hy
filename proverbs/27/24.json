@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Քանի որ հարստությունը հավերժ չէ, և թագը՝ սերնդից սերո՞ւնդ։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չէ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "հավերժ"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "հարստությունը"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "և եթե"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "թագը"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "սերնդից"
+    },
+    {
+      "surface": "דור",
+      "gloss": "սերունդ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:22.607755454Z",
+  "model": "glm-5.3"
+}

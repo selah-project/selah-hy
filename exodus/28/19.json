@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 28:19",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Եվ շարքը երրորդը՝ լեշեմ, շևո և ախալամահ։",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "և շարքը"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "երրորդը"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "լեշեմ"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "շևո"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "և ախալամահ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:47:30.890601184Z",
+  "model": "glm-5.3"
+}

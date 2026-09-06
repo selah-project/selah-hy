@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 38,
+  "translation": "Եվ շրջեց Խիզկիյահուն իր երեսը դեպի պատը և աղոթեց դեպի Յահվեին։",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "շրջեց"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Խիզկիյահուն"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "իր երեսը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "պատը"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "աղոթեց"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեին"
+    }
+  ],
+  "timestamp": "2026-09-05T21:27:03.272331755Z",
+  "model": "glm-5.3"
+}

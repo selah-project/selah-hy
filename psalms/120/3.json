@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 120,
+  "translation": "Ի՞նչ տա քեզ, և ի՞նչ ավելացնի քեզ, ո՛վ նենգ լեզու։",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "տա"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "և ի՞նչ"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ավելացնի"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "լեզու"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "նենգ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:23:34.626380711Z",
+  "model": "glm-5.3"
+}

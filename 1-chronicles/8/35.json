@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "և Միքայի որդիներն էին՝ Պիտոն և Մելեք և Թառեա և Ախազ։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "և որդիներն"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Միքայի"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "Պիտոն"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "և Մելեք"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "և Թառեա"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "և Ախազ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:31:13.738391075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Յոել՝ Նատանի եղբայրը, Միվխար՝ Հագրիի որդին։",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "Յոել"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "եղբայրը"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Նատանի"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "Միվխար"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "Հագրիի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:21:24.103423866Z",
+  "model": "glm-5.3"
+}

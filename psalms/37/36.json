@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 37,
+  "translation": "Եվ անցավ, և ահա՝ չկար, և ես փնտրեցի նրան, և չգտնվեց։",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "և անցավ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "և ահա"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "չկար"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "և ես փնտրեցի նրան"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "գտնվեց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:01:36.886372200Z",
+  "model": "glm-5.3"
+}

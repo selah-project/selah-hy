@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 5:19",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Հիշի՛ր ինձ, Էլոհիմդ, բարությամբ՝ ամեն այն, ինչ արեցի այս ժողովրդի համար։",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "հիշի՛ր"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Էլոհիմդ"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "բարությամբ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "արեցի"
+    },
+    {
+      "surface": "על",
+      "gloss": "համար"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովրդի"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-06T00:21:09.459745977Z",
+  "model": "glm-5.3"
+}

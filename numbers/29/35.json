@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 29:35",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Ութերորդ օրը ժողով թող լինի ձեզ համար. ոչ մի ծառայական գործ մի՛ արեք։",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ութերորդ"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "ժողով"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "թող լինի"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ համար"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "գործ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ծառայական"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "արեք"
+    }
+  ],
+  "timestamp": "2026-09-05T19:27:59.798191443Z",
+  "model": "glm-5.3"
+}

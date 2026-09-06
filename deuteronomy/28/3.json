@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Օրհնված ⟨ես⟩ դու քաղաքում, և օրհնված ⟨ես⟩ դու դաշտում։",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Օրհնված"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "քաղաքում"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "և օրհնված"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "դաշտում"
+    }
+  ],
+  "timestamp": "2026-09-05T19:45:49.280113144Z",
+  "model": "glm-5.3"
+}

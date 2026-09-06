@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Եվ ասաց ⟨նա⟩ նրան. ոչ, չեմ գնա, այլ միայն դեպի իմ երկիրը և դեպի իմ ծննդավայրը ⟨եմ⟩ գնալու։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "չեմ գնա"
+    },
+    {
+      "surface": "כי",
+      "gloss": "այլ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "միայն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "իմ երկիրը"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և դեպի"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "իմ ծննդավայրը"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "գնալու եմ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:17:53.251047394Z",
+  "model": "glm-5.3"
+}

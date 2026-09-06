@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Եվ երբ մարդու կամ կնոջ մեջ լինի վերք գլխի վրա կամ մորուքի վրա՝",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "և մարդու"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "կնոջ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրա մեջ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "վերք"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "գլխի վրա"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "մորուքի վրա"
+    }
+  ],
+  "timestamp": "2026-09-05T19:02:47.406573094Z",
+  "model": "glm-5.3"
+}

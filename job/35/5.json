@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 35:5",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 35,
+  "translation": "Նայի՛ր երկինք և տես, և դիտիր ամպերը՝ բարձր են քեզնից։",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Նայի՛ր"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "երկինք"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "և տես"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "և դիտիր"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ամպերը"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "բարձր են"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "քեզնից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:50:07.130199376Z",
+  "model": "glm-5.3"
+}

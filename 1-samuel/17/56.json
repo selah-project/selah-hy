@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Եվ թագավորն ասաց. «Հարցրու՛ դու, թե ում որդին է այս երիտասարդը»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "հարցրու՛"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ում"
+    },
+    {
+      "surface": "זה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "երիտասարդը"
+    }
+  ],
+  "timestamp": "2026-09-05T20:22:24.705495781Z",
+  "model": "glm-5.3"
+}

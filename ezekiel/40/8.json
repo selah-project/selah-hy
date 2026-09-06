@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 40,
+  "translation": "Եվ չափեց ⟨את⟩ դռան նախասրահը՝ տան կողմից՝ մեկ եղեգ։",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Եվ չափեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "դռան նախասրահը"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "նախասրահը"
+    },
+    {
+      "surface": "השער",
+      "gloss": "դռան"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "տան կողմից"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "մեկ եղեգ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:27:24.989371831Z",
+  "model": "glm-5.3"
+}

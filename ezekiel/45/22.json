@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 45:22",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 45,
+  "translation": "Եվ այդ օրը նասին կատարի իր համար և երկրի ամբողջ ժողովրդի համար մեկ ցուլ՝ մեղքի զոհ։",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Եվ կատարի"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "նասին"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "իր համար"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "և … համար"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ժողովուրդ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ցուլ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "մեղքի (զոհ)"
+    }
+  ],
+  "timestamp": "2026-09-05T22:28:42.831946738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 40,
+  "translation": "Ապա ասացի՝ ահա եկա, մատյան գրքում գրված է իմ մասին։",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ապա"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ասացի"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "եկա"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "մատյան"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "գրքում"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "գրված է"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "իմ մասին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:02:39.323004355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ ⟨את⟩ Այի արքային բռնեցին ողջ, և մոտեցրին ⟨את⟩ նրան Յեհոշուայի մոտ։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Եվ ⟨את⟩",
+      "marks": "Այի արքային"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "արքա"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Այի"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "բռնեցին"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ողջ"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "մոտեցրին"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ նրան"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Յեհոշուայի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:53:10.183069441Z",
+  "model": "glm-5.3"
+}

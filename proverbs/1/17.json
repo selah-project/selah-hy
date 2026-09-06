@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 1:17",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Որովհետև ապարդյուն է գցվում ցանցը՝ ամեն թևավորի աչքի առջև։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ապարդյուն"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "գցվում է"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "ցանցը"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "աչքի առջև"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "տիրող"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "թևի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:27:52.888336100Z",
+  "model": "glm-5.3"
+}

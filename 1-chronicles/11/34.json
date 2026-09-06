@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Հաշեմ գիզոնցու որդիները՝ Յոնատան Շագեի որդին, հարարցին։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները՝"
+    },
+    {
+      "surface": "השם",
+      "gloss": "Հաշեմ"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "գիզոնցու"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Յոնատան"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "Շագեի"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "հարարցին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:31:30.421157790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Եվ ասաց Յեհոնատանը Դավիդին՝ ի՞նչ է ասում նեֆեշդ, և ես կանեմ քեզ համար։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Յեհոնատանը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "՝"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Դավիդին"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "է ասում"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "նեֆեշդ"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "և ես կանեմ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ համար"
+    }
+  ],
+  "timestamp": "2026-09-05T20:24:15.261052182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Աքրո՛ր ծաղրողին, և կգնա վեճը, և դատն ու ամոթը կդադարեն։",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "Աքրո՛ր"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "ծաղրողին"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "և կգնա"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "վեճը"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "և կդադարեն"
+    },
+    {
+      "surface": "דין",
+      "gloss": "դատը"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "և ամոթը"
+    }
+  ],
+  "timestamp": "2026-09-06T01:42:28.487395540Z",
+  "model": "glm-5.3"
+}

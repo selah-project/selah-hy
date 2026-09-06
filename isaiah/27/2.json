@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 27:2",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Այն օրը՝ «ցանկալի այգի», պատասխանեք նրան։",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "այգի"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "ցանկալի"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "պատասխանեք"
+    },
+    {
+      "surface": "לה",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T21:23:05.263006657Z",
+  "model": "glm-5.3"
+}

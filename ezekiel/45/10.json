@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 45:10",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 45,
+  "translation": "Արդար կշեռքներ և արդար էյֆա և արդար բաթ լռն ձեզ։",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "կշեռքներ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "արդար"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "և էյֆա"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "արդար"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "և բաթ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "արդար"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "թող լինի"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:28:17.940981778Z",
+  "model": "glm-5.3"
+}

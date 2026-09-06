@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 27:17",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Ղևտիների վրա՝ Խաշավյա, Կեմուելի որդին. Ահարոնի վրա՝ Ծադոկ։",
+  "tokens": [
+    {
+      "surface": "ללוי",
+      "gloss": "Ղևտիների վրա"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Խաշավյա"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Կեմուելի"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Ահարոնի վրա"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Ծադոկ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:38:49.178636403Z",
+  "model": "glm-5.3"
+}

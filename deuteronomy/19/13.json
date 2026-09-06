@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 19:13",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Ոչ թող չողորմի աչքդ նրան, և կմաքրես անմեղի արյունը Իսրայելից, և լավ կլինի քեզ։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ոչ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "թող չողորմի"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "աչքդ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "և կմաքրես"
+    },
+    {
+      "surface": "דם",
+      "gloss": "արյունը"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "անմեղի"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Իսրայելից"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "և լավ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:41:26.156157223Z",
+  "model": "glm-5.3"
+}

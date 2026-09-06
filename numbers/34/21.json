@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 34,
+  "translation": "Բինյամինի ցեղի համար՝ Էլիդադը, Քիսլոնի որդին։",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ցեղի համար"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Բինյամինի"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "Էլիդադը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "Քիսլոնի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:29:58.804718025Z",
+  "model": "glm-5.3"
+}

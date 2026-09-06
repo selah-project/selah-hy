@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ ասաց Յահվեն Մոշեին և Ահարոնին՝ ասելով․",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "առ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեին"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և առ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ահարոնին"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T18:36:13.374603453Z",
+  "model": "glm-5.3"
+}

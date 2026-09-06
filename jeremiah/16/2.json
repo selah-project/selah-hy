@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Կին չառնես քեզ, և որդիներ ու դուստրեր քեզ չլինեն այս տեղում։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "առնես"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "կին"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "լինեն"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "և դուստրեր"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "տեղում"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-05T21:46:56.561047750Z",
+  "model": "glm-5.3"
+}

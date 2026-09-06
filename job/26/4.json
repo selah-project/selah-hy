@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "⟨את⟩ ո՞վ էր, որին խոսքեր հայտնեցիր, և ու՞մ շունչն ելավ քեզնից։",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ո՞վ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "հայտնեցիր"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "խոսքեր"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "և շունչը"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ու՞մ"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "ելավ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "քեզնից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:47:04.006684534Z",
+  "model": "glm-5.3"
+}

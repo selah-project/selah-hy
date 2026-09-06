@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ կապիր դրանք որպես նշան քո ձեռքի վրա, և թող լինեն ճակատակալներ քո աչքերի միջև։",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "Եվ կապիր"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "որպես նշան"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "քո ձեռքի"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "և թող լինեն"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "ճակատակալներ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "միջև"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "քո աչքերի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:34:24.835799062Z",
+  "model": "glm-5.3"
+}

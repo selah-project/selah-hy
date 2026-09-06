@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "ապա կկտրես ⟨את⟩ նրա ձեռքը՝ քո աչքը թող չողորմի նրան։",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "ապա կկտրես"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "նրա ձեռքը"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "նրա ափը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "թող ողորմի"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "քո աչքը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:43:48.035329329Z",
+  "model": "glm-5.3"
+}

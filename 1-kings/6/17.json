@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ քառասուն բազ ⟨էր⟩ տունը՝ այն սրահը՝ դիմացը։",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "Եվ քառասուն"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "բազ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨էր⟩"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "տունը"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "սրահը"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "դիմաց"
+    }
+  ],
+  "timestamp": "2026-09-05T20:47:21.849972781Z",
+  "model": "glm-5.3"
+}

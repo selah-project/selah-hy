@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 16:4",
+  "book": "judges",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Եվ եղավ դրանից հետո, և սիրեց մի կնոջ Սորեք ձորում, և նրա անունը Դելիլա էր։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "հետո"
+    },
+    {
+      "surface": "כן",
+      "gloss": "դրանից"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "և սիրեց"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "մի կին"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ձորում"
+    },
+    {
+      "surface": "שרק",
+      "gloss": "Սորեք"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "և նրա անունը"
+    },
+    {
+      "surface": "דלילה",
+      "gloss": "Դելիլա"
+    }
+  ],
+  "timestamp": "2026-09-05T20:11:15.485945032Z",
+  "model": "glm-5.3"
+}

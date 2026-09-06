@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Որովհետև մեծ է Յահվեն և շատ գովելի, և նա երկյուղելի է բոլոր աստվածներից։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "և գովելի"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "շատ"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "և երկյուղելի"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "על",
+      "gloss": "–ից վրա"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "աստվածներ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:33:45.044879785Z",
+  "model": "glm-5.3"
+}

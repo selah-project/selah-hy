@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Եվ քաղցր է լույսը, և բարի է աչքերի համար տեսնել ⟨את⟩ արևը։",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "Եվ քաղցր է"
+    },
+    {
+      "surface": "האור",
+      "gloss": "լույսը"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "և բարի է"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "աչքերի համար"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "տեսնել"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "արևը"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "արևը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:02:45.973315477Z",
+  "model": "glm-5.3"
+}

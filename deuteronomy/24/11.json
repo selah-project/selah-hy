@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Դրսում կանգնես, և այն մարդը, որին դու պարտք ես տվել, դուրս կբերի քեզ մոտ ⟨את⟩ գրավը՝ դրսում։",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "Դրսում"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "կանգնես"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "և այն մարդը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որին"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "պարտք ես տվել"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "դուրս կբերի"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "քեզ մոտ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "գրավը"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "գրավը"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "դրսում"
+    }
+  ],
+  "timestamp": "2026-09-05T19:43:52.089757130Z",
+  "model": "glm-5.3"
+}

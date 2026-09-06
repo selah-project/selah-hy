@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 12:3",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Շեխանյա, Ռեխում, Մերեմոտ։",
+  "tokens": [
+    {
+      "surface": "שכניה",
+      "gloss": "Շեխանյա"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "Ռեխում"
+    },
+    {
+      "surface": "מרמת",
+      "gloss": "Մերեմոտ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:25:40.922736699Z",
+  "model": "glm-5.3"
+}

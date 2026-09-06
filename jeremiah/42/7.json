@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 42,
+  "translation": "Եվ եղավ տասը օրվա վերջում, և եղավ Յահվեի խոսքը դեպի Յիրմեյահու։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "վերջում"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "տասը"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օրվա"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "և եղավ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Յիրմեյահու"
+    }
+  ],
+  "timestamp": "2026-09-05T22:01:10.678874449Z",
+  "model": "glm-5.3"
+}

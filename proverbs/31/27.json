@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 31:27",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Հսկում է իր տան ընթացքները, և ծույլության հաց չի ուտում։",
+  "tokens": [
+    {
+      "surface": "צופיה",
+      "gloss": "հսկում է"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "ընթացքները"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "իր տան"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "և հաց"
+    },
+    {
+      "surface": "עצלות",
+      "gloss": "ծույլության"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ուտում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:38:28.431683717Z",
+  "model": "glm-5.3"
+}

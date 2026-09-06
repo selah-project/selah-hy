@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 33:31",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 33,
+  "translation": "Եվ շարժվեցին Մոսերոթից, և բանակեցին Բնե-Յաականում։",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "և շարժվեցին"
+    },
+    {
+      "surface": "ממסרות",
+      "gloss": "Մոսերոթից"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "և բանակեցին"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "Բնե-"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "Յաականում"
+    }
+  ],
+  "timestamp": "2026-09-05T19:29:44.846767199Z",
+  "model": "glm-5.3"
+}

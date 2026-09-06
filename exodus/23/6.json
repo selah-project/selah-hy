@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Դատաստանը չես թեքի քո աղքատի՝ իր դատավարությունում։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "չես"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "թեքես"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "դատաստանը"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "աղքատիդ"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "իր դատավարությունում"
+    }
+  ],
+  "timestamp": "2026-09-05T18:44:51.783777656Z",
+  "model": "glm-5.3"
+}

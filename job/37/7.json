@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 37:7",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 37,
+  "translation": "Ամեն մարդու ձեռքը կնքում է՝ որ իմանան բոլոր մարդիկ իր գործը։",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "ձեռքը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "יחתום",
+      "gloss": "կնքում է"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "որ իմանան"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "մարդիկ"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "իր գործը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:50:24.955410152Z",
+  "model": "glm-5.3"
+}

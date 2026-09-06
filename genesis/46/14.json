@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 46,
+  "translation": "Եվ Զվուլունի (Զվուլուն) որդիները՝ Սերեդը, և Էլոնը, և Յախլեելը։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Զվուլուն"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "Սերեդ"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "և Էլոն"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "և Յախլեել"
+    }
+  ],
+  "timestamp": "2026-09-05T18:30:38.874597502Z",
+  "model": "glm-5.3"
+}

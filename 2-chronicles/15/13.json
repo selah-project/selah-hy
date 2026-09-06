@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 15:13",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "և ամեն ով, որ չի դիմի Յահվեին՝ Իսրայելի Էլոհիմին, մեռնի՝ փոքրից մինչև մեծ, մարդուց մինչև կին։",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "և ամեն"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "դիմի"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Էլոհիմի"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "մեռնի"
+    },
+    {
+      "surface": "למן",
+      "gloss": "իսկ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "փոքրից"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "למאיש",
+      "gloss": "մարդուց"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "կին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:46:07.276802824Z",
+  "model": "glm-5.3"
+}

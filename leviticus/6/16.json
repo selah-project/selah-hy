@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ քահանայի ամեն մինխա ամբողջովին թող լինի. չի ուտվի։",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "և ամեն"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "մինխա"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "քահանայի"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ամբողջովին"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "թող լինի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ուտվի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:57:47.828524192Z",
+  "model": "glm-5.3"
+}

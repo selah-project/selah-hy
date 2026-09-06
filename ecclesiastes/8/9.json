@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Այս ամենը տեսա ես, և տվեցի ⟨את⟩ սիրտս ամեն գործի, որ արվում է արևի տակ. ժամանակ, երբ մարդը տիրում է մարդու վրա՝ չարիքի համար իրեն։",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այս ամենը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "זה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "տեսա ես"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "և տվեցի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "սիրտս"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "սիրտս"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "գործի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "արվում է"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "արևի"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ժամանակ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "տիրում է"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "մարդը"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "մարդու վրա"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "չարիքի համար"
+    },
+    {
+      "surface": "לו",
+      "gloss": "իրեն"
+    }
+  ],
+  "timestamp": "2026-09-06T01:19:41.715239771Z",
+  "model": "glm-5.3"
+}

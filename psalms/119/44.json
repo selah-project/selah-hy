@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Եվ ես կպահեմ քո Թորան մշտապես, հավիտյան և մինչև վերջ։",
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "և կպահեմ"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "քո Թորան"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "մշտապես"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "հավիտյան"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "և մինչև վերջ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:51.636024452Z",
+  "model": "glm-5.3"
+}

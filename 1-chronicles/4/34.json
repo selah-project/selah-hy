@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "և Մեշովավ, և Յամլեխ, և Յոշա՝ Ամածյայի որդին։",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "և Մեշովավ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "և Յամլեխ"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "և Յոշա"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Ամածյայի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:28:58.715505973Z",
+  "model": "glm-5.3"
+}

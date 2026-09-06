@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 45,
+  "translation": "Վա՜յ ասողին հորը՝ «Ի՞նչ ես ծնում», և կնոջը՝ «Ի՞նչ ես աշխարհ բերում»։",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Վա՜յ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասողին"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "հորը"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "ես ծնում"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "և կնոջը"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "ես աշխարհ բերում"
+    }
+  ],
+  "timestamp": "2026-09-05T21:31:33.311064833Z",
+  "model": "glm-5.3"
+}

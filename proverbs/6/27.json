@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Կարո՞ղ է մարդ կրակ ծոցի մեջ առնել, և իր հագուստները չայրվեն։",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "առնի՞"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "կրակ"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "իր ծոցում"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "և հագուստները նրա"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "այրվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:30:21.071587100Z",
+  "model": "glm-5.3"
+}

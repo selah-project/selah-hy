@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ Աշխուրի՝ Թեկոայի հորը, եղան երկու կանք՝ Խելան և Նաարան։",
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "Եվ Աշխուրին"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "հորը"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Թեկոայի"
+    },
+    {
+      "surface": "היו",
+      "gloss": "եղան"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "երկու"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "կանք"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "Խելա"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "և Նաարա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:28:47.877930453Z",
+  "model": "glm-5.3"
+}

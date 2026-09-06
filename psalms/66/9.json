@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 66,
+  "translation": "Որ դրեց մեր նեֆեշը կյանքի մեջ և չտվեց մեր ոտքերին սայթաքել։",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "դրեց"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "մեր նեֆեշը"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "կյանքի մեջ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "տվեց"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "սայթակելու"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "մեր ոտքերը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:06:33.591002232Z",
+  "model": "glm-5.3"
+}

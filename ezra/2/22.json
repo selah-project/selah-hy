@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Նեթոֆայի մարդիկ՝ հիսուն և վեց։",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "մարդիկ"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "Նեթոֆայի"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "հիսուն"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "և վեց"
+    }
+  ],
+  "timestamp": "2026-09-06T00:14:21.243148806Z",
+  "model": "glm-5.3"
+}

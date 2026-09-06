@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "և Յեշուայում, և Մոլադայում, և Բեյթ-Փալետում,",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "և Յեշուայում"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "և Մոլադայում"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "և Բեյթ-"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "Փալետում"
+    }
+  ],
+  "timestamp": "2026-09-06T00:25:03.041639563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 118,
+  "translation": "Սա է այն օրը, որ արեց Յահվեն. ուրախանանք և ցնծանք նրա մեջ։",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "սա"
+    },
+    {
+      "surface": "היום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "ուրախանանք"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "և ցնծանք"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրա մեջ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:26.444419436Z",
+  "model": "glm-5.3"
+}

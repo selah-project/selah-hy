@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ սպասեց դեռ ևս այլ յոթ օր, և կրկին ուղարկեց ⟨את⟩ աղավնուն տապանից։",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "և սպասեց"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "դեռ ևս"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "այլ"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "և կրկին"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ուղարկեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "աղավնուն"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "աղավնուն"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ից"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "տապան"
+    }
+  ],
+  "timestamp": "2026-09-05T18:09:54.672423368Z",
+  "model": "glm-5.3"
+}

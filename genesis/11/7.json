@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 11:7",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Եկե՛ք, իջնենք և այնտեղ խառնենք նրանց լեզին, որպեսզի չլսի մարդը իր ընկերոջ լեզին։",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Եկե՛ք"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "իջնենք"
+    },
+    {
+      "surface": "ונבלה",
+      "gloss": "և խառնենք"
+    },
+    {
+      "surface": "שם",
+      "gloss": "այնտեղ"
+    },
+    {
+      "surface": "שפתם",
+      "gloss": "նրանց լեզին"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որպեսզի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "չլսի"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդը"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "լեզին"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "իր ընկերոջ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:12:52.343703937Z",
+  "model": "glm-5.3"
+}

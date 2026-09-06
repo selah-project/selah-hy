@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Էլասան ծնեց ⟨את⟩ Սիսմային, իսկ Սիսմայը ծնեց ⟨את⟩ Շալումին։",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "Էլասան"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Սիսմային"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Սիսմային"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "իսկ Սիսմայը"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Շալումին"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Շալումին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:12.853755958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Եվ ասաց․ «կուզենամ քեզ, Յահվե, զորությունս իմ»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "կուզենամ քեզ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "զորությունս իմ"
+    }
+  ],
+  "timestamp": "2026-09-06T02:07:18.620840160Z",
+  "model": "glm-5.3"
+}

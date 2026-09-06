@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Նրան բարիք է անում և ոչ չարիք՝ իր կյանքի բոլոր օրերին։",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "Նրան բարիք է անում"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "բարիք"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չարիք"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "օրերին"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "կյանքի իր"
+    }
+  ],
+  "timestamp": "2026-09-05T23:38:26.764098966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Սիրելիս ⟨իմն է⟩, և ես ⟨նրանն եմ⟩՝ արածեցնողը շուշանների մեջ։",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "Սիրելիս"
+    },
+    {
+      "surface": "לי",
+      "gloss": "իմն է"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "և ես"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրանն եմ"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "արածեցնողը"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "շուշանների մեջ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:53:03.694158604Z",
+  "model": "glm-5.3"
+}

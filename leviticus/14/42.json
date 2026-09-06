@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ վերցնեն այլ քարեր և բերեն հեռացված քարերի տեղը, և այլ ծեծ վերցնի ու ծեծի ⟨את⟩ տունը։",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "եվ վերցնեն"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "քարեր"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "այլ"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "և բերեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տեղը"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "քարերի"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "և ծեծ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "այլ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "վերցնի"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "և ծեծի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "տունը"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "տունը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:03:18.693554624Z",
+  "model": "glm-5.3"
+}

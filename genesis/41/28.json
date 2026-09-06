@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 41,
+  "translation": "Դա է այն խոսքը, որ ասացի Պարոհին. այն, ինչ անում Է Էլոհիմը, ցույց է տվել ⟨את⟩ Պարոհին։",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "դա"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ասացի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Պարոհ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "այն, ինչ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "անում է"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ցույց է տվել"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Պարոհին"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Պարոհին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:26:56.921752939Z",
+  "model": "glm-5.3"
+}

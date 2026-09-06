@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 7:24",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Երրորդ օրը՝ Զևուլունի որդիների իշխանը՝ Էլիավը, Խելոնի որդին։",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "երրորդ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "իշխանը"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Զևուլունի"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Էլիավը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Խելոնի"
+    }
+  ],
+  "timestamp": "2026-09-06T02:03:30.909536932Z",
+  "model": "glm-5.3"
+}

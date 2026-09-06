@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 36:7",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 36,
+  "translation": "Արդ, այսպես ասաց Ադոնայ Յահվե. ես բարձրացրի ⟨את⟩ իմ ձեռքը. այո՛, շուրջդ եղած ազգերը՝ նրանք իրենց ամոթը կկրեն։",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Արդ,"
+    },
+    {
+      "surface": "כה",
+      "gloss": "այսպես"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "բարձրացրի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "իմ ձեռքը"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "իմ ձեռքը"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ազգերը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "շուրջ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "նրանք"
+    },
+    {
+      "surface": "כלמתם",
+      "gloss": "իրենց ամոթը"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "կկրեն"
+    }
+  ],
+  "timestamp": "2026-09-05T22:25:05.719709428Z",
+  "model": "glm-5.3"
+}

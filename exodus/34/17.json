@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 34,
+  "translation": "Ձուլածո աստվածներ քեզ համար մի՛ արա։",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "աստվածներ"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ձուլածո"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "արա"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ համար"
+    }
+  ],
+  "timestamp": "2026-09-05T18:51:49.985736535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Եվ կխելագարվես քո աչքերի տեսարանից, որ կտեսնես։",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "և կլինես"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "խելագարված"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "տեսարանից"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "քո աչքերի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "կտեսնես"
+    }
+  ],
+  "timestamp": "2026-09-05T19:46:19.139122433Z",
+  "model": "glm-5.3"
+}

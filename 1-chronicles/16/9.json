@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Երգե՛ք նրան, նվագե՛ք նրան, խորհե՛ք նրա բոլոր հրաշքների մասին։",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Երգե՛ք"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "նվագե՛ք"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "խորհե՛ք"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "բոլոր…-ի մասին"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "հրաշքների (նրա)"
+    }
+  ],
+  "timestamp": "2026-09-06T00:33:20.127152599Z",
+  "model": "glm-5.3"
+}

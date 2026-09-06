@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Ինչ որ եղավ՝ այն է, որ լինելու է, և ինչ որ արվեց՝ այն է, որ արվելու է, և նոր ոչ մի բան չկա արևի տակ։",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ինչ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "որ եղավ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "այն է"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "որ լինելու է"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "և ինչ"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "որ արվեց"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "այն է"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "որ արվելու է"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "և չկա"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ոչ մի բան"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "նոր"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "արևի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:30.797074040Z",
+  "model": "glm-5.3"
+}

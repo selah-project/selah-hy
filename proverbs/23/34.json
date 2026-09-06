@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 23:34",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Եվ կլինես իբրև պառկող ծովի մեջտեղում և իբրև պառկող կայւի գլխին։",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "Եվ կլինես"
+    },
+    {
+      "surface": "כשכב",
+      "gloss": "իբրև պառկող"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "մեջտեղում"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ծովի"
+    },
+    {
+      "surface": "וכשכב",
+      "gloss": "և իբրև պառկող"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "գլխին"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "կայւի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:21.644844052Z",
+  "model": "glm-5.3"
+}

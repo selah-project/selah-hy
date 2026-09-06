@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 5:19",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ պատերազմեցին հագարացիների հետ՝ Յիտուրի, Նաֆիշի և Նոդավի։",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "և պատերազմեցին"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "պատերազմ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "ההגריאים",
+      "gloss": "հագարացիների"
+    },
+    {
+      "surface": "ויטור",
+      "gloss": "և Յիտուրի"
+    },
+    {
+      "surface": "ונפיש",
+      "gloss": "և Նաֆիշի"
+    },
+    {
+      "surface": "ונודב",
+      "gloss": "և Նոդավի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:53.039396577Z",
+  "model": "glm-5.3"
+}

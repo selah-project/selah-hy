@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 22:16",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Եվ պղծվելու ես քո մեջ ազգերի աչքերի առջև, և իմանալու ես, որ ես Յահվեն եմ։",
+  "tokens": [
+    {
+      "surface": "ונחלת",
+      "gloss": "Եվ պղծվելու ես"
+    },
+    {
+      "surface": "בך",
+      "gloss": "քո մեջ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "աչքերի առջև"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ազգերի"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "և իմանալու ես"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    }
+  ],
+  "timestamp": "2026-09-05T22:17:16.829496716Z",
+  "model": "glm-5.3"
+}

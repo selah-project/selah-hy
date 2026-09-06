@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 41,
+  "translation": "Եվ երկու դուռ ⟨կար⟩ տաճարի համար և սրբարանի համար։",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "և երկու"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "դուռ"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "տաճարի համար"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "և սրբարանի համար"
+    }
+  ],
+  "timestamp": "2026-09-05T22:26:27.158721437Z",
+  "model": "glm-5.3"
+}

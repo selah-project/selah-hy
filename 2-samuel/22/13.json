@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 22:13",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Փայլքից իր առջև բռնկվեցին կրակի ածուխներ։",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "Փայլքից"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "բռնկվեցին"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "ածուխներ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "կրակի"
+    }
+  ],
+  "timestamp": "2026-09-05T20:41:50.252339548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Աղմկոտ է նա և համառ՝ իր տանը իր ոտքերը հանգիստ չեն գտնում։",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "Աղմկոտ է"
+    },
+    {
+      "surface": "היא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "և համառ"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "իր տանը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չեն"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "հանգիստ գտնում"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "իր ոտքերը"
+    }
+  ],
+  "timestamp": "2026-09-06T01:18:12.866654321Z",
+  "model": "glm-5.3"
+}

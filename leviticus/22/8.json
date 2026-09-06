@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Դիակ և հոշոծված չի ուտի՝ դրանով պիղծվելու համար։ Ես եմ Յահվեն։",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "Դիակ"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "և հոշոծված"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ուտի"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "պիղծվելու համար"
+    },
+    {
+      "surface": "בה",
+      "gloss": "դրանով"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ես"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:07:07.690433774Z",
+  "model": "glm-5.3"
+}

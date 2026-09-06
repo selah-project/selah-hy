@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "և բերեց մեզ այս տեղը, և տվեց մեզ ⟨את⟩ այս երկիրը՝ երկիր, որ հոսում է կաթով և մեղրով։",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "և բերեց մեզ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "տեղը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "և տվեց"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "մեզ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "երկիրը"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "այս"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկիր"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "հոսում է"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "կաթ"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "և մեղր"
+    }
+  ],
+  "timestamp": "2026-09-06T01:07:19.229993744Z",
+  "model": "glm-5.3"
+}

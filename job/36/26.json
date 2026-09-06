@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 36:26",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 36,
+  "translation": "Ահա, Էլ ⟨է⟩ մեծ, և չենք ճանաչում. իր տարիների թիվը անքննելի է։",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ահա"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլ"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "չենք ճանաչում"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "թիվը"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "իր տարիների"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "անքննելի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:49:38.270910741Z",
+  "model": "glm-5.3"
+}

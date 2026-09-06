@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Ընտրված արծաթ ⟨է⟩ արդարի լեզուն, իսկ չարագործների սիրտը՝ անարժեք։",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "արծաթ"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "ընտրված"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "լեզու"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "արդարի"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սիրտ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "չարագործների"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "անարժեք"
+    }
+  ],
+  "timestamp": "2026-09-05T23:30:59.110197065Z",
+  "model": "glm-5.3"
+}

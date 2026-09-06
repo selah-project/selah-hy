@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 9:6",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Թողե՛ք պարզամիտներին և ապրե՛ք, և քայլե՛ք խելքի ճանապարհով։",
+  "tokens": [
+    {
+      "surface": "עזבו",
+      "gloss": "Թողե՛ք"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "պարզամիտներին"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "և ապրե՛ք"
+    },
+    {
+      "surface": "ואשרו",
+      "gloss": "և քայլե՛ք"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ճանապարհով"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "խելքի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:30:36.431060041Z",
+  "model": "glm-5.3"
+}

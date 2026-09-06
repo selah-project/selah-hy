@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Եվ քո ընկերոջ կնոջ հետ քո պառկելը սերմ մի տուր՝ նրանով պղծվելու համար։",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Եվ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "կնոջ հետ"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "քո ընկերոջ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "տուր"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "քո պառկելը"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "սերմ"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "պղծվելու համար"
+    },
+    {
+      "surface": "בה",
+      "gloss": "նրանով"
+    }
+  ],
+  "timestamp": "2026-09-05T19:04:23.555109883Z",
+  "model": "glm-5.3"
+}

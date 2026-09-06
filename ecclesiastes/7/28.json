@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ecclesiastes 7:28",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Ինչ դեռ իմ նեֆեշը որոնում էր, բայց չգտա. մեկ մարդ հազարից գտա, բայց կին այդ բոլորի մեջ չգտա։",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ինչ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "դեռ"
+    },
+    {
+      "surface": "בקשה",
+      "gloss": "որոնում էր"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "իմ նեֆեշը"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "բայց չ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "գտա"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "հազարից"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "գտա"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "բայց կին"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "այդ բոլորի մեջ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "գտա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:35.513863109Z",
+  "model": "glm-5.3"
+}

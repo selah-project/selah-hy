@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "և ⟨את⟩ Էյբալին, և ⟨את⟩ Ավիմաելին, և ⟨את⟩ Շեվային։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Էյբալին"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Էյբալին"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Ավիմաելին"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Ավիմաելին"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Շեվային"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Շեվային"
+    }
+  ],
+  "timestamp": "2026-09-06T00:26:44.972684689Z",
+  "model": "glm-5.3"
+}

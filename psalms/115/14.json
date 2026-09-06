@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 115,
+  "translation": "Թող Յահվեն ավելացնի ձեզ՝ ձեզ և ձեր որդիներին։",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "ավելացնի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "և... վրա"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ձեր որդիներին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:21.491630028Z",
+  "model": "glm-5.3"
+}

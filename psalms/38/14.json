@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 38,
+  "translation": "Իսկ ես՝ ինչպես խուլը, չեմ լսում, և ինչպես համրը, որ բերանը չի բացում։",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "իսկ ես"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "ինչպես խուլը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չեմ"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "լսում"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "և ինչպես համրը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "բացում"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "բերանը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:01:47.148402768Z",
+  "model": "glm-5.3"
+}

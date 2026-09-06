@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Եվ ընկավ Աբրամը իր երեսին, և Էլոհիմը խոսեց ⟨את⟩ նրա հետ՝ ասելով․",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "Եվ ընկավ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Աբրամը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "իր երեսին"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "և խոսեց"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ նրա հետ",
+      "marks": "Աբրամի հետ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T18:16:00.155244515Z",
+  "model": "glm-5.3"
+}

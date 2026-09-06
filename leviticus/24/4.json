@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Մաքուր աշտանակի վրա կկարգի ⟨את⟩ ճրագները՝ Յահվեի առջև, անընդհատ։",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "աշտանակի"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "Մաքուր"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "կկարգի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ճրագները"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "ճրագները"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "անընդհատ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:08:17.152829553Z",
+  "model": "glm-5.3"
+}

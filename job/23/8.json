@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Ահա, առջև կգնամ, բայց նա չկա, և հետև՝ չեմ ընկալի նրան։",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "կգնամ"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "բայց նա չկա"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "և հետև"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չեմ"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "ընկալի"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T23:45:55.122503006Z",
+  "model": "glm-5.3"
+}

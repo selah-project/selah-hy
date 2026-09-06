@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 42,
+  "translation": "Եվ մահացավ Հիոբը՝ ծեր և օրերով հագեցած։",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Եվ մահացավ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Հիոբը"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ծեր"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "և հագեցած"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օրերով"
+    }
+  ],
+  "timestamp": "2026-09-05T23:51:57.556700528Z",
+  "model": "glm-5.3"
+}

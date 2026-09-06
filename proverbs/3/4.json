@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ շնորհ ու բարի ըմբռնում կգտնես Էլոհիմի և մարդու աչքերում։",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "և կգտնես"
+    },
+    {
+      "surface": "חן",
+      "gloss": "շնորհ"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "և ըմբռնում"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "բարի"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "աչքերում"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմի"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "և մարդու"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:05.380157999Z",
+  "model": "glm-5.3"
+}

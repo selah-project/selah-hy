@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 17:10",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Սա ⟨է⟩ Բրիթս, որ կպահեք իմ և ձեզ միջև, և քո սերմի միջև՝ քեզնից հետո. թլփատվեք ձեզ ամեն արու։",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Սա"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Բրիթս"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "կպահեք"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "իմ և"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "ձեզ միջև"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "և միջև"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "քո սերմի"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "քեզնից հետո"
+    },
+    {
+      "surface": "המול",
+      "gloss": "թլփատվեք"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "արու"
+    }
+  ],
+  "timestamp": "2026-09-05T18:14:12.224266277Z",
+  "model": "glm-5.3"
+}

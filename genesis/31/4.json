@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Եվ ուղարկեց Յաակովը և կանչեց Ռախելին և Լեային դաշտ՝ դեպի իր հոտը։",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "և ուղարկեց"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Յաակովը"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "և կանչեց"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Ռախելին"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "և Լեային"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "դաշտ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "իր հոտը"
+    }
+  ],
+  "timestamp": "2026-09-05T18:22:32.471076015Z",
+  "model": "glm-5.3"
+}

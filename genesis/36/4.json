@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 36,
+  "translation": "և Ադան ծնեց Էսավին ⟨את⟩ Էլիֆազին, և Բաշեմաթը ծնեց ⟨את⟩ Ռեուելին։",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ադա"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Էսավին"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Էլիֆազին"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Էլիֆազին"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "և Բաշեմաթը"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ռեուելին"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Ռեուելին"
+    }
+  ],
+  "timestamp": "2026-09-06T01:01:24.359442686Z",
+  "model": "glm-5.3"
+}

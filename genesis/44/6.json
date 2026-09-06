@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 44,
+  "translation": "Եվ հասավ նրանց ու խոսեց նրանց հետ ⟨את⟩ այս խոսքերը։",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "և հասավ նրանց"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "և խոսեց"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "նրանց հետ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այս խոսքերը"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "խոսքերը"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-05T18:30:15.481933828Z",
+  "model": "glm-5.3"
+}

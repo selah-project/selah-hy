@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "և ⟨את⟩ Ադորայիմը, և ⟨את⟩ Լախիշը, և ⟨את⟩ Ազեկան",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Ադորայիմը"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "Ադորայիմը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Լախիշը"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Լախիշը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Ազեկան"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Ազեկան"
+    }
+  ],
+  "timestamp": "2026-09-06T00:42:47.704868694Z",
+  "model": "glm-5.3"
+}

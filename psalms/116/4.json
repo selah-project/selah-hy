@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 116,
+  "translation": "Եվ Յահվեի անունով կկանչեմ. խնդրում եմ՝ Յահվե, ազատիր նեֆեշս։",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Եվ անունով"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "կկանչեմ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "խնդրում եմ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "ազատիր"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "նեֆեշս"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:49.553973412Z",
+  "model": "glm-5.3"
+}

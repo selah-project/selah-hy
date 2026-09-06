@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Զվուլունի՝ Էլիավը, Խելոնի որդին։",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "Զվուլունի"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Էլիավը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Խելոնի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:10:41.854916477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 2:8",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եև ինձ համար ծառեր առատ պատրաստել, քանի որ այն տունը, որ ես կառուցում եմ, մեծ է և հրաշալի։",
+  "tokens": [
+    {
+      "surface": "ולהכין",
+      "gloss": "Եև պատրաստել"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ համար"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ծառեր"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "առատ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "այն տունը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "կառուցում եմ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "והפלא",
+      "gloss": "և հրաշալի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:42:06.465431214Z",
+  "model": "glm-5.3"
+}

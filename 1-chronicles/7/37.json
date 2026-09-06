@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 7:37",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Բեցեր և Հոդ և Շամա և Շիլշա և Յիթրան և Բեերա։",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "Բեցեր"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "և Հոդ"
+    },
+    {
+      "surface": "ושמא",
+      "gloss": "և Շամա"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "և Շիլշա"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "և Յիթրան"
+    },
+    {
+      "surface": "ובארא",
+      "gloss": "և Բեերա"
+    }
+  ],
+  "timestamp": "2026-09-06T01:43:13.196071473Z",
+  "model": "glm-5.3"
+}

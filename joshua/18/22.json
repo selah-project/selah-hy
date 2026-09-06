@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "և Բեյթ հա-Արավան, և Ցեմարայիմը, և Բեյթ Էլը։",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "և Բեյթ"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "հա-Արավան"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "և Ցեմարայիմը"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "և Բեյթ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:58:11.954813525Z",
+  "model": "glm-5.3"
+}

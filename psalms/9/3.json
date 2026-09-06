@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Ուրախանամ և ցնծամ քեզ մեջ, երգեմ քո անունը, ո՛վ Էլյոն (բարձրյալ)։",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "Ուրախանամ"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "և ցնծամ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "քեզ մեջ"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "երգեմ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "քո անունը"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Էլյոն"
+    }
+  ],
+  "timestamp": "2026-09-05T22:54:54.583172822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Մուշիի որդիները՝ Մախլի, Եդեր և Յերեմոթ, երեքը։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "Մուշիի"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Մախլի"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "և Եդեր"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "և Յերեմոթ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "երեքը"
+    }
+  ],
+  "timestamp": "2026-09-06T01:22:22.800680757Z",
+  "model": "glm-5.3"
+}

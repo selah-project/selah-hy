@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 5:13",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ մարգարեները կդառնան քամու, և խոսք չկա նրանց մեջ. այսպես կարվի իրենց։",
+  "tokens": [
+    {
+      "surface": "והנביאים",
+      "gloss": "Եվ մարգարեները"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "կդառնան"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "քամու"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "և խոսքը"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "նրանց մեջ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "այսպես"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "կարվի"
+    },
+    {
+      "surface": "להם",
+      "gloss": "իրենց"
+    }
+  ],
+  "timestamp": "2026-09-06T01:11:52.075816621Z",
+  "model": "glm-5.3"
+}

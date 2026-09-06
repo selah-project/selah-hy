@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 1:25",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "և արհամարհեցիք ամբողջ խորհուրդս, և իմ հանդիմանը չակամեցիք։",
+  "tokens": [
+    {
+      "surface": "ותפרעו",
+      "gloss": "և արհամարհեցիք"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "խորհուրդս"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "և իմ հանդիմանը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "ակամեցիք"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:14.861328612Z",
+  "model": "glm-5.3"
+}

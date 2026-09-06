@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Մի՛ շեղվիր աջ և ձախ, հեռացրու քո ոտքը չարից։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תט",
+      "gloss": "շեղվիր"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "աջ"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "և ձախ"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "հեռացրու"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "քո ոտքը"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "չարից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:23.338536962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Պարսպեց իմ ճանապարհները տաշված քարով, իմ ուղիները ծակալեց։",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "Պարսպեց"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "իմ ճանապարհները"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "տաշված քարով"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "իմ ուղիները"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "ծակալեց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:41.152574930Z",
+  "model": "glm-5.3"
+}

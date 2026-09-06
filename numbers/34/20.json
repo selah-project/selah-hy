@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 34:20",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 34,
+  "translation": "Եվ Շիմոնի որդիների ցեղից՝ Շմուել Ամիհուդի որդին։",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "Եվ ցեղից"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Շիմոնի"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Շմուել"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Ամիհուդի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:30:24.696236164Z",
+  "model": "glm-5.3"
+}

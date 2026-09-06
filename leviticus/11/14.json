@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "և ⟨את⟩ դաահին, և ⟨את⟩ բազեն իր տեսակով։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "դաահին"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "դաահին"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "բազեն"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "բազեն"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "իր տեսակով"
+    }
+  ],
+  "timestamp": "2026-09-05T18:59:52.158645163Z",
+  "model": "glm-5.3"
+}

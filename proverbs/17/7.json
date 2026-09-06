@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Ոչ վայելուչ է հիմարի համար գերազանց շուրթ. առավել էլ՝ ազնվականի համար սուտ շուրթ։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "վայելուչ է"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "հիմարի համար"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "շուրթ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "գերազանց"
+    },
+    {
+      "surface": "אף",
+      "gloss": "առավել էլ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "էլ՝"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "ազնվականի համար"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "շուրթ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "սուտ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:33:22.728451378Z",
+  "model": "glm-5.3"
+}

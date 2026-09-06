@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Կոհելեթ փնտրեց գտնել հաճելի խոսքեր, և գրված ⟨է⟩ ուղիղ խոսքեր ճշմարտության։",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "փնտրեց"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Կոհելեթ"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "գտնել"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "խոսքեր"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "հաճելի"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "և գրված"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ուղիղ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "խոսքեր"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ճշմարտության"
+    }
+  ],
+  "timestamp": "2026-09-06T00:02:58.109619554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 9:17",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ ասաց Էլոհիմը Նոյին՝ «Սա ⟨է⟩ Բրիթի նշանը, որ ես հաստատեցի իմ և ամեն մարմնի միջև, որ երկրի վրա ⟨է⟩»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Նոյ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "սա"
+    },
+    {
+      "surface": "אות",
+      "gloss": "նշանը"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "Բրիթի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "հաստատեցի"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "իմ միջև"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "և …միջև"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "մարմնի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:10:23.780217551Z",
+  "model": "glm-5.3"
+}

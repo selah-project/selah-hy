@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Անպիտան մարդ, չարիքի մարդ, այն ով քայլում է բերանի այլասերվածությամբ։",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Անպիտան"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "און",
+      "gloss": "չարիքի"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "քայլում է"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "այլասերվածությամբ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "բերանի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:27.659100532Z",
+  "model": "glm-5.3"
+}

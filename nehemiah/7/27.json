@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Անաթոթի մարդիկ՝ հարյուր քսան ութը։",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "մարդիկ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Անաթոթի"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "քսան"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ու ութը"
+    }
+  ],
+  "timestamp": "2026-09-06T01:57:39.190805199Z",
+  "model": "glm-5.3"
+}

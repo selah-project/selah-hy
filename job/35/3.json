@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 35:3",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 35,
+  "translation": "Քանի որ ասում ես՝ ի՞նչ է օգտում քեզ, ի՞նչ եմ ես շահում իմ մեղքից։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Քանի որ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ասում ես"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "է օգտում"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "אעיל",
+      "gloss": "եմ շահում"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "իմ մեղքից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:49:35.747653804Z",
+  "model": "glm-5.3"
+}

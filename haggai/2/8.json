@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Ինձն է արծաթը և ինձն է ոսկին, — Յահվե Ծեվաոթի խոսքն է։",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ինձն է"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "արծաթը"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "և ինձն է"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ոսկին"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "խոսքն է"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ծեվաոթի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:45:18.570825144Z",
+  "model": "glm-5.3"
+}

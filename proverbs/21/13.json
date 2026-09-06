@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Ով փակում է իր ականջը աղքատի ճիչից, նա էլ կկանչի, և չի պատասխանվի։",
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "փակում է"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "իր ականջը"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "ճիչից"
+    },
+    {
+      "surface": "דל",
+      "gloss": "աղքատի"
+    },
+    {
+      "surface": "גם",
+      "gloss": "էլ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "կկանչի"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չի"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "պատասխանվի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:22.638302518Z",
+  "model": "glm-5.3"
+}

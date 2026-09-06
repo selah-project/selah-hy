@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 15:20",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Յահվեի՝ քո Էլոհիմի առջև կ’ուտես այն տարեց տարի, այն տեղում, որ ընտրի Յահվեն՝ դու և քո տունը",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "քո Էլոհիմի"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "կ’ուտես այն"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարեց"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "տեղում"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "ընտրի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "և քո տունը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:39:37.758161127Z",
+  "model": "glm-5.3"
+}

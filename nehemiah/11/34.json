@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 11:34",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Խադիդ, Ծեվոիմ, Նեվալատ։",
+  "tokens": [
+    {
+      "surface": "חדיד",
+      "gloss": "Խադիդ"
+    },
+    {
+      "surface": "צבעים",
+      "gloss": "Ծեվոիմ"
+    },
+    {
+      "surface": "נבלט",
+      "gloss": "Նեվալատ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:25:37.769182039Z",
+  "model": "glm-5.3"
+}

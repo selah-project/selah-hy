@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 12:14",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Մալուխի՝ Յոնատան, Շևանյայի՝ Յոսեֆ։",
+  "tokens": [
+    {
+      "surface": "למלוכי",
+      "gloss": "Մալուխի՝"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Յոնատան"
+    },
+    {
+      "surface": "לשבניה",
+      "gloss": "Շևանյայի՝"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Յոսեֆ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:25:14.239608139Z",
+  "model": "glm-5.3"
+}

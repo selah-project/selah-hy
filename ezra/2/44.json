@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 2:44",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Կերոսի որդիները, Սիահայի որդիները, Պադոնի որդիները։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "Կերոսի"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "סיעהא",
+      "gloss": "Սիահայի"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "Պադոնի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:16:20.083711563Z",
+  "model": "glm-5.3"
+}

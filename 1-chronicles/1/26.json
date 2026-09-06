@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 1:26",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Սերուգ, Նաքոր, Թարախ։",
+  "tokens": [
+    {
+      "surface": "שרוג",
+      "gloss": "Սերուգ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Նաքոր"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Թարախ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:26:46.706939088Z",
+  "model": "glm-5.3"
+}

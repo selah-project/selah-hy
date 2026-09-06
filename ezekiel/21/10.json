@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 21:10",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եվ կիմանա ամեն մարմին, որ ես Յահվե ⟨եմ⟩, որ հանեցի իմ սուրը պատյանից. այլևս ետ չի դառնա։",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Եվ կիմանա"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "մարմին"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "հանեցի"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "իմ սուրը"
+    },
+    {
+      "surface": "מתערה",
+      "gloss": "պատյանից"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ետ դառնա"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "այլևս"
+    }
+  ],
+  "timestamp": "2026-09-05T22:15:15.533320614Z",
+  "model": "glm-5.3"
+}

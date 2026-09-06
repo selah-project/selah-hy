@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ ապստաեց Մոաբը Իսրայելի դեմ Ախավի (Աքաբ) մահից հետո։",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "Եվ ապստաեց"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Մոաբը"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Իսրայելի դեմ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "հետո"
+    },
+    {
+      "surface": "מות",
+      "gloss": "մահից"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ախավի"
+    }
+  ],
+  "timestamp": "2026-09-05T20:59:54.361719450Z",
+  "model": "glm-5.3"
+}

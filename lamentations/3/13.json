@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Մտցրեց իմ երիկամների մեջ իր աղեղապարկի որդիներին։",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "Մտցրեց"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "իմ երիկամների մեջ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիներին"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "իր աղեղապարկի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:04.665617742Z",
+  "model": "glm-5.3"
+}

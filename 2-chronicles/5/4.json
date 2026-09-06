@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ եկան Իսրայելի բոլոր երեցները, և բարձրացրեցին Լևիները ⟨את⟩ տապանակը։",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Եվ եկան"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "երեցները"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "և բարձրացրեցին"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Լևիները"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "տապանակը"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "տապանակը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:42:39.332377566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Երգ երգերի, որ ⟨Շլոմոյինն⟩ է։",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Երգ"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "երգերի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Շլոմոյին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:52:51.096643558Z",
+  "model": "glm-5.3"
+}

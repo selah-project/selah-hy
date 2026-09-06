@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 47:4",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 47,
+  "translation": "Մեր Փրկիչը՝ Յահվե Ծեվաոթն է նրա անունը, Իսրայելի Սուրբը։",
+  "tokens": [
+    {
+      "surface": "גאלנו",
+      "gloss": "Մեր Փրկիչը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ծեվաոթ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "նրա անունը"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Սուրբ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:32:42.880514931Z",
+  "model": "glm-5.3"
+}

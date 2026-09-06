@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 33:31",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 33,
+  "translation": "Ականջդ է՛ս դեպ, Իքով, լսի՛ր ինձ, լռի՛ր, և ես կխոսեմ։",
+  "tokens": [
+    {
+      "surface": "הקשב",
+      "gloss": "Ականջդ է՛ս դեպ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Իքով"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "լսի՛ր"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "լռի՛ր"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "և ես"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "կխոսեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:49:11.965075788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Քո հացահատիկի առաջին պտուղը, քո գինին, քո ձեթը և քո հոտի բրդի առաջինը տուր նրան։",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "առաջին պտուցը"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "քո հացահատիկի"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "քո գինին"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "և քո ձեթը"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "և առաջինը"
+    },
+    {
+      "surface": "גז",
+      "gloss": "բրդի"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "քո հոտի"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "տուր"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:42:17.553472603Z",
+  "model": "glm-5.3"
+}

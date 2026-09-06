@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ եղավ յոթ օրից հետո, և ջրերը Մաբուլի եղան երկրի վրա։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "յոթից"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "օր"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "և ջրերը"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "Մաբուլի"
+    },
+    {
+      "surface": "היו",
+      "gloss": "եղան"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:09:48.292701828Z",
+  "model": "glm-5.3"
+}

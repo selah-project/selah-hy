@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Միայն արյունը մի՛ կերեք. երկրի վրա թափեցե՛ք այն՝ ինչպես ջուրը։",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "միայն"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "արյունը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "կերեք"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "թափեցե՛ք այն"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ինչպես ջուրը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:39:48.753267952Z",
+  "model": "glm-5.3"
+}

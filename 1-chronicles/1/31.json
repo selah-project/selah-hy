@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Յետուրը, Նաֆիշը և Քեդեման։ Ահա նրանք՝ Իշմաելի որդիները։",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "Յետուրը"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "Նաֆիշը"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "և Քեդեման"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ահա"
+    },
+    {
+      "surface": "הם",
+      "gloss": "նրանք"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Իշմաելի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:05.712621823Z",
+  "model": "glm-5.3"
+}

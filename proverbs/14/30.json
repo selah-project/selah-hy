@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Բուժիչ սիրտը մարմնի կյանքն է, իսկ ոսկորների նեխությունը՝ նախանձը։",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "կյանք"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "մարմնի"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սիրտ"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "բուժիչ"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "և նեխություն"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ոսկորների"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "նախանձ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:32:41.069557132Z",
+  "model": "glm-5.3"
+}

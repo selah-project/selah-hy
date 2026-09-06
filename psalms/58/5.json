@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 58,
+  "translation": "Նրանց թույնը օձի թույնի պես է՝ ինչպես խուլ իժը, որ փակում է իր ականջը։",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "թույնը"
+    },
+    {
+      "surface": "למו",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "պես է"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "թույն"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "օձի"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ինչպես"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "իժը"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "խուլ"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "փակում է"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "իր ականջը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:06:02.037482149Z",
+  "model": "glm-5.3"
+}

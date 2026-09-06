@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 43,
+  "translation": "Ես, ես եմ Յահվեն, և ինձնից բացի փրկիչ չկա։",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ես"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ես"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "և չկա"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ինձնից բացի"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "փրկիչ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:29:19.505091986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Խոնարկվեց մարդը, և նվազեց ⟨մարդը⟩, և մի՛ կրիր նրանց։",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "Խոնարկվեց"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդը"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "և նվազեց"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդը"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և մի՛"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "կրիր"
+    },
+    {
+      "surface": "להם",
+      "gloss": "նրանց"
+    }
+  ],
+  "timestamp": "2026-09-05T21:12:09.383126453Z",
+  "model": "glm-5.3"
+}

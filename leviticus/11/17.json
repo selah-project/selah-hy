@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "և ⟨את⟩ կուսը, և ⟨את⟩ շալախը, և ⟨את⟩ յանշուֆը։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "կուսը"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "կուսը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "շալախը"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "շալախը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "յանշուֆը"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "յանշուֆը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:00:20.364636501Z",
+  "model": "glm-5.3"
+}

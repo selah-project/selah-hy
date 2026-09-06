@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "ԵՎ եղան Քենանի բոլոր օրերը տասը տարի և ինը հարյուր տարի, և մեռավ։",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Եվ եղան"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "օրերը"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Քենանի"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "տասը"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "և ինը"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "և մեռավ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:09:31.240588815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 57,
+  "translation": "Կանչեմ Էլ Էլյոնին, Էլին, որ ինձ համար կատարում է։",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "կանչեմ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Էլ Էլյոնին"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Էլյոն (Գերագույն)"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Էլին"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "կատարում է"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ինձ համար"
+    }
+  ],
+  "timestamp": "2026-09-05T23:06:10.901014782Z",
+  "model": "glm-5.3"
+}

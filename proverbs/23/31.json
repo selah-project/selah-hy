@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 23:31",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Մի՛ նայիր գինին, երբ կարմրում է, երբ բաժակի մեջ ⟨իր⟩ գույնն է տալիս, երբ հարթ է սահում։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תרא",
+      "gloss": "նայիր"
+    },
+    {
+      "surface": "יין",
+      "gloss": "գինին"
+    },
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "יתאדם",
+      "gloss": "կարմրում է"
+    },
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "է տալիս"
+    },
+    {
+      "surface": "בכיס",
+      "gloss": "բաժակի մեջ"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "⟨իր⟩ գույնը"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "է սահում"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "հարթ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:19.438844453Z",
+  "model": "glm-5.3"
+}

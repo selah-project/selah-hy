@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ հավաքվեցին արքայի մոտ Իսրայելի ամեն մարդ տոնի ժամանակ՝ այն է յոթերորդ ամիսը։",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "Եվ հավաքվեցին"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "արքայի"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "տոնի ժամանակ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "այն է"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ամիսը"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "յոթերորդ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:42:39.332224810Z",
+  "model": "glm-5.3"
+}

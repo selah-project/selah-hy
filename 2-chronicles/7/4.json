@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ թագավորը և ամբողջ ժողովուրդը զոհ էին մատուցում Յահվեի երեսի առջև։",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Եվ թագավորը"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "և ամբողջ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովուրդը"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "զոհ էին մատուցում"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "զոհ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:42:27.432984014Z",
+  "model": "glm-5.3"
+}

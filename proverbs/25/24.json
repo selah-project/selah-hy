@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 25:24",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Լավ է տանիքի անկյունում նստել, քան կռվարար կնոջ և ընկերակցության տան հետ։",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Լավ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "նստել"
+    },
+    {
+      "surface": "על",
+      "gloss": "մեջ"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "անկյուն"
+    },
+    {
+      "surface": "גג",
+      "gloss": "տանիք"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "քան կին"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "կռվարար"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "և տուն"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ընկերակցության"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:58.079008380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 30:28",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Եվ ասաց. «որոշի՛ր քո վարձը ինձ համար, և ես կտամ»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "որոշի՛ր"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "քո վարձը"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ինձ համար"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "և ես կտամ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:22:01.436636613Z",
+  "model": "glm-5.3"
+}

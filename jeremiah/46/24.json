@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 46:24",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 46,
+  "translation": "Ամոթահար եղավ Միցրայիմի դուստրը, տրվեց հյուսիսի ժողովրդի ձեռքը։",
+  "tokens": [
+    {
+      "surface": "הבישה",
+      "gloss": "Ամոթահար եղավ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "դուստրը"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Միցրայիմի"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "տրվեց"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ձեռքը"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ժողովրդի"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "հյուսիսի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:00:46.682160924Z",
+  "model": "glm-5.3"
+}

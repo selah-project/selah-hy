@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Ես՝ ահա, իմ Բրիթ-ն ⟨את⟩ քեզ հետ է, և դու կլինես ազգերի բազմության հայր։",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ես"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "իմ Բրիթ-ն"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ քեզ հետ",
+      "marks": "քեզ հետ"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "և դու կլինես"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "հայր"
+    },
+    {
+      "surface": "המון",
+      "gloss": "բազմության"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ազգերի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:16:00.155381275Z",
+  "model": "glm-5.3"
+}

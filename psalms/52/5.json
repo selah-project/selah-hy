@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 52,
+  "translation": "Սիրել ես չարը բարուց, սուտը՝ արդարություն խոսելուց։ Սելահ։",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "սիրել ես"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չարը"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "բարուց"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "սուտը"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "խոսելուց"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "արդարություն"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Սելահ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:05:24.235576873Z",
+  "model": "glm-5.3"
+}

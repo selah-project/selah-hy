@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 7:54",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Ութերորդ օրը՝ Մենաշեի որդիների նախարարը՝ Գամլիելը, Պդահցուրի որդին։",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ութերորդ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "նախարար"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Մենաշեի"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Գամլիել"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "Պդահ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Ցուր"
+    }
+  ],
+  "timestamp": "2026-09-05T19:15:40.746634971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 42,
+  "translation": "Շրջանցեց դեպի ծովի կողմը՝ չափեց հինգ հարյուր ղանի՝ չափի ղանով։",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "Շրջանցեց"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "կողմ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ծովի"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "չափեց"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "հինգ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "ղանի"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ղանով"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "չափի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:16:10.128789965Z",
+  "model": "glm-5.3"
+}

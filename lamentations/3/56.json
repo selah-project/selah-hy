@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Իմ ձայնը լսեցիր, մի՛ ծածկիր քո ականջը իմ թեթևացումից, իմ աղաղակից։",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "իմ ձայնը"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "լսեցիր"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "ծածկիր"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "քո ականջը"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "իմ թեթևացումից"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "իմ աղաղակից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:09.288495611Z",
+  "model": "glm-5.3"
+}

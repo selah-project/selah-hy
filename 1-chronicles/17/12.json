@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Նա ինձ տուն կկառուցի, և ես կհաստատեմ ⟨את⟩ նրա գահը մինչև հավերժություն։",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "կկառուցի"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տուն"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "և կհաստատեմ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "նրա գահը"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "նրա գահը"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "հավերժություն"
+    }
+  ],
+  "timestamp": "2026-09-06T00:35:22.099489127Z",
+  "model": "glm-5.3"
+}

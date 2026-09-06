@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Մի՛ տա քուն աչքերիդ, ո՛չ թմրածություն կոպերիդ։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Մի՛"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "տա"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "քուն"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "աչքերիդ"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "ո՛չ թմրածություն"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "կոպերիդ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:25.796775215Z",
+  "model": "glm-5.3"
+}

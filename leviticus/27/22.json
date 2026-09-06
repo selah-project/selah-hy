@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Եվ եթե ⟨את⟩ իր գնած դաշտը, որ իր սեփականության դաշտերից չէ, նվիրի Յահվեի՝",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Եվ եթե"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "դաշտը"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "դաշտ"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "իր գնած"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չէ"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "դաշտերից"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "իր սեփականության"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "նվիրի"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:11:35.120245850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Եվ անբիծ էի նրա հետ, և զգապահ մնացի իմ մեղքից։",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "և ես էի"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "անբիծ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "նրա հետ"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "և զգապահ մնացի"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "իմ մեղքից"
+    }
+  ],
+  "timestamp": "2026-09-05T22:55:50.070187753Z",
+  "model": "glm-5.3"
+}

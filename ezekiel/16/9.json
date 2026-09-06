@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Եվ լվացի քեզ ջրով, լվաց արյունդ քեզնից, և օծեցի քեզ յուղով։",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "լվացի քեզ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ջրով"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "լվաց քեզնից"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "արյունդ"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "քեզնից"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "օծեցի քեզ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "յուղով"
+    }
+  ],
+  "timestamp": "2026-09-05T22:12:55.223523701Z",
+  "model": "glm-5.3"
+}

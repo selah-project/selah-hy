@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Կապի՛ր դրանք քո սրտի վրա անընդհատ, ամրացրու՛ դրանք քո կոկորդի շուրջ։",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "կապի՛ր դրանք"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "քո սրտի"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "անընդհատ"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "ամրացրու դրանք"
+    },
+    {
+      "surface": "על",
+      "gloss": "շուրջ"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "քո կոկորդի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:46.370978762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Քանի որ Յահվեի բաժինն է իր ժողովուրդը, Յաակովը՝ իր ժառանգության պարանը։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "բաժին"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "իր ժողովուրդը"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Յաակովը"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "պարան (չափալան)֊ի"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "իր ժառանգության"
+    }
+  ],
+  "timestamp": "2026-09-05T19:49:03.393539354Z",
+  "model": "glm-5.3"
+}

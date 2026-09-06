@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 3:7",
+  "book": "song-of-songs",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Ահա նրա պատգարակը՝ Շլոմոյինը, վաթսուն հզորներ շուրջը, Իսրայելի հզորներից։",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ահա"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "նրա պատգարակը"
+    },
+    {
+      "surface": "שלשלמה",
+      "gloss": "Շլոմոյինը"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "վաթսուն"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "հզորներ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "շուրջը"
+    },
+    {
+      "surface": "לה",
+      "gloss": "նրա"
+    },
+    {
+      "surface": "מגברי",
+      "gloss": "հզորներից"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:53:18.297151287Z",
+  "model": "glm-5.3"
+}

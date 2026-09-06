@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "և Շևան էր գրիչը, և Ծադոկն ու Էվյաթարը՝ քահանաներ։",
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "և Շևան"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "գրիչը"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "և Ծադոկը"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "ու Էվյաթարը"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "քահանաներ"
+    }
+  ],
+  "timestamp": "2026-09-05T20:38:41.932831419Z",
+  "model": "glm-5.3"
+}

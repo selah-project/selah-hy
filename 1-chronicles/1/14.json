@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "և ⟨את⟩ յեբուսցուն, և ⟨את⟩ էմորացուն, և ⟨את⟩ գիրգաշցուն։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "յեբուսցուն"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "յեբուսցուն"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "էմորացուն"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "էմորացուն"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "գիրգաշցուն"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "գիրգաշցուն"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:03.161167966Z",
+  "model": "glm-5.3"
+}

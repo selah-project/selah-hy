@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ մնացորդը մսից և հացից կրակով այրեք։",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "Եվ մնացորդը"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "մսից"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "և հացից"
+    },
+    {
+      "surface": "באש",
+      "gloss": "կրակով"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "այրեք"
+    }
+  ],
+  "timestamp": "2026-09-05T19:00:06.476760074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Դուք գիտեք, որ ամբողջ ուժովս ծառայեցի ⟨את⟩ ձեր հորը։",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Դուք"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "գիտեք"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ուժովս"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "ծառայեցի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ձեր հորը"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "ձեր հորը"
+    }
+  ],
+  "timestamp": "2026-09-05T18:22:27.592153066Z",
+  "model": "glm-5.3"
+}

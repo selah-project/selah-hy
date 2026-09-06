@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Արջ է ⟨նա⟩ դարան մտած իմ դեմ, առյուծ՝ թաքստոցներում։",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "Արջ"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "դարան մտած"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨նա⟩ է"
+    },
+    {
+      "surface": "לי",
+      "gloss": "իմ դեմ"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "առյուծ"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "թաքստոցներում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:41.152810164Z",
+  "model": "glm-5.3"
+}

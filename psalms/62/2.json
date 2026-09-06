@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 62,
+  "translation": "Միայն դեպի Էլոհիմ ⟨է⟩ լռիվ իմ նեֆեշը, նրանից ⟨է⟩ իմ փրկությունը։",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "միայն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմ"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "լռիվ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "նեֆեշ իմ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "նրանից"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "փրկություն իմ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:07:11.603548353Z",
+  "model": "glm-5.3"
+}

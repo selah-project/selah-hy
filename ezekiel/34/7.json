@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 34,
+  "translation": "Այդ պատճառով, հովիվնե՛ր, լսեք ⟨את⟩ Յահվեի խոսքը։",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "այդ պատճառով"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "հովիվնե՛ր"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "լսեք"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յահվեի խոսքը"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:22:28.368137403Z",
+  "model": "glm-5.3"
+}

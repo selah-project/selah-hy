@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 29:33",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Եվ նորին հղիացավ և ծնեց որդի, և ասաց՝ քանի որ լսեց Յահվեն, որ ատված եմ ես, և ինձ տվեց նաև ⟨את⟩ այսին. և կոչեց նրա անունը Շիմոն։",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "հղիացավ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "նորին"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "լսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "ատված"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ես"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "տվեց"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "նաև"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այսին"
+    },
+    {
+      "surface": "זה",
+      "gloss": "այսին"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "կոչեց"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "նրա անունը"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Շիմոն"
+    }
+  ],
+  "timestamp": "2026-09-05T18:22:03.792387603Z",
+  "model": "glm-5.3"
+}

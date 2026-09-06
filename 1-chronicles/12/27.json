@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Լևիի որդիներից՝ չորս հազար վեց հարյուր։",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ից"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Լևիի"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "չորս"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "հազար"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "և վեց"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    }
+  ],
+  "timestamp": "2026-09-06T02:52:40.073838011Z",
+  "model": "glm-5.3"
+}

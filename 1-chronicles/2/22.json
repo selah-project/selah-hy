@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "և Սեգուբը ծնեց ⟨את⟩ Յաիրին (Յայիր), և եղավ նրան քսաքսան ու երեք քաղաք Գիլեադի երկրում։",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "և Սեգուբը"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յաիրին"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Յաիր"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "և եղավ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "քսան"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "ու երեք"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "քաղաք"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրում"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Գիլեադի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:58.458500163Z",
+  "model": "glm-5.3"
+}

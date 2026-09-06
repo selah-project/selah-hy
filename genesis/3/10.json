@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ ասաց՝ ⟨את⟩ ձայնդ լսեցի պարտեզում և վախեցա, որովհետև մերկ եմ, և թաքնվեցի։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ձայնդ"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "ձայնդ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "լսեցի"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "պարտեզում"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "վախեցա"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "մերկ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "եմ"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "թաքնվեցի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:08:30.337733248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 6:14",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Մերարիի որդիները՝ Մախլի, Լիվնի որդին, Շիմի որդին, Ուզա որդին։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Մերարիի"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Մախլի"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Լիվնի"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Շիմի"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Ուզա"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "որդին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:12.706274586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Յահվեի Հոգին խոսեց իմ մեջ, և նրա խոսքը՝ իմ լեզվի վրա։",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Հոգին"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսեց"
+    },
+    {
+      "surface": "בי",
+      "gloss": "իմ մեջ"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "և նրա խոսքը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "իմ լեզվի"
+    }
+  ],
+  "timestamp": "2026-09-05T20:42:30.571622332Z",
+  "model": "glm-5.3"
+}

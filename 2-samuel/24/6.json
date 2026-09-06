@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 24:6",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Եկան Գիլադ, և Տախտիմ-Խոդշիի երկիրը, և եկան Դան-Յաան և շուրջը՝ դեպի Ցիդոն։",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Եկան"
+    },
+    {
+      "surface": "הגלעדה",
+      "gloss": "Գիլադ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և դեպի"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "תחתים",
+      "gloss": "Տախտիմ"
+    },
+    {
+      "surface": "חדשי",
+      "gloss": "Խոդշիի"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "և եկան"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "Դան"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Յաան"
+    },
+    {
+      "surface": "וסביב",
+      "gloss": "և շուրջը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Ցիդոն"
+    }
+  ],
+  "timestamp": "2026-09-05T20:42:42.508717860Z",
+  "model": "glm-5.3"
+}

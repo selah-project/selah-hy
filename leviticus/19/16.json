@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Մի՛ քայլիր զրպարիչ քո ժողովրդի մեջ. մի՛ կանգնիր քո մերձավորի արյան վրա. ես եմ Յահվեն։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "քայլիր"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "զրպարիչ"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "քո ժողովրդի մեջ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "կանգնիր"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "דם",
+      "gloss": "արյան"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "քո մերձավորի"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:06:36.994650242Z",
+  "model": "glm-5.3"
+}

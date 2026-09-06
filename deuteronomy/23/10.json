@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Երբ դուրս գաս ճամբարից ընդդեմ քո թշնամիների, պահպանվի՛ր ամեն չար բանից։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Երբ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "դուրս գաս"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ճամբարից"
+    },
+    {
+      "surface": "על",
+      "gloss": "ընդդեմ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "քո թշնամիների"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "պահպանվի՛ր"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ամեն …ից"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "բան"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:43:35.646004040Z",
+  "model": "glm-5.3"
+}

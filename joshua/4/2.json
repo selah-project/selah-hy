@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Վերցրե՛ք ձեզ ժողովրդից տասներկու մարդ, մեկ մարդ, մեկ մարդ՝ ցեղից։",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Վերցրե՛ք"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ից"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովրդի"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "տասն"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "երկու"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մեկ մարդ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մեկ մարդ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "ցեղից"
+    }
+  ],
+  "timestamp": "2026-09-05T19:51:44.281688338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Շիմոնի որդիներից՝ խիզախ ուժեղներ զորքի համար՝ յոթ հազար ու մեկ հարյուր։",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ից"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Շիմոն"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "խիզախ ուժեղներ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ուժ"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "զորքի համար"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "հազար"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ու մեկ հարյուր"
+    }
+  ],
+  "timestamp": "2026-09-06T00:33:21.488573553Z",
+  "model": "glm-5.3"
+}

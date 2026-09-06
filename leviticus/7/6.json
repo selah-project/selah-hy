@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Ամեն արու քահանաներից կ’ուտի ⟨այն⟩. սուրբ վայրում կ’ուտվի. սուրբ սրբոց այն ⟨է⟩։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ամեն"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "արու"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "քահանաներից"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "կ’ուտի ⟨այն⟩"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "վայրում"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "սուրբ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "կ’ուտվի"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "սուրբ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "սրբոց"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "այն ⟨է⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T18:58:44.964218870Z",
+  "model": "glm-5.3"
+}

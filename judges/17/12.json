@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 17:12",
+  "book": "judges",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Եվ լցրեց Միկան ⟨את⟩ ձեռքը լևիացու, և եղավ պատանին նրա քահանան, և եղավ Միկայի տանը։",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "և լցրեց"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Միկան"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ձեռքը"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ձեռքը"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "լևիացու"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "և եղավ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրա"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "պատանին"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "քահանան"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "և եղավ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "-ում տան"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Միկայի"
+    }
+  ],
+  "timestamp": "2026-09-05T20:10:09.808160755Z",
+  "model": "glm-5.3"
+}

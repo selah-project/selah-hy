@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Գտնում է կին՝ գտնում է բարի, և ձեռք է բերում բարեհաճություն Յահվեից։",
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "Գտնում է"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "կին"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "գտնում է"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "բարի"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "և ձեռք է բերում"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "բարեհաճություն"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Յահվեից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:01.046467507Z",
+  "model": "glm-5.3"
+}

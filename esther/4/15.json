@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ ասաց Էսթերը՝ պատասխանել Մարդոքային․",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Էսթերը"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "պատասխանելու"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Մարդոքային"
+    }
+  ],
+  "timestamp": "2026-09-06T01:20:38.361738019Z",
+  "model": "glm-5.3"
+}

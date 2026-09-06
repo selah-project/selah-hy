@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 110,
+  "translation": "Ճանապարհին առվակից կխմի, հետևաբար գլուխը կբարձրացնի։",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "առվակից"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "Ճանապարհին"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "կխմի"
+    },
+    {
+      "surface": "על",
+      "gloss": "հետևաբար"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨այդ պատճառով⟩"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "կբարձրացնի"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "գլուխը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:20:42.363593514Z",
+  "model": "glm-5.3"
+}

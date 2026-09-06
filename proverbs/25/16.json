@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 25:16",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Մեղր ես գտել՝ կեր քո բավականը, որ չհագենաս դրանից և չծղկես այն։",
+  "tokens": [
+    {
+      "surface": "דבש",
+      "gloss": "մեղր"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "գտել ես"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "կեր"
+    },
+    {
+      "surface": "דיך",
+      "gloss": "քո բավականը"
+    },
+    {
+      "surface": "פן",
+      "gloss": "որ չ"
+    },
+    {
+      "surface": "תשבענו",
+      "gloss": "հագենաս դրանից"
+    },
+    {
+      "surface": "והקאתו",
+      "gloss": "ծղկես այն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:30.207877876Z",
+  "model": "glm-5.3"
+}

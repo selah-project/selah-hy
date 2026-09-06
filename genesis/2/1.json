@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ ավարտվեցին երկինքը և երկիրը և ամբողջ զորքը նրանց։",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "Եվ ավարտվեցին"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "երկինքը"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "և երկիրը"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "և ամբողջ"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "զորքը նրանց"
+    }
+  ],
+  "timestamp": "2026-09-05T18:09:15.533802872Z",
+  "model": "glm-5.3"
+}

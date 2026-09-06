@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 83,
+  "translation": "Գեբալ և Ամմոն և Ամալեք, Փղշտացիներ՝ Ցորի (Տիրոս) բնակիչների հետ։",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Գեբալ"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "և Ամմոն"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "և Ամալեք"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Փղշտացիներ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "բնակիչների"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Ցորի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:12:02.797143585Z",
+  "model": "glm-5.3"
+}

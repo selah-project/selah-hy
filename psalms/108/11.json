@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 108,
+  "translation": "Ո՞վ կբերի ինձ ամրացված քաղաք, ո՞վ կառաջնորդի ինձ մինչև Էդոմ։",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "կբերի ինձ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "քաղաք"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ամրացված"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "կառաջնորդի ինձ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Էդոմ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:19:49.742873600Z",
+  "model": "glm-5.3"
+}

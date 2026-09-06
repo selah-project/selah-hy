@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 35,
+  "translation": "Եվ իմ նեֆեշը կցնծա Յահվեով, կցնծա իր փրկությամբ։",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Եվ իմ նեֆեշը"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "կցնծա"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Յահվեով"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "կցնծա"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "իր փրկությամբ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:00:01.283779088Z",
+  "model": "glm-5.3"
+}

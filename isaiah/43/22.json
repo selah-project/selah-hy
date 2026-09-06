@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 43,
+  "translation": "Եվ ինձ չկանչեցիր, Յաակով (Հակոբ), որովհետև հոգնեցիր ինձնից, Իսրայել։",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ինձ"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "կանչեցիր"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Յաակով"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "հոգնեցիր"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ինձնից"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայել"
+    }
+  ],
+  "timestamp": "2026-09-05T21:30:00.772200244Z",
+  "model": "glm-5.3"
+}

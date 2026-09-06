@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Եթե ղեկավարի ոգին բարձրանա քո դեմ, քո տեղը մի՛ թող. որովհետև մեղմությունը հանգստացնում է մեծ մեղքերը։",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ոգին"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "ղեկավարի"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "բարձրանա"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "քո դեմ"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "քո տեղը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "թող"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "մեղմությունը"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "հանգստացնում է"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "մեղքերը"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "մեծ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:35.816879762Z",
+  "model": "glm-5.3"
+}

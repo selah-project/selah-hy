@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ ամեն սողացող թռչուն պիղծ է ձեզ համար, չպետք է ուտվեն։",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "և ամեն"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "սողացող"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "թռչուն"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "պիղծ է"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨նա⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ համար"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "կուտվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:38:36.776933896Z",
+  "model": "glm-5.3"
+}

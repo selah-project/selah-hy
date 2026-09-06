@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 30:11",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Եթե ամուսնու տանը նա ուխտ արեր, կամ երդմամբ կապեր իր նեֆեշի վրա արգելք։",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տան"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ամուսնու"
+    },
+    {
+      "surface": "נדרה",
+      "gloss": "ուխտ արեր"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "կապեր"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "արգելք"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "նեֆեշի"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "երդմամբ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:28:09.878928105Z",
+  "model": "glm-5.3"
+}

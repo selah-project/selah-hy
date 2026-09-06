@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Դադարեց ուրախությունը մեր սրտի, դարձավ սգի մեր պարը։",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Դադարեց"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "ուրախությունը"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "մեր սրտի"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "դարձավ"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "սգի"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "մեր պարը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:12.457866392Z",
+  "model": "glm-5.3"
+}

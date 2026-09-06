@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 12:34",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Յեհուդան և Բինյամինը, և Շմայահն և Իրմեյահն։",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Յեհուդան"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "և Բինյամինը"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "և Շմայահն"
+    },
+    {
+      "surface": "וירמיה",
+      "gloss": "և Իրմեյահն"
+    }
+  ],
+  "timestamp": "2026-09-06T00:25:31.879261341Z",
+  "model": "glm-5.3"
+}

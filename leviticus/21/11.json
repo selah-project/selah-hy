@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եվ ոչ մի մահացած նեֆեշի մոտ չպետք է մտնի՝ իր հոր և իր մոր համար չպետք է պղծվի։",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Եվ մոտ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ոչ մի"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "նեֆեշի"
+    },
+    {
+      "surface": "מת",
+      "gloss": "մահացած"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չպետք է"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "մտնի"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "իր հոր համար"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "և իր մոր համար"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չպետք է"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "պղծվի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:07:07.315402021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Զզվելի որևէ բան մի՛ կերեք։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "կերեք"
+    },
+    {
+      "surface": "כל",
+      "gloss": "որևէ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "զզվելի բան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:38:51.940309569Z",
+  "model": "glm-5.3"
+}

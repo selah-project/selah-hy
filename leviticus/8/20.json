@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Իսկ ⟨את⟩ խոյը կտրեց իր կտորների, և Մոշեն ծխեց ⟨את⟩ գլուխը, ⟨את⟩ կտորները և ⟨את⟩ ճարպը։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "իսկ ⟨את⟩",
+      "marks": "խոյը"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "խոյը"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "կտրեց"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "իր կտորների"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "և ծխեց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "գլուխը"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "գլուխը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "կտորները"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "կտորները"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "ճարպը"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "ճարպը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:01:23.935771580Z",
+  "model": "glm-5.3"
+}

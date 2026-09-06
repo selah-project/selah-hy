@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 89,
+  "translation": "Թշնամին չի բռնավորի նրան, և ամբարշտության որդին չի ճնշի նրան։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "բռնավորի"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "թշնամին"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "և որդին"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ամբարշտության"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "ճնշի նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T23:13:49.854932562Z",
+  "model": "glm-5.3"
+}

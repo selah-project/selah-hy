@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 91,
+  "translation": "Առյուծի և օձի վրա կտրորես, կխոնարհես առյուծի ձագին և վիշապին։",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "առյուծի"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "և օձի"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "կտրորես"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "կխոնարհես"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "առյուծի ձագին"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "և վիշապին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:14:50.992127456Z",
+  "model": "glm-5.3"
+}

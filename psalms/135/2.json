@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 135,
+  "translation": "որ կանգնում եք Յահվեի տանը, մեր Էլոհիմի տան բակերում։",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "որ կանգնում եք"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "տանը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "բակերում"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տան"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "մեր Էլոհիմի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:24:46.705751278Z",
+  "model": "glm-5.3"
+}

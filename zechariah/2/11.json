@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Հո՜, Սիո՛ն, փախի՛ր, որ բնակվում ես Բաբելոնի դստեր մոտ։",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Հո՜"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Սիոն"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "փախի՛ր"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "բնակվում ես"
+    },
+    {
+      "surface": "בת",
+      "gloss": "դստեր"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Բաբելոնի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:47:10.122694739Z",
+  "model": "glm-5.3"
+}

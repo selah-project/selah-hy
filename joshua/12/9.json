@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Երիքոյի թագավորը՝ մեկ. Հայի թագավորը, որը Բեթ-Էլի կողքին է,՝ մեկ։",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Երիքոյի"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Հայի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որը"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "կողքին"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Բեթ-Էլի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Բեթ-Էլի"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:54:46.942181392Z",
+  "model": "glm-5.3"
+}

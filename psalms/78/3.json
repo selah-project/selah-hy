@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 78,
+  "translation": "Որ լսել ենք և ճանաչել ենք, և մեր հայրերը պատմել են մեզ։",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "լսել ենք"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "և ճանաչել ենք դրանք"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "և մեր հայրերը"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "պատմել են"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "մեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:10:56.573414118Z",
+  "model": "glm-5.3"
+}

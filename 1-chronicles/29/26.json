@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Եվ Դավիդը՝ Յիշայի (Իսայի) որդին, թագավորեց ամբողջ Իսրայելի վրա։",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Եվ Դավիդը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Յիշայի (Իսայի)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավորեց"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:39:26.538719163Z",
+  "model": "glm-5.3"
+}

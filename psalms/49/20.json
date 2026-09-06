@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 49,
+  "translation": "Կհասնի իր հայրերի սերնդին, մինչև հավերժ՝ երբեք չեն տեսնի լույսը։",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "կհասնի"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "דור",
+      "gloss": "սերունդ"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "իր հայրերի"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "հավերժ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "երբեք"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "չեն տեսնի"
+    },
+    {
+      "surface": "אור",
+      "gloss": "լույս"
+    }
+  ],
+  "timestamp": "2026-09-05T23:03:49.008676756Z",
+  "model": "glm-5.3"
+}

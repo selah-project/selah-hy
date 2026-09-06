@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "և Ադայան, և Բերայան, և Շիմրաթը՝ Շիմիի որդիները։",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "և Ադայա"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "և Բերայա"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "և Շիմրաթ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Շիմիի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:51.653354703Z",
+  "model": "glm-5.3"
+}

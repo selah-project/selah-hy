@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 7:30",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Աշերի որդիները՝ Յիմնան, և Յիշվան, և Յիշվին, և Բերիան, և Սերախը՝ նրանց քույրը։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Աշերի"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "Յիմնա"
+    },
+    {
+      "surface": "וישוה",
+      "gloss": "և Յիշվա"
+    },
+    {
+      "surface": "וישוי",
+      "gloss": "և Յիշվի"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "և Բերիա"
+    },
+    {
+      "surface": "ושרח",
+      "gloss": "և Սերախ"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "նրանց քույրը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:31:09.030769954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ արեց Յահվեն ըստ Մոշեի խոսքի, և մեռան գորտերը՝ տներից, բակերից և դաշտերից։",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Եվ արեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ըստ խոսքի"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեի"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "և մեռան"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "գորտերը"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ից"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "տներից"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ից"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "բակերից"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "և -ից"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "դաշտերից"
+    }
+  ],
+  "timestamp": "2026-09-05T18:37:50.091449305Z",
+  "model": "glm-5.3"
+}

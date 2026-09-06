@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ Թամարը՝ նրա հարսը, ծնեց նրան ⟨את⟩ Պերեծին և ⟨את⟩ Զարախին։ Յեհուդայի բոլոր որդիները՝ հինգը։",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Եվ Թամարը"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "նրա հարսը"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Պերեծին"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Պերեծին"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Զարախին"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Զարախին"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Յեհուդայի"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "հինգը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:44.492340770Z",
+  "model": "glm-5.3"
+}

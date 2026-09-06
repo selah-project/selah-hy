@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 17:18",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Եվ ասաց Աբրահամը Էլոհիմին՝ երանի Յիշմաելը (Իսմայել) ապրեր քեզ առջև։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Աբրահամը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Էլոհիմին"
+    },
+    {
+      "surface": "לו",
+      "gloss": "երանի"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Յիշմաելը"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ապրեր"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "քեզ առջև"
+    }
+  ],
+  "timestamp": "2026-09-05T18:15:31.418674877Z",
+  "model": "glm-5.3"
+}

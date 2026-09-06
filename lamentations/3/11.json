@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 3:11",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Երկմտեցրեց իմ ճանապարհները և ինձ կտրատեց, դարձրեց ինձ ամայի։",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "իմ ճանապարհները"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "Երկմտեցրեց"
+    },
+    {
+      "surface": "ויפשחני",
+      "gloss": "և ինձ կտրատեց"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "դարձրեց ինձ"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ամայի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:41.152939444Z",
+  "model": "glm-5.3"
+}

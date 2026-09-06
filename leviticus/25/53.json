@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 25:53",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Վարձվածի պես՝ տարի առ տարի, ⟨կլինի⟩ նրա հետ. բռունչ չի տիրի նրան քո աչքի առջև։",
+  "tokens": [
+    {
+      "surface": "כשכיר",
+      "gloss": "վարձվածի պես"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "առ տարի"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨կլինի⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "նրա հետ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "տիրի նրան"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "բռունչ"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "քո աչքի առջև"
+    }
+  ],
+  "timestamp": "2026-09-05T19:09:40.969041907Z",
+  "model": "glm-5.3"
+}

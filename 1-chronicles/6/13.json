@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 6:13",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ Շմուելի որդիները՝ անդրանիկը Վաշնի, և Ավիյա։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Եվ որդիները"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Շմուելի"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "անդրանիկը"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "Վաշնի"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "և Ավիյա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:12.706081807Z",
+  "model": "glm-5.3"
+}

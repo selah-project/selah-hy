@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եվ խոսեց Յահվե Գադի հետ՝ Դավիդի տեսանողին, ասելով․",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Եվ խոսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אל",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Գադ"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "տեսանող"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Դավիդի"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-06T00:36:22.839748693Z",
+  "model": "glm-5.3"
+}

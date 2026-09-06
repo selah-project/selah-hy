@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "որովհետև ասել եք՝ Յահվեն մեզ համար մարգարեներ հարեց Բաբելոնում։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "ասել եք"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "հարեց"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "մեզ համար"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "մարգարեներ"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Բաբելոնում"
+    }
+  ],
+  "timestamp": "2026-09-05T21:54:33.877645228Z",
+  "model": "glm-5.3"
+}

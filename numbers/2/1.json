@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ խոսեց Յահվե Մոշեի հետ և Ահարոնի հետ՝ ասելով՝",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "և խոսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אל",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշե"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և հետ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ահարոն"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով՝"
+    }
+  ],
+  "timestamp": "2026-09-05T19:11:53.205616487Z",
+  "model": "glm-5.3"
+}

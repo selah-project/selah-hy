@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 6:11",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Ի՞նչ է իմ ուժը, որ սպասեմ, և ի՞նչ է իմ վերջը, որ երկարեմ իմ նեֆեշը։",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "իմ ուժը"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "սպասեմ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "և ի՞նչ"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "իմ վերջը"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "երկարեմ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "իմ նեֆեշը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:40:27.598070574Z",
+  "model": "glm-5.3"
+}

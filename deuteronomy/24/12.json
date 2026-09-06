@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Եվ եթե նա աղքատ մարդ է, մի պառկիր նրա գրավի վրա։",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Եվ եթե"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "աղքատ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա է"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "պառկիր"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "նրա գրավի վրա"
+    }
+  ],
+  "timestamp": "2026-09-05T19:43:52.089926928Z",
+  "model": "glm-5.3"
+}

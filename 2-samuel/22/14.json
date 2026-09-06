@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 22:14",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Որոտացրեց երկնքից Յահվեն, և Էլյոնը տվեց իր ձայնը։",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "Որոտացրեց"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—ից"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "երկնք"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "և Էլյոնը"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "տվեց"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "իր ձայնը"
+    }
+  ],
+  "timestamp": "2026-09-05T20:41:50.252574792Z",
+  "model": "glm-5.3"
+}

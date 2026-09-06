@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 18:13",
+  "book": "judges",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Եվ անցան այնտեղից Եփրայիմի լեռը, և եկան մինչև Միքայի տունը։",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "և անցան"
+    },
+    {
+      "surface": "משם",
+      "gloss": "այնտեղից"
+    },
+    {
+      "surface": "הר",
+      "gloss": "լեռը"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Եփրայիմի"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "և եկան"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տունը"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Միքայի"
+    }
+  ],
+  "timestamp": "2026-09-05T20:11:45.528249897Z",
+  "model": "glm-5.3"
+}

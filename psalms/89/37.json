@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 89:37",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 89,
+  "translation": "Նրա սերմը հավետ կլինի, և նրա գահը՝ արևի պես իմ առջև։",
+  "tokens": [
+    {
+      "surface": "זרעו",
+      "gloss": "Նրա սերմը"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "հավետ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "կլինի"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "և նրա գահը"
+    },
+    {
+      "surface": "כשמש",
+      "gloss": "արևի պես"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "իմ առջև"
+    }
+  ],
+  "timestamp": "2026-09-05T23:12:37.090282508Z",
+  "model": "glm-5.3"
+}

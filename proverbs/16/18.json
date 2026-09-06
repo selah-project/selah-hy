@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Կործանման առաջ ⟨գալիս է⟩ գոռոզություն, և գլորման առաջ՝ բարձր ոգի։",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "առաջ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "կործանման"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "գոռոզություն"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "և առաջ"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "գլորման"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "բարձր"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ոգի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:33:22.902558441Z",
+  "model": "glm-5.3"
+}

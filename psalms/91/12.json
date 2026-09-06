@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 91,
+  "translation": "Ձեռքերի վրա կրել են քեզ, որպեսզի քարին քո ոտքը չհարվածես։",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ձեռքերի"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "կրել են քեզ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "որպեսզի չ"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "հարվածես"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "քարին"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "քո ոտքը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:14:32.069124888Z",
+  "model": "glm-5.3"
+}

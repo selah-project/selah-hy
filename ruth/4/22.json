@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "և Օբեդը ծնեց ⟨את⟩ Յիշային, և Յիշայը ծնեց ⟨את⟩ Դավիթին։",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "և Օբեդը"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յիշային"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Յիշային"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "և Յիշայը"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Դավիթին"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Դավիթին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:54:14.912387381Z",
+  "model": "glm-5.3"
+}

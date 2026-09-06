@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 15:35",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Յարմուտը, և Ադուլամը, Սոխոն, և Ազեքան։",
+  "tokens": [
+    {
+      "surface": "ירמות",
+      "gloss": "Յարմուտը"
+    },
+    {
+      "surface": "ועדלם",
+      "gloss": "և Ադուլամը"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Սոխոն"
+    },
+    {
+      "surface": "ועזקה",
+      "gloss": "և Ազեքան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:57:04.353826369Z",
+  "model": "glm-5.3"
+}

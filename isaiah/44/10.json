@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 44,
+  "translation": "Ո՞վ է ձևել աստված և կուռք ձուլել՝ որ ո՛չ մի օգուտ չտա։",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ո՞վ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ձևել"
+    },
+    {
+      "surface": "אל",
+      "gloss": "աստված"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "և կուռք"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "ձուլել"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "որպեսզի ոչ"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "օգտի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:32:01.569929236Z",
+  "model": "glm-5.3"
+}

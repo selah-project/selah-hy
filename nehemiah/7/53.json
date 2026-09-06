@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "nehemiah 7:53",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Բաքբուքի որդիները, Խաքուֆայի որդիները, Խարխուրի որդիները։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "Բաքբուքի"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "Խաքուֆայի"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "Խարխուրի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:47.463358183Z",
+  "model": "glm-5.3"
+}

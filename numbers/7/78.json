@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Տասներկուերորդ օրը՝ Նապթալիի որդիների նահապետ Ախիրան՝ Էնանի որդին։",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "երկու"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "տասն"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "նահապետ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Նապթալիի"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "Ախիրա"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Էնանի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:16:22.037677898Z",
+  "model": "glm-5.3"
+}

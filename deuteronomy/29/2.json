@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 29:2",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "մեծ փորձությունները, որ տեսան քո աչքերը՝ այն նշաններն ու այն մեծ հրաշքները։",
+  "tokens": [
+    {
+      "surface": "המסות",
+      "gloss": "փորձությունները"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "տեսան"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "քո աչքերը"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "նշանները"
+    },
+    {
+      "surface": "והמפתים",
+      "gloss": "և հրաշքները"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "այն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:46:54.779003739Z",
+  "model": "glm-5.3"
+}

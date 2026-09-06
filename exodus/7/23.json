@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ շրջվեց Պարաոհը և գնաց իր տունը, և իր սիրտը չդրեց նույնիսկ դրան։",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "և շրջվեց"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Պարաոհը"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "և մտավ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "իր տունը"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "դրեց"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "իր սիրտը"
+    },
+    {
+      "surface": "גם",
+      "gloss": "նույնիսկ"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "դրան"
+    }
+  ],
+  "timestamp": "2026-09-05T18:35:39.341382192Z",
+  "model": "glm-5.3"
+}

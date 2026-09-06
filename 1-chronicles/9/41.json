@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Միքայի որդիները՝ Պիթոնը, Մելեքը և Թախրեան։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Միքայի"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "Պիթոնը"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "և Մելեքը"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "և Թախրեան"
+    }
+  ],
+  "timestamp": "2026-09-06T02:52:17.021514367Z",
+  "model": "glm-5.3"
+}

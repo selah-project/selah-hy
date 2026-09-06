@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 146,
+  "translation": "Փառաբանեք Յահ։ Փառաբանի՛ր, իմ Նեֆեշ, ⟨את⟩ Յահվեին։",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Փառաբանեք"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Յահ"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "Փառաբանի՛ր"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "իմ Նեֆեշ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յահվեին"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:27:19.469555931Z",
+  "model": "glm-5.3"
+}

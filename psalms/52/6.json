@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 52,
+  "translation": "Սիրել ես ամեն կլլվող խոսք, խաբեության լեզու։",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Սիրել ես"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "խոսք"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "կլլվող"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "լեզու"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "խաբեության"
+    }
+  ],
+  "timestamp": "2026-09-05T23:05:24.235785995Z",
+  "model": "glm-5.3"
+}

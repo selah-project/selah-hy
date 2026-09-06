@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 42,
+  "translation": "Եվ նրանք չգիտեին, որ Յոսեֆը լսում է, որ թարգմանիչը նրանց միջև էր։",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Եվ նրանք"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "գիտեին"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "լսում է"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Յոսեֆը"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "թարգմանիչը"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "նրանց միջև"
+    }
+  ],
+  "timestamp": "2026-09-05T18:29:23.199414374Z",
+  "model": "glm-5.3"
+}

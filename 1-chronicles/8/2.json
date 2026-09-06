@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Նոխաան՝ չորրորդ, և Ռաֆաան՝ հինգերորդ։",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "Նոխաան"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "չորրորդ"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "և Ռաֆաան"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "հինգերորդ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:40.607188898Z",
+  "model": "glm-5.3"
+}

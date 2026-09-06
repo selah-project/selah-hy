@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ ասաց Ախազը. «Չեմ խնդրի և չեմ փորձի ⟨את⟩ Յահվեին»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ախազը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Չեմ"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "խնդրի"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չեմ"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "փորձի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յահվեին"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեին"
+    }
+  ],
+  "timestamp": "2026-09-05T21:14:33.493656599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Այսպես ասաց Յահվե Ծեվաոթ. դեռ երբ գան ժողովուրդներ, և բազմաթիվ քաղաքների բնակիչներ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Այսպես"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ծեվաոթ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "դեռ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "գան"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ժողովուրդներ"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "և բնակիչներ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "քաղաքների"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "բազմաթիվ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:48:36.743520573Z",
+  "model": "glm-5.3"
+}

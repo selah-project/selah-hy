@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 26:10",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Շրջագիծ գծեց ջրերի երեսի վրա՝ մինչև լույսի սահմանը խավարի հետ։",
+  "tokens": [
+    {
+      "surface": "חק",
+      "gloss": "սահման"
+    },
+    {
+      "surface": "חג",
+      "gloss": "շրջագծեց"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "פני",
+      "gloss": "երեսի"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջրերի"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "սահմանը"
+    },
+    {
+      "surface": "אור",
+      "gloss": "լույսի"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "խավարի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:46:32.361562977Z",
+  "model": "glm-5.3"
+}

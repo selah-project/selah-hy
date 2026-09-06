@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 10:7",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Դանիել, Գինետոն, Բարուխ։",
+  "tokens": [
+    {
+      "surface": "דניאל",
+      "gloss": "Դանիել"
+    },
+    {
+      "surface": "גנתון",
+      "gloss": "Գինետոն"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Բարուխ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:42.996621228Z",
+  "model": "glm-5.3"
+}

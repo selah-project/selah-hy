@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 9:4",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Ութայ՝ Ամմիհուդի որդին, Օմրիի որդին, Իմրիի որդին, Բանիի որդին՝ Պերեծի որդիներից, Յեհուդայի որդին։",
+  "tokens": [
+    {
+      "surface": "עותי",
+      "gloss": "Ութայ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Ամմիհուդի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Օմրիի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Իմրիի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Բանիի"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիներից"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Պերեծի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Յեհուդայի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:32:34.525205691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ ասացին ծառերը թզենուն. արի՛ դու, թագավորիր մեզ վրա։",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Եվ ասացին"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ծառերը"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "թզենուն"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "արի՛"
+    },
+    {
+      "surface": "את",
+      "gloss": "դու"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "թագավորիր"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "մեզ վրա"
+    }
+  ],
+  "timestamp": "2026-09-05T20:05:49.850496913Z",
+  "model": "glm-5.3"
+}

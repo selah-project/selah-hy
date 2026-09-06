@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Հսկի՛ր քեզ, թե չէ մոռանաս ⟨את⟩ Յահվեին, որ հանեց քեզ Միցրայիմի երկրից՝ ծառայության տնից։",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Հսկի՛ր"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "թե չէ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "մոռանաս"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յահվեին"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "հանեց քեզ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "երկրից"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Միցրայիմի"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "տնից"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ծառայության"
+    }
+  ],
+  "timestamp": "2026-09-05T19:34:47.980442761Z",
+  "model": "glm-5.3"
+}

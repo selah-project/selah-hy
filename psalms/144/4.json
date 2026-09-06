@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 144,
+  "translation": "Մարդը ոչնչի է նման, նրա օրերը՝ իբրև անցնող ստվեր։",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Մարդը"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "ոչնչի (ծխի)"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "նման է"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "նրա օրերը"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "իբրև ստվեր"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "անցնող"
+    }
+  ],
+  "timestamp": "2026-09-05T23:26:39.119017993Z",
+  "model": "glm-5.3"
+}

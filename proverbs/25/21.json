@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Եթե սոված է քեզ ատողը՝ հաց կերացրու նրան, և եթե ծարավ է՝ ջուր խմեցրու նրան։",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "սոված"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "քեզ ատողը"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "կերացրու նրան"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "հաց"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "և եթե"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "ծարավ"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "խմեցրու նրան"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջուր"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:58.078483683Z",
+  "model": "glm-5.3"
+}

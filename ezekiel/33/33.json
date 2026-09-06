@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezekiel 33:33",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 33,
+  "translation": "Երբ այն գա՝ ահա, գալիս է, և իմանալու են, որ նավի եղել է նրանց մեջ։",
+  "tokens": [
+    {
+      "surface": "ובבאה",
+      "gloss": "երբ գա այն"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "באה",
+      "gloss": "գալիս է"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "և իմանալու են"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "նավի"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղել է"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "նրանց մեջ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:21:13.532291389Z",
+  "model": "glm-5.3"
+}

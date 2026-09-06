@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 4:25",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Շալլումը՝ նրա որդին, Միվսամը՝ նրա որդին, Միշման՝ նրա որդին։",
+  "tokens": [
+    {
+      "surface": "שלם",
+      "gloss": "Շալլումը"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    },
+    {
+      "surface": "מבשם",
+      "gloss": "Միվսամը"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "Միշման"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:10.815785756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Աղբ ու դուրս նետված լկտիք ես դրել մեզ ժողովուրդների մեջ։",
+  "tokens": [
+    {
+      "surface": "סחי",
+      "gloss": "աղբ"
+    },
+    {
+      "surface": "ומאוס",
+      "gloss": "ու դուրս նետված լկտիք"
+    },
+    {
+      "surface": "תשימנו",
+      "gloss": "ես դրել մեզ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "մեջ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ժողովուրդների"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:47.538052075Z",
+  "model": "glm-5.3"
+}

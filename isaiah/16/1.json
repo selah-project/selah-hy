@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Ուղարկեք խոյ երկրի իշխանի, Սելայից դեպի անապատ, դեպի դստր Ցիոնի լեռը։",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Ուղարկեք"
+    },
+    {
+      "surface": "כר",
+      "gloss": "խոյ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "իշխան"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "Սելայից"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "դեպի անապատ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "הר",
+      "gloss": "լեռը"
+    },
+    {
+      "surface": "בת",
+      "gloss": "դստր"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ցիոնի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:20:17.389175818Z",
+  "model": "glm-5.3"
+}

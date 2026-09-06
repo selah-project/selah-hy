@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 6:25",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Յահվե դարձնի իր դեմքը դեպի քեզ և ողորմի քեզ։",
+  "tokens": [
+    {
+      "surface": "יאר",
+      "gloss": "դարձնի լուսավոր իր դեմքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "իր դեմքը"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "դեպի քեզ"
+    },
+    {
+      "surface": "ויחנך",
+      "gloss": "և ողորմի քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:14:07.239228781Z",
+  "model": "glm-5.3"
+}

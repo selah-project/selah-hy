@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Դողացե՛ք նրա երեսից՝ ամբողջ երկիրը, այո՛, հաստատված է տիեզերքը, երբեք չի շարժվի։",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "Դողացեք"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "նրա երեսից"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "אף",
+      "gloss": "այո՛"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "հաստատված է"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "տիեզերքը"
+    },
+    {
+      "surface": "בל",
+      "gloss": "երբեք չի"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "շարժվի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:34:40.055433428Z",
+  "model": "glm-5.3"
+}

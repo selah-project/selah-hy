@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 21:19",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Լավ է նստել անապատի երկրում, քան կնոջ՝ վիճող և բարկացած հետ։",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "լավ է"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "նստել"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրում"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "անապատի"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "քան կնոջ"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "վիճող"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "և բարկացած"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:46.512082679Z",
+  "model": "glm-5.3"
+}

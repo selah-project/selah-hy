@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Մի՛ փորձեք ⟨את⟩ Յահվեին՝ ձեր Էլոհիմին, ինչպես փորձեցիք Մասայում։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "փորձեք"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յահվե"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ձեր Էլոհիմը"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ինչպես"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "փորձեցիք"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "Մասայում"
+    }
+  ],
+  "timestamp": "2026-09-05T19:33:59.599267076Z",
+  "model": "glm-5.3"
+}

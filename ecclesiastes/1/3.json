@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Ի՞նչ շահ ունի մարդն ամեն իր ջանքից, որով ջանում է արևի տակ։",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ի՞նչ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "շահ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "մարդը"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "իր ջանքից"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "որով ջանում է"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "արևի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:53.268404919Z",
+  "model": "glm-5.3"
+}

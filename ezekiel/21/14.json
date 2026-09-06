@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 21:14",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Մարդու որդի՛, մարգարեացի՛ր և ասա՝ այսպես ասաց Ադոնայ․ ասա՝ թուր, թուր՝ սրված է և նաև հղկված։",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "մարգարեացիր"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "և ասա"
+    },
+    {
+      "surface": "כה",
+      "gloss": "այսպես"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասա"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "թուր"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "թուր"
+    },
+    {
+      "surface": "הוחדה",
+      "gloss": "սրված է"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "և նաև"
+    },
+    {
+      "surface": "מרוטה",
+      "gloss": "հղկված"
+    }
+  ],
+  "timestamp": "2026-09-05T22:15:45.748408481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Իսկ եթե ճշմարիտ է եղել այս խոսքը, որ կուսության նշաններ չեն գտնվել աղջկա համար՝",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Իսկ եթե"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ճշմարիտ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "է եղել"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "չեն գտնվել"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "կուսության նշաններ"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "աղջկա համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:43:14.878112791Z",
+  "model": "glm-5.3"
+}

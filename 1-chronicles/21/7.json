@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եվ չար եղավ Էլոհիմի աչքերում այս խոսքի պատճառով, և հարվածեց ⟨את⟩ Իսրայելին։",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "և չար եղավ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "աչքերում"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Էլոհիմի"
+    },
+    {
+      "surface": "על",
+      "gloss": "պատճառով"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "խոսքի"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "և հարվածեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Իսրայելին"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:35:47.559459024Z",
+  "model": "glm-5.3"
+}

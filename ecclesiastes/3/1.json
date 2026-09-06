@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Ամեն ինչի՝ ժամանակ, և պահ՝ երկնքի տակ ամեն ցանկության։",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "ամեն ինչի"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "ժամանակ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "և պահ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ցանկության"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "երկնքի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:53.231637398Z",
+  "model": "glm-5.3"
+}

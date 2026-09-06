@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ կվերցնի քահանան՝ օծյալը՝ ցլի արյունից, և կմտցնի ⟨את⟩ այն հանդիպման վրան։",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "կվերցնի"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "քահանան"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "օծյալը"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "արյունից"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ցլի"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "կմտցնի"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "այն (արյունը)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "վրան"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "հանդիպման"
+    }
+  ],
+  "timestamp": "2026-09-05T18:58:31.222420508Z",
+  "model": "glm-5.3"
+}

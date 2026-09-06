@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 77,
+  "translation": "Երգչապետին՝ ըստ Յեդուտունի (Յեդուտուն), Ասաֆի (Ասափ) սաղմոս։",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Երգչապետին"
+    },
+    {
+      "surface": "על",
+      "gloss": "ըստ"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Յեդուտունի"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Ասաֆի"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "սաղմոս"
+    }
+  ],
+  "timestamp": "2026-09-05T23:10:33.854709073Z",
+  "model": "glm-5.3"
+}

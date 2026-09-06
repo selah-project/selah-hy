@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 12:21",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Խիլկիայի՝ Խաշավյա, Յեդայայի՝ Նետանել։",
+  "tokens": [
+    {
+      "surface": "לחלקיה",
+      "gloss": "Խիլկիայի"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Խաշավյա"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "Յեդայայի"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Նետանել"
+    }
+  ],
+  "timestamp": "2026-09-06T00:26:03.777628484Z",
+  "model": "glm-5.3"
+}

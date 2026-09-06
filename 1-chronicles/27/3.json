@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Պերեցի որդիներից. բոլոր զորքերի իշխանների գլուխը՝ առաջին ամսվա համար։",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ից"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիներից"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Պերեցի"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "գլուխը"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "իշխանների"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "զորքերի"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ամսվա համար"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "առաջին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:39:04.214220401Z",
+  "model": "glm-5.3"
+}

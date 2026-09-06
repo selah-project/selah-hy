@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "և ⟨את⟩ խորիմներին՝ իրենց լեռան՝ Սեիրի վրա, մինչև Էլ Փարան, որ ⟨է⟩ անապատի մոտ։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "խորիմներին"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "խորիմներին"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "իրենց լեռան"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Սեիր"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "איל",
+      "gloss": "Էլ"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Փարան"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "על",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "անապատի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:13:16.760165890Z",
+  "model": "glm-5.3"
+}

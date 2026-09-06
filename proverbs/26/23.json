@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Արծաթի խարամ՝ պատած խեցեղենի վրա, շրթունքներ բոցավառ և սիրտ չար։",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "Արծաթի"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "խարամ"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "պատած"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "խեցեղենի"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "շրթունքներ"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "բոցավառ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "և սիրտ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չար"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:59.669358168Z",
+  "model": "glm-5.3"
+}

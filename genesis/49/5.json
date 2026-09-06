@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 49,
+  "translation": "Շիմոն և Լևի՝ եղբայրներ. բռնության գործիքներ են նրանց սրերը։",
+  "tokens": [
+    {
+      "surface": "שמעון",
+      "gloss": "Շիմոն"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "և Լևի"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "եղբայրներ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "գործիքներ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "բռնության"
+    },
+    {
+      "surface": "מכרתיהם",
+      "gloss": "նրանց սրերը"
+    }
+  ],
+  "timestamp": "2026-09-06T01:02:37.668564634Z",
+  "model": "glm-5.3"
+}

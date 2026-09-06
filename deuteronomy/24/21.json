@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Երբ հավաքես քո այգին, քո ետևից ոչ պարզես՝ օտարի, որբի և այրու համար թող լինի։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Երբ"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "հավաքես"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "քո այգին"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "պարզես"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "քո ետևից"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "օտարի համար"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "որբի համար"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "և այրու համար"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "թող լինի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:43:19.762363844Z",
+  "model": "glm-5.3"
+}

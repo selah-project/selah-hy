@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 5:25",
+  "book": "judges",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Ջուր խնդրեց՝ կաթ տվեց նրան, փառահեղ ամանով մոտեցրեց խմեր։",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ջուր"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "խնդրեց"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "կաթ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "տվեց"
+    },
+    {
+      "surface": "בספל",
+      "gloss": "ամանով"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "փառահեղ"
+    },
+    {
+      "surface": "הקריבה",
+      "gloss": "մոտեցրեց"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "խմեր"
+    }
+  ],
+  "timestamp": "2026-09-05T20:03:30.306103445Z",
+  "model": "glm-5.3"
+}

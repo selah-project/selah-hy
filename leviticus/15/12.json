@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 15:12",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Եվ կավե անոթը, որին հպվի զավ-ը, կջարդվի, իսկ ամեն փայտե անոթ կլվացվի ջրով։",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "Եվ անոթը"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "կավե"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որին"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "հպվի"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "զավ-ը"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "կջարդվի"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "իսկ ամեն"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "անոթ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "փայտե"
+    },
+    {
+      "surface": "ישטף",
+      "gloss": "կլվացվի"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ջրով"
+    }
+  ],
+  "timestamp": "2026-09-06T01:30:54.379806935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 15:1",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Եվ խոսեց Յահվեն Մոշեի (Մովսես) հետ և Ահարոնի հետ՝ ասելով․",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Եվ խոսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեի (Մովսես)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և Ահարոնի հետ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ահարոնի"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T19:03:31.810864454Z",
+  "model": "glm-5.3"
+}

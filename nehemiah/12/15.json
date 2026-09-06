@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Խարիմի՝ Ադնա, Մերայոթի՝ Խելքայ։",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "Խարիմի՝"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "Ադնա"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "Մերայոթի՝"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "Խելքայ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:25:14.239713817Z",
+  "model": "glm-5.3"
+}

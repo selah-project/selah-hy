@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 14:23",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եթե թելից մինչև կոշիկի կապանք և եթե վերցնեմ ամեն ինչից, որ քոնն է, և ոչ ասես՝ ես հարստացրել եմ ⟨את⟩ Աբրամին։",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "מחוט",
+      "gloss": "թելից"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "կապանք"
+    },
+    {
+      "surface": "נעל",
+      "gloss": "կոշիկի"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "և եթե"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "վերցնեմ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ամեն ինչից"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քո"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ասես"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "העשרתי",
+      "gloss": "հարստացրել եմ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Աբրամին"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Աբրամ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:13:45.880156996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Մաքուր սիրտ սիրողի՝ շուրթերի շնորհք. նրա ընկերը թագավորն ⟨է⟩։",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "սիրողի"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "Մաքուր"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սիրտ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "շնորհք"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "շուրթերի"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "նրա ընկերը"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավորն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:29.816292440Z",
+  "model": "glm-5.3"
+}

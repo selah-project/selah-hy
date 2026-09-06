@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Իսկ նրանք դեռ չէին պառկել, և նա բարձրացավ նրանց մոտ՝ տանիքի վրա.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "Իսկ նրանք"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "դեռ չ"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "էին պառկել"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "և նա"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "բարձրացավ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "նրանց մոտ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "տանիքի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:50:16.731139960Z",
+  "model": "glm-5.3"
+}

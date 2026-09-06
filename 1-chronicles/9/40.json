@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "և Յեհոնատանի որդին՝ Մերիվ Բաալը, և Մերիվ Բաալը ծնեց ⟨את⟩ Միքային։",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "և որդին"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Յեհոնատանի"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Մերիվ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Բաալ"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "և Մերիվ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Բաալը"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Միքային"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Միքա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:31:44.588737032Z",
+  "model": "glm-5.3"
+}

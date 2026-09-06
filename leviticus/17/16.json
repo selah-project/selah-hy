@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Եթե չլվա ⟨դրանք⟩ և իր մարմինը չլվա, կկրի իր ապականությունը։",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "լվա"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "և իր մարմինը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "լվա"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "կկրի"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "իր ապականությունը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:05:36.196077988Z",
+  "model": "glm-5.3"
+}

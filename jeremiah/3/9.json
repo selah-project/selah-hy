@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ եղավ ձայնից իր պոռնկության, որ պղծեց ⟨את⟩ երկիրը, և շնաց ⟨את⟩ քարի հետ և ⟨את⟩ ծառի հետ։",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "ձայնից"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "իր պոռնկության"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "պղծեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "երկիրը"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "և շնաց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "քարի"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "քարի"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "ծառի"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ծառի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:39:59.719083474Z",
+  "model": "glm-5.3"
+}

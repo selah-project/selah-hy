@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Ղեկավարին։ Դավթի մաղթանք։",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ղեկավարին"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "մաղթանք"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Դավթի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:54:40.572148678Z",
+  "model": "glm-5.3"
+}

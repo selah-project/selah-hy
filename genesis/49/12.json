@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 49,
+  "translation": "Մուգ են փայլում աչքները գինուց, և սպիտակ՝ ատամները կաթից։",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "մուգ փայլում են"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "աչքները"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "գինուց"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "և սպիտակ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ատամները"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "կաթից"
+    }
+  ],
+  "timestamp": "2026-09-05T18:33:11.032845380Z",
+  "model": "glm-5.3"
+}

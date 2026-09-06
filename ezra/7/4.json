@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "որդի Զերախյայի, որդի Ուզզիի, որդի Բուկկիի։",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Զերախյայի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Ուզզիի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Բուկկիի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:17:58.899659846Z",
+  "model": "glm-5.3"
+}

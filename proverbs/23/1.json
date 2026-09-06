@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Երբ նստում ես ուտելու ⟨את⟩ իշխանի հետ, խորապես հասկացի՛ր ⟨את⟩ այն, ինչ առջևդ է։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Երբ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "նստում ես"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "ուտելու"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "իշխանի"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "իշխանի"
+    },
+    {
+      "surface": "בין",
+      "gloss": "խորապես"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "հասկացիր"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այն, ինչ առջևդ է"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "այն, ինչ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "առջևդ է"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:09.655078885Z",
+  "model": "glm-5.3"
+}

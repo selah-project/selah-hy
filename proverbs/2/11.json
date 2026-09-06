@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Խոհը կպահի քեզ, հասկացողությունը կպաշտպանի քեզ։",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "Խոհը"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "կպահի"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "հասկացողությունը"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "կպաշտպանի քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:11.591472289Z",
+  "model": "glm-5.3"
+}

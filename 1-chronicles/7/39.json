@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ Ուլայի որդիները՝ Արախ, և Խանիել, և Ռիցյա։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "Ուլայի"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Արախ"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "և Խանիել"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "և Ռիցյա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:37.657848402Z",
+  "model": "glm-5.3"
+}

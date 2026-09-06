@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 43,
+  "translation": "Ժողովուրդ՝ այս ես կերտեցի ինձ համար, իմ գովասանքը կպատմեն։",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ժողովուրդ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "այս"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "կերտեցի"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ համար"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "գովասանքս"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "կպատմեն"
+    }
+  ],
+  "timestamp": "2026-09-05T21:30:00.771936850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 38:22",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 38,
+  "translation": "Եվ ասաց Խիզկիյահուն. «Ի՞չ նշան, որ ես կբարձրանամ Յահվեի տուն»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Խիզկիյահուն"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞չ"
+    },
+    {
+      "surface": "אות",
+      "gloss": "նշան"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "կբարձրանամ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տուն"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:26:18.724467935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 3:33",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "ԼՄերարիի՝ Մախլիի տոհմը և Մուշիի տոհմը. սրանք են Մերարիի տոհմերը։",
+  "tokens": [
+    {
+      "surface": "למררי",
+      "gloss": "ԼՄերարիի"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "տոհմը"
+    },
+    {
+      "surface": "המחלי",
+      "gloss": "Մախլիի"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "և տոհմը"
+    },
+    {
+      "surface": "המושי",
+      "gloss": "Մուշիի"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "սրանք"
+    },
+    {
+      "surface": "הם",
+      "gloss": "են"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "տոհմերը"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Մերարիի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:12:35.329947671Z",
+  "model": "glm-5.3"
+}

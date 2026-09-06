@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Եվ խոտ կտամ քո դաշտում քո անասունների համար, և կուտես ու կհագենաս։",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Եվ կտամ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "խոտ"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "քո դաշտում"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "քո անասունների համար"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "և կուտես"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "կհագենաս"
+    }
+  ],
+  "timestamp": "2026-09-05T19:36:46.730832355Z",
+  "model": "glm-5.3"
+}

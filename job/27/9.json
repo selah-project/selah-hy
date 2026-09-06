@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 27:9",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Արդյոք Էլը կլսի նրա աղաղակը, երբ նրա վրա նեղություն գա՞",
+  "tokens": [
+    {
+      "surface": "הצעקתו",
+      "gloss": "նրա աղաղակը"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "կլսի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլը"
+    },
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "գա"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "նրա վրա"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "նեղություն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:46:35.289501755Z",
+  "model": "glm-5.3"
+}

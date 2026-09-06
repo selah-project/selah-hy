@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "և կապող-ամրաններ, և ով հարցնում է ոգուն և ծանոթ ոգուն, և ով դիմում է մեռելներին։",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "և կապող"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "կապ-ամրան"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "և հարցնող"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "ոգուն"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "և ծանոթ ոգին"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "և դիմող"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "մեռելներին"
+    }
+  ],
+  "timestamp": "2026-09-05T19:41:11.065178884Z",
+  "model": "glm-5.3"
+}

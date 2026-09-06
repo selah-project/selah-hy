@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "քանի որ Յահվեի ձայնից կկոտրվի Աշշուրը՝ մահակով կհարվածվի։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "ձայնից"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "կկոտրվի"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Աշշուրը"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "մահակով"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "կհարվածվի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:25:05.030356947Z",
+  "model": "glm-5.3"
+}

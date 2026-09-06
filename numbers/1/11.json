@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Բինյամինի՝ Ավիդանը, Գիդոնիի որդին։",
+  "tokens": [
+    {
+      "surface": "לבנימן",
+      "gloss": "Բինյամինի"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "Ավիդանը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "Գիդոնիի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:10:41.855473298Z",
+  "model": "glm-5.3"
+}

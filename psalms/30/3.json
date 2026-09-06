@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Յահվե, Էլոհիմ իմ, գոչեցի դեպի քեզ, և դու բժշկեցիր ինձ։",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Էլոհիմ իմ"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "գոչեցի"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "դեպի քեզ"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "և բժշկեցիր ինձ"
+    }
+  ],
+  "timestamp": "2026-09-06T01:15:48.709408374Z",
+  "model": "glm-5.3"
+}

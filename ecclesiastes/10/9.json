@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Քարեր տեղաշարժողը դրանցով կվիրավորվի, և ծառեր պառակտողը դրանցից կվտանգվի։",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "տեղաշարժող"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "քարեր"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "կվիրավորվի"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "դրանցով"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "պառակտող"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ծառեր"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "կվտանգվի"
+    },
+    {
+      "surface": "בם",
+      "gloss": "դրանցից"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:55.862991515Z",
+  "model": "glm-5.3"
+}

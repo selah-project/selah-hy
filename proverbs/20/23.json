@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 20:23",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Զզվելի բան է Յահվեի համար քար և քար, և խաբեության կշեռքները լավ չեն։",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "զզվելի բան"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "քար"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "և քար"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "և կշեռքներ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "խաբեության"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "լավ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:09.749464961Z",
+  "model": "glm-5.3"
+}

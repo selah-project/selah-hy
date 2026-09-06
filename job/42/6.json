@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 42,
+  "translation": "Այդ պատճառով զզվում եմ ⟨ինձ⟩ և զղջում եմ փոշու և մոխրի վրա։",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "պատճառով"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "զզվում եմ"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "և զղջում եմ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "փոշու"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "և մոխրի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:54:06.258619220Z",
+  "model": "glm-5.3"
+}

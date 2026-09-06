@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Այսպես ասաց Ադոնայ Յահվեն՝ ոչ թե կանգնի, և ոչ թե կլինի։",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Այսպես"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ թե"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "կանգնի"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ թե"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "կլինի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:14:41.167523536Z",
+  "model": "glm-5.3"
+}

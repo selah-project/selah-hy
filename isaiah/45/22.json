@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 45:22",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 45,
+  "translation": "Դարձեք դեպի ինձ և փրկվեք, երկրի ծայրերի բոլոր ⟨մարդիկ⟩, քանի որ ես Էլ եմ և ուրիշ չկա։",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "դարձեք"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "դեպի ինձ"
+    },
+    {
+      "surface": "והושעו",
+      "gloss": "և փրկվեք"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ծայրերի"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "և չկա"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ուրիշ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:32:16.101918061Z",
+  "model": "glm-5.3"
+}

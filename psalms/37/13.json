@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 37,
+  "translation": "Ադոնայ կծիծաղի նրան, որովհետև տեսել է, որ գալիս է նրա օրը։",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "կծիծաղի"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "տեսել է"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "գալիս է"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "նրա օրը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:01:06.234118199Z",
+  "model": "glm-5.3"
+}

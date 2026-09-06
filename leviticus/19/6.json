@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Ձեր զոհի օրը պետք է ուտվի, և հաջորդ օրը, իսկ մինչև երրորդ օր մնացածը կրակով այրվի։",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "ձեր զոհի"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ուտվի"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "և հաջորդ օրը"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "իսկ մնացածը"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "երրորդ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "կրակով"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "այրվի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:05:41.702804592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Բեռը՝ Նինվեի․ տեսիլքի գիրքը՝ Նախում Էլքեշցու (Նաքում էլքեշցի)։",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Բեռը"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Նինվեի"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "գիրքը"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "տեսիլքի"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "Նախում"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "Էլքեշցու"
+    }
+  ],
+  "timestamp": "2026-09-05T22:43:46.608313219Z",
+  "model": "glm-5.3"
+}

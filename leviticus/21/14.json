@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Այրի, արտաքսված, պղծված՝ պոռնիկ՝ ⟨את⟩ այս կանանց չի առնի, այլ միայն կույս իր ժողովրդից կառնի կին։",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "այրի"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "արտաքսված"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "պղծված"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "պոռնիկ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այս կանանց"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "առնի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "այլ միայն"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨միայն⟩"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "կույս"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "իր ժողովրդից"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "կառնի"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "կին"
+    }
+  ],
+  "timestamp": "2026-09-05T19:06:44.149586734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Երեք անգամ տոն նշիր ինձ տարվա մեջ։",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "Երեք"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "անգամ (ուխտագնացություն)"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "տոն նշիր"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "տարվա մեջ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:45:26.787530446Z",
+  "model": "glm-5.3"
+}

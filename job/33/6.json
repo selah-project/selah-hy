@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 33:6",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 33,
+  "translation": "Ահա ես քո պես եմ Էլ-ի առջև, կավից եմ ծեփված, ես էլ։",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ահա"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "քո պես"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Էլ-ի առջև"
+    },
+    {
+      "surface": "מחמר",
+      "gloss": "կավից"
+    },
+    {
+      "surface": "קרצתי",
+      "gloss": "ծեփված եմ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "էլ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    }
+  ],
+  "timestamp": "2026-09-05T23:48:56.023836891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 6:21",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "որդին Էլկանայի, որդին Յոելի, որդին Ազարյայի, որդին Ծեֆանյայի։",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Էլկանայի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Յոելի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Ազարյայի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Ծեֆանյայի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:56.588624895Z",
+  "model": "glm-5.3"
+}

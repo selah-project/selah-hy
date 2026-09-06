@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Իսկ մանը գիդի սերմի պես էր այն, և նրա տեսքը՝ բդոլախի տեսքի պես։",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "իսկ մանը"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "սերմի պես"
+    },
+    {
+      "surface": "גד",
+      "gloss": "գիդի"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "այն էր"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "և նրա տեսքը"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "տեսքի պես"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "բդոլախի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:17:55.201988816Z",
+  "model": "glm-5.3"
+}

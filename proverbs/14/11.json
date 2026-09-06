@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Ամբարիշտների տունը կկործանվի, իսկ ուղիղների վրանը կծաղկի։",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "տունը"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Ամբարիշտների"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "կկործանվի"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "իսկ վրանը"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ուղիղների"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "կծաղկի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:31:08.987429087Z",
+  "model": "glm-5.3"
+}

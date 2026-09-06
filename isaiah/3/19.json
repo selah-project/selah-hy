@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 3:19",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Կախ զարդերը, և ապարանջանները, և քողերը։",
+  "tokens": [
+    {
+      "surface": "הנטיפות",
+      "gloss": "կախ զարդերը"
+    },
+    {
+      "surface": "והשירות",
+      "gloss": "և ապարանջանները"
+    },
+    {
+      "surface": "והרעלות",
+      "gloss": "և քողերը"
+    }
+  ],
+  "timestamp": "2026-09-05T21:14:49.639944961Z",
+  "model": "glm-5.3"
+}

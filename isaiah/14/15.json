@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Միայն թե Շեոլ կիջեցվես, մինչև փոսի ծայրերը։",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Միայն թե"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Շեոլ"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "կիջեցվես"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "ծայրերը"
+    },
+    {
+      "surface": "בור",
+      "gloss": "փոսի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:17:55.327004723Z",
+  "model": "glm-5.3"
+}

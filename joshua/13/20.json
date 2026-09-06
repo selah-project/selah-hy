@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 13:20",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "և Բեթ Փեորը, և Փիսգայի լանջերը, և Բեթ հայեշիմոտը։",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "և Բեթ"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Փեորը"
+    },
+    {
+      "surface": "ואשדות",
+      "gloss": "և լանջերը"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "Փիսգայի"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "և Բեթ"
+    },
+    {
+      "surface": "הישמות",
+      "gloss": "հայեշիմոտը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:55:00.571626453Z",
+  "model": "glm-5.3"
+}

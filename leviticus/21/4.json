@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Որպես ամուսին՝ թող չպղծվի իր ժողովրդի մեջ՝ իրեն պղծելու համար։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "թող չ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "պղծվի"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "որպես ամուսին"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "իր ժողովրդի մեջ"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "իրեն պղծելու համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:06:48.724292011Z",
+  "model": "glm-5.3"
+}

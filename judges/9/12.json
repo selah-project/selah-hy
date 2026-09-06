@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ ասացին ծառերը խաղողենուն. արի՛ դու, թագավորիր մեզ վրա։",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Եվ ասացին"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ծառերը"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "խաղողենուն"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "արի՛"
+    },
+    {
+      "surface": "את",
+      "gloss": "դու"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "թագավորիր"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "մեզ վրա"
+    }
+  ],
+  "timestamp": "2026-09-05T20:05:49.850782308Z",
+  "model": "glm-5.3"
+}

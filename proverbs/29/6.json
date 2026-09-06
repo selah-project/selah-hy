@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Չար մարդու մեղանչումով ⟨է⟩ ծուղակ, իսկ արդարը երգ կերգի և ուրախ կլինի։",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "մեղանչումով"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չար"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "ծուղակ"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "իսկ արդարը"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "երգ կերգի"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "և ուրախ կլինի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:44.422367002Z",
+  "model": "glm-5.3"
+}

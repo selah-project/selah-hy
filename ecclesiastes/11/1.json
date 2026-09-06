@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Ուղարկիր քո հացը ջրերի երեսի վրա, քանի որ օրերի բազմության մեջ այն կգտնես։",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Ուղարկիր"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "քո հացը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "פני",
+      "gloss": "երեսի"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ջրերի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "բազմության մեջ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "օրերի"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "այն կգտնես"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:56.541315863Z",
+  "model": "glm-5.3"
+}

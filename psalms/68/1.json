@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 68,
+  "translation": "Երգչապետին․ Դավթի մաղթամուրը, երգ։",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Երգչապետին"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Դավթի"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "մաղթամուր"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "երգ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:07:38.846605672Z",
+  "model": "glm-5.3"
+}

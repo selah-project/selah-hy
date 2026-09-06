@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ ապրեց Լեմեքը երկու և ութսուն տարի և հարյուր տարի, և ծնեց որդի։",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "և ապրեց"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Լեմեքը"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "երկու"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "և ութսուն"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "և հարյուր"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "և ծնեց"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:09:55.505727857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Լավ են երկուսը քան մեկը, որովհետև նրանց կա լավ վարձ՝ իրենց ջանքում։",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "լավ են"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "երկուսը"
+    },
+    {
+      "surface": "מן",
+      "gloss": "քան"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "մեկը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "יש",
+      "gloss": "կա"
+    },
+    {
+      "surface": "להם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "վարձ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "լավ"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "իրենց ջանքում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:36.256973987Z",
+  "model": "glm-5.3"
+}

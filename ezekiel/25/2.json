@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 25:2",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Մարդու որդի, դիր քո երեսը Ամոնի որդիների դեմ և մարգարեացիր նրանց դեմ։",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "שים",
+      "gloss": "դիր"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "քո երեսը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեմ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ամոնի"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "և մարգարեացիր"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "նրանց դեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:17:50.852756961Z",
+  "model": "glm-5.3"
+}

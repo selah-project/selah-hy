@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 23:35",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Այսպես կասեք՝ մարդն իր ընկերոջը և մարդն իր եղբորը՝ Ի՞նչ պատասխանեց Յահվեն, և ի՞նչ խոսեց Յահվեն։",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Այսպես"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "կասեք"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդն"
+    },
+    {
+      "surface": "על",
+      "gloss": "իր"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ընկերոջը"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "և մարդն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "իր"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "եղբորը"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ի՞նչ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "պատասխանեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "և ի՞նչ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T21:50:54.854616686Z",
+  "model": "glm-5.3"
+}

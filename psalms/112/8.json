@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 112,
+  "translation": "Նրա սիրտը հենված ⟨է⟩, չի վախենա, մինչև որ տեսնի իր թշնամիներին։",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "հենված ⟨է⟩"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "նրա սիրտը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "վախենա"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "տեսնի"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "իր թշնամիներին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:20:40.343137640Z",
+  "model": "glm-5.3"
+}

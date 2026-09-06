@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "և Նոգահ, և Նեֆեգ, և Յաֆիա,",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "և Նոգահ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "և Նեֆեգ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "և Յաֆիա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:33:01.196027696Z",
+  "model": "glm-5.3"
+}

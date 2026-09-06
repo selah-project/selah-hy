@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Էլիֆազի որդիները՝ Թեյմանը, Օմարը, Ցեֆին, Գաատամը, Քենազը, Թիմնան և Ամալեկը։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Էլիֆազի"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Թեյմանը"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "Օմարը"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "Ցեֆին"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "Գաատամը"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Քենազը"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "Թիմնան"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "Ամալեկը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:09.575650687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "աչք աչքի փոխարեն, ատամ ատամի փոխարեն, ձեռք ձեռքի փոխարեն, ոտք ոտքի փոխարեն։",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "աչք"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "փոխարեն"
+    },
+    {
+      "surface": "עין",
+      "gloss": "աչքի"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ատամ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "փոխարեն"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ատամի"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ձեռք"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "փոխարեն"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ձեռքի"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ոտք"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "փոխարեն"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ոտքի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:44:09.452305816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 21:45",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Ոչ մի բառ չընկավ բոլոր բարի խոսքերից, որ Յահվեն ասաց Իսրայելի տանը. ամեն բան եկավ ⟨կատարվեց⟩։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ընկավ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "բառ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "բոլորից"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "խոսքերից"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "բարի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տունը"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ամեն բան"
+    },
+    {
+      "surface": "בא",
+      "gloss": "եկավ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:58:42.709004102Z",
+  "model": "glm-5.3"
+}

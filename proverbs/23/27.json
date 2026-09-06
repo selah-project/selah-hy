@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Որովհետև պոռնիկը խոր փոս է, և օտարուհին՝ նեղ ջրհոր։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "փոս"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "խոր"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "պոռնիկը"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "և ջրհոր"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "նեղ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "օտարուհին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:26.662067160Z",
+  "model": "glm-5.3"
+}

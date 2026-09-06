@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Գերշունցիներից՝ Լադանը և Շիմին։",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "Գերշունցիներից"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "Լադան"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "և Շիմի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:36:59.385644684Z",
+  "model": "glm-5.3"
+}

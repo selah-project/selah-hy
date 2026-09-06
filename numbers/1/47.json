@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "numbers 1:47",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Իսկ լևիները՝ իրենց հայրերի ցեղի ըստ, նրանց մեջ չհաշվվեցին։",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "Իսկ լևիները"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ցեղի ըստ"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "իրենց հայրերի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "התפקדו",
+      "gloss": "հաշվվեցին"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "նրանց մեջ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:11:07.139108507Z",
+  "model": "glm-5.3"
+}

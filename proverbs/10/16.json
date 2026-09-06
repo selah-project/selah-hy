@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Արդարի գործը կյանքի համար է, չարագործի եկամտը՝ մեղքի։",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "գործը"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "արդարի"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "կյանքի համար"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "եկամտը"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "չարագործի"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "մեղքի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:30:57.095953321Z",
+  "model": "glm-5.3"
+}

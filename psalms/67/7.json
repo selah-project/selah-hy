@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 67,
+  "translation": "Երկիրը տվել է իր բերքը. կօրհնի մեզ Էլոհիմը՝ մեր Էլոհիմը։",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Երկիրը"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "տվել է"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "իր բերքը"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "կօրհնի մեզ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "մեր Էլոհիմը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:07:11.386239447Z",
+  "model": "glm-5.3"
+}

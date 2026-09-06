@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 16:6",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Եթե խոսեմ, իմ ցավը չի զսպվի, և եթե դադարեմ՝ ի՞նչ է ինձնից հեռանալու։",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "խոսեմ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "զսպվի"
+    },
+    {
+      "surface": "כאבי",
+      "gloss": "իմ ցավը"
+    },
+    {
+      "surface": "ואחדלה",
+      "gloss": "և դադարեմ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ինձնից"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "կհեռանա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:44:04.935839609Z",
+  "model": "glm-5.3"
+}

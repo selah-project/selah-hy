@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Խարիֆի որդիները՝ հարյուր տասներկու։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "Խարիֆի"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "տասներկու"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨տասն⟩"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:27.344613549Z",
+  "model": "glm-5.3"
+}

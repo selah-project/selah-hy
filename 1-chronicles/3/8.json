@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "և Էլիշամա, և Էլյադա, և Էլիֆալեթ՝ ինը։",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "և Էլիշամա"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "և Էլյադա"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "և Էլիֆալեթ"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ինը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:28:32.388905186Z",
+  "model": "glm-5.3"
+}

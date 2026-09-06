@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 42:17",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 42,
+  "translation": "Չափեց հյուսիսի կողմը՝ հինգ հարյուր կաներ՝ չափի կանով, շուրջբոլորը։",
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "Չափեց"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "կողմը՝"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "հյուսիսի"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "հինգ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "կաներ"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "կանով"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "չափի"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "շուրջբոլորը"
+    }
+  ],
+  "timestamp": "2026-09-06T01:15:44.207015366Z",
+  "model": "glm-5.3"
+}

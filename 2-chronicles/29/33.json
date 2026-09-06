@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Եվ սրբացվածները՝ եղջերավոր անասուն վեց հարյուր, և ոչխար՝ երեք հազար։",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "և սրբացվածները"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "եղջերավոր անասուն"
+    },
+    {
+      "surface": "שש",
+      "gloss": "վեց"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "և ոչխար"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "հազար"
+    }
+  ],
+  "timestamp": "2026-09-06T00:59:12.421822120Z",
+  "model": "glm-5.3"
+}

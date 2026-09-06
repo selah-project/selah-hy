@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 14:1",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ եկան իմ մոտ Իսրայելի երեցներից մի քանի մարդիկ և նստեցին իմ առջև։",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "և եկան"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "իմ մոտ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "մարդիկ"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "երեցներից"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "և նստեցին"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "իմ առջև"
+    }
+  ],
+  "timestamp": "2026-09-06T01:14:27.776458759Z",
+  "model": "glm-5.3"
+}

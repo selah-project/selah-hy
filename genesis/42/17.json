@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 42,
+  "translation": "Եվ հավաքեց նրանց ⟨את⟩ կալանքի մեջ՝ երեք օր։",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Եվ հավաքեց"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ նրանց",
+      "marks": "նրանց"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մեջ"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "կալանքի"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    }
+  ],
+  "timestamp": "2026-09-06T01:01:38.275070977Z",
+  "model": "glm-5.3"
+}

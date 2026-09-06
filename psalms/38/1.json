@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 38,
+  "translation": "Սաղմոս Դավիդի (Դավիթ)՝ հիշեցնելու համար։",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Սաղմոս"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Դավիդի (Դավիթ)"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "հիշեցնելու համար"
+    }
+  ],
+  "timestamp": "2026-09-06T01:16:38.160488797Z",
+  "model": "glm-5.3"
+}

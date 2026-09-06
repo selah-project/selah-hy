@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Որովհետև նրանց ոտքերը չարիքի են վազում, և շտապում են արյուն հեղել։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "նրանց ոտքերը"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "չարիքի"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "վազում են"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "և շտապում են"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "հեղել"
+    },
+    {
+      "surface": "דם",
+      "gloss": "արյուն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:08.253547498Z",
+  "model": "glm-5.3"
+}

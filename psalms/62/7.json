@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 62,
+  "translation": "Միայն նա ⟨է⟩ իմ ժայռը և իմ փրկությունը՝ իմ ամրոցը. ⟨ես⟩ չեմ շարժվի։",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "միայն"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "իմ ժայռը"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "և իմ փրկությունը"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "իմ ամրոցը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "եմ շարժվի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:07:11.324448756Z",
+  "model": "glm-5.3"
+}

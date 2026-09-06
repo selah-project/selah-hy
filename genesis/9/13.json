@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "⟨את⟩ իմ աղեղը տվեցի ամպի մեջ, և այն կլինի Բրիթի նշան՝ իմ և երկրի միջև։",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "իմ աղեղը"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "իմ աղեղը"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "տվեցի"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "ամպի մեջ"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "և կլինի"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "նշան"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Բրիթ"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "իմ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "և … միջև"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:10:55.183653613Z",
+  "model": "glm-5.3"
+}

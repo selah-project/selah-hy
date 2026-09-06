@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 1:22",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Քո արծաթը դարձավ խարամ, քո գինին՝ ջրով նոսրացված։",
+  "tokens": [
+    {
+      "surface": "כספך",
+      "gloss": "Քո արծաթը"
+    },
+    {
+      "surface": "היה",
+      "gloss": "դարձավ"
+    },
+    {
+      "surface": "לסיגים",
+      "gloss": "խարամ"
+    },
+    {
+      "surface": "סבאך",
+      "gloss": "քո գինին"
+    },
+    {
+      "surface": "מהול",
+      "gloss": "նոսրացված"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ջրով"
+    }
+  ],
+  "timestamp": "2026-09-05T21:12:39.423230974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 6:27",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Էյտանի որդին՝ Զիման, Զիմայի որդին՝ Շիմին։",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "Էյտանի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "Զիմայի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Շիմին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:20.589998990Z",
+  "model": "glm-5.3"
+}

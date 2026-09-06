@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Մի՛ կտրեք ձեր գլխի եզրերը և մի՛ կործանեք ⟨את⟩ ձեր մորուքի եզրերը։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "կտրեք"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "եզրերը"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "ձեր գլխի"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և մի՛"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "կործանեք"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ձեր մորուքի եզրերը"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "եզրերը"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "ձեր մորուքի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:06:08.795425463Z",
+  "model": "glm-5.3"
+}

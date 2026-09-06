@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 121,
+  "translation": "Թող ոտքդ տատանվել չտա, թող չնինջի քեզ պահողդ։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "թող չ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "տա"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "տատանվել"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ոտքդ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "թող չ"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "նինջի"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "պահապանդ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:23:44.717159788Z",
+  "model": "glm-5.3"
+}

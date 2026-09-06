@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Դեմքեր ճանաչելը լավ չէ, և հացի մի կտորի համար մարդ կխախտի ⟨սահմանը⟩։",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "ճանաչելը"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "դեմքեր"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "լավ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "և մի կտորի համար"
+    },
+    {
+      "surface": "פת",
+      "gloss": "կտոր"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "հացի"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "կխախտի"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "մարդ"
+    }
+  ],
+  "timestamp": "2026-09-06T02:08:37.624871068Z",
+  "model": "glm-5.3"
+}

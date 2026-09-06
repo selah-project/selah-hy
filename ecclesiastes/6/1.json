@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Կա չարություն, որ ես տեսա արևի տակ, և այն մեծ է մարդու վրա։",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Կա"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "չարություն"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "տեսա"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "արևի"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "և մեծ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "մարդու"
+    }
+  ],
+  "timestamp": "2026-09-06T00:02:31.761338862Z",
+  "model": "glm-5.3"
+}

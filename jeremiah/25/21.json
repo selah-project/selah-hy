@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "⟨את⟩ Էդոմը, և ⟨את⟩ Մոաբը, և ⟨את⟩ Ամոնի որդիներին.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Էդոմը"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Էդոմը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Մոաբը"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Մոաբը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Ամոնի որդիներին"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիներին"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ամոնի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:50:19.488407455Z",
+  "model": "glm-5.3"
+}

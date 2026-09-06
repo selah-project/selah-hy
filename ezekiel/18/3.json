@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Կենդանի՛ եմ ես՝ Ադոնայ Յահվեի խոսքը. եթե լինի ձեզ ևս ⟨առակ⟩ այս առակը Իսրայելում։",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Կենդանի՛"
+    },
+    {
+      "surface": "אני",
+      "gloss": "եմ ես"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ևս"
+    },
+    {
+      "surface": "משל",
+      "gloss": "⟨առակ⟩ առակել"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "այս առակը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Իսրայելում"
+    }
+  ],
+  "timestamp": "2026-09-05T22:14:29.831861015Z",
+  "model": "glm-5.3"
+}

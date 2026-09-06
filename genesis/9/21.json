@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "և խմեց գինուց, և հարբեց, և մերկացավ իր վրանի մեջտեղում։",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "և խմեց"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ից"
+    },
+    {
+      "surface": "היין",
+      "gloss": "գինին"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "և հարբեց"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "և մերկացավ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "մեջտեղում"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "իր վրանը"
+    }
+  ],
+  "timestamp": "2026-09-05T18:10:31.145415093Z",
+  "model": "glm-5.3"
+}

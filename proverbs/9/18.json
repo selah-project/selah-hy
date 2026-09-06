@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 9:18",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ նա ⟨չգիտի⟩, որ Ռեֆաիմներն այնտեղ են, Շեոլի խորքերում՝ նրա հրավիրյալները։",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "գիտի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Ռեֆաիմներ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "այնտեղ"
+    },
+    {
+      "surface": "בעמקי",
+      "gloss": "խորքերում"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Շեոլի"
+    },
+    {
+      "surface": "קראיה",
+      "gloss": "նրա հրավիրյալները"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:24.916364852Z",
+  "model": "glm-5.3"
+}

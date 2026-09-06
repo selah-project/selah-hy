@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Ըստ այս բոլոր խոսքերի և ըստ այս ամբողջ տեսլիքի այսպես խոսեց Նատանը Դավիթի հետ։",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "Ըստ բոլոր"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "խոսքերի"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "և ըստ բոլոր"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "տեսլիքի"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այսպես"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսեց"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Նատանը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Դավիթի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:35:40.879916037Z",
+  "model": "glm-5.3"
+}

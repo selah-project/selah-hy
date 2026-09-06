@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ մարդը կնոջ անունը դրեց Խավա, որովհետև նա եղել էր բոլոր կենդանիների մայրը։",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Եվ անվանեց"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "մարդը"
+    },
+    {
+      "surface": "שם",
+      "gloss": "անուն"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "կնոջը"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Խավա"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "եղել էր"
+    },
+    {
+      "surface": "אם",
+      "gloss": "մայրը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "חי",
+      "gloss": "կենդանիների"
+    }
+  ],
+  "timestamp": "2026-09-05T18:09:37.159838776Z",
+  "model": "glm-5.3"
+}

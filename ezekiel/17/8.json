@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 17:8",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Դեպի լավ դաշտ, դեպի բազմաթիվ ջրեր այն տնկված ⟨էր⟩՝ ճյուղ անելու, և պտուղ կրելու, վսեմ վազ լինելու։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "դաշտ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "լավ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջրեր"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "բազմաթիվ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "տնկված"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "անելու"
+    },
+    {
+      "surface": "ענף",
+      "gloss": "ճյուղ"
+    },
+    {
+      "surface": "ולשאת",
+      "gloss": "և կրելու"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "պտուղ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "լինելու"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "վազ"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "վսեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:14:12.710899997Z",
+  "model": "glm-5.3"
+}

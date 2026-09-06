@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Իրա՝ Իկեշի որդին՝ Թեկոացին, Ավիեզեր՝ Անաթոթցին։",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "Իրա"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "Իկեշի"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "Թեկոացին"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Ավիեզեր"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "Անաթոթցին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:31:37.737363084Z",
+  "model": "glm-5.3"
+}

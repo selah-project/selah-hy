@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 47:11",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 47,
+  "translation": "Իր ճահիճները և իր ճահճուտները չեն բուժվի. աղի են տրվել։",
+  "tokens": [
+    {
+      "surface": "בצאתו",
+      "gloss": "իր ճահիճները"
+    },
+    {
+      "surface": "וגבאיו",
+      "gloss": "և իր ճահճուտները"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "չեն"
+    },
+    {
+      "surface": "ירפאו",
+      "gloss": "բուժվի"
+    },
+    {
+      "surface": "למלח",
+      "gloss": "աղի"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "տրվեցին"
+    }
+  ],
+  "timestamp": "2026-09-05T22:29:10.827982834Z",
+  "model": "glm-5.3"
+}

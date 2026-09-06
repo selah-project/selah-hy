@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Օրհնված լինի քո զամբյուղը և քո խմորի ամանը։",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "օրհնված լինի"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "քո զամբյուղը"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "և քո խմորի ամանը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:45:31.689979299Z",
+  "model": "glm-5.3"
+}

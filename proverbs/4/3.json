@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Որովհետև որդի ⟨էի⟩ իմ հորը, փափկասուր և միակը իմ մոր առջև։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "էի"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "իմ հորը"
+    },
+    {
+      "surface": "רך",
+      "gloss": "փափկասուր"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "և միակը"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "իմ մոր"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:12.035117642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Բարձունքների գլխին, ճանապարհի վրա, արահետների տանը ⟨նա⟩ կանգնում է։",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "գլխին"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "բարձունքների"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ճանապարհի"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տանը"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "արահետների"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "կանգնում է"
+    }
+  ],
+  "timestamp": "2026-09-05T23:30:29.271738888Z",
+  "model": "glm-5.3"
+}

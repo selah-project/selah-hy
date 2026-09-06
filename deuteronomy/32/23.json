@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 32:23",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Չարիքներ կկուտակեմ նրանց վրա, իմ նետերը կծախսեմ նրանց վրա։",
+  "tokens": [
+    {
+      "surface": "אספה",
+      "gloss": "կկուտակեմ"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "նրանց վրա"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "չարիքներ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "իմ նետերը"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "կծախսեմ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "նրանց վրա"
+    }
+  ],
+  "timestamp": "2026-09-05T19:47:36.898505101Z",
+  "model": "glm-5.3"
+}

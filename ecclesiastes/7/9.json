@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Մի շտապիր քո ռուխում բարկանալ, որովհետև բարկությունը հիմարների գրկում է հանգչում։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "շտապիր"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "քո ռուխում"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "բարկանալ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "բարկությունը"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "գրկում"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "հիմարների"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "հանգչում է"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:49.229441142Z",
+  "model": "glm-5.3"
+}

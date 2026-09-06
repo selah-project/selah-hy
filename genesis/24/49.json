@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "genesis 24:49",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Եվ այժմ, եթե խեսեդ և ճշմարտություն եք անելու ⟨את⟩ տերիս՝ ասեք ինձ, իսկ եթե ոչ՝ ասեք ինձ, որ դառնամ դեպի աջ թե դեպի ձախ։",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Եվ այժմ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "ישכם",
+      "gloss": "կա ձեզ"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "անելու եք"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "խեսեդ"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "և ճշմարտություն"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "տերիս"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "տերիս"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "ասեք"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "իսկ եթե"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "ասեք"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "ואפנה",
+      "gloss": "որ դառնամ"
+    },
+    {
+      "surface": "על",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "աջ"
+    },
+    {
+      "surface": "או",
+      "gloss": "թե"
+    },
+    {
+      "surface": "על",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "שמאל",
+      "gloss": "ձախ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:18:43.391834436Z",
+  "model": "glm-5.3"
+}

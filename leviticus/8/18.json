@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 8:18",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ մերեց ⟨את⟩ ոստիկի խոյը, և Ահարոնն ու իր որդիները դրեցին ⟨את⟩ ձեռքերը խոյի գլխի վրա։",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "և մերեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "խոյը"
+    },
+    {
+      "surface": "איל",
+      "gloss": "խոյը"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ոստիկի"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "և դրեցին"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ահարոնը"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ձեռքերը"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ձեռքերը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "գլխի"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "խոյի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:01:23.935489468Z",
+  "model": "glm-5.3"
+}

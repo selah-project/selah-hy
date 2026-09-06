@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "ezekiel 16:62",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "և ես կհաստատեմ ⟨את⟩ իմ Բրիթը ⟨את⟩ քեզ հետ, և իմանաս, որ ես եմ Յահվեն։",
+  "tokens": [
+    {
+      "surface": "והקימותי",
+      "gloss": "և կհաստատեմ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "իմ Բրիթը"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "իմ Բրիթը"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ քեզ հետ"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "և իմանաս"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես եմ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    }
+  ],
+  "timestamp": "2026-09-05T22:12:38.262346071Z",
+  "model": "glm-5.3"
+}

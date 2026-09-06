@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Եվ ծառան պատմեց Յիցխակին ⟨את⟩ ամեն բարին, որ արել էր։",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "եվ պատմեց"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "ծառան"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Յիցխակին"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ամեն բարին"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "բարին"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արել էր"
+    }
+  ],
+  "timestamp": "2026-09-05T18:18:42.883636160Z",
+  "model": "glm-5.3"
+}

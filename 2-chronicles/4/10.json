@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ ⟨את⟩ ծովը դրեց աջ կողմից՝ արևելք` դեմ-դիմաց հարավին։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "ծովը"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ծովը"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "դրեց"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "կողմից"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "աջ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "արևելք"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "դեմ-դիմաց"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "հարավին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:40:46.431117450Z",
+  "model": "glm-5.3"
+}

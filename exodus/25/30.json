@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Եվ կդնես սեղանի վրա երեսների հաց՝ Իմ առջև մշտապես։",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Եվ կդնես"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "սեղանի"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "հաց"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "երեսների"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "մշտապես"
+    }
+  ],
+  "timestamp": "2026-09-05T18:48:00.372709516Z",
+  "model": "glm-5.3"
+}

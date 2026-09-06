@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Որովհետև խորհուրդներից զուրկ ազգ են նրանք, և խելք չկա նրանց մեջ։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ազգ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "զուրկ"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "խորհուրդներից"
+    },
+    {
+      "surface": "המה",
+      "gloss": "նրանք"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "և չկա"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "նրանց մեջ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "խելք"
+    }
+  ],
+  "timestamp": "2026-09-05T19:48:15.408326618Z",
+  "model": "glm-5.3"
+}

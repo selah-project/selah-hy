@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ իմացիր սրտիդ հետ, որ ինչպես մարդը խրատում է ⟨את⟩ իր որդուն, այնպես Յահվե Էլոհիմդ քեզ է խրատում։",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "Եվ իմացիր"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "սրտիդ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ինչպես"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "խրատում է"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "իր որդուն"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "իր որդուն"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Էլոհիմդ"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "քեզ է խրատում"
+    }
+  ],
+  "timestamp": "2026-09-05T19:37:29.947368563Z",
+  "model": "glm-5.3"
+}

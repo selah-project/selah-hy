@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Ով անիծում է իր հորը և իր մորը, նրա ճրագը կմարի խուլ խավարում։",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "անիծում է"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "իր հորը"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "և իր մորը"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "կմարի"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "նրա ճրագը"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "խուլ խավարում"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "խավարի"
+    }
+  ],
+  "timestamp": "2026-09-06T02:51:52.179573567Z",
+  "model": "glm-5.3"
+}

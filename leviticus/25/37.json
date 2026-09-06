@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "⟨את⟩ քո արծաթը մի՛ տուր նրան տոկոսով, և քո կերակուրը մի՛ տուր աճով։",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "քո արծաթը"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "քո արծաթը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "տուր"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "տոկոսով"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "և աճով"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "տուր"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "քո կերակուրը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:09:25.186546356Z",
+  "model": "glm-5.3"
+}

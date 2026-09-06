@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "և ⟨את⟩ Պարմաշտա, և ⟨את⟩ Արիսայ, և ⟨את⟩ Արիդայ, և ⟨את⟩ Վայեզատա։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Պարմաշտա"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "Պարմաշտա"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Արիսայ"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "Արիսայ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Արիդայ"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "Արիդայ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Վայեզատա"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "Վայեզատա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:05:37.250115931Z",
+  "model": "glm-5.3"
+}

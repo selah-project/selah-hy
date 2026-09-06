@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Երկու ⟨բան⟩ խնդրեցի ⟨את⟩ Քեզանից. մի մերժիր ինձից նախքան մեռնելս։",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Երկու"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "խնդրեցի"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ Քեզանից",
+      "marks": "Քեզ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "մերժիր"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ինձից"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "նախքան"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "մեռնելս"
+    }
+  ],
+  "timestamp": "2026-09-06T01:18:34.955869271Z",
+  "model": "glm-5.3"
+}

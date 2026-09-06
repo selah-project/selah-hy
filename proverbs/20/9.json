@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 20:9",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Ո՞վ կարող է ասել՝ «մաքուր եմ դարձրել սրտս, մաքուր եմ մեղքիցս»։",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ո՞վ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "կարող է ասել"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "անմեղ դարձրել եմ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "սրտս"
+    },
+    {
+      "surface": "טהרתי",
+      "gloss": "մաքուր եմ"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "մեղքիցս"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:02.576904961Z",
+  "model": "glm-5.3"
+}

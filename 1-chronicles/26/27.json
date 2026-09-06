@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 26:27",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Պատերազմներից և ավարից նրանք օծեցին՝ Յահվեի տունը ամրապնդելու համար։",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ից"
+    },
+    {
+      "surface": "המלחמות",
+      "gloss": "պատերազմներից"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "և ից"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "ավարից"
+    },
+    {
+      "surface": "הקדישו",
+      "gloss": "օծեցին"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "ամրապնդելու համար"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "տունը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:38:46.448799415Z",
+  "model": "glm-5.3"
+}

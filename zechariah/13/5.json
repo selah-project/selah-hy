@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 13:5",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Եվ ասելու է՝ ե՛ռ, նախկին եմ, այլ մարդ եմ՝ հող մշակող, որովհետև մարդ ինձ գնել է մանկությունից։",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Եվ ասելու է"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "նախկին"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "եմ՝ ես"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "մշակող"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "հող"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "եմ՝ ես"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "הקנני",
+      "gloss": "ինձ գնել է"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "մանկությունից"
+    }
+  ],
+  "timestamp": "2026-09-05T22:50:21.694444473Z",
+  "model": "glm-5.3"
+}

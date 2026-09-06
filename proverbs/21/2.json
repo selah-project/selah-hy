@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Ամեն ճանապարհ մարդու ուղիղ է իր աչքերին, բայց սրտեր է կշռում Յահվեն։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ճանապարհ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ուղիղ է"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "իր աչքերին"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "բայց կշռում է"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "սրտեր"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:00.535596543Z",
+  "model": "glm-5.3"
+}

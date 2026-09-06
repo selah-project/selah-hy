@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Էլազարը ծնեց ⟨את⟩ Պինխասին, Պինխասը ծնեց ⟨את⟩ Ավիշուային։",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Էլազարը"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Պինխասին"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Պինխասին"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Պինխասը"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ավիշուային"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Ավիշուային"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:10.202407824Z",
+  "model": "glm-5.3"
+}

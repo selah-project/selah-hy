@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Օրհնյալ է Յահվեն, որովհետև լսեց իմ աղաչանքների ձայնը։",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Օրհնյալ է"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "լսեց"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ձայնը"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "իմ աղաչանքների"
+    }
+  ],
+  "timestamp": "2026-09-05T22:58:36.889196585Z",
+  "model": "glm-5.3"
+}

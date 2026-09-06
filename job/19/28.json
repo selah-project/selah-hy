@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 19:28",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Եթե ասեք՝ «Ի՞նչ ենք հետապնդում նրան», և խոսքի արմատ գտնվի իմ մեջ։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ասեք"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ի՞նչ"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "հետապնդում ենք"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "և արմատ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքի"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "գտնվի"
+    },
+    {
+      "surface": "בי",
+      "gloss": "իմ մեջ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:45:08.407593491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 16:6",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Սա արեք. վերցրեք ձեզ խունկամաններ, Կորախ և ամբողջ համայնքդ։",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Սա"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "արեք"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "վերցրեք"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "מחתות",
+      "gloss": "խունկամաններ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Կորախ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "և ամբողջ"
+    },
+    {
+      "surface": "עדתו",
+      "gloss": "համայնքդ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:21:30.135057372Z",
+  "model": "glm-5.3"
+}

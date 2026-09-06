@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 19:42",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "և Շաալավին, և Այալոն, և Յիթլա։",
+  "tokens": [
+    {
+      "surface": "ושעלבין",
+      "gloss": "և Շաալավին"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "և Այալոն"
+    },
+    {
+      "surface": "ויתלה",
+      "gloss": "և Յիթլա"
+    }
+  ],
+  "timestamp": "2026-09-05T19:58:22.135488928Z",
+  "model": "glm-5.3"
+}

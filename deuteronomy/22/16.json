@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Եվ աղջկա հայրն ասի ծերերին՝ ⟨את⟩ դուստրս ես տվել այս մարդուն կնության, և նա ատում է նրան։",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ասի"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "հայրը"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "աղջկա"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ծերերին"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "դուստրս"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "դուստրս"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "տվել եմ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "մարդուն"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "կնության"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "ատում է նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:42:57.038427399Z",
+  "model": "glm-5.3"
+}

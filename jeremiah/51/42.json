@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 51,
+  "translation": "Բարձրացավ ծովը Բաբելոնի վրա, իր ալիքների բազմությամբ ծածկվեց ⟨նա⟩։",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "Բարձրացավ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Բաբելոնի"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ծովը"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "բազմությամբ"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "իր ալիքների"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "ծածկվեց"
+    }
+  ],
+  "timestamp": "2026-09-05T22:05:47.821141628Z",
+  "model": "glm-5.3"
+}

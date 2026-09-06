@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Եվ երբ մտնի արևը, և մաքուր լինի, հետո կուտի սրբերից, քանի որ իր հացն է։",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "Եվ մտնի"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "արևը"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "և մաքուր լինի"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "հետո"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "կուտի"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ից"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "սրբեր"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "հացն"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "է"
+    }
+  ],
+  "timestamp": "2026-09-05T19:07:07.690265862Z",
+  "model": "glm-5.3"
+}

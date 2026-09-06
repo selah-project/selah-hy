@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 19:6",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Ահա այդ պատճառով՝ ահա օրեր են գալիս, Յահվեի խոսքը, և այլևս չի կոչվի այս վայրը Թոֆետ և Գե Բեն Հինոմ, այլ՝ սպանության հովիտ։",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ահա այդ պատճառով"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օրեր"
+    },
+    {
+      "surface": "באים",
+      "gloss": "են գալիս"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "է կոչվի"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "վայրը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "այլևս"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Թոֆետ"
+    },
+    {
+      "surface": "וגיא",
+      "gloss": "և Գե"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Բեն"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Հինոմ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "այլ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "հովիտ"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "սպանության"
+    }
+  ],
+  "timestamp": "2026-09-05T21:49:39.031968694Z",
+  "model": "glm-5.3"
+}

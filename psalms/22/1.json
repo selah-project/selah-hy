@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Երգչապետին՝ «Առավոտյան եղնիկի» վրա, Դավթի մաղթամուր։",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "երգչապետին"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "եղնիկի"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "առավոտյան"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "մաղթամուր"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Դավթի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:56:48.843728462Z",
+  "model": "glm-5.3"
+}

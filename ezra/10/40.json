@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezra 10:40",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Մախնադավայ, Շաշայ, Շարայ,",
+  "tokens": [
+    {
+      "surface": "מכנדבי",
+      "gloss": "Մախնադավայ"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Շաշայ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Շարայ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:18:47.431516795Z",
+  "model": "glm-5.3"
+}

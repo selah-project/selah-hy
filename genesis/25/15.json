@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Խադադը, և Թեման, Յետուրը, Նաֆիշը և Քեդեման։",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "Խադադը"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "և Թեման"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "Յետուրը"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "Նաֆիշը"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "և Քեդեման"
+    }
+  ],
+  "timestamp": "2026-09-05T18:19:10.079745443Z",
+  "model": "glm-5.3"
+}

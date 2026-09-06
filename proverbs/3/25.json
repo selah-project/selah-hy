@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Մի՛ վախեցիր հանկարծակի երկյուղից, և չարերի ավերածությունից, երբ այն գա։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "վախեցիր"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "երկյուղից"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "հանկարծակի"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "և ավերածությունից"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "չարերի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "գա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:15.141870510Z",
+  "model": "glm-5.3"
+}

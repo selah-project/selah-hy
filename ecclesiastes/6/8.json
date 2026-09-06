@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Ի՞նչ ավելի ունի իմաստունը հիմարից, ի՞նչ ունի աղքատը՝ իմանալում ապրել-քայլել կենդանիների առջև։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "արդյոք"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ավելի"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "իմաստունը"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ից"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "հիմարից"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "աղքատը"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "իմանալում"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "քայլել"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "կենդանիների"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:57.103955809Z",
+  "model": "glm-5.3"
+}

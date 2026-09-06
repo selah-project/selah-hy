@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 2:12",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Քեզ փրկելու չար ճանապարհից, մարդուց, որ խոսում է շրջված խոսքեր։",
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "Քեզ փրկելու"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ճանապարհից"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չար"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "մարդուց"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "խոսում է"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "շրջված խոսքեր"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:11.591612126Z",
+  "model": "glm-5.3"
+}

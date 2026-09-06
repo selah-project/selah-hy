@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 34:27",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 34,
+  "translation": "և Աշերի որդիների ցեղի համար՝ իշխան Աջիհուդը՝ Շլոմիի որդին։",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "ցեղի համար՝"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Աշերի"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "իշխան"
+    },
+    {
+      "surface": "אחיהוד",
+      "gloss": "Աջիհուդը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "Շլոմիի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:29:56.444595226Z",
+  "model": "glm-5.3"
+}

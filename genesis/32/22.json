@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 32:22",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Եվ անցավ ընծան նրա երեսի վրայով, իսկ նա գիշերեց այդ գիշերն անց ճամբարում։",
+  "tokens": [
+    {
+      "surface": "ותעבר",
+      "gloss": "և անցավ"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ընծան"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրայով"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "երեսի"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "իսկ նա"
+    },
+    {
+      "surface": "לן",
+      "gloss": "գիշերեց"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "գիշերը"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ճամբարում"
+    }
+  ],
+  "timestamp": "2026-09-05T18:22:42.157270199Z",
+  "model": "glm-5.3"
+}

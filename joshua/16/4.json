@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 16:4",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Եվ ժառանգեցին Յոսեֆի որդիները՝ Մենաշեն և Էֆրայիմը։",
+  "tokens": [
+    {
+      "surface": "וינחלו",
+      "gloss": "Եվ ժառանգեցին"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Յոսեֆի"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Մենաշե"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "և Էֆրայիմը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:57:26.279418324Z",
+  "model": "glm-5.3"
+}

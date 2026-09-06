@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եվ ով նզովում է իր հորը և իր մորը՝ մահամահ պիտի մահանա։",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "և նզովող"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "իր հորը"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "և իր մորը"
+    },
+    {
+      "surface": "מות",
+      "gloss": "մահամահ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "պիտի մահանա"
+    }
+  ],
+  "timestamp": "2026-09-05T18:44:46.377453497Z",
+  "model": "glm-5.3"
+}

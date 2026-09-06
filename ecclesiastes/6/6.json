@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ եթե նա ապրեր հազար տարի՝ երկու անգամ, բայց բարիք չտեսներ՝ արդյոք բոլորը մի տեղ չե՞ն գնում։",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "և եթե"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ապրեր"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "հազար"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "երկու անգամ"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "բայց բարիք"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "տեսներ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "արդյոք չե՞ն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "տեղ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մի"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "բոլորը"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "գնում"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:57.103668606Z",
+  "model": "glm-5.3"
+}

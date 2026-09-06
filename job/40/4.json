@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 40:4",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 40,
+  "translation": "Ահա՝ ես թեթև եմ. ի՞նչ պատասխանեմ քեզ. ձեռքս դրեցի բերանիս վրա։",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ահա"
+    },
+    {
+      "surface": "קלתי",
+      "gloss": "թեթև եմ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "պատասխանեմ քեզ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ձեռքս"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "դրեցի"
+    },
+    {
+      "surface": "למו",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "פי",
+      "gloss": "բերանիս"
+    }
+  ],
+  "timestamp": "2026-09-05T23:51:30.921676382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 6:15",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "ահա թե ինչու հանկարծ կգա իր աղետը, մի պահին կջարդվի, և բուժում չկա․",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ահա թե ինչու (պատճառի վրա)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "դրա համար"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "հանկարծ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "կգա"
+    },
+    {
+      "surface": "אידו",
+      "gloss": "իր աղետը"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "մի պահին"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "կջարդվի"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "և չկա"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "բուժում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:46.995246305Z",
+  "model": "glm-5.3"
+}

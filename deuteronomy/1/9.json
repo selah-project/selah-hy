@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ ասացի ձեզ այն ժամանակ՝ ասելով՝ ոչ կարող եմ մենակ կրել ⟨את⟩ ձեզ։",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Եվ ասացի"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "այն ժամանակ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "կարող եմ"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "մենակ"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "կրել"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ձեզ",
+      "marks": "ձեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:31:22.388800830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Նաև ⟨את⟩ ծառայի որդուն ազգ կդարձնեմ, որովհետև նա քո սերմն ⟨է⟩։",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Նաև"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ծառայի որդուն"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդուն"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ծառայի"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ազգ"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "կդարձնեմ նրան"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "քո սերմն"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա ⟨է⟩"
+    }
+  ],
+  "timestamp": "2026-09-06T01:02:23.604852876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 6:22",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Միթե ասացի՝ տվեք ինձ, և ձեր ուժից կաշառք տվեք իմ համար.",
+  "tokens": [
+    {
+      "surface": "הכי",
+      "gloss": "Միթե"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ասացի"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "տվեք"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "ומכחכם",
+      "gloss": "և ձեր ուժից"
+    },
+    {
+      "surface": "שחדו",
+      "gloss": "կաշառք տվեք"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "իմ համար"
+    }
+  ],
+  "timestamp": "2026-09-05T23:40:28.297573284Z",
+  "model": "glm-5.3"
+}

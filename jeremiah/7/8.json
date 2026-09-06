@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Ահա դուք վստահում եք ձեզ համար ստի խոսքերի վրա՝ առանց որևէ օգուտի։",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "դուք"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "վստահող"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ համար"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "խոսքերի"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "ստի"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "որպեսզի ոչ"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "օգտի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:42:05.580237250Z",
+  "model": "glm-5.3"
+}

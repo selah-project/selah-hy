@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ հիմքը՝ արժեքավոր քարեր, մեծ քարեր՝ տասը թիզ քարեր և ութ թիզ քարեր։",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "Եվ հիմքը"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "քարեր"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "արժեքավոր"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "քարեր"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "քարեր"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "տասը"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "թիզ"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "և քարեր"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ութ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "թիզ"
+    }
+  ],
+  "timestamp": "2026-09-05T20:46:53.338235318Z",
+  "model": "glm-5.3"
+}

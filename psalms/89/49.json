@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 89:49",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 89,
+  "translation": "Ո՞վ է այրը, որ ապրի և մահ չտեսնի, որ իր նեֆեշը փրկի Շեոլի ձեռքից։ Սելահ։",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ո՞վ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "այր"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ապրի"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "տեսնի"
+    },
+    {
+      "surface": "מות",
+      "gloss": "մահ"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "փրկի"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "իր նեֆեշը"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ձեռքից"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Շեոլ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Սելահ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:14:28.195813296Z",
+  "model": "glm-5.3"
+}

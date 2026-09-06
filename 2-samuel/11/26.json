@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 11:26",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Եվ լսեց Ուրիայի կինը, որ մեռավ Ուրիան՝ իր մարդը, և սգաց իր տիրոջ վրա։",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "Եվ լսեց"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "կինը"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Ուրիայի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "մեռավ"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Ուրիան"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "իր մարդը"
+    },
+    {
+      "surface": "ותספד",
+      "gloss": "և սգաց"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "իր տիրոջ"
+    }
+  ],
+  "timestamp": "2026-09-05T20:34:36.795484350Z",
+  "model": "glm-5.3"
+}

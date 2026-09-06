@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Անիծված լինի ամեն կենդանու հետ պառկողը, և ասի ամբողջ ժողովուրդը՝ Ամեն։",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Անիծված լինի"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "պառկողը"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "կենդանու"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "և ասի"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովուրդը"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ամեն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:45:25.014690125Z",
+  "model": "glm-5.3"
+}

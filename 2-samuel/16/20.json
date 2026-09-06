@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Եվ ասաց Ավշալոմը Ախիտոֆելին՝ տվե՛ք ձեզ խորհուրդ, ի՛նչ անենք։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Ավշալոմը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ախիտոֆելին"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "տվե՛ք"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "խորհուրդ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՛նչ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "անենք"
+    }
+  ],
+  "timestamp": "2026-09-06T01:35:20.588134220Z",
+  "model": "glm-5.3"
+}

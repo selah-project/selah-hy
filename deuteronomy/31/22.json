@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Եվ գրեց Մոշեն ⟨את⟩ այս երգը այդ օրը և սովորեցրեց այն ⟨את⟩ Իսրայելի որդիներին։",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Եվ գրեց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այս երգը"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "երգը"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "այս"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "և սովորեցրեց այն"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Իսրայելի որդիներին"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիներին"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:49:21.546484962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "մթնշաղին, երեկոյան՝ օրվա, գիշերվա խավարին ու խութությանը։",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "մթնշաղին"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "երեկոյան"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օրվա"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "խավարին"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "գիշերվա"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "և խութությանը"
+    }
+  ],
+  "timestamp": "2026-09-06T01:18:11.344717251Z",
+  "model": "glm-5.3"
+}

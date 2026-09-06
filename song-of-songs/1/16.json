@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 1:16",
+  "book": "song-of-songs",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Ահա, գեղեցիկ ես՝ իմ սիրելի՛, ա՛յ և հաճելի, ա՛յ և մեր մահճակալը՝ կանաչ։",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "գեղեցիկ ես"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "իմ սիրելի՛"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ա՛յ և"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "հաճելի"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ա՛յ և"
+    },
+    {
+      "surface": "ערשנו",
+      "gloss": "մեր մահճակալը"
+    },
+    {
+      "surface": "רעננה",
+      "gloss": "կանաչ"
+    }
+  ],
+  "timestamp": "2026-09-06T02:09:54.022345448Z",
+  "model": "glm-5.3"
+}

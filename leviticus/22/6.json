@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Նեֆեշը, որ դիպչի դրան, պիղծ կլինի մինչև երեկո, և չի ուտի սրբերից՝ եթե չլվա իր մարմինը ջրով։",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "Նեֆեշ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "դիպչի"
+    },
+    {
+      "surface": "בו",
+      "gloss": "դրան"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "և պիղծ կլինի"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "երեկո"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ուտի"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ից"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "սրբեր"
+    },
+    {
+      "surface": "כי",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "լվա"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "մարմինը"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ջրով"
+    }
+  ],
+  "timestamp": "2026-09-05T19:07:07.690070220Z",
+  "model": "glm-5.3"
+}

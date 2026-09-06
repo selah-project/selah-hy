@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 49:21",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 49,
+  "translation": "Նրանց անկման ձայնից երկիրը ցնցվեց, ճիչ ⟨կա⟩՝ եղեգի ծովում լսվեց նրա ձայնը։",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ձայնից"
+    },
+    {
+      "surface": "נפלם",
+      "gloss": "նրանց անկման"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "ցնցվեց"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "ճիչ"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ծովում"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "եղեգի"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "լսվեց"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "նրա ձայնը"
+    }
+  ],
+  "timestamp": "2026-09-05T22:04:03.492419802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 37,
+  "translation": "Հեռացի՛ր չարից և արա՛ բարի, և բնակվի՛ր հավերժ։",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Հեռացի՛ր"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "չարից"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "և արա՛"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "բարի"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "և բնակվի՛ր"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "հավերժ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:01:26.649609670Z",
+  "model": "glm-5.3"
+}

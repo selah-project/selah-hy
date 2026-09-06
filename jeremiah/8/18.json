@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 8:18",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Իմ մխիթարանքը՝ տրտմության դեմ, իմ վրա է սիրտս՝ ցավոտ։",
+  "tokens": [
+    {
+      "surface": "מבליגיתי",
+      "gloss": "մխիթարանքս"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "դեմ"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "տրտմության"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "իմ վրա"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "սիրտս"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "ցավոտ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:44:45.309814956Z",
+  "model": "glm-5.3"
+}

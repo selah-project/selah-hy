@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 10:29",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Եվ ասաց Մոշեն՝ այսպես ես խոսեցիր, այլևս երեսդ չեմ տեսնելու։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այսպես"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ես խոսեցիր"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ավելացնել"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "այլևս"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "տեսնել"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "երեսդ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:37:22.430161780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 45,
+  "translation": "Իսկապես, դու ես Էլ, որ թաքնվում ես, Իսրայելի Էլոհիմ՝ Փրկիչ։",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Իսկապես"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու ես"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլ"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "թաքնվում ես"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Էլոհիմ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "Փրկիչ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:31:47.797125796Z",
+  "model": "glm-5.3"
+}

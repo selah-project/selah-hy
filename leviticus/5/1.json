@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ Նեֆեշ, երբ մեղ գործի և լսի անեծքի ձայն, և նա ⟨է⟩ վկա՝ կամ տեսել է, կամ գիտի, եթե չհայտնի, ապա կրելու է իր անօրենությունը։",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "Եվ Նեֆեշ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "մեղ գործի"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "և լսի"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ձայն"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "անեծքի"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "և նա"
+    },
+    {
+      "surface": "עד",
+      "gloss": "վկա"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "տեսել է"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "գիտի"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "հայտնի"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "կրելու է"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "իր անօրենությունը"
+    }
+  ],
+  "timestamp": "2026-09-06T01:03:29.590104829Z",
+  "model": "glm-5.3"
+}

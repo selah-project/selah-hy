@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 44,
+  "translation": "Եվ ասաց մեր հայրը՝ վերադարձեք, գնեցեք մեզ համար մի քիչ կերակուր։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "մեր հայրը"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "վերադարձեք"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "գնեցեք"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "մեզ համար"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "մի քիչ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "կերակուր"
+    }
+  ],
+  "timestamp": "2026-09-05T18:31:13.113920879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 109,
+  "translation": "Իմ սիրու դիմաց մեղադրեցին ինձ, իսկ ես՝ աղոթք։",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "դիմաց"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "իմ սիրու"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "մեղադրեցին ինձ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "իսկ ես"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "աղոթք"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:08.871731639Z",
+  "model": "glm-5.3"
+}

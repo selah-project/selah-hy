@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Եվ եղավ, երբ ավարտեց Մոշեն գրել ⟨את⟩ այս Թորայի խոսքերը գրքի վրա՝ մինչև նրանց ամբողջացումը։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "երբ ավարտեց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "գրել"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "խոսքերը"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "խոսքերը"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Թորայի"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "այս"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "գիրք"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ամբողջացումը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:49:21.546780694Z",
+  "model": "glm-5.3"
+}

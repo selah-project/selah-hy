@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 78,
+  "translation": "Եվ մերժեց Յոսեֆի վրանը, և Էֆրայիմի ցեղը չընտրեց։",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "Եվ մերժեց"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "վրանը"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Յոսեֆի"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "և ցեղը"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Էֆրայիմի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ընտրեց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:11:00.824581717Z",
+  "model": "glm-5.3"
+}

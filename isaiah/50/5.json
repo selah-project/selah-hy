@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 50,
+  "translation": "Ադոնայ Յահվեն բացավ իմ ականը, իսկ ես չապսամբեցի, ետ չքաշվեցի։",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "բացավ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "իմ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ականը"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "իսկ ես"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "ապսամբեցի"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ետ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "քաշվեցի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:34:17.293714143Z",
+  "model": "glm-5.3"
+}

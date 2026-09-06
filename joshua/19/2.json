@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Եվ եղավ նրանց ժառանգության մեջ Բեեր Շաբեն և Շաբեն, և Մոլադան։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "ժառանգության մեջ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Բեեր"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Շաբեն"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "և Շաբեն"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "և Մոլադան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:57:44.275861276Z",
+  "model": "glm-5.3"
+}

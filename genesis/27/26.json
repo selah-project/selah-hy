@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 27:26",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Եվ Իցխակը՝ հայրը, ասաց նրան. «Մոտ եկ այժմ և համբուրիր ինձ, որդի՛ս»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Իցխակը"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "հայրը"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "մոտ եկ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "այժմ"
+    },
+    {
+      "surface": "ושקה",
+      "gloss": "և համբուրիր"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդի՛ս"
+    }
+  ],
+  "timestamp": "2026-09-05T18:21:27.341375056Z",
+  "model": "glm-5.3"
+}

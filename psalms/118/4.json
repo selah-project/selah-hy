@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 118,
+  "translation": "Թո՛ղ ասեն Յահվեից վախեցողները՝ որ հավիտյան է իր խեսեդը։",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Թո՛ղ ասեն"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "վախեցողները"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեից"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "հավիտյան"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "իր խեսեդը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:41.211052721Z",
+  "model": "glm-5.3"
+}

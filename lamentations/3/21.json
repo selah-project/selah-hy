@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Սա ես շրջում եմ դեպի իմ սիրտը, հետևաբար հուսում եմ։",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Սա"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "շրջում եմ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "իմ սիրտը"
+    },
+    {
+      "surface": "על",
+      "gloss": "հետևաբար-ի համար"
+    },
+    {
+      "surface": "כן",
+      "gloss": "հետևաբար"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "հուսում եմ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:55.989828688Z",
+  "model": "glm-5.3"
+}

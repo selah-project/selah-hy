@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Մինչև որ Յահվեն նայի և տեսնի երկնքից։",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Մինչև որ"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "նայի"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "և տեսնի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "երկնքից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:47.375341669Z",
+  "model": "glm-5.3"
+}

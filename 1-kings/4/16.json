@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Բաանան՝ Խուշայի որդին՝ Աշերում և Ալոթում։",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "Բաանան"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Խուշայի"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "Աշերում"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "և Ալոթում"
+    }
+  ],
+  "timestamp": "2026-09-05T20:44:17.477597099Z",
+  "model": "glm-5.3"
+}

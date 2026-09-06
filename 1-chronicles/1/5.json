@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Յեֆեթի որդիները՝ Գոմեր, Մագոգ, Մադայ, Յավան, Տուվալ, Մեշեխ և Տիրաս։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Յեֆեթի"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Գոմեր"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "Մագոգ"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "Մադայ"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "Յավան"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "Տուվալ"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "Մեշեխ"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "Տիրաս"
+    }
+  ],
+  "timestamp": "2026-09-06T00:26:49.684498103Z",
+  "model": "glm-5.3"
+}

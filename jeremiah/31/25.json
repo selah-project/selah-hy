@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Քանի որ հագեցրեցի հոգնած նեֆեշը, և ամեն տառապող նեֆեշ լցրեցի։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "הרויתי",
+      "gloss": "հագեցրեցի"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "նեֆեշ"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "հոգնած"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "և ամեն"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "նեֆեշ"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "տառապող"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "լցրեցի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:53:40.225398701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 115,
+  "translation": "Ինչո՞ւ ասեն ազգերը՝ ո՞րտեղ է այժմ նրանց աստվածը։",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Ինչու"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ասեն"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ազգերը"
+    },
+    {
+      "surface": "איה",
+      "gloss": "որտեղ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "այժմ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "նրանց աստվածը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:07.911865121Z",
+  "model": "glm-5.3"
+}

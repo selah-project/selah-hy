@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Բեռը Յահվեի խոսքի Իսրայելի հանդեպ՝ Մալախիի ձեռքով։",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Բեռը"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "հանդեպ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ձեռքով"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Մալախիի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:51:31.220184270Z",
+  "model": "glm-5.3"
+}

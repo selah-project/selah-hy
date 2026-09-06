@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Եվ երևաց Յահվեն վրանում՝ ամպի սյունով, և կանգնեց ամպի սյունը վրանի մուտքի վրա։",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Եվ երևաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "վրանում"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "սյունով"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ամպի"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "և կանգնեց"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "սյունը"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ամպի"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "մուտքի"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "վրանի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:49:12.899564358Z",
+  "model": "glm-5.3"
+}

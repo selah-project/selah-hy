@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 28:2",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Երկաթ փոշուց վերցվում է, և քարից հալվում է պղինձը։",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "երկաթ"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "փոշուց"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "վերցվում է"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "և քարից"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "հալվում է"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "պղինձ"
+    }
+  ],
+  "timestamp": "2026-09-06T01:19:05.512395803Z",
+  "model": "glm-5.3"
+}

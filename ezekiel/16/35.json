@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Արդ, ո՛վ շնացող, լսի՛ր Յահվեի խոսքը.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Արդ"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "ո՛վ շնացող"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "լսի՛ր"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:14:20.608400361Z",
+  "model": "glm-5.3"
+}

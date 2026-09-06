@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Եվ եզ կամ ոչխար՝ ⟨את⟩ նրան և ⟨את⟩ նրա ձագը մեկ օրում չեք մորթի։",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "և եզ"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ոչխար"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ նրան",
+      "marks": "եզ կամ ոչխար"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "նրա ձագը"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա ձագը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չեք"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "մորթի"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրում"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:07:31.452263612Z",
+  "model": "glm-5.3"
+}

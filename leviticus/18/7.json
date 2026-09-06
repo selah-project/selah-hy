@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Հորդ մերկությունը և մորդ մերկությունը չես բացի․ նա քո մայրն է, չես բացի նրա մերկությունը։",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "մերկությունը"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "հորդ"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "և մերկությունը"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "մորդ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չես"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "բացի"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "մայրդ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չես"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "բացի"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "մերկությունը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:03:43.598022306Z",
+  "model": "glm-5.3"
+}

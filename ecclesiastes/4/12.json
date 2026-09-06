@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ եթե տիրանա մեկին, երկուսը կկանգնեն նրա դիմաց, իսկ եռակի ոլորված լարը շուտով չի պատռվի։",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "եվ եթե"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "տիրանա"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "մեկին"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "երկուսը"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "կկանգնեն"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "նրա դիմաց"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "իսկ լարը"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "եռակի ոլորված"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "במהרה",
+      "gloss": "շուտով"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "կպատռվի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:36.257859128Z",
+  "model": "glm-5.3"
+}

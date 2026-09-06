@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Թագավորը՝ դատաստանի գահին նստած, իր աչքերով ցրում է ամեն չարիք։",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "նստած"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "գահին"
+    },
+    {
+      "surface": "דין",
+      "gloss": "դատաստանի"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "ցրում է"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "իր աչքերով"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չարիք"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:08.060487127Z",
+  "model": "glm-5.3"
+}

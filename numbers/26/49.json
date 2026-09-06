@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 26:49",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Յեցերի՝ Յեցերի տոհմը, Շիլեմի՝ Շիլեմի տոհմը։",
+  "tokens": [
+    {
+      "surface": "ליצר",
+      "gloss": "Յեցերի"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "տոհմը"
+    },
+    {
+      "surface": "היצרי",
+      "gloss": "Յեցերի"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "Շիլեմի"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "տոհմը"
+    },
+    {
+      "surface": "השלמי",
+      "gloss": "Շիլեմի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:26:02.656224753Z",
+  "model": "glm-5.3"
+}

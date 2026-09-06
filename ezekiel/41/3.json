@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 41:3",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 41,
+  "translation": "Եվ ներս մտավ և չափեց մուտքի սյան՝ երկու գազ, և մուտքը՝ վեք գազ, և մուտքի լայնությունը՝ յոթ գազ։",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "մտավ"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "ներս"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "չափեց"
+    },
+    {
+      "surface": "איל",
+      "gloss": "սյան"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "մուտքի"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "երկու"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "գազ"
+    },
+    {
+      "surface": "והפתח",
+      "gloss": "և մուտքը"
+    },
+    {
+      "surface": "שש",
+      "gloss": "վեք գազ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "գազ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "և լայնությունը"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "մուտքի"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "գազ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:27:29.612027492Z",
+  "model": "glm-5.3"
+}

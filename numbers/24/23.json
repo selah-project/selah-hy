@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 24:23",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Եվ բարձրացրեց իր մաշալը, և ասաց՝ վա՜յ, ո՞վ կապրի, երբ Էլը դա դնի։",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Եվ բարձրացրեց"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "իր մաշալը"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "վա՜յ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "կապրի"
+    },
+    {
+      "surface": "משמו",
+      "gloss": "դա դնի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:25:24.580101310Z",
+  "model": "glm-5.3"
+}

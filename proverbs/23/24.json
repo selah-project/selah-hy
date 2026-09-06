@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 23:24",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Ուրախությամբ կուրախանա արդարի հայրը, իմաստուն ծնողը կցնծա նրանում։",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "ուրախությամբ"
+    },
+    {
+      "surface": "יגול",
+      "gloss": "կուրախանա"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "հայրը"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "արդարի"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "ծնողը"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "իմաստուն"
+    },
+    {
+      "surface": "וישמח",
+      "gloss": "և կցնծա"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրանում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:32.266073370Z",
+  "model": "glm-5.3"
+}

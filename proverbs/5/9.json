@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 5:9",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Գուցե տաս օտարներին քո փառքը, և քո տարիները՝ դաժանին։",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "գուցե"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "տաս"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "օտարներին"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "քո փառքը"
+    },
+    {
+      "surface": "ושנתיך",
+      "gloss": "և քո տարիները"
+    },
+    {
+      "surface": "לאכזרי",
+      "gloss": "դաժանին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:27.234104949Z",
+  "model": "glm-5.3"
+}

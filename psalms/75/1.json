@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 75,
+  "translation": "Երգչախմբի ղեկավարին՝ «Մի՛ կործանիր», Ասաֆի մաղմուր, երգ։",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "երգչախմբի ղեկավարին"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "կործանիր"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "մաղմուր"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Ասաֆի"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "երգ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:10:24.446251721Z",
+  "model": "glm-5.3"
+}

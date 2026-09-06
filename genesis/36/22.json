@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 36:22",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 36,
+  "translation": "Եվ եղան Լոտանի որդիները՝ Խորին և Հեյմամ, և Լոտանի քույրը՝ Թիմնան։",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "եվ եղան"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Լոտանի"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "Խորի"
+    },
+    {
+      "surface": "והימם",
+      "gloss": "և Հեյմամ"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "և քույրը"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Լոտանի"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Թիմնան"
+    }
+  ],
+  "timestamp": "2026-09-05T18:24:30.542240324Z",
+  "model": "glm-5.3"
+}

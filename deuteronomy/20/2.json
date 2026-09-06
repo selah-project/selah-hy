@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Եվ երբ մոտենաք մարտին, քահանան մոտեցնի և խոսի ժողովրդի հետ։",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Եվ երբ լինի"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "մոտենաք"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "մարտը"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "մոտեցնի"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "քահանան"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "և խոսի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովրդի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:42:11.236223787Z",
+  "model": "glm-5.3"
+}

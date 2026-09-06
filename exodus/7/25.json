@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եև լրացան յոթ օր՝ Յահվեի ⟨את⟩ գետը հարվածելուց հետո։",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "և լրացան"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "հետո"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "հարվածելուց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "գետը"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "գետը"
+    }
+  ],
+  "timestamp": "2026-09-05T18:37:31.730931677Z",
+  "model": "glm-5.3"
+}

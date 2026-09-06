@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 4:43",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ հարվածեցին ⟨את⟩ փրկվածների մնացորդը՝ Ամալեկի, և բնակվեցին այնտեղ մինչ այս օրը։",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "հարվածեցին"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "մնացորդը"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "մնացորդը"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "փրկվածների"
+    },
+    {
+      "surface": "לעמלק",
+      "gloss": "Ամալեկի"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "բնակվեցին"
+    },
+    {
+      "surface": "שם",
+      "gloss": "այնտեղ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-06T00:28:52.151405299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 79,
+  "translation": "Մինչև ե՞րձ, Յահվե՛, կբարկաս հավետ, կայրվի՞ ինչպես կրակ քո խանդը։",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ե՞րձ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "կբարկաս"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "հավետ"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "կայրվի՞"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ինչպես"
+    },
+    {
+      "surface": "אש",
+      "gloss": "կրակ"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "քո խանդը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:12:20.516584506Z",
+  "model": "glm-5.3"
+}

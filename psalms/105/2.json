@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 105,
+  "translation": "Շարականեք նրան, երգեք նրան, խոսեք նրա բոլոր հրաշքների մասին։",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Շարականեք"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "երգեք"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "խոսեք"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "նրա բոլոր"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "հրաշքների մասին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:17:52.635068481Z",
+  "model": "glm-5.3"
+}

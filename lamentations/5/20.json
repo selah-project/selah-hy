@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Ինչո՞ւ հավերժ ես մոռանում մեզ, թողնո՞ւմ ես մեզ երկար օրերի համար։",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Ինչո՞ւ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "հավերժ"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "մոռանում ես մեզ"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "թողնում ես մեզ"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "երկար"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օրերի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:58:58.597759973Z",
+  "model": "glm-5.3"
+}

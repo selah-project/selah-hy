@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "և նրանից հետո՝ Գաբայ, Սալլայ՝ ինը հարյուր քսան ու ութ։",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "և նրանից հետո"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "Գաբայ"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "Սալլայ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ինը"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "քսան"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "և ութ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:25:19.538521218Z",
+  "model": "glm-5.3"
+}

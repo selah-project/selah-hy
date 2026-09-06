@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 121,
+  "translation": "Ցերեկ արևը քեզ չի հարվածի, և լուսինը՝ գիշերը։",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ցերեկ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "արևը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "կհարվածի քեզ"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "և լուսինը"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "գիշերը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:23:52.230380764Z",
+  "model": "glm-5.3"
+}

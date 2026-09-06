@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Հովսեփի ցեղից՝ Մենաշեի ցեղից՝ Գադին, Սուսիի որդին։",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ցեղից"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Հովսեփի"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ցեղից"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Մենաշեի"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Գադին"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "Սուսիի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:18:05.420712604Z",
+  "model": "glm-5.3"
+}

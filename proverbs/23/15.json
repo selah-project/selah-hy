@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 23:15",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Որդի՛ս, եթե իմաստուն լինի քո սիրտը, կուրախանա իմ սիրտը՝ ա՛յն է՝ նույնպես ես։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդի՛ս"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "իմաստուն լինի"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "քո սիրտը"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "կուրախանա"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "իմ սիրտը"
+    },
+    {
+      "surface": "גם",
+      "gloss": "նույնպես"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:22.452228260Z",
+  "model": "glm-5.3"
+}

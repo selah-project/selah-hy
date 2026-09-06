@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Մի՛ երկնես նրանց երեսից, որովհետև Յահվե՝ քո Էլոհիմը, քո մեջ է՝ Էլ մեծ և սարսափելի։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "երկնես"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "նրանց երեսից"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "քո Էլոհիմը"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "քո մեջ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "և սարսափելի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:35:34.167417872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Եվ դրեց Մոշեն ⟨את⟩ գավաթները Յահվեի առջև՝ վկայության վրանում։",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "և դրեց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "գավաթները"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "գավաթները"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "վրանում"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "վկայության"
+    }
+  ],
+  "timestamp": "2026-09-05T19:20:49.169661486Z",
+  "model": "glm-5.3"
+}

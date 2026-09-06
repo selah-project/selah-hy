@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 35:13",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 35,
+  "translation": "Արդ, ապարդյունը Էլ-ը չի լսի, և Շադայ-ը չի դիտի այն։",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Արդ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ապարդյունը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "լսի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլ-ը"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "և Շադայ-ը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "դիտի այն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:49:46.513648457Z",
+  "model": "glm-5.3"
+}

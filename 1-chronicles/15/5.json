@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 15:5",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Կեհատի որդիներից՝ Ուրիելը իշխանը և նրա եղբայրները՝ հարյուր քսան։",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "որդիներից"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Կեհատի"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "Ուրիելը"
+    },
+    {
+      "surface": "השר",
+      "gloss": "իշխանը"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "և նրա եղբայրները"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "քսան"
+    }
+  ],
+  "timestamp": "2026-09-06T00:33:04.480358491Z",
+  "model": "glm-5.3"
+}

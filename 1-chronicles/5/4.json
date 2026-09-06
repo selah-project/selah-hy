@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 5:4",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Յոելի որդիները՝ Շմայան իր որդին, Գոգը իր որդին, Շիմին իր որդին։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Յոելի"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Շմայան"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "իր որդին"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "Գոգը"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "իր որդին"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Շիմին"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "իր որդին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:11.676067687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Այն ժամանակ անջատեց Մոշեն (Մովսես) երեք քաղաք Հորդանանի այն կողմում՝ դեպի արևածագ։",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Այն ժամանակ"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "անջատեց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "քաղաք"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "այն կողմում"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Հորդանանի"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "դեպի արևածագ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "արև"
+    }
+  ],
+  "timestamp": "2026-09-05T19:34:28.544190848Z",
+  "model": "glm-5.3"
+}

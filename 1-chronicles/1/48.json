@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 1:48",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ մահացավ Սամլան, և նրա փոխարեն թագավորեց Շաուլը՝ գետի Ռեխովոտից։",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Եվ մահացավ"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "Սամլան"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "և թագավորեց"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "նրա փոխարեն"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Շաուլը"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "Ռեխովոտից"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "գետի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:07.831197583Z",
+  "model": "glm-5.3"
+}

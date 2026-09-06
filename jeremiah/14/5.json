@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Որովհետև նույնիսկ երջերուն դաշտում ծնեց և լքեց ⟨նորածնին⟩, որովհետև խոտ չկար։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "גם",
+      "gloss": "նույնիսկ"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "երջերուն"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "դաշտում"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "և լքեց"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "կար"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "խոտ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:46:02.269032253Z",
+  "model": "glm-5.3"
+}

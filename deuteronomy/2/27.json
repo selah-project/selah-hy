@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Թող անցնեմ քո երկրով՝ ճանապարհով, ճանապարհով կգնամ, աջ և ձախ չեմ շեղվի․",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "Թող անցնեմ"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "քո երկրով"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ճանապարհով"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ճանապարհով"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "կգնամ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "կշեղվեմ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "աջ"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "և ձախ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:32:47.135868742Z",
+  "model": "glm-5.3"
+}

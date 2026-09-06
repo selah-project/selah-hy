@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 47,
+  "translation": "Եվ օրհնեց Յաակովը ⟨את⟩ Փարօհին և դուրս եկավ Փարօհի երեսից։",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Եվ օրհնեց"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Յաակովը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Փարօհին"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Փարօհին"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "և դուրս եկավ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "երեսից"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Փարօհի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:32:16.989484632Z",
+  "model": "glm-5.3"
+}

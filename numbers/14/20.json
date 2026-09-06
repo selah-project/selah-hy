@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 14:20",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ ասաց Յահվեն. «Ներել եմ՝ ըստ քո խոսքի։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "סלחתי",
+      "gloss": "Ներել եմ"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ըստ քո խոսքի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:19:06.690678846Z",
+  "model": "glm-5.3"
+}

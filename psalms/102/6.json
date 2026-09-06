@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 102,
+  "translation": "Իմ հառաչանքի ձայնից կպավ իմ ոսկորը իմ մաշկին։",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ձայնից"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "իմ հառաչանքի"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "կպավ"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "իմ ոսկորը"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "իմ մաշկին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:15:49.518675988Z",
+  "model": "glm-5.3"
+}

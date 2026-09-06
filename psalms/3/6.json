@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Ես պառկեցի և քնեցի, արթնացա, քանի որ Յահվեն ինձ պահում է։",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ես"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "պառկեցի"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "և քնեցի"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "արթնացա"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "ինձ պահում է"
+    }
+  ],
+  "timestamp": "2026-09-05T22:52:20.579461157Z",
+  "model": "glm-5.3"
+}

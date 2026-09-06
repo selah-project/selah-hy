@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ ոսկեպատեց ⟨את⟩ քերուբներին ոսկով։",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "և ոսկեպատեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "քերուբներին"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "քերուբներին"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ոսկով"
+    }
+  ],
+  "timestamp": "2026-09-05T20:46:41.609730628Z",
+  "model": "glm-5.3"
+}

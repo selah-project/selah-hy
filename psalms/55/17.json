@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 55,
+  "translation": "Ես դեպի Էլոհիմ կկանչեմ, և Յահվեն կփրկի ինձ։",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ես"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "կկանչեմ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "և Յահվեն"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "կփրկի ինձ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:05:25.970641900Z",
+  "model": "glm-5.3"
+}

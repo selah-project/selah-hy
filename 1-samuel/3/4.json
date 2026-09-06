@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ կանչեց Յահվեն Շմուելին, և նա ասաց՝ ահա ես։",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "և կանչեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Շմուելին"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ահա ես"
+    }
+  ],
+  "timestamp": "2026-09-05T20:14:49.277318673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 18:9",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Երբ գաս դեպի այն երկիրը, որ Յահվե Էլոհիմդ քեզ տալիս է, մի՛ սովորիր անել ըստ այն ազգերի զզվանքների։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Երբ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "בא",
+      "gloss": "գաս"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Էլոհիմդ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "տալիս է"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תלמד",
+      "gloss": "սովորիր"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "անել"
+    },
+    {
+      "surface": "כתועבת",
+      "gloss": "ըստ զզվանքների"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "այն ազգերի"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "այն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:41:11.064765530Z",
+  "model": "glm-5.3"
+}

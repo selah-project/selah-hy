@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "lamentations 3:61",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Լսել ես նրանց պիտակը՝ Յահվե, նրանց բոլոր մտադրություններն իմ դեմ։",
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "Լսել ես"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "նրանց պիտակը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "մտադրություններները"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "իմ դեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:41.539569900Z",
+  "model": "glm-5.3"
+}

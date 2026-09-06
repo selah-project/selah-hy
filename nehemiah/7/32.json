@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Բեթ-Էլի և Հա-Այի մարդիկ՝ հարյուր քսան և երեք։",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "մարդիկ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Բեթ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլի"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "և Հա-Այի"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "քսան"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "և երեք"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:41.378407095Z",
+  "model": "glm-5.3"
+}

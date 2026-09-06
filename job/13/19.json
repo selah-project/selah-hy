@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 13:19",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Ո՞վ է նա, որ կվիճի ինձ հետ, որովհետև այժմ՝ ես կլռեմ և կմեռնեմ։",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ո՞վ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "է նա"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "կվիճի"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ինձ հետ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "այժմ"
+    },
+    {
+      "surface": "אחריש",
+      "gloss": "ես կլռեմ"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "և կմեռնեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:42:45.091555974Z",
+  "model": "glm-5.3"
+}

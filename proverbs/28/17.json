@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Մարդ, ճնշված արյամբ ⟨մի⟩ նեֆեշի, մինչև փոսը փախչի՝ թող ոչ մեկ պահի նրան։",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ճնշված"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "արյամբ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "նեֆեշի"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "בור",
+      "gloss": "փոսը"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "փախչի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "թող ոչ"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "պահի"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:50.584826194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 4:15",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ ոգի մը անցավ իմ երեսի առջև. մարմնիս մազերը կանգնեցան։",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "և ոգի մը"
+    },
+    {
+      "surface": "על",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "פני",
+      "gloss": "իմ երեսի"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "անցավ"
+    },
+    {
+      "surface": "תסמר",
+      "gloss": "կանգնեցան"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "մազերը"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "մարմնիս"
+    }
+  ],
+  "timestamp": "2026-09-05T23:39:19.344182748Z",
+  "model": "glm-5.3"
+}

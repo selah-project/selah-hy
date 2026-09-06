@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 29:11",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Մարդու ոտք չի անցնի դրանով, և գազանի ոտք չի անցնի դրանով, և չի բնակվի քառասուն տարի։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "կանցնի"
+    },
+    {
+      "surface": "בה",
+      "gloss": "դրանով"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ոտք"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "ורגל",
+      "gloss": "և ոտք"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "գազանի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "կանցնի"
+    },
+    {
+      "surface": "בה",
+      "gloss": "դրանով"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "կբնակվի"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "քառասուն"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:16:49.278432392Z",
+  "model": "glm-5.3"
+}

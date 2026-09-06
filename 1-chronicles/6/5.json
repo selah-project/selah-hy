@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Գերշոմին՝ Լիբնին նրա որդին, Յախատը նրա որդին, Զիմման նրա որդին։",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "Գերշոմին"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Լիբնին"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Յախատը"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "Զիմման"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:27.240908754Z",
+  "model": "glm-5.3"
+}

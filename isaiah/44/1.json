@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 44,
+  "translation": "Իսկ հիմա լսի՛ր, Յաակով (Հակոբ) ծառայս, և Իսրայել, որին ընտրեց ես։",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "իսկ հիմա"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "լսի՛ր"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Յաակով"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ծառայս"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "և Իսրայել"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ընտրեց ես"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T21:30:51.810658831Z",
+  "model": "glm-5.3"
+}

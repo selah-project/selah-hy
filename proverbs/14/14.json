@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 14:14",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Իր ճանապարհներից կհագենա ետ քաշվող սիրտը, իսկ բարի մարդը՝ իր վրայից։",
+  "tokens": [
+    {
+      "surface": "מדרכיו",
+      "gloss": "իր ճանապարհներից"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "կհագենա"
+    },
+    {
+      "surface": "סוג",
+      "gloss": "ետ քաշվող"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սիրտ"
+    },
+    {
+      "surface": "ומעליו",
+      "gloss": "և իր վրայից"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "բարի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:32:04.789289525Z",
+  "model": "glm-5.3"
+}

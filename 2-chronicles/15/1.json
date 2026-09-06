@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Եվ Ազարյահու՝ Օդեդի որդու վրա եղավ Էլոհիմի հոգին։",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "Եվ Ազարյահու"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդու"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "Օդեդի"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "հոգին"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:46:17.113956904Z",
+  "model": "glm-5.3"
+}

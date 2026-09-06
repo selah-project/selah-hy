@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ ասաց Կայինը Յահվեին՝ մեծ է իմ ապականությունը՝ ⟨այն կրելուց⟩։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Կայինը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ին"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "մեծ է"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "իմ ապականությունը"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "⟨այն կրելուց⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T18:08:48.403274873Z",
+  "model": "glm-5.3"
+}

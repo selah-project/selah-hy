@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ նստաք Կադեշում օրեր շատ՝ այն օրերի պես, որ նստեցիք այնտեղ։",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "և նստաք"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "Կադեշում"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օրեր"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "շատ"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "այն օրերի պես"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "նստեցիք"
+    }
+  ],
+  "timestamp": "2026-09-05T19:31:11.594251094Z",
+  "model": "glm-5.3"
+}

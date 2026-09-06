@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 2:19",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ մեռավ Ազուբահը, և վերցրեց իրեն Կալեբը ⟨את⟩ Էֆրաթին, և ծնեց նրան ⟨את⟩ Խուրին։",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "Եվ մեռավ"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Ազուբահը"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "և վերցրեց"
+    },
+    {
+      "surface": "לו",
+      "gloss": "իրեն"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Կալեբը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Էֆրաթին"
+    },
+    {
+      "surface": "אפרת",
+      "gloss": "Էֆրաթին"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "և ծնեց"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Խուրին"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Խուրին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:43.403718726Z",
+  "model": "glm-5.3"
+}

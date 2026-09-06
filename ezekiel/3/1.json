@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ ասաց ինձ՝ «Մարդու որդի, ⟨את⟩ այն, ինչ գտնես՝ կեր, կեր ⟨את⟩ այս գլանը, և արի՛ խոսիր Իսրայելի տանը»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այն, ինչ գտնես"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "այն, ինչ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "գտնես"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "կեր"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "կեր"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այս գլանը"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "գլանը"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "այս"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "և արի՛"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսիր"
+    },
+    {
+      "surface": "אל",
+      "gloss": "առ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տանը"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:09:09.419299402Z",
+  "model": "glm-5.3"
+}

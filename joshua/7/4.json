@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 7:4",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ բարձրացան ժողովրդից այնտեղ երեք հազար մարդ, և փախան Հայի մարդկանց առջևից։",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "և բարձրացան"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ծ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովրդի"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "այնտեղ"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "հազար"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "և փախան"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջևից"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "մարդկանց"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Հայի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:54:20.961870708Z",
+  "model": "glm-5.3"
+}

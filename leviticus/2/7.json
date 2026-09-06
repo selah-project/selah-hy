@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ եթե քո ընծան տապակի մատուցում է՝ ծեծած ալյուր ձեթով պիտի արվի։",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Եվ եթե"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "մատուցում"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "տապակի"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "քո ընծա"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ծեծած ալյուր"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ձեթով"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "պիտի արվի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:50:15.496608198Z",
+  "model": "glm-5.3"
+}

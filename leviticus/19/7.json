@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Եվ եթե երրորդ օրը իսկապես ուտվի՝ պիգուլ է այն, չի ընդունվի։",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Եվ եթե"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "ուտվելը (իսկապես)"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ուտվի"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "երրորդ"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "պիգուլ (պղտոր բան)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "կընդունվի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:05:41.702939397Z",
+  "model": "glm-5.3"
+}

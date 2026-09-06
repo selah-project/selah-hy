@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 8:31",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ Գեդորը, և Ախիոն, և Զախերը։",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "Եվ Գեդորը"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "և Ախիոն"
+    },
+    {
+      "surface": "וזכר",
+      "gloss": "և Զախերը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:52.659413594Z",
+  "model": "glm-5.3"
+}

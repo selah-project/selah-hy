@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 77,
+  "translation": "Կհիշեմ Յահի գործերը, որովհետև կհիշեմ նախապես քո հրաշքները։",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "կհիշեմ"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "գործերը"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Յահի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "կհիշեմ"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "նախապես"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "քո հրաշքները"
+    }
+  ],
+  "timestamp": "2026-09-05T23:09:39.844711754Z",
+  "model": "glm-5.3"
+}

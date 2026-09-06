@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Ռեայայի որդիները, Ռեցինի որդիները, Նեքոդայի որդիները։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "Ռեայա"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Ռեցին"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "Նեքոդա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:31.684807550Z",
+  "model": "glm-5.3"
+}

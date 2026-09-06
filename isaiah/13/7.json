@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Դրա համար ամեն ձեռք կթուլանա, և մահկանացուի ամեն սիրտ կհալվի։",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ծառայական"
+    },
+    {
+      "surface": "כן",
+      "gloss": "դրա համար"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ձեռք"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "կթուլանա"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "և ամեն"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "սիրտ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "մահկանացուի"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "կհալվի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:17:06.574427032Z",
+  "model": "glm-5.3"
+}

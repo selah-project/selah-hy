@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 18:21",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Մահ և կյանք լեզվի ձեռքին ⟨են⟩, և նրան սիրողները կուտեն նրա պտուղը։",
+  "tokens": [
+    {
+      "surface": "מות",
+      "gloss": "Մահ"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "և կյանք"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ձեռքին"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "լեզվի"
+    },
+    {
+      "surface": "ואהביה",
+      "gloss": "և նրան սիրողները"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "կուտեն"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "նրա պտուղը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:01.046223528Z",
+  "model": "glm-5.3"
+}

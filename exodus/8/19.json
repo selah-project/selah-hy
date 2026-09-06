@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 8:19",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ առանձնացում կդնեմ իմ ժողովրդի և քո ժողովրդի միջև՝ վաղը այս նշանը կլինի։",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "և կդնեմ"
+    },
+    {
+      "surface": "פדת",
+      "gloss": "առանձնացում"
+    },
+    {
+      "surface": "בין",
+      "gloss": "միջև"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "իմ ժողովրդի"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "և միջև"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "քո ժողովրդի"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "վաղը"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "կլինի"
+    },
+    {
+      "surface": "האת",
+      "gloss": "նշանը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-06T02:02:20.392180935Z",
+  "model": "glm-5.3"
+}

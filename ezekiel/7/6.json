@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Ավարտը եկավ, եկավ ավարտը, արթնացավ քո դեմ, ահա գալիս է։",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "Ավարտը"
+    },
+    {
+      "surface": "בא",
+      "gloss": "եկավ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "եկավ"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "ավարտը"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "արթնացավ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "քո դեմ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "באה",
+      "gloss": "գալիս է"
+    }
+  ],
+  "timestamp": "2026-09-05T22:08:32.086189804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "և նա դուրս գա նրա տնից, և գնա ու լինի ուրիշ մարդու ⟨կին⟩։",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "և դուրս գա"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "նրա տնից"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "և գնա"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "և լինի"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ուրիշ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:45:03.902851173Z",
+  "model": "glm-5.3"
+}

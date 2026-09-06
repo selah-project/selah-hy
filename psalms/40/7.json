@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 40,
+  "translation": "Զոհ և ընծա չցանկացրեցիր, ականք փորեցիր ինձ համար, ոստք և մեղքի զոհ չխնդրեցիր։",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Զոհ"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "և ընծա"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "ցանկացրեցիր"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "ականք"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "փորեցիր"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ համար"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ոստք"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "և մեղքի զոհ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "խնդրեցիր"
+    }
+  ],
+  "timestamp": "2026-09-05T23:02:39.322786642Z",
+  "model": "glm-5.3"
+}

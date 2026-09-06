@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Նաև այս ⟨առակները⟩ Շլոմոյի են, որ պատճենեցին Խիզկիյա թագավոր Յեհուդայի մարդիկ։",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Նաև"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "առակները"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Շլոմոյի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "պատճենեցին"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "մարդիկ"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Խիզկիյա"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավոր"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Յեհուդայի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:29.003949152Z",
+  "model": "glm-5.3"
+}

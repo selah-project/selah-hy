@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Արախի որդիները՝ յոթ հարյուր հիսուն հինգ։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները՝"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Արախի"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "հիսուն հինգ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "և յոթանասուն"
+    }
+  ],
+  "timestamp": "2026-09-06T00:14:47.506371974Z",
+  "model": "glm-5.3"
+}

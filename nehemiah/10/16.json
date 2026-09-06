@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 10:16",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Բունի, Ազգադ, Բեվայ։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Բունի"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Ազգադ"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "Բեվայ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:25:05.095623693Z",
+  "model": "glm-5.3"
+}

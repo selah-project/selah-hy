@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 44,
+  "translation": "և կծաղկեն խոտերի մեջ, ինչպես ուռենիներ՝ ջրի առվակների վրա։",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "և կծաղկեն"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "մեջ"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "խոտերի"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "ինչպես ուռենիներ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "առվակների"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջրի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:30:51.811282286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 33,
+  "translation": "Եվ ասաց Էսավը՝ կա ինձ առատություն, եղբայր իմ. թող լինի քեզ, ինչ որ քոնն է։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Էսավը"
+    },
+    {
+      "surface": "יש",
+      "gloss": "կա"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "առատություն"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "եղբայր իմ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "թող լինի"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ինչ որ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քոնն է"
+    }
+  ],
+  "timestamp": "2026-09-05T18:23:22.033912308Z",
+  "model": "glm-5.3"
+}

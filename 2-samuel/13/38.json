@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 13:38",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Եվ Ավշալոմ փախավ և գնաց Գեշուր, և եղավ այնտեղ երեք տարի։",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Եվ Ավշալոմ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "փախավ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "և գնաց"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Գեշուր"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "և եղավ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "այնտեղ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "տարի"
+    }
+  ],
+  "timestamp": "2026-09-05T20:34:26.368049665Z",
+  "model": "glm-5.3"
+}

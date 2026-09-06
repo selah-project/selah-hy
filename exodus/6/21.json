@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ Յիցհարի որդիներն էին՝ Կորախ, Նեֆեգ և Զիխրի։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "և որդիներն"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Յիցհարի"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Կորախ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "և Նեֆեգ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "և Զիխրի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:56:54.396137204Z",
+  "model": "glm-5.3"
+}

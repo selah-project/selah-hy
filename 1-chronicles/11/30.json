@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Մահարայ Նետոֆացին, Խելեդ՝ Բաանայի որդին, Նետոֆացին։",
+  "tokens": [
+    {
+      "surface": "מהרי",
+      "gloss": "Մահարայ"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "Նետոֆացին"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "Խելեդ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "Բաանայի"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "Նետոֆացին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:31:49.135050824Z",
+  "model": "glm-5.3"
+}

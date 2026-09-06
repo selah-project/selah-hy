@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Լավ է աղքատ ու իմաստուն երեխան, քան ծեր ու հիմար թագավորը, որ այլևս չգիտի զգուշանալ։",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "լավ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "երեխա"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "աղքատ"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "և իմաստուն"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "քան թագավորը"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ծեր"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "և հիմար"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "գիտի"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "զգուշանալ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "այլևս"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:45.922160821Z",
+  "model": "glm-5.3"
+}

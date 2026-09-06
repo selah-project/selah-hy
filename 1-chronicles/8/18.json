@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "և Իշմերայ, և Իզլիյա, և Յովավ՝ Էլպաալի որդիները։",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "և Իշմերայ"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "և Իզլիյա"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "և Յովավ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Էլպաալի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:26.253742593Z",
+  "model": "glm-5.3"
+}

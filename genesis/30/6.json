@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 30:6",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Եվ ասաց Ռախելը. «Դատեց ինձ Էլոհիմը, և նաև լսեց իմ ձայնը և տվեց ինձ որդի»։ Դրա համար կոչեց նրա անունը Դան։",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "եվ ասաց"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Ռախելը"
+    },
+    {
+      "surface": "דנני",
+      "gloss": "դատեց ինձ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "և նաև"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "լսեց"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "իմ ձայնը"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "և տվեց"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "על",
+      "gloss": "դրա"
+    },
+    {
+      "surface": "כן",
+      "gloss": "համար"
+    },
+    {
+      "surface": "קראה",
+      "gloss": "կոչեց"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "նրա անունը"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Դան"
+    }
+  ],
+  "timestamp": "2026-09-05T18:21:39.718624570Z",
+  "model": "glm-5.3"
+}

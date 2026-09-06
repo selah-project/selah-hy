@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 20:18",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Ինչո՞ւ սա արգանդից ելա, տեսնելու ճգնաժամ և վիշտ, և ամոթի մեջ լրացան իմ օրերը։",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ինչո՞ւ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "սա"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "արգանդից"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "ելա"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "տեսնելու"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ճգնաժամ"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "և վիշտ"
+    },
+    {
+      "surface": "ויכלו",
+      "gloss": "և լրացան"
+    },
+    {
+      "surface": "בבשת",
+      "gloss": "ամոթի մեջ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "իմ օրերը"
+    }
+  ],
+  "timestamp": "2026-09-05T21:47:30.178139980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 9:17",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ թագավորը արեց մեծ փղոսկրե գահ և պատեց այն մաքուր ոսկով։",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "և արեց"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "գահ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "փղոսկր"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "և պատեց ⟨այն⟩"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ոսկով"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "մաքուր"
+    }
+  ],
+  "timestamp": "2026-09-06T00:43:48.071788072Z",
+  "model": "glm-5.3"
+}

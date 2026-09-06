@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 49:16",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 49,
+  "translation": "Դան կդատի իր ժողովուրդը, Իսրայելի ցեղերից մեկի պես։",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Դան"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "կդատի"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "իր ժողովուրդը"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "մեկի պես"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ցեղերից"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:33:15.439536142Z",
+  "model": "glm-5.3"
+}

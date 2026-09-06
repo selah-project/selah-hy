@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Որդի՛ս, իմ Թորան մի՛ մոռացիր, և իմ պատվիրանները թող քո սիրտը պահի։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիս"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "իմ Թորան"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "մոռացիր"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "և իմ պատվիրանները"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "պահի"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "քո սիրտը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:05.379600679Z",
+  "model": "glm-5.3"
+}

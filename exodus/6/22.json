@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ Ուզիելի որդիները՝ Միշաելը, Էլցաֆանը և Սիթրին։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Եվ որդիները"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Ուզիելի"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Միշաելը"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "և Էլցաֆանը"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "և Սիթրին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:35:12.408802147Z",
+  "model": "glm-5.3"
+}

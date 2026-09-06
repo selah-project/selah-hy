@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Դու, Յահվե, հավերժ ես նստում, քո գահը՝ սերնդից սերունդ։",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Դու"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "հավերժ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ես նստում"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "քո գահը"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "սերնդից"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "սերունդ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:58:58.597648850Z",
+  "model": "glm-5.3"
+}

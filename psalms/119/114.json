@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 114,
+  "ref": "psalms 119:114",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Իմ ապաստանը և իմ վահանը ⟨ես⟩ դու, քո խոսքին՝ սպասեցի։",
+  "tokens": [
+    {
+      "surface": "סתרי",
+      "gloss": "Իմ ապաստանը"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "և իմ վահանը"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "քո խոսքին"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "սպասեցի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:23:04.030343850Z",
+  "model": "glm-5.3"
+}

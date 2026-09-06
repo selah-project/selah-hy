@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Որդի՛, պահիր հորդ պատվիրանը, և մորդ Թորան մի՛ թող։",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "պահիր"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Որդի՛"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "պատվիրանը"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "հորդ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և մի՛"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "թող"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Թորան"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "մորդ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:29:46.446751669Z",
+  "model": "glm-5.3"
+}

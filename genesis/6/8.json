@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Իսկ Նոյեն բարեհաճություն գտավ Յահվեի աչքերում։",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "իսկ Նոյեն"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "գտավ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "բարեհաճություն"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "աչքերում"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:10:19.566707474Z",
+  "model": "glm-5.3"
+}

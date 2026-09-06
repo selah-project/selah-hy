@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "և Խածար Շուալը, և Բալան, և Ածեմը։",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "և Խածար"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "Շուալը"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "և Բալան"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "և Ածեմը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:57:44.276011517Z",
+  "model": "glm-5.3"
+}

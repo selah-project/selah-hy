@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Եկավ Էլոհիմ Բիլամի մոտ և ասաց՝ ովքե՞ր են այդ մարդիկ քո հետ։",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Եկավ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Բիլամի"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ովքե՞ր"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "մարդիկ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "քո հետ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:23:48.032769540Z",
+  "model": "glm-5.3"
+}

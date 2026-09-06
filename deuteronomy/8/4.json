@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Քո զգեստը չմաշվեց քո վրայից, և քո ոտքը չուռեց այս քառասուն տարին։",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "քո զգեստը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "մաշվեց"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "քո վրայից"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "և քո ոտքը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "ուռեց"
+    },
+    {
+      "surface": "זה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "քառասուն"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:38:12.753573748Z",
+  "model": "glm-5.3"
+}

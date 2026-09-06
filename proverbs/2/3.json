@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Այո, եթե բինային կանչես, թևունային քո ձայնը տաս․",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Այո, եթե"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "բինա"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "կանչես"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "թևունային"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "տաս"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "քո ձայնը"
+    }
+  ],
+  "timestamp": "2026-09-06T01:18:11.423497696Z",
+  "model": "glm-5.3"
+}

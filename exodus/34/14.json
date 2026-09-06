@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 34:14",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 34,
+  "translation": "քանի որ մի՛ երկրպագես այլ Էլի, քանի որ Յահվեն՝ Նախանձողն է իր անունը, Նախանձող Էլ է նա։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "երկրպագես"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "այլ Էլի"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "այլ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "Նախանձող"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "իր անունը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլ"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "Նախանձող"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    }
+  ],
+  "timestamp": "2026-09-05T18:51:31.123764575Z",
+  "model": "glm-5.3"
+}

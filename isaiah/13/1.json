@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Բեռ Բաբելի՝ որ տեսավ Յեշայահուն՝ Ամոցի որդին։",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Բեռ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Բաբելի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "տեսավ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Յեշայահուն"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Ամոցի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:18:38.910808458Z",
+  "model": "glm-5.3"
+}

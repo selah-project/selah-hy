@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 28:7",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Ուղի, որ չգիտեց գիշատիչ թռչունը, և չտեսավ այն բազեի աչքը։",
+  "tokens": [
+    {
+      "surface": "נתיב",
+      "gloss": "ուղի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "գիտեց"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "գիշատիչ թռչունը"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "տեսավ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "աչքը"
+    },
+    {
+      "surface": "איה",
+      "gloss": "բազեի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:47:08.800508358Z",
+  "model": "glm-5.3"
+}

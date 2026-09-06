@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եվ պատասխանեն ու ասեն. «Մեր ձեռքերը չեն թափել ⟨את⟩ այս արյունը, և մեր աչքերը չեն տեսել»։",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "Եվ պատասխանեն"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ու ասեն"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "Մեր ձեռքերը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չեն"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "թափել"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այս արյունը"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "արյունը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "և մեր աչքերը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չեն"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "տեսել"
+    }
+  ],
+  "timestamp": "2026-09-05T19:42:26.915777016Z",
+  "model": "glm-5.3"
+}

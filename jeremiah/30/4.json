@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Եվ ահա այն բաները, որ խոսեց Յահվե Իսրայելի և Յեհուդայի մասին։",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Եվ ահա այն"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "բաները"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և դեպի"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Յեհուդայի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:54:12.539301836Z",
+  "model": "glm-5.3"
+}

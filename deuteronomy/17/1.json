@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 17:1",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Ոչ կզոհես Յահվեին՝ քո Էլոհիմդ, եզ կամ ոչխար, որում կա արատ՝ որևէ չար բան, որովհետև զզվելի է այն Յահվեի՝ քո Էլոհիմդ առջև։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ոչ"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "կզոհես"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "քո Էլոհիմդ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "եզ"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "կամ ոչխար"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որում"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "կա"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրա մեջ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "արատ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "որևէ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "բան"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չար"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "զզվելի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "քո Էլոհիմդ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "այն"
+    }
+  ],
+  "timestamp": "2026-09-05T19:41:46.359050184Z",
+  "model": "glm-5.3"
+}

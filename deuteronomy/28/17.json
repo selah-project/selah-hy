@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Անիծված ⟨թող լինի⟩ զամբյուղդ և խմորի ամանդ։",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Անիծված"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "զամբյուղդ"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "և խմորի ամանդ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:46:30.606940281Z",
+  "model": "glm-5.3"
+}

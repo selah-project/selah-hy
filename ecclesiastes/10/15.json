@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Հիմարների ջանքը նրանց հյուստ է անում, որովհետև չգիտեն՝ դեպի քաղաք գնալ։",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "ջանքը"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "հիմարների"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "հյուստ է անում նրանց"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "գիտեն"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "գնալ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "քաղաք"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:56.355473362Z",
+  "model": "glm-5.3"
+}

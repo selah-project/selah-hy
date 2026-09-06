@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ երկրպագեց և ասաց՝ «Ի՞նչ է քո ծառան, որ նայեցիր մեռած շան՝ ինձ պեսիիդ կողմը»։",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "Եվ երկրպագեց"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "מה",
+      "gloss": "«Ի՞նչ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "է քո ծառան"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "նայեցիր"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "շան"
+    },
+    {
+      "surface": "המת",
+      "gloss": "մեռած"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "ինձ պեսի"
+    }
+  ],
+  "timestamp": "2026-09-05T20:32:24.436704181Z",
+  "model": "glm-5.3"
+}

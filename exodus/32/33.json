@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Եվ ասաց Յահվեն Մոշեին. «Ով որ մեղ գործեց իմ դեմ, նրան կջնջեմ իմ գրքից»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեին"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ով"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "մեղ գործեց"
+    },
+    {
+      "surface": "לי",
+      "gloss": "իմ դեմ"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "կջնջեմ նրան"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "իմ գրքից"
+    }
+  ],
+  "timestamp": "2026-09-05T18:51:30.771469853Z",
+  "model": "glm-5.3"
+}

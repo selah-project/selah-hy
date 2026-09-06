@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ ասաց Յահվեն նրան՝ խաղաղություն քեզ, մի՛ վախեցիր, չես մեռնի։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "խաղաղություն"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "վախեցիր"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ես մեռնի"
+    }
+  ],
+  "timestamp": "2026-09-05T20:04:20.691631648Z",
+  "model": "glm-5.3"
+}

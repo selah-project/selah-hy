@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Գառ՝ անթերի, արու, մեկ տարեկան, թող լինի ձեզ. գառների կամ այծերի կվերցնեք ⟨այն⟩։",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "գառ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "անթերի"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "արու"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարվա"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "թող լինի"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "քանից"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "գառների"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "և քանից"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "այծերի"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "կվերցնեք"
+    }
+  ],
+  "timestamp": "2026-09-05T18:38:58.507275689Z",
+  "model": "glm-5.3"
+}

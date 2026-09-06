@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Եվ Յահվեի հրեշտակը երկրորդ անգամ երկնքից կանչեց Աբրահամին՝",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "և կանչեց"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "հրեշտակը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Աբրահամ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "երկրորդ անգամ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "−ից"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "երկինքը"
+    }
+  ],
+  "timestamp": "2026-09-06T02:02:38.662869874Z",
+  "model": "glm-5.3"
+}

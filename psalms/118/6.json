@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 118,
+  "translation": "Յահվեն իմ ⟨համար է⟩, չեմ վախենա, ի՞նչ կանի ինձ մարդը։",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "לי",
+      "gloss": "իմ ⟨համար⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "վախենամ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "կանի"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:25.851833811Z",
+  "model": "glm-5.3"
+}

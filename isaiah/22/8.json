@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Եվ հանվեց ⟨את⟩ Յեհուդայի ծածկոցը, և դու ⟨նայեցիր⟩ այն օրը դեպի Անտառի տան զենքերը։",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "և հանվեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ծածկոցը"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ծածկոցը"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Յեհուդայի"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "և նայեցիր"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "զենքերը"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տան"
+    },
+    {
+      "surface": "היער",
+      "gloss": "Անտառի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:20:35.320158875Z",
+  "model": "glm-5.3"
+}

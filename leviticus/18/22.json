@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Եվ ⟨את⟩ արուի հետ չես պառկի կնոջ պառկվածքով. զզվելիք ⟨է⟩ դա։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "արուի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "պառկես"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "պառկվածքով"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "կնոջ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "զզվելիք"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "դա"
+    }
+  ],
+  "timestamp": "2026-09-05T19:04:14.849548515Z",
+  "model": "glm-5.3"
+}

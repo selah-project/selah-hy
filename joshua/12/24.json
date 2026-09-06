@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Տիրցայի թագավորը՝ մեկ. բոլոր թագավորները՝ երեսուն ու մեկ։",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "թագավոր"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "Տիրցայի"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "թագավորները"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "երեսուն"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "և մեկ"
+    }
+  ],
+  "timestamp": "2026-09-06T01:06:58.588569305Z",
+  "model": "glm-5.3"
+}

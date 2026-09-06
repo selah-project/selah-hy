@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ եղավ քառասուն օրվա վերջում, և Նոախը բացեց ⟨את⟩ տախտակի պատուհանը, որ արել էր։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "վերջում"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "քառասուն"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օրվա"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "և բացեց"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Նոախը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "պատուհանը"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "պատուհան"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "տախտակի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արել էր"
+    }
+  ],
+  "timestamp": "2026-09-05T18:10:29.149822615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Լևիի որդիները՝ Գերշոմ, Քեհաթ և Մերարի։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Լևիի"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Գերշոմ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Քեհաթ"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "և Մերարի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:31.813762173Z",
+  "model": "glm-5.3"
+}

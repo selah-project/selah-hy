@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 10:28",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Մալուք, Խարիմ, Բաանա։",
+  "tokens": [
+    {
+      "surface": "מלוך",
+      "gloss": "Մալուք"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Խարիմ"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "Բաանա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:24:54.439450225Z",
+  "model": "glm-5.3"
+}

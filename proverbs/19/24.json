@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Ծույլը թաքցրեց իր ձեռքը ափսեում, նույնիսկ իր բերանը չի վերադարձնի այն։",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "թաքցրեց"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "Ծույլը"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "իր ձեռքը"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "ափսեում"
+    },
+    {
+      "surface": "גם",
+      "gloss": "նույնիսկ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "իր բերանը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "վերադարձնի այն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:33:59.031941252Z",
+  "model": "glm-5.3"
+}

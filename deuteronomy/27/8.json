@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Եվ կգրես քարերի վրա ⟨את⟩ այս Թորայի բոլոր խոսքերը՝ պարզ ու լավ բացատրված։",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "Եվ կգրես"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "քարերի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այս Թորայի բոլոր խոսքերը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "խոսքերը"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Թորայի"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "այս"
+    },
+    {
+      "surface": "באר",
+      "gloss": "բացատրված"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "պարզ ու լավ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:44:26.786062078Z",
+  "model": "glm-5.3"
+}

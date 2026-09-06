@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 150,
+  "translation": "Ամեն շնչավորը թող փառաբանի Յահին, փառաբանեցեք Յահին։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "շնչավորը"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "թող փառաբանի"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Յահին"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "փառաբանեցեք"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Յահին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:26:47.508287904Z",
+  "model": "glm-5.3"
+}

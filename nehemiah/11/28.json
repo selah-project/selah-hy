@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 11:28",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "և Ցիկլագում, և Մեխոնայում և նրա դուստրերում,",
+  "tokens": [
+    {
+      "surface": "ובצקלג",
+      "gloss": "և Ցիկլագում"
+    },
+    {
+      "surface": "ובמכנה",
+      "gloss": "և Մեխոնայում"
+    },
+    {
+      "surface": "ובבנתיה",
+      "gloss": "և նրա դուստրերում"
+    }
+  ],
+  "timestamp": "2026-09-06T00:25:03.041937250Z",
+  "model": "glm-5.3"
+}

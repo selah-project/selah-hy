@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Միայն այս՝ ահա գտա ես, որ Էլոհիմը ստեղծեց ⟨את⟩ մարդուն ուղիղ, իսկ նրանք փնտրեցին հնարքներ շատ։",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "միայն"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "זה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "գտա ես"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ստեղծեց"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "մարդուն"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "մարդուն"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ուղիղ"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "իսկ նրանք"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "փնտրեցին"
+    },
+    {
+      "surface": "חשבנות",
+      "gloss": "հնարքներ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "շատ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:41.737592871Z",
+  "model": "glm-5.3"
+}

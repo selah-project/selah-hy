@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Յահվեն ուժ է իրենց համար և իր Մաշիախի փրկության ամրոց՝ նա ⟨է⟩։",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ուժ է"
+    },
+    {
+      "surface": "למו",
+      "gloss": "իրենց համար"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "և ամրոց"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "փրկության"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "իր Մաշիախի"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա ⟨է⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T22:58:36.889532479Z",
+  "model": "glm-5.3"
+}

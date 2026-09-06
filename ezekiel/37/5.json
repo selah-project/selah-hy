@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 37:5",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 37,
+  "translation": "Այսպես ասաց Ադոնայ Յահվե այդ ոսկորներին՝ ահա, ես բերում եմ ձեր մեջ շունչ, և ապրելու եք։",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Այսպես"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "לעצמות",
+      "gloss": "ոսկորներին"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "բերում եմ"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ձեր մեջ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "շունչ"
+    },
+    {
+      "surface": "וחייתם",
+      "gloss": "և ապրելու եք"
+    }
+  ],
+  "timestamp": "2026-09-05T22:24:41.890314948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Նոախ, Շեմ, Խամ և Յաֆետ։",
+  "tokens": [
+    {
+      "surface": "נח",
+      "gloss": "Նոախ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Շեմ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Խամ"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "և Յաֆետ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:26:50.583717663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "իսկ եթե տարածվի-տարածվի նետեկը մաշկի վրա իր մաքրվելուց հետո,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "իսկ եթե"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "տարածվի"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "տարածվի"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "նետեկը"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "մաշկի վրա"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "հետո"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "իր մաքրվելուց"
+    }
+  ],
+  "timestamp": "2026-09-05T19:02:22.792734255Z",
+  "model": "glm-5.3"
+}

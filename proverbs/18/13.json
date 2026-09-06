@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Մարդու պատասխանը մի խոսք է՝ նախքան լսելը, հիմարություն է դա իրեն և ամոթ։",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "պատասխանողը"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսք"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "նախքան"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "կլսի"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "հիմարություն"
+    },
+    {
+      "surface": "היא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "לו",
+      "gloss": "իրեն"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "և ամոթ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:33:45.403487620Z",
+  "model": "glm-5.3"
+}

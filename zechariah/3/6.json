@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ վկայեց Յահվեի հրեշտակը Յեհոշուային՝ ասելով.",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "Եվ վկայեց"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "հրեշտակը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "Յեհոշուային"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-06T01:39:59.594106355Z",
+  "model": "glm-5.3"
+}

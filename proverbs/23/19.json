@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 23:19",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Լսի՛ր դու, որդիս, և իմաստուն եղիր, և ուղղիր ճանապարհի մեջ քո սիրտը։",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Լսի՛ր"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիս"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "և իմաստուն եղիր"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "և ուղղիր"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ճանապարհի մեջ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "քո սիրտը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:04.086068645Z",
+  "model": "glm-5.3"
+}

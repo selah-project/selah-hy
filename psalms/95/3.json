@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 95,
+  "translation": "Որովհետև մեծ Էլ ⟨է⟩ Յահվե, և մեծ արքա բոլոր աստվածների վրա։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "և արքա"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "աստվածների"
+    }
+  ],
+  "timestamp": "2026-09-05T23:15:06.225291110Z",
+  "model": "glm-5.3"
+}

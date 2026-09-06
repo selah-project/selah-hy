@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 132,
+  "translation": "Մինչև գտնեմ տեղ Յահվեին, Միշքաններ Յահկոբի Աբիրին։",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "գտնեմ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "տեղ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "Միշքաններ"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "Աբիրին"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Յահկոբի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:24:28.337200580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 10:26",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Ռեխում, Խաշավնա, Մաասեյա,",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Ռեխում"
+    },
+    {
+      "surface": "חשבנה",
+      "gloss": "Խաշավնա"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "Մաասեյա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:24:54.439009003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Իսկ Լոտանի որդիները՝ Խորի և Հոմամ, և Լոտանի քույրը՝ Թիմնան էր։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Իսկ որդիները"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Լոտանի"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "Խորի"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "և Հոմամ"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "և քույրը"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Լոտանի"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Թիմնա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:26:47.690035102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 39:8",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 39,
+  "translation": "Ահա՛ գալիս է և կլինի, — Ադոնայ Յահվեի հռչակումն է. դա այն օրն է, որի մասին խոսեցի։",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ահա՛"
+    },
+    {
+      "surface": "באה",
+      "gloss": "գալիս է"
+    },
+    {
+      "surface": "ונהיתה",
+      "gloss": "և կլինի"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "հռչակումն է"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "դա ... է"
+    },
+    {
+      "surface": "היום",
+      "gloss": "օրն է"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որի"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "խոսեցի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:25:34.341454738Z",
+  "model": "glm-5.3"
+}

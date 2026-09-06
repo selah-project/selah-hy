@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 22:10",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Երկինքը թեքեց և իջավ, և խիտ մթություն ⟨էր⟩ նրա ոտքերի տակ։",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "թեքեց"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "երկինքը"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "և իջավ"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "և խիտ մթություն"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "նրա ոտքերի"
+    }
+  ],
+  "timestamp": "2026-09-05T20:40:39.815564468Z",
+  "model": "glm-5.3"
+}

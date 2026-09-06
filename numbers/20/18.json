@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 20:18",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Եվ ասաց նրան Էդոմը. «Չես անցնի իմ միջով, գուցե սրով դուրս գամ քեզ ընդդեմ»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Էդոմը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "չես անցնի"
+    },
+    {
+      "surface": "בי",
+      "gloss": "իմ միջով"
+    },
+    {
+      "surface": "פן",
+      "gloss": "գուցե"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "սրով"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "դուրս գամ"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "քեզ ընդդեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:22:45.891165413Z",
+  "model": "glm-5.3"
+}

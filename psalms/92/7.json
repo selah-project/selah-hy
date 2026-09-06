@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 92,
+  "translation": "Մի հիմար մարդ չգիտի, և հիմարը չի հասկանում ⟨את⟩ սա։",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "հիմար"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "գիտի"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "և հիմարը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "հասկանում"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "սա"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "սա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:15:11.197668195Z",
+  "model": "glm-5.3"
+}

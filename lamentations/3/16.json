@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ տրորեց ավազաքարով իմ ատամները, ծածկեց ինձ մոխրով։",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "Եվ տրորեց"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "ավազաքարով"
+    },
+    {
+      "surface": "שני",
+      "gloss": "իմ ատամները"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "ծածկեց ինձ"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "մոխրով"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:04.666180474Z",
+  "model": "glm-5.3"
+}

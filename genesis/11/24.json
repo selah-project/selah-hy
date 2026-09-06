@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Եվ ապրեց Նախորը քսանինը տարի, և ծնեց ⟨את⟩ Տարախին։",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "և ապրեց"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Նախորը"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ինը"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "և քսան"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "և ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Տարախին"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Տարախին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:11:58.042852836Z",
+  "model": "glm-5.3"
+}

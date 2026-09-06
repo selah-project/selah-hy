@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "և էշեր՝ մեկ հազար վաթսուն հազար։",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "և էշեր"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "վաթսուն"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "հազար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:28:24.558555846Z",
+  "model": "glm-5.3"
+}

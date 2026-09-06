@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 25:19",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Կոտրված ատամ և ոլորված ոտք ⟨է⟩ դավաճանի վրա ապավինելը դժվարության օրը։",
+  "tokens": [
+    {
+      "surface": "שן",
+      "gloss": "ատամ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "կոտրված"
+    },
+    {
+      "surface": "ורגל",
+      "gloss": "և ոտք"
+    },
+    {
+      "surface": "מועדת",
+      "gloss": "ոլորված"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ապավինելը"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "դավաճանի"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "դժվարության"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:22.264121913Z",
+  "model": "glm-5.3"
+}

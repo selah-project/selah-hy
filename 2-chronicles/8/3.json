@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ գնաց Շելոմոն դեպի Համաթ Ծովա, և հաղթեց այն։",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Եվ գնաց"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Շելոմոն"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Համաթ"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Ծովա"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "և հաղթեց"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "այն"
+    }
+  ],
+  "timestamp": "2026-09-06T00:43:14.095725567Z",
+  "model": "glm-5.3"
+}

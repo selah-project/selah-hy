@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 27:16",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Թող Յահվեն՝ ամեն մարմնի հոգիների Էլոհիմը՝ նշանակի մի մարդ ժողովրդի վրա։",
+  "tokens": [
+    {
+      "surface": "יפקד",
+      "gloss": "Թող նշանակի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "הרוחת",
+      "gloss": "հոգիների"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "մարմնի"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մի մարդ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ժողովրդի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:06:52.606741286Z",
+  "model": "glm-5.3"
+}

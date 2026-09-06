@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 1:12",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ ամեն մեկը գնում էր իր երեսի կողմը. ուր հոգին լիներ գնալու՝ գնում էին. գնալիս չէին շրջում։",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "և ամեն մեկը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "կողմը"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "իր երեսի"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "գնում էր"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ուր"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լիներ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "այնտեղ"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "հոգին"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "գնալու"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "գնում էին"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יסבו",
+      "gloss": "շրջում էին"
+    },
+    {
+      "surface": "בלכתן",
+      "gloss": "գնալիս"
+    }
+  ],
+  "timestamp": "2026-09-05T22:06:20.107279155Z",
+  "model": "glm-5.3"
+}

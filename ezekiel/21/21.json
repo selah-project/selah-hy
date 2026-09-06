@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 21:21",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Միավորվի՛ր, աջ գնա, դի՛ր, ձախ գնա՝ ու՞ր է քո դեմքը նշանակված։",
+  "tokens": [
+    {
+      "surface": "התאחדי",
+      "gloss": "միավորվիր"
+    },
+    {
+      "surface": "הימני",
+      "gloss": "աջ գնա"
+    },
+    {
+      "surface": "השימי",
+      "gloss": "դիր"
+    },
+    {
+      "surface": "השמילי",
+      "gloss": "ձախ գնա"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ուր"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "քո դեմքը"
+    },
+    {
+      "surface": "מעדות",
+      "gloss": "նշանակված"
+    }
+  ],
+  "timestamp": "2026-09-05T22:15:26.259467066Z",
+  "model": "glm-5.3"
+}

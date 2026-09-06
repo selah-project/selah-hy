@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 9:27",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Բացի Յաֆեթին Էլոհիմը, և բնակվի նա Շեմի վրաններում, և լինի Կնաանը ծառա նրանց։",
+  "tokens": [
+    {
+      "surface": "יפת",
+      "gloss": "բացի"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "ליפת",
+      "gloss": "Յաֆեթին"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "և բնակվի"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "վրաններում"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Շեմի"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "և լինի"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Կնաանը"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ծառա"
+    },
+    {
+      "surface": "למו",
+      "gloss": "նրանց"
+    }
+  ],
+  "timestamp": "2026-09-05T18:10:17.646450798Z",
+  "model": "glm-5.3"
+}

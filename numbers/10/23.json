@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 10:23",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Եվ Մենաշեի որդիների ցեղի զորքի վրա ⟨էր⟩ Գամլիելը՝ Պեդահծուրի որդին։",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "և վրա"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "զորքի"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ցեղի"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Մենաշեի"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Գամլիելը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "Պեդահ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ծուրի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:17:01.273306172Z",
+  "model": "glm-5.3"
+}

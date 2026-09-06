@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Իմ խոսքերը՝ ականջ դիր, Յահվե՛, հասկացիր իմ մրմռալը։",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "խոսքերը՝ իմ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ականջ դիր"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "հասկացիր"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "մրմռալը՝ իմ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:52:37.883390577Z",
+  "model": "glm-5.3"
+}

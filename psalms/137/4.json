@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 137,
+  "translation": "Ինչպե՛ս երգենք ⟨את⟩ Յահվեի երգը օտար հողի վրա։",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Ինչպե՛ս"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "երգենք"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յահվեի երգը"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "երգը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "հողի"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "օտար"
+    }
+  ],
+  "timestamp": "2026-09-05T23:26:07.890176498Z",
+  "model": "glm-5.3"
+}

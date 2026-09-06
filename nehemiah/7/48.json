@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "nehemiah 7:48",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Լևանայի որդիները, Խագավայի որդիները, Շալմայի որդիները։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Լևանայի"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "Խագավայի"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "Շալմայի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:37.170801429Z",
+  "model": "glm-5.3"
+}

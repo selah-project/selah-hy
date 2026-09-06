@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 49:14",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 49,
+  "translation": "Եվ ասաց Ցիոնը. «Լքեց ինձ Յահվեն, և Ադոնայը մոռացավ ինձ»։",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ցիոնը"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "լքեց ինզ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "և Ադոնայը"
+    },
+    {
+      "surface": "שכחני",
+      "gloss": "մոռացավ ինձ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:31:53.537978881Z",
+  "model": "glm-5.3"
+}

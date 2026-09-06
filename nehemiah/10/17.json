@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 10:17",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Ադոնիյա (Ադոնիա), Բիգվայ, Ադին.",
+  "tokens": [
+    {
+      "surface": "אדניה",
+      "gloss": "Ադոնիյա (Ադոնիա)"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "Բիգվայ"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "Ադին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:24:53.498564796Z",
+  "model": "glm-5.3"
+}

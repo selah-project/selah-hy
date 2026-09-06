@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "որդի Շալլումի, որդի Ծադոկի, որդի Ախիտուվի։",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Շալլումի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Ծադոկի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ախիտուվի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:17:58.899400575Z",
+  "model": "glm-5.3"
+}

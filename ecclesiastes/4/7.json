@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Ես նորից դարձա և տեսա զուրություն արևի տակ։",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "և դարձա"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "և տեսա"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "զուրություն"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "արևի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:26.198695927Z",
+  "model": "glm-5.3"
+}

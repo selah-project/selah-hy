@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 19:19",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Եվ կատարեք նրան այնպես, ինչպես նա մտադիր էր անել իր եղբոր դեմ, և կոչեզդես չարը քո միջից։",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "և կատարեք"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ինչպես"
+    },
+    {
+      "surface": "זמם",
+      "gloss": "մտադիր էր"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "անել"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "իր եղբոր դեմ"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "և կոչեզդես"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "չարը"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "քո միջից"
+    }
+  ],
+  "timestamp": "2026-09-06T02:45:33.070462984Z",
+  "model": "glm-5.3"
+}

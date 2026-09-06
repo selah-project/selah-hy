@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Սիոն լեռան՝ ամայացած լեռան վրա, շնագայլեր են քայլում։",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הר",
+      "gloss": "լեռան"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Սիոն"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "ամայացած"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "շնագայլեր"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "քայլում են"
+    },
+    {
+      "surface": "בו",
+      "gloss": "դրա վրա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:58:58.597523898Z",
+  "model": "glm-5.3"
+}

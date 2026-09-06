@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 131,
+  "translation": "Թող Իսրայելը սպասի Յահվեին՝ այսուհետև և մինչև հավիտյան։",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "թող սպասի"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨դեպի⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "այսուհետև"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "և մինչև"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "հավիտյան"
+    }
+  ],
+  "timestamp": "2026-09-06T01:16:58.918007772Z",
+  "model": "glm-5.3"
+}

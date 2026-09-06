@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 13:1",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Ահա, ամենը տեսավ իմ աչքը, լսեց իմ ականը և ընկալեց այն։",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ահա"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամենը"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "տեսավ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "իմ աչքը"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "լսեց"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "իմ ականը"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "և ընկալեց"
+    },
+    {
+      "surface": "לה",
+      "gloss": "այն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:42:58.253307498Z",
+  "model": "glm-5.3"
+}

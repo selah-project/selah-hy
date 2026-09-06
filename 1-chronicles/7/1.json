@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Իսաքարի որդիներն էին՝ Թոլա, և Պուա, Յաշուվ և Շիմրոն՝ չորսը։",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Իսաքարի"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "Թոլա"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "և Պուա"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "Յաշուվ"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "և Շիմրոն"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "չորսը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:31:21.174787810Z",
+  "model": "glm-5.3"
+}

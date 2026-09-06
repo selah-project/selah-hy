@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 5:18",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Իսկ հիմա գնացեք, աշխատեք, և ծղոտ ձեզ չի տրվի, և աղյուսների չափը կտաք։",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "իսկ հիմա"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "գնացեք"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "աշխատեք"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "և ծղոտ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "կտրվի"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "և չափը"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "աղյուսների"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "կտաք"
+    }
+  ],
+  "timestamp": "2026-09-05T18:36:39.870527854Z",
+  "model": "glm-5.3"
+}

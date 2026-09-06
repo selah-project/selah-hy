@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Ամեն սողացող թռչուն, որ քայլում է չորսի վրա, գարշելի է ձեզ համար։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "սողացող"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "թռչուն"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "քայլող"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "չորս"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "գարշելի"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨է⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:00:20.365133393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Ոչ մեր հայրերի հետ կտրեց Յահվեն ⟨את⟩ այս Բրիթը, այլ ⟨את⟩ մեզ հետ՝ մենք, ահա այստեղ, այսօր, բոլորս ողջերս։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ոչ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "մեր հայրերի հետ"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "մեր հայրերի"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "կտրեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այս Բրիթը"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "Բրիթը"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "այս"
+    },
+    {
+      "surface": "כי",
+      "gloss": "այլ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ մեզ հետ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "մենք"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ահա այս"
+    },
+    {
+      "surface": "פה",
+      "gloss": "այստեղ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "այսօր"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "բոլորս"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ողջերս"
+    }
+  ],
+  "timestamp": "2026-09-05T19:33:42.665319424Z",
+  "model": "glm-5.3"
+}

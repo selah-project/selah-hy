@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 34:24",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 34,
+  "translation": "և Էֆրայիմի որդիների ցեղի համար՝ իշխան Քեմուէլը, Շիֆտանի որդին։",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "և ցեղի համար"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Էֆրայիմի"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "իշխան"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Քեմուէլը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "שפטן",
+      "gloss": "Շիֆտանի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:29:58.805293845Z",
+  "model": "glm-5.3"
+}

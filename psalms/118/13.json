@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 118,
+  "translation": "Հրել ես, հրեցիր ինձ՝ գցելու, բայց Յահվեն օգնեց ինձ։",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "հրել ես"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "հրեցիր ինձ"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "գցելու"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "բայց Յահվեն"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "օգնեց ինձ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:48.397871896Z",
+  "model": "glm-5.3"
+}

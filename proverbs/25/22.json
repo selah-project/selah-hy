@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "քանի որ տաք ածուխներ ես դնում նրա գլխին, և Յահվեն կհատուցի քեզ։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "ածուխներ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "դնում ես"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "գլխին"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "և Յահվեն"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "կհատուցի"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:58.078725496Z",
+  "model": "glm-5.3"
+}

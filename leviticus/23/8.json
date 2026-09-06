@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 23:8",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Եվ մոտեցրեք կրակի ընծա Յահվեին յոթ օր. յոթերորդ օրը սուրբ հավաք. ոչ մի ծառայության գործ չարեք։",
+  "tokens": [
+    {
+      "surface": "והקרבתם",
+      "gloss": "Եվ մոտեցրեք"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "կրակի ընծա"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "յոթերորդ"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "հավաք"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "սուրբ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ոչ մի"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "գործ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ծառայության"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "արեք"
+    }
+  ],
+  "timestamp": "2026-09-05T19:07:34.944120213Z",
+  "model": "glm-5.3"
+}

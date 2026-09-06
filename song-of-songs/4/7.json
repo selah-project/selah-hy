@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Ամբողջովին գեղեցիկ ես, սիրելիս իմ, և արատ չկա քո մեջ։",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "ամբողջովին դու"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "գեղեցիկ ես"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "սիրելիս իմ"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "և արատ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "בך",
+      "gloss": "քո մեջ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:53:36.512256466Z",
+  "model": "glm-5.3"
+}

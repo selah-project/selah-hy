@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 31:7",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Երրորդ ամսում սկսեցին կույտերը հիմնել, և յոթերորդ ամսում ավարտեցին։",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "ամսում"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "երրորդ"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "սկսեցին"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "կույտերը"
+    },
+    {
+      "surface": "ליסוד",
+      "gloss": "հիմնել"
+    },
+    {
+      "surface": "ובחדש",
+      "gloss": "և ամսում"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "յոթերորդ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ավարտեցին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:57:12.374967684Z",
+  "model": "glm-5.3"
+}

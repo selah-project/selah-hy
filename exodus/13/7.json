@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Մացոտ կուտվի ⟨את⟩ յոթ օրը, և խմորված ⟨հաց⟩ քեզ երևի ոչ, և խմոր քեզ երևի ոչ՝ քո ամբողջ սահմանում։",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "մացոտ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "կուտվի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "յոթ օրը"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "կերևի"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "խմորված"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "կերևի"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "խմոր"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "քո սահմանում"
+    }
+  ],
+  "timestamp": "2026-09-05T18:40:05.889712023Z",
+  "model": "glm-5.3"
+}

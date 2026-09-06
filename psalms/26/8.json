@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Յահվե, սիրեցի քո տան բնակավայրը և քո փառքի Միշքանի տեղը։",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "սիրեցի"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "բնակավայրը"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "տանդ"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "և տեղը"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Միշքանի"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "փառքիդ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:58:13.741195325Z",
+  "model": "glm-5.3"
+}

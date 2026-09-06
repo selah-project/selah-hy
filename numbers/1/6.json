@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Սիմոնի համար՝ Շլումիել, Ծուրիշադայի որդին։",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "Սիմոնի ⟨համար⟩"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "Շլումիել"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "Ծուրիշադայի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:10:44.851873187Z",
+  "model": "glm-5.3"
+}

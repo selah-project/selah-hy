@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 5:7",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ ահա՝ կապարի կլոր կտոր ⟨է⟩ բարձրացված, և սա մի կին է՝ նստած էֆայի մեջտեղում։",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "և ահա"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "կլոր կտոր"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "կապարի"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "բարձրացված"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "և սա"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "կին"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "մի"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "նստած"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "մեջտեղում"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "էֆայի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:48:16.186743427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Յահվե, որքա՜ն շատացան նեղիչներս. շատեր են ելնում իմ դեմ։",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "מה",
+      "gloss": "որքա՜ն"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "շատացան"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "նեղիչներս"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "շատեր"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "ելնում են"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "իմ դեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:52:36.328088406Z",
+  "model": "glm-5.3"
+}

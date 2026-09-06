@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եվ ասաց Սառան՝ ծիծաղ պարգևեց ինձ Էլոհիմը, ամենքը, ով լսի, կծիծաղի ինձ հետ։",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Սառան"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "ծիծաղ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "պարգևեց"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամենքը"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "ով լսի"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "կծիծաղի"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ հետ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:16:23.334387884Z",
+  "model": "glm-5.3"
+}

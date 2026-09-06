@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 7:15",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Այդ պատճառով ելա քեզ ընդառաջ՝ փնտրելու քո դեմքը, և գտա քեզ։",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Այդ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "պատճառով"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "ելա"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "քեզ ընդառաջ"
+    },
+    {
+      "surface": "לשחר",
+      "gloss": "փնտրելու"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "քո դեմքը"
+    },
+    {
+      "surface": "ואמצאך",
+      "gloss": "և գտա քեզ"
+    }
+  ],
+  "timestamp": "2026-09-06T01:18:53.551232567Z",
+  "model": "glm-5.3"
+}

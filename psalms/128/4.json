@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 128,
+  "translation": "Ահա, որովհետև այդպես է օրհնվում մարդը՝ Յահվեին երկյուղողը։",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ահա"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այդպես"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "օրհնվում է"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "մարդը"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "երկյուղող"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեին"
+    }
+  ],
+  "timestamp": "2026-09-06T01:17:20.942022526Z",
+  "model": "glm-5.3"
+}

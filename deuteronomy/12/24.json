@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Չես ուտի այն. երկրի վրա պիտի թափես այն՝ ջրի պես։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Չես"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ուտի այն"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "թափես այն"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ջրի պես"
+    }
+  ],
+  "timestamp": "2026-09-05T19:39:08.891321794Z",
+  "model": "glm-5.3"
+}

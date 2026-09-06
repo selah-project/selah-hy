@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 49,
+  "translation": "Եղբայրը ոչ մի կերպ չի փրկագնի եղբոր, չի տա Էլոհիմին փրկագինը նրա համար։",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "եղբայրը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "փրկագնի"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "չի փրկագնի"
+    },
+    {
+      "surface": "איש",
+      "gloss": "եղբոր"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "տա"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Էլոհիմին"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "փրկագինը նրա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:03:14.250024728Z",
+  "model": "glm-5.3"
+}

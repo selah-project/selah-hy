@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 55,
+  "translation": "Երեկո, առավոտ և կեսօր կխորհեմ և կրողամ, և լսեց իմ ձայնը։",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Երեկո"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "և առավոտ"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "և կեսօր"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "կխորհեմ"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "և կրողամ"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "և լսեց"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "իմ ձայնը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:05:25.970931974Z",
+  "model": "glm-5.3"
+}

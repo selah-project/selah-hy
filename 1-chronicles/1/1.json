@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 1:1",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Ադամ, Շեթ, Էնոշ.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Ադամ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Շեթ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Էնոշ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:26:50.583222380Z",
+  "model": "glm-5.3"
+}

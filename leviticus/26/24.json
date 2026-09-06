@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Ապա ես էլ կքայլեմ ձեզ դեմ թշնամաբար, և ես էլ կհարվածեմ ⟨את⟩ ձեզ յոթապատիկ՝ ձեր մեղքերի համար։",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "կքայլեմ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "էլ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ձեզ դեմ"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "թշնամաբար"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "և կհարվածեմ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ձեզ",
+      "marks": "ձեզ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "էլ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "յոթապատիկ"
+    },
+    {
+      "surface": "על",
+      "gloss": "համար"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "ձեր մեղքերի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:10:28.989309593Z",
+  "model": "glm-5.3"
+}

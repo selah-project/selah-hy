@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 65,
+  "translation": "Աղոթք լսող՝ քեզ կգա ամեն մարմին։",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "լսող"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "աղոթք"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "մարմին"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "կգա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:07:17.732679018Z",
+  "model": "glm-5.3"
+}

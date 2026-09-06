@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Յահվեի խեսեդները, որովհետև չենք վերջացել, որովհետև չեն սպառվել նրա ողորմությունները։",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "խեսեդները"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "վերջացել ենք"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "սպառվել են"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "նրա ողորմությունները"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:55.990098495Z",
+  "model": "glm-5.3"
+}

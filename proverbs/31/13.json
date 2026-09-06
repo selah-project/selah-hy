@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 31:13",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Որոնեց բուրդ և կտավ, և ուրախությամբ աշխատեց իր ձեռքերով։",
+  "tokens": [
+    {
+      "surface": "דרשה",
+      "gloss": "Որոնեց"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "բուրդ"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "և կտավ"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "և աշխատեց"
+    },
+    {
+      "surface": "בחפץ",
+      "gloss": "ուրախությամբ"
+    },
+    {
+      "surface": "כפיה",
+      "gloss": "իր ձեռքերով"
+    }
+  ],
+  "timestamp": "2026-09-05T23:38:27.331855780Z",
+  "model": "glm-5.3"
+}

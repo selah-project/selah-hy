@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 48:27",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 48,
+  "translation": "Եվ Զվուլունի սահմանի վրայից՝ արևելյան եզրից մինչև արևմտյան եզրը՝ Գադ՝ մեկ։",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Եվ…ի վրա"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "սահմանի"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Զվուլունի"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "եզրից"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "արևելյան"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "եզրը"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "արևմտյան"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Գադ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:30:55.414016345Z",
+  "model": "glm-5.3"
+}

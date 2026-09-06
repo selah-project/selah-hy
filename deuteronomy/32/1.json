@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Լսեցե՛ք, երկինքներ, և ես կխոսեմ, և թող լսի երկիրը իմ բերանի խոսքերը։",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Լսեցե՛ք"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "երկինքներ"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "և կխոսեմ"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "և թող լսի"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "խոսքերը"
+    },
+    {
+      "surface": "פי",
+      "gloss": "իմ բերանի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:49:46.839202896Z",
+  "model": "glm-5.3"
+}

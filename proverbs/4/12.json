@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Քո քայլելիս քո քայլերը նեղ չեն լինի, և եթե վազես՝ չես փուլ գա։",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "քո քայլելիս"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "նեղ չեն լինի"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "քո քայլերը"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "և եթե"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "վազես"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "չես փուլ գա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:41.683242251Z",
+  "model": "glm-5.3"
+}

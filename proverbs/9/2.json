@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Մորթեց իր մորթվածը, խառնեց իր գինին, նաև դասավորեց իր սեղանը։",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "Մորթեց"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "իր մորթվածը"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "խառնեց"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "իր գինին"
+    },
+    {
+      "surface": "אף",
+      "gloss": "նաև"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "դասավորեց"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "իր սեղանը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:30:50.588227226Z",
+  "model": "glm-5.3"
+}

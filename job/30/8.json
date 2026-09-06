@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 30:8",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Հիմարների որդիներ, այո՝ անանունների որդիներ, ծեծվեցին երկրից։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "հիմարների"
+    },
+    {
+      "surface": "גם",
+      "gloss": "այո՝"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "առանց"
+    },
+    {
+      "surface": "שם",
+      "gloss": "անուն"
+    },
+    {
+      "surface": "נכאו",
+      "gloss": "ծեծվեցին"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ից"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:47:45.493646486Z",
+  "model": "glm-5.3"
+}

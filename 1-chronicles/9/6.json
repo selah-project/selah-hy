@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 9:6",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ Զերախի որդիներից՝ Յեուել և իրենց եղբայրները՝ վեց հարյուր իննսուն։",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "և ... -ից"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիներից"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Զերախ"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "Յեուել"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "և իրենց եղբայրները"
+    },
+    {
+      "surface": "שש",
+      "gloss": "վեց"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "և իննսուն"
+    }
+  ],
+  "timestamp": "2026-09-06T00:32:10.178779009Z",
+  "model": "glm-5.3"
+}

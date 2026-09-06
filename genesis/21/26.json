@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 21:26",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Եվ ասաց Ավիմելեխը՝ ես չգիտեմ, ով արեց ⟨את⟩ այս գործը, և նաև դու ⟨չ⟩ ասացիր ինձ, և նաև ես չլսեցի, բացի այսօրվանից։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "եվ ասաց"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Ավիմելեխը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "գիտեմ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ով"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "այս գործը"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "գործը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "և նաև"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "ասացիր"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "և նաև"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ես"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "լսեցի"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "բացի"
+    },
+    {
+      "surface": "היום",
+      "gloss": "այսօրվանից"
+    }
+  ],
+  "timestamp": "2026-09-05T18:16:29.347313678Z",
+  "model": "glm-5.3"
+}

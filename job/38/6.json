@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 38:6",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 38,
+  "translation": "Ի՞նչի վրա են նրա հիմքերը խրված, կամ ո՞վ դրեց նրա անկյունաքարը.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ի՞նչի"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "հիմքերը"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "խրված են"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "դրեց"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "քար"
+    },
+    {
+      "surface": "פנתה",
+      "gloss": "անկյուն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:51:09.317952853Z",
+  "model": "glm-5.3"
+}

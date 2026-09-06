@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 72,
+  "translation": "Վերջացան Դավիդի (Դավթի)՝ Յիշայի որդու աղոթքները։",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Վերջացան"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "աղոթքները"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Դավիդի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդու"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Յիշայի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:08:42.600019281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 7:26",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Լադանը՝ նրա որդին, Ամիհուդը՝ նրա որդին, Էլիշաման՝ նրա որդին։",
+  "tokens": [
+    {
+      "surface": "לעדן",
+      "gloss": "Լադանը"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Ամիհուդը"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Էլիշաման"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:40.290380281Z",
+  "model": "glm-5.3"
+}

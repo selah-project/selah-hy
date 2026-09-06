@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Այդ օրը Երուշալայիմին կասվի՝ մի վախեցիր, Ծիո՛ն, մի թող քո ձեռքերը թուլանան։",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Այդ օրը"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "կասվի"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Երուշալայիմին"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "վախեցիր"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ծիո՛ն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "թուլանան"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "քո ձեռքերը"
+    }
+  ],
+  "timestamp": "2026-09-05T22:44:42.474391113Z",
+  "model": "glm-5.3"
+}

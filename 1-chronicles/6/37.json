@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 6:37",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Մերայոթը՝ որդին, Ամարյահը՝ որդին, Ախիտուբը՝ որդին։",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Մերայոթը"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Ամարյահը"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ախիտուբը"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "որդին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:14.363041988Z",
+  "model": "glm-5.3"
+}

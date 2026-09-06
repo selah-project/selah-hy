@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Եթե օձը կծի՝ առանց մեկելու, ապա լեզվի տիրոջ համար շահույթ չկա։",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "կծի"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "օձը"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "առանց"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "մեկելու"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ապա չկա"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "շահույթ"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "տիրոջ համար"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "լեզվի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:55.863506551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ Քուշը ծնեց ⟨את⟩ Նիմրոդին. նա սկսեց հզոր լինել երկրի վրա։",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "և Քուշը"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ծնեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Նիմրոդին"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Նիմրոդին"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "החל",
+      "gloss": "սկսեց"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "լինել"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "հզոր"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրի վրա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:17.409774250Z",
+  "model": "glm-5.3"
+}

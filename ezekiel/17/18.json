@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 17:18",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Եվ անարգեց երդումը՝ Բրիթը խզելով, և ահա՝ ձեռք տվեց, և այս ամենն արեց. նա չի փրկվի։",
+  "tokens": [
+    {
+      "surface": "ובזה",
+      "gloss": "և անարգեց"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "երդումը"
+    },
+    {
+      "surface": "להפר",
+      "gloss": "խզելով"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Բրիթը"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "և ահա"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "տվեց"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "իր ձեռքը"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "և ամեն"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "արեց"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "կփրկվի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:13:52.135847969Z",
+  "model": "glm-5.3"
+}

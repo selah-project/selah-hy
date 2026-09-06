@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 20:21",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Չկա մնացորդ նրա ուտելիքից. դրա համար իր բարիքը չի տևի։",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "մնացորդ"
+    },
+    {
+      "surface": "לאכלו",
+      "gloss": "նրա ուտելիքից"
+    },
+    {
+      "surface": "על",
+      "gloss": "դրա"
+    },
+    {
+      "surface": "כן",
+      "gloss": "համար"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "տևի"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "իր բարիքը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:45:16.219136460Z",
+  "model": "glm-5.3"
+}

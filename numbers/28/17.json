@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 28:17",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Եվ այս ամսվա տասնհնգերորդ օրը ⟨է⟩ տոն. յոթ օր անթթխմեր կուտվի։",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "և տասնհնգ[երորդ]"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "տասն"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ամսվա"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "חג",
+      "gloss": "տոն"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "անթթխմեր"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "կուտվի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:26:53.883876768Z",
+  "model": "glm-5.3"
+}

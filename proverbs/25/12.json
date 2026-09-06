@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 25:12",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Ոսկու քթամատանի և մաքուր ոսկու զարդ է իմաստուն հանդիմանողը լսող ականջի վրա։",
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "քթամատանի"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ոսկու"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "և զարդ"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "մաքուր ոսկու"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "հանդիմանողը"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "իմաստուն"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ականջի"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "լսող"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:47.688875810Z",
+  "model": "glm-5.3"
+}

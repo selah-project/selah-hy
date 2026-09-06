@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ ոչ մի արյուն չեք ուտի ձեր ամեն բնակավայրերում՝ ո՛չ թռչնի, ո՛չ անասունի։",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Եվ ոչ մի"
+    },
+    {
+      "surface": "דם",
+      "gloss": "արյուն"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չեք"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ուտի"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "ձեր բնակավայրերում"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "թռչնի"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "և անասունի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:59:13.967728057Z",
+  "model": "glm-5.3"
+}

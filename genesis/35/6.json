@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 35:6",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 35,
+  "translation": "Եվ եկավ Յաակովը Լուզ (Լուզ)՝ որ Կենանի երկրում է, այն է՝ Բեյթ-Էլ, նա և ամբողջ ժողովուրդը, որ նրա հետ էր։",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "եկավ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Յաակովը"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "Լուզ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրում"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Կենանի"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "այն է՝"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Բեյթ-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "այն է՝"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "և ամբողջ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովուրդը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "նրա հետ էր"
+    }
+  ],
+  "timestamp": "2026-09-05T18:24:43.068914539Z",
+  "model": "glm-5.3"
+}

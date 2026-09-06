@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Մեծացրեցի իմ գործերը, կառուցեցի ինձ տներ, տնկեցի ինձ խաղողի այգիներ։",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "Մեծացրեցի"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "իմ գործերը"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "կառուցեցի"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "տներ"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "տնկեցի"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "խաղողի այգիներ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:31.359640794Z",
+  "model": "glm-5.3"
+}

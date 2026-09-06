@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Եվ Էլքանայի որդիները՝ Ամասայ և Ախիմոտ։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Էլքանայի"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "Ամասայ"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "և Ախիմոտ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:27.861640906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 28:21",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Մարդու որդի, դեմքդ դիր դեպի Ծիդոն և մարգարեացիր նրա դեմ։",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "שים",
+      "gloss": "դիր"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "դեմքդ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Ծիդոն"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "և մարգարեացիր"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "նրա դեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:21:30.640582640Z",
+  "model": "glm-5.3"
+}

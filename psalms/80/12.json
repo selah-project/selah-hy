@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 80,
+  "translation": "Տարածեց իր ճյուղերը մինչև ծով, և մինչև գետ՝ իր ընձյուղները։",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "տարածեց"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "իր ճյուղերը"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ծով"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և մինչև"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "գետ"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "իր ընձյուղները"
+    }
+  ],
+  "timestamp": "2026-09-05T23:11:46.764936404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 45,
+  "translation": "Կապիր քո սուրը քո ազդրի վրա, զորեղ․ քո փառքը և քո վեհությունը։",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Կապիր"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "քո սուրը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ազդրի"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "զորեղ"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "քո փառքը"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "և քո վեհությունը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:03:56.942903666Z",
+  "model": "glm-5.3"
+}

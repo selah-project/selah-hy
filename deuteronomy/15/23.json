@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Միայն ⟨את⟩ նրա արյունը մի՛ կեր. երկրի վրա թափիր այն ջրի պես։",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Միայն"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "նրա արյունը"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "նրա արյունը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "կեր"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "թափիր այն"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ջրի պես"
+    }
+  ],
+  "timestamp": "2026-09-05T19:38:37.353336837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 132,
+  "translation": "Եթե մտնեմ իմ տան վրանը, եթե բարձրանամ իմ մահճակալի վրա՝",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "մտնեմ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "վրանը... իմ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "տան"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "բարձրանամ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "մահճակալի"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "իմ... անկողնու"
+    }
+  ],
+  "timestamp": "2026-09-05T23:24:23.931571011Z",
+  "model": "glm-5.3"
+}

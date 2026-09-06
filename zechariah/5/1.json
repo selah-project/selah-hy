@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 5:1",
+  "book": "zechariah",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ ես դարձա, բարձրացրեցի աչքերս և տեսա, և ահա՝ թռչող մագաղաթ։",
+  "tokens": [
+    {
+      "surface": "ואשוב",
+      "gloss": "Եվ ես դարձա"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "բարձրացրեցի"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "աչքերս"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "և տեսա"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "և ահա"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "մագաղաթ"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "թռչող"
+    }
+  ],
+  "timestamp": "2026-09-05T22:48:38.686524403Z",
+  "model": "glm-5.3"
+}

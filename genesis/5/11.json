@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ եղան Անոշի բոլոր օրերը հինգ տարի և ինը հարյուր տարի, և մահացավ։",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "եղան"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "օրերը"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Անոշի"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "հինգ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "և ինը"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "մահացավ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:08:46.267331990Z",
+  "model": "glm-5.3"
+}

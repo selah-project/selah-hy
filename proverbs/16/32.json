@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Լավ է դանդաղ բարկացողը ուժեղից, և իր հոգու տիրակալը՝ քաղաք գրավողից։",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Լավ է"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "դանդաղ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "բարկացողը"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "ուժեղից"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "և տիրակալը"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "իր հոգու"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "գրավողից"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "քաղաք"
+    }
+  ],
+  "timestamp": "2026-09-05T23:33:20.397460507Z",
+  "model": "glm-5.3"
+}

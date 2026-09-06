@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "ezra 2:49",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Ոզայի որդիները, Պասեախի որդիները, Բեսայի որդիները։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Ոզայի"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Պասեախի"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "Բեսայի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:16:24.578974956Z",
+  "model": "glm-5.3"
+}

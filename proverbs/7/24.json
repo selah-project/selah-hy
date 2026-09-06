@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 7:24",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ հիմա, որդիներ, լսեք ինձ և ականջ դարեք իմ բերանի խոսքերին։",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "և հիմա"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "լսեք"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "և ականջ դարեք"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "խոսքերին"
+    },
+    {
+      "surface": "פי",
+      "gloss": "իմ բերանի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:30:09.628070284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Արծաթ սիրողը արծաթից չի հագենա, և ով սիրում է առատությունը՝ եկամուտ ⟨նրան⟩ չի լինի. նույնպես սա հաբել է։",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "սիրողը"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "արծաթ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "հագենա"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "արծաթից"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "և ով"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "սիրում է"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "առատությունը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "եկամուտ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "նույնպես"
+    },
+    {
+      "surface": "זה",
+      "gloss": "սա"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "հաբել"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:32.181081246Z",
+  "model": "glm-5.3"
+}

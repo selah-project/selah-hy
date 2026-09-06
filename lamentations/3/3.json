@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Այո, իմ դեմ ⟨է⟩, որ շուռ տվեց. իր ձեռքը շուռ է տալիս ամբողջ օրը։",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Այո, միայն"
+    },
+    {
+      "surface": "בי",
+      "gloss": "իմ դեմ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "շուռ տվեց"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "շուռ է տալիս"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "իր ձեռքը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "օրը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:00.293324258Z",
+  "model": "glm-5.3"
+}

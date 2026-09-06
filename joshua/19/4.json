@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "և Էլթոլադը, և Բեթուլը, և Խորման։",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "և Էլթոլադը"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "և Բեթուլը"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "և Խորման"
+    }
+  ],
+  "timestamp": "2026-09-05T19:57:44.276103505Z",
+  "model": "glm-5.3"
+}

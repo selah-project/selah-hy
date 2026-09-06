@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Յիրմեյահուն տասներորդ, Մախբանայը տասնմեկերորդ։",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "Յիրմեյահուն"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "տասներորդ"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "Մախբանայը"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "տասնմեկ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "երորդ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:33:53.207530820Z",
+  "model": "glm-5.3"
+}

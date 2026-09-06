@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 103,
+  "translation": "Ողորմած և շնորհալի ⟨է⟩ Յահվեն, երկար զայրույթով և մեծ խեսեդով։",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "ողորմած"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "և շնորհալի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "երկար"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "զայրույթով"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "և մեծ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "խեսեդով"
+    }
+  ],
+  "timestamp": "2026-09-05T23:15:56.282644365Z",
+  "model": "glm-5.3"
+}

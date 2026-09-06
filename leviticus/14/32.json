@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 14:32",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Սա այն մարդու Թորան է, ում մեջ ծաղկի վնասվածք կա, ով իր մաքրման համար ձեռքը չի հասնում։",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "սա"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Թորան"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ում"
+    },
+    {
+      "surface": "בו",
+      "gloss": "մեջ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "վնասվածք"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ծաղկի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ով"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "հասնում"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ձեռքը"
+    },
+    {
+      "surface": "בטהרתו",
+      "gloss": "իր մաքրման համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:02:47.632909609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 33:42",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 33,
+  "translation": "Եվ շարժվեցին Ցալմոնայից, և բանակեցին Պունոնում։",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "և շարժվեցին"
+    },
+    {
+      "surface": "מצלמנה",
+      "gloss": "Ցալմոնայից"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "և բանակեցին"
+    },
+    {
+      "surface": "בפונן",
+      "gloss": "Պունոնում"
+    }
+  ],
+  "timestamp": "2026-09-05T19:29:43.530505706Z",
+  "model": "glm-5.3"
+}

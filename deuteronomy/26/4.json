@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Եվ վերցնի քահանան զամբյուղը քո ձեռքից և դնի այն Յահվե Էլոհիմդի զոհասեղանի առջև։",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Եվ վերցնի"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "քահանան"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "զամբյուղը"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "քո ձեռքից"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "և դնի այն"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "զոհասեղանի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Էլոհիմդ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:44:27.005800001Z",
+  "model": "glm-5.3"
+}

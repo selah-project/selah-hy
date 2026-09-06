@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Եվ կուտեք հին բերք՝ երկար պահված, և հինը նորի երեսից դուրս կհանեք։",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "եվ կուտեք"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "հին բերք"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "երկար պահված"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "և հինը"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "երեսից"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "նորի"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "կդուրս հանեք"
+    }
+  ],
+  "timestamp": "2026-09-05T19:09:35.601503047Z",
+  "model": "glm-5.3"
+}

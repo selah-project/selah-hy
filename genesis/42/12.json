@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 42,
+  "translation": "Եվ ասաց նրանց՝ ոչ, այլ երկրի մերկությունը տեսնելու եք եկել։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "այլ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "մերկությունը"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "եք եկել"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "տեսնելու"
+    }
+  ],
+  "timestamp": "2026-09-05T18:29:00.578633401Z",
+  "model": "glm-5.3"
+}

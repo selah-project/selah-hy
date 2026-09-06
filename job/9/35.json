@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 9:35",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Ես կխոսեմ և չեմ վախենա նրանից, քանի որ ես այդպես չեմ ինձ հետ։",
+  "tokens": [
+    {
+      "surface": "אדברה",
+      "gloss": "ես կխոսեմ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չեմ"
+    },
+    {
+      "surface": "איראנו",
+      "gloss": "վախենա նրանից"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այդպես"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ես"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ինձ հետ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:41:58.759601316Z",
+  "model": "glm-5.3"
+}

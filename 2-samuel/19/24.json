@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 19:24",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Եվ ասաց թագավորը Շիմիին՝ դու չես մահանալու։ Եվ երդվեց թագավորը նրան։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Եվ ասաց"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Շիմիին"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ես մահանալու"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "Եվ երդվեց"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "թագավորը"
+    }
+  ],
+  "timestamp": "2026-09-05T20:39:33.733281241Z",
+  "model": "glm-5.3"
+}

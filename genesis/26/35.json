@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 26:35",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Եվ նրանք դառնություն էին հոգու համար Իցխակի և Ռիվկայի։",
+  "tokens": [
+    {
+      "surface": "ותהיין",
+      "gloss": "Եվ նրանք էին"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "դառնություն"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "հոգու"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Իցխակի"
+    },
+    {
+      "surface": "ולרבקה",
+      "gloss": "և Ռիվկայի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:19:06.155817755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 4:32",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ եթե գառ բերի իր ընծան՝ մեղքի զոհի համար, էգ՝ անարատ բերի այն։",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "և եթե"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "գառ"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "բերի"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "իր ընծան"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "մեղքի զոհի համար"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "էգ"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "անարատ"
+    },
+    {
+      "surface": "יביאנה",
+      "gloss": "բերի այն"
+    }
+  ],
+  "timestamp": "2026-09-05T18:58:54.258091801Z",
+  "model": "glm-5.3"
+}

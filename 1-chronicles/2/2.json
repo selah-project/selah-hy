@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 2:2",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Դան, Յոսեֆ և Բինյամին, Նաֆտալի, Գադ և Աշեր։",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Դան"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Յոսեֆ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "և Բինյամին"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Նաֆտալի"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Գադ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "և Աշեր"
+    }
+  ],
+  "timestamp": "2026-09-06T00:27:44.491982875Z",
+  "model": "glm-5.3"
+}

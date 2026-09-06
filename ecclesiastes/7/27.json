@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Տե՛ս, սա գտա, ասաց Քոհելեթը. մեկ առ մեկ՝ հաշվառքը գտնելու համար։",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Տե՛ս"
+    },
+    {
+      "surface": "זה",
+      "gloss": "սա"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "գտա"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Քոհելեթը"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "առ մեկ"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "գտնելու համար"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "հաշվառքը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:35.513725794Z",
+  "model": "glm-5.3"
+}

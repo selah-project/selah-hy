@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Անարատ եղիր Յահվե Էլոհիմդ հետ։",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "Անարատ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "եղիր"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Էլոհիմդ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:41:49.874461649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "numbers 7:70",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "մեկ արջկ այծերից՝ մեղքի զոհաբերության համար։",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "արջկ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "այծերից"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "մեղքի զոհաբերության համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:16:05.538526894Z",
+  "model": "glm-5.3"
+}

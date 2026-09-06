@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Յահվե, Ադոնայ մեր՝ որքան հզոր է Քո անունը ամբողջ երկրի վրա։",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Ադոնայ մեր"
+    },
+    {
+      "surface": "מה",
+      "gloss": "որքան"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "հզոր"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Քո անունը"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:53:52.497501156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 23:3",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Մամզերը չի մտնի Յահվեի համայնք. նույնիսկ տասներորդ սերունդը նրանից չի մտնի Յահվեի համայնք։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "չի մտնի"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "մամզերը"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "համայնք"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "גם",
+      "gloss": "նույնիսկ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "սերունդը"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "տասներորդ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "չի մտնի"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրանից"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "համայնք"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:43:42.632850737Z",
+  "model": "glm-5.3"
+}

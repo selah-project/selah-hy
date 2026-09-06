@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Եվ ասաց ժողովուրդը Յեհոշուային՝ ոչ, այլ ⟨את⟩ Յահվեին ենք ծառայելու։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովուրդը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Յեհոշուային"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "այլ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յահվեին"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ծառայելու ենք"
+    }
+  ],
+  "timestamp": "2026-09-06T01:07:57.387291117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 26:4",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Եվ ասես նրանց. այսպես ասաց Յահվեն. եթե չլսեք ինձ՝ քայլելու իմ Թորայում, որ դրել եմ ձեր առջև,",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "և ասես"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "כה",
+      "gloss": "այսպես"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "լսեք"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "քայլելու"
+    },
+    {
+      "surface": "בתורתי",
+      "gloss": "իմ Թորայում"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "դրել եմ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ձեր առջև"
+    }
+  ],
+  "timestamp": "2026-09-05T21:52:36.542650847Z",
+  "model": "glm-5.3"
+}

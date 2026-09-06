@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 95,
+  "translation": "ուստի երդվեցի իմ բարկությամբ՝ եթե նրանք մտնեն իմ հանգստի մեջ․",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ուստի"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "երդվեցի"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "իմ բարկությամբ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "մտնեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "իմ հանգիստը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:14:24.534812615Z",
+  "model": "glm-5.3"
+}

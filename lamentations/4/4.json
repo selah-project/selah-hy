@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Կրծքով սնվողի լեզուն կպավ իր քմին ծարավից, մանուկները խնդրեցին հաց, բայց բաժնող չունեն։",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "կպավ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "լեզուն"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "կրծքով սնվողի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "իր քմին"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "ծարավից"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "մանուկները"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "խնդրեցին"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "հաց"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "բաժնող"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չունեն"
+    },
+    {
+      "surface": "להם",
+      "gloss": "իրենց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:51.370653829Z",
+  "model": "glm-5.3"
+}

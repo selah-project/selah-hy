@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "nehemiah 7:54",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Բածլիթի որդիները, Մեխիդայի որդիները, Խարշայի որդիները։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "בצלית",
+      "gloss": "Բածլիթի"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "Մեխիդայի"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "Խարշայի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:47.463671375Z",
+  "model": "glm-5.3"
+}

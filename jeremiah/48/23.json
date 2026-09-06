@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 48:23",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 48,
+  "translation": "և Կիրյաթայիմի (Կիրիաթայիմ), և Բեթ-Գամուլի, և Բեթ-Մեոնի (Բեթ-Բաալ-Մեոն) վրա։",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "և վրա"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Կիրյաթայիմի"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "և վրա"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Բեթ-"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "Գամուլի"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "և վրա"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Բեթ-"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Մեոնի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:02:58.870007818Z",
+  "model": "glm-5.3"
+}

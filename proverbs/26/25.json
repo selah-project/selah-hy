@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Երբ իր ձայնը հաճելի է դարձնում, մի հավատա նրան, որովհետև յոթ գզրոցք կան նրա սրտում։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "հաճելի է դարձնում"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "իր ձայնը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "հավատա"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "գզրոցք"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "նրա սրտում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:37.894617956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Մարդու ցանկությունը նրա խեսեդն է, և աղքատը լավ է ստախոս մարդուց։",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "ցանկությունը"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "նրա խեսեդը"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "և լավ ⟨է⟩"
+    },
+    {
+      "surface": "רש",
+      "gloss": "աղքատը"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "մարդուց"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ստախոս"
+    }
+  ],
+  "timestamp": "2026-09-05T23:33:59.031663676Z",
+  "model": "glm-5.3"
+}

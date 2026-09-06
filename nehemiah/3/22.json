@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 3:22",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Նրանից հետո ամրացրին քահանաները՝ հարթավայրի մարդիկ։",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "Նրանից հետո"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "ամրացրին"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "քահանաները"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "մարդիկ՝"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "հարթավայրի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:21:02.194134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 22:11",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Քերուբի վրա հեծեց և թռավ, երևաց քամու թևերի վրա։",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "հեծեց"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "քերուբ"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "և թռավ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "երևաց"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "թևերի"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "քամու"
+    }
+  ],
+  "timestamp": "2026-09-05T20:40:39.815707445Z",
+  "model": "glm-5.3"
+}

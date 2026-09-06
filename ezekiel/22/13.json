@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 22:13",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Ահա՝ թափահարեցի ափը իմ քո անօրինական շահի վրա, որ արեցիր, և քո արյան վրա, որ եղավ քո մեջ։",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Ահա"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "թափահարեցի"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ափը իմ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "בצעך",
+      "gloss": "անօրինական շահիդ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "արեցիր"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "և վրա"
+    },
+    {
+      "surface": "דמך",
+      "gloss": "արյանդ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "քո մեջ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:17:16.828874309Z",
+  "model": "glm-5.3"
+}

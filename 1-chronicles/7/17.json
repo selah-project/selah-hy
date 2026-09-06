@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Եվ Ուլամի որդիներն էին՝ Բեդանը։ Այս էին Գիլադի որդիները՝ Մախիրի որդին, Մենաշեի որդին։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "Ուլամի"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Բեդանը"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Գիլադի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Մախիրի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Մենաշեի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:37.189192945Z",
+  "model": "glm-5.3"
+}

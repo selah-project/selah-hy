@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Լավ ⟨է⟩, որ չես խոստում, քան որ խոստում ես և չես կատարում։",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Լավ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չես"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "խոստում"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "քան որ խոստում ես"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չես"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "կատարում"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:52.109473009Z",
+  "model": "glm-5.3"
+}

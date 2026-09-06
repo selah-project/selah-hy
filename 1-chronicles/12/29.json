@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 12:29",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "և Ցադոքը՝ պատանի՝ խիզախության արի, և իր հոր տնից՝ քսան ու երկու իշխան։",
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "և Ցադոքը"
+    },
+    {
+      "surface": "נער",
+      "gloss": "պատանի"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "արի"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "խիզախության"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "և տնից"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "իր հոր"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "իշխան"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "քսան"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ու երկու"
+    }
+  ],
+  "timestamp": "2026-09-06T00:33:18.139056209Z",
+  "model": "glm-5.3"
+}

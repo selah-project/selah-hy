@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 9:13",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Հիմարության կինը աղմկում է, միամիտ է և չգիտի՝ ոչինչ։",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "կինը"
+    },
+    {
+      "surface": "כסילות",
+      "gloss": "հիմարության"
+    },
+    {
+      "surface": "המיה",
+      "gloss": "աղմկում է"
+    },
+    {
+      "surface": "פתיות",
+      "gloss": "միամիտ է"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "գիտի"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ոչինչ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:30:30.270462387Z",
+  "model": "glm-5.3"
+}

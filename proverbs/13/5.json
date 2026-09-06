@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Սուտ խոսք ատում է արդարը, իսկ չարագործը գարշելի է և ամոթի է ելնում։",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "խոսք"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "սուտ"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ատում է"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "արդարը"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "իսկ չարագործը"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "գարշելի է"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "և ամոթի է ելնում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:31:09.954998619Z",
+  "model": "glm-5.3"
+}

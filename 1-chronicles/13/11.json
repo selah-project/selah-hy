@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 13:11",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Եվ տխրեց Դավիդը, որ Յահվեն ճեղք էր բացել Ուզզայի դեմ, և կոչեց այն տեղը Պերեց-Ուզզա՝ մինչև այս օրը։",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "և տխրեց"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Դավիդը"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ճեղք էր բացել"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ճեղք"
+    },
+    {
+      "surface": "בעזא",
+      "gloss": "Ուզզայի դեմ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "և կոչեց"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "տեղը"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Պերեց"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Ուզզա"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "היום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-06T00:33:52.739726715Z",
+  "model": "glm-5.3"
+}

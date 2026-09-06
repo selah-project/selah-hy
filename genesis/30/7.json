@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 30:7",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Եվ կրկին հղիացավ և ծնեց Բիլհան՝ Ռախելի ծառան՝ Յաակովին երկրորդ որդի։",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "եվ հղիացավ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "կրկին"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "և ծնեց"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Բիլհան"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "ծառան"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Ռախելի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "שני",
+      "gloss": "երկրորդ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Յաակովին"
+    }
+  ],
+  "timestamp": "2026-09-05T18:21:39.718783123Z",
+  "model": "glm-5.3"
+}

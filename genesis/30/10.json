@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Եվ ծնեց Զիլպան՝ Լեայի ստուգրուհին, Յաակովին որդի։",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Եվ ծնեց"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Զիլպան"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "ստուգրուհին"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Լեայի"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Յաակովին"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:20:55.109233277Z",
+  "model": "glm-5.3"
+}

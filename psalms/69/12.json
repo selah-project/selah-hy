@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 69,
+  "translation": "Եվ տվեցի իմ հանդերձը՝ պարկագործ, և եղա նրանց համար առակ։",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Եվ տվեցի"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "իմ հանդերձը"
+    },
+    {
+      "surface": "שק",
+      "gloss": "պարկագործ"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "և եղա"
+    },
+    {
+      "surface": "להם",
+      "gloss": "նրանց համար"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "առակ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:07:51.051696151Z",
+  "model": "glm-5.3"
+}

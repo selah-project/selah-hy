@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Մաշկս սևացավ իմ վրայից, և ոսկրերս այրվեցին շոգից։",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "մաշկս"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "սևացավ"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "իմ վրայից"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "և ոսկրերս"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "այրվեցին"
+    },
+    {
+      "surface": "מני",
+      "gloss": "–ից"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "շոգ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:48:25.521612646Z",
+  "model": "glm-5.3"
+}

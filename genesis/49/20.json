@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 49,
+  "translation": "Աշերից՝ նրա հացը ճարպոտ կլինի, և նա կտա թագավորի ընտիր ուտեստներ։",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "Աշերից"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ճարպոտ"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "նրա հացը"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "և նա"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "կտա"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "ընտիր ուտեստներ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավորի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:33:29.674032524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 42,
+  "translation": "Խուլե՛ր, լսե՛ք, և կույրե՛ր, նայե՛ք տեսնելու համար։",
+  "tokens": [
+    {
+      "surface": "החרשים",
+      "gloss": "խուլեր"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "լսե՛ք"
+    },
+    {
+      "surface": "והעורים",
+      "gloss": "և կույրեր"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "նայե՛ք"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "տեսնելու"
+    }
+  ],
+  "timestamp": "2026-09-05T21:30:06.287255314Z",
+  "model": "glm-5.3"
+}

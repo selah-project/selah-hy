@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Իմաստունի սիրտը՝ նրա աջին, իսկ հիմարի սիրտը՝ նրա ձախին։",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "սիրտը"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "իմաստունի"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "նրա աջին"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "և սիրտը"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "հիմարի"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "նրա ձախին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:35.816574050Z",
+  "model": "glm-5.3"
+}

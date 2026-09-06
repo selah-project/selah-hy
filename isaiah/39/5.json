@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 39:5",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 39,
+  "translation": "Եվ ասաց Յեշայահուն Խիզկիյահուին. Լսի՛ր Յահվե Ծեվաոթի խոսքը։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Յեշայահուն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Խիզկիյահուին"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Լսի՛ր"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ծեվաոթի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:28:12.373755513Z",
+  "model": "glm-5.3"
+}

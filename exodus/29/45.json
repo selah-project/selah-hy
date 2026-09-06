@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 29:45",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Եվ կբնակեմ Իսրայելի որդիների մեջ և կլինեմ նրանց Էլոհիմը։",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "և կբնակեմ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "մեջ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "և կլինեմ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Էլոհիմ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:48:32.330215176Z",
+  "model": "glm-5.3"
+}

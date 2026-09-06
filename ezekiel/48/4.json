@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 48:4",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 48,
+  "translation": "Եվ Նաֆթալիի սահմանի վրայից՝ արևելքի կողմից մինչև ծովի կողմը. Մենաշե ⟨է⟩ մեկ։",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Եվ վրայից"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "սահմանի"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Նաֆթալիի"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "կողմից"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "արևելքի"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "կողմը"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ծովի"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Մենաշե"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:29:52.812203544Z",
+  "model": "glm-5.3"
+}

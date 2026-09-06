@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Հեղհեղեցին ջրեր իմ գլխի վրա, ասացի՝ կտրված եմ ես։",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "հեղհեղեցին"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ջրեր"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "իմ գլխի"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ասացի"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "կտրված եմ ես"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:09.288254998Z",
+  "model": "glm-5.3"
+}

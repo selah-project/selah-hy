@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 16:22",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Եվ մացեվա՝ կոթող՝ չես կանգնեցնելու քեզ համար, որը ատում է Յահվե քո Էլոհիմը։",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "չես կանգնեցնելու"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ համար"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "մացեվա՝ կոթող"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որը"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ատում է"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "քո Էլոհիմը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:40:56.024330641Z",
+  "model": "glm-5.3"
+}

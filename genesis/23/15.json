@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Տե՛ր իմ, լսի՛ր ինձ. երկիրը՝ չորս հարյուր շեկել արծաթ, իմ և քո միջև ի՞նչ է դա. և ⟨את⟩ մեռելդ թաղի՛ր։",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "տեր իմ"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "լսիր ինձ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "չորս"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "շեկել"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "արծաթ"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "իմ մեջ"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "և քո մեջ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "է դա"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "մեռելդ"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "մեռելդ"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "թաղիր"
+    }
+  ],
+  "timestamp": "2026-09-05T18:17:06.892122081Z",
+  "model": "glm-5.3"
+}

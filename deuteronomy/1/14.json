@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Եվ պատասխանեցիք ⟨את⟩ ինձ, և ասացիք՝ լավ է խոսքը, որ դու խոսեցիր ⟨մեզ⟩ անելու։",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "Եվ պատասխանեցիք"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ինձ"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "և ասացիք"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "լավ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "դու խոսեցիր"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "անելու"
+    }
+  ],
+  "timestamp": "2026-09-05T19:32:35.026175914Z",
+  "model": "glm-5.3"
+}

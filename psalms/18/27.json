@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 18,
+  "translation": "Մաքրի հետ մաքուր ես դառնում, և ոլորվածի հետ՝ ոլորվում ես։",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "Մաքրի"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "մաքուր ես դառնում"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "և ... հետ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ոլորվածի"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "ոլորվում ես"
+    }
+  ],
+  "timestamp": "2026-09-05T22:56:51.490032077Z",
+  "model": "glm-5.3"
+}

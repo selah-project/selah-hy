@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 47,
+  "translation": "Երգե՛ք Էլոհիմին, երգե՛ք, մեր արքային երգե՛ք, երգե՛ք։",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Երգե՛ք"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմին"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "երգե՛ք"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "երգե՛ք"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "մեր արքային"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "երգե՛ք"
+    }
+  ],
+  "timestamp": "2026-09-05T23:04:03.501224306Z",
+  "model": "glm-5.3"
+}

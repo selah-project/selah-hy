@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ օծված քահանան ցլի արյունից բերի վկայության խորան։",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Եվ բերի"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "քահանան"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "օծված"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "արյունից"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ցլի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "խորան"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "վկայության"
+    }
+  ],
+  "timestamp": "2026-09-05T18:58:44.886841960Z",
+  "model": "glm-5.3"
+}

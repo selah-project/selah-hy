@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 11:22",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Ոսկե օղ խոզի քթին՝ գեղեցիկ կին, որ շեղվել է Տաթից։",
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "օղ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ոսկե"
+    },
+    {
+      "surface": "באף",
+      "gloss": "քթին"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "խոզի"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "կին"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "գեղեցիկ"
+    },
+    {
+      "surface": "וסרת",
+      "gloss": "որ շեղվել է"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "Տաթից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:31:30.370635895Z",
+  "model": "glm-5.3"
+}

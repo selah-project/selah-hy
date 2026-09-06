@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 101,
+  "translation": "Դավթի մաղմուր։ Խեսեդ և միշպատ կերգեմ, քեզ, Յահվե, կնվագեմ։",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Դավթի"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "մաղմուր"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "խեսեդ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "և միշպատ"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "կերգեմ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "կնվագեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:16:25.591869127Z",
+  "model": "glm-5.3"
+}

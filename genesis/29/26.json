@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 29:26",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Եվ ասաց Լավանը՝ «Մեր տեղում այսպես չի արվում՝ տալ կրտսերին ավագից առաջ։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Լավանը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "արվում"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այսպես"
+    },
+    {
+      "surface": "במקומנו",
+      "gloss": "մեր տեղում"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "տալ"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "կրտսերին"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առաջ"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "ավագից"
+    }
+  ],
+  "timestamp": "2026-09-05T18:21:32.372797537Z",
+  "model": "glm-5.3"
+}

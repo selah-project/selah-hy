@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Եվ իմացավ Յոավը՝ Ծերույայի որդին, որ թագավորի սիրտը դեպի Ավշալոմն է։",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "և իմացավ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Յոավը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Ծերույայի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սիրտը"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "թագավորի"
+    },
+    {
+      "surface": "על",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Ավշալոմն"
+    }
+  ],
+  "timestamp": "2026-09-05T20:36:07.111286964Z",
+  "model": "glm-5.3"
+}

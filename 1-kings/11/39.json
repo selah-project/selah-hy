@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Եվ կտանջեմ ⟨את⟩ Դավիդի սերմը սրա համար, միայն՝ ոչ բոլոր օրերին։",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "Եվ կտանջեմ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Դավիդի սերմը"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "սերմը"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Դավիդի"
+    },
+    {
+      "surface": "למען",
+      "gloss": "համար"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "սրա"
+    },
+    {
+      "surface": "אך",
+      "gloss": "միայն"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "օրերին"
+    }
+  ],
+  "timestamp": "2026-09-05T20:50:41.448824488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 29:4",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "և մեկ տասնորդակ՝ մեկ ուլի համար, յոթ ուլերի համար։",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "և տասնորդակ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "ուլի համար"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "յոթի համար"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "ուլեր"
+    }
+  ],
+  "timestamp": "2026-09-05T19:27:48.964588816Z",
+  "model": "glm-5.3"
+}

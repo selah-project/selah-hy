@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Զոհե՛ք արդարության զոհեր և ապավինեք Յահվեին։",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "Զոհեք"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "զոհեր"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "արդարության"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "և ապավինեք"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Յահվեին"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    }
+  ],
+  "timestamp": "2026-09-05T22:52:18.795446903Z",
+  "model": "glm-5.3"
+}

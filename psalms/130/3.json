@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 130,
+  "translation": "Եթե անօրենություններ դու պահես, Յահ, Ադոնայ, ո՞վ կկանգնի։",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "անօրենություններ"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "դու պահես"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Յահ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "կկանգնի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:24:07.534357399Z",
+  "model": "glm-5.3"
+}

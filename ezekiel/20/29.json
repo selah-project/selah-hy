@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 20:29",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Եվ ասացի նրանց՝ ի՞նչ է բաման, ուր դուք գնում եք այնտեղ. և կոչվեց նրա անունը Բամա մինչև այս օրը։",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Եվ ասացի"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "բաման"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "դուք"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "գնում եք"
+    },
+    {
+      "surface": "שם",
+      "gloss": "այնտեղ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "և կոչվեց"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "նրա անունը"
+    },
+    {
+      "surface": "במה",
+      "gloss": "Բամա"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "היום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-05T22:16:26.846353339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Եղավ առևտրական նավերի պես՝ հեռու երկրից բերում է իր հացը։",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "Եղավ"
+    },
+    {
+      "surface": "כאניות",
+      "gloss": "նավերի պես"
+    },
+    {
+      "surface": "סוחר",
+      "gloss": "առևտրական"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "հեռու երկրից"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "բերում է"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "իր հացը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:38:27.332128117Z",
+  "model": "glm-5.3"
+}

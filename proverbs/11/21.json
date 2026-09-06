@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Ձեռք ձեռքին՝ չարը չի արդարացվի, իսկ արդարների սերունդը կփրկվի։",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "ձեռք"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ձեռքին"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "արդարացվի"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չարը"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "իսկ սերունդը"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "արդարների"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "կփրկվի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:31:30.370386188Z",
+  "model": "glm-5.3"
+}

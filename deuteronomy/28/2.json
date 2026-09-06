@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 28:2",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Եվ գան քեզ վրա բոլոր այս օրհնությունները և հասնեն քեզ, եթե լսես Յահվեի՝ քո Էլոհիմի ձայնին։",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "Եվ գան"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "քեզ վրա"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "הברכות",
+      "gloss": "օրհնությունները"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "והשיגך",
+      "gloss": "և հասնեն քեզ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "լսես"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ձայնին"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "քո Էլոհիմի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:45:49.279984347Z",
+  "model": "glm-5.3"
+}

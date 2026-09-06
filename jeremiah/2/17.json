@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Սա՞ չի արվում քեզ՝ քո թողնելով ⟨את⟩ Յահվե Էլոհիմդ, երբ նա քեզ տանում էր ճանապարհին։",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "մի՞թե ոչ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "սա"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "արվում է"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "քո թողնելը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յահվե"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Էլոհիմդ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "տանելով քեզ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ճանապարհին"
+    }
+  ],
+  "timestamp": "2026-09-05T21:40:15.685973306Z",
+  "model": "glm-5.3"
+}

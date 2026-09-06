@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ ասաց՝ ի՞նչ արեցիր. եղբորդ արյան ձայնը գոռում է դեպի ինձ՝ հողից։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ի՞նչ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "արեցիր"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ձայնը"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "արյան"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "եղբորդ"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "գոռում է"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "դեպի ինձ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ից"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "հողից"
+    }
+  ],
+  "timestamp": "2026-09-05T18:08:37.083520065Z",
+  "model": "glm-5.3"
+}

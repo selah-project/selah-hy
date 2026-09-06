@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Բեթ Ազմավետի մարդիկ՝ քառասուն ու երկու։",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "մարդիկ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Բեթ"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Ազմավետի"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "քառասուն"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "երկու"
+    }
+  ],
+  "timestamp": "2026-09-06T00:23:36.281471719Z",
+  "model": "glm-5.3"
+}

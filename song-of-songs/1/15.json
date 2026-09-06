@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Ահա, գեղեցիկ ես՝ իմ սիրելի՛կ, ահա, գեղեցիկ ես, աչքերդ աղավնիներ են։",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "գեղեցիկ ես"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "իմ սիրելի՛կ"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "գեղեցիկ ես"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "աչքերդ"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "աղավնիներ"
+    }
+  ],
+  "timestamp": "2026-09-06T02:09:54.022021009Z",
+  "model": "glm-5.3"
+}

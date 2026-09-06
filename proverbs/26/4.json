@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Մի՛ պատասխանիր հիմարին նրա հիմարության համեմատ, որ նրան նման չդառնաս նաև դու։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תען",
+      "gloss": "պատասխանիր"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "հիմարին"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "նրա հիմարության համեմատ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "որ չ"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "նման դառնաս"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "גם",
+      "gloss": "նաև"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:34.622510385Z",
+  "model": "glm-5.3"
+}

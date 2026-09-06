@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 25:22",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Եվ պարտվեց Հրեաստանը Իսրայելի առջև, և փախան ամեն մարդ իր վրանը։",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "և պարտվեց"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Հրեաստանը"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "և փախան"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ամեն մարդ"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "իր վրանը"
+    }
+  ],
+  "timestamp": "2026-09-06T01:44:07.057322869Z",
+  "model": "glm-5.3"
+}

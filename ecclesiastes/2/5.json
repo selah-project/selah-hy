@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Արեցի ինձ այգիներ և պարդեսներ, և տնկեցի դրանցում ծառեր՝ ամեն պտղի։",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Արեցի"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "այգիներ"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "և պարդեսներ"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "և տնկեցի"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "դրանցում"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ծառ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "պտղի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:00:13.407072086Z",
+  "model": "glm-5.3"
+}

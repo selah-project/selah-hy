@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Եվ Դավարը (Դավիթ) գնաց՝ գնալով և մեծանալով, և Յահվե Ծեվաոթը իր հետ էր։",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "և գնաց"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Դավարը (Դավիթ)"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "գնալով"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "և մեծանալով"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "և Յահվե"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ծեվաոթը"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "իր հետ էր"
+    }
+  ],
+  "timestamp": "2026-09-06T00:31:57.485209219Z",
+  "model": "glm-5.3"
+}

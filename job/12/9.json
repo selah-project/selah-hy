@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Ո՞վ չգիտի այս բոլորի մեջ, որ Յահվեի ձեռքն արել է սա։",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ո՞վ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "գիտի"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "բոլորի մեջ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ձեռք"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "արել է"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "սա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:42:13.071782245Z",
+  "model": "glm-5.3"
+}

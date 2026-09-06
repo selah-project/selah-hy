@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "և ⟨את⟩ ամբողջ համայնքը հավաքիր հանդիպման վրանի մուտքի մոտ»։",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "ամբողջ համայնքը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "համայնքը"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "հավաքիր"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "մուտքի"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "վրանի"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "հանդիպման"
+    }
+  ],
+  "timestamp": "2026-09-05T18:59:24.545705504Z",
+  "model": "glm-5.3"
+}

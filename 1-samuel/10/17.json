@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Եվ կանչեց Շմուելը ⟨את⟩ ժողովրդին Յահվեի մոտ՝ Միցպայում։",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "Եվ կանչեց"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Շմուելը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ժողովրդին"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովրդին"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Միցպայում"
+    }
+  ],
+  "timestamp": "2026-09-05T20:17:19.299593094Z",
+  "model": "glm-5.3"
+}

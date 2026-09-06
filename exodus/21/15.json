@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Իսկ ով հարվածի իր հորը կամ իր մորը, մահով պիտի մահանա։",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Իսկ հարվածողը"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "իր հորը"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "կամ իր մորը"
+    },
+    {
+      "surface": "מות",
+      "gloss": "մահով"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "պիտի մահանա"
+    }
+  ],
+  "timestamp": "2026-09-05T18:44:35.488587292Z",
+  "model": "glm-5.3"
+}

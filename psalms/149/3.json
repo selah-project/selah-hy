@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 149,
+  "translation": "Փառաբանեն նրա անունը պարով, թմբկով և քնարով երգեն նրան։",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Փառաբանեն"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "նրա անունը"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "պարով"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "թմբկով"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "և քնարով"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "երգեն"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    }
+  ],
+  "timestamp": "2026-09-05T23:27:10.390259380Z",
+  "model": "glm-5.3"
+}

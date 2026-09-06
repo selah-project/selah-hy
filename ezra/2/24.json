@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 2:24",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Ազմավեթի որդիները՝ քառասուն և երկու։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Ազմավեթի"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "քառասուն"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "և երկու"
+    }
+  ],
+  "timestamp": "2026-09-06T00:14:21.243381116Z",
+  "model": "glm-5.3"
+}

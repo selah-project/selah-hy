@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ խոսեց Մոշե Իսրայելի որդիների հետ՝ ⟨որ⟩ անեն Պասեխը։",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "և խոսեց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշե"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "անելու"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Պասեխը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:16:43.642555118Z",
+  "model": "glm-5.3"
+}

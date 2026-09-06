@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 22:29",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Քանի որ դու՝ Յահվե, իմ ճրագն ես, և Յահվեն կլուսավորի իմ խավարը։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "נירי",
+      "gloss": "իմ ճրագը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "և Յահվեն"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "կլուսավորի"
+    },
+    {
+      "surface": "חשכי",
+      "gloss": "իմ խավարը"
+    }
+  ],
+  "timestamp": "2026-09-05T20:41:51.161152849Z",
+  "model": "glm-5.3"
+}

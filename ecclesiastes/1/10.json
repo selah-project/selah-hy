@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Կա բան, որի մասին ասեն՝ «տե՛ս, սա նո՞ր է»՝ արդեն եղել է հավերժությունների ընթացքում, որ եղել է մեզնից առաջ։",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "կա"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "բան"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "որի մասին ասեն"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "տե՛ս"
+    },
+    {
+      "surface": "זה",
+      "gloss": "սա"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "նոր"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨է⟩"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "արդեն"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղել է"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "հավերժությունների ընթացքում"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղել է"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "մեզնից առաջ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:30.797378214Z",
+  "model": "glm-5.3"
+}

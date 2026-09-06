@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 35:2",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 35,
+  "translation": "«Մարդու որդի, դիր քո երեսը Սեիր լեռան դեմ և մարգարեա նրա դեմ։",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "שים",
+      "gloss": "դիր"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "քո երեսը"
+    },
+    {
+      "surface": "על",
+      "gloss": "դեմ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Սեիր լեռան"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Սեիր"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "և մարգարեա"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "նրա դեմ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:24:27.925531436Z",
+  "model": "glm-5.3"
+}

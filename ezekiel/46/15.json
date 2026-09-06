@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 46,
+  "translation": "Եվ պատրաստեն ⟨את⟩ գառը, և ⟨את⟩ ընծան, և ⟨את⟩ ձեթը՝ առավոտ առավոտ. մշտական ողջակեզ։",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "և պատրաստեն"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "գառը"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "գառը"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "ընծան"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ընծան"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "ձեթը"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ձեթը"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "առավոտ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "առավոտ"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ողջակեզ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "մշտական"
+    }
+  ],
+  "timestamp": "2026-09-05T22:29:22.143806596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 10:39",
+  "book": "ezra",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "և Շելեմյա, և Նատան, և Ադայա,",
+  "tokens": [
+    {
+      "surface": "ושלמיה",
+      "gloss": "և Շելեմյա"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "և Նատան"
+    },
+    {
+      "surface": "ועדיה",
+      "gloss": "և Ադայա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:18:47.431369209Z",
+  "model": "glm-5.3"
+}

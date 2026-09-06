@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 15:28",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "և Խածար-Շուալ, և Բեեր-Շևա, և Բիզյոթիա",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "և Խածար"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "Շուալ"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "և Բեեր"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Շևա"
+    },
+    {
+      "surface": "ובזיותיה",
+      "gloss": "և Բիզյոթիա"
+    }
+  ],
+  "timestamp": "2026-09-05T19:57:01.647985348Z",
+  "model": "glm-5.3"
+}

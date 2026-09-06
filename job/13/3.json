@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 13:3",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Բայց ես Շադայի հետ կխոսեմ, և Էլի հետ վիճել՝ ցանկանում եմ։",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "Բայց"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Շադայի"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "կխոսեմ"
+    },
+    {
+      "surface": "והוכח",
+      "gloss": "և վիճել"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլի"
+    },
+    {
+      "surface": "אחפץ",
+      "gloss": "ցանկանում եմ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:42:58.253654292Z",
+  "model": "glm-5.3"
+}

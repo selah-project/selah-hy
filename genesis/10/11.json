@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Այդ երկրից դուրս եկավ Աշուրը և կառուցեց ⟨את⟩ Նինվեն և ⟨את⟩ Ռեխովոտ Իրը և ⟨את⟩ Քալախը։",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ից"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "դուրս եկավ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Աշուրը"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "և կառուցեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Նինվեն"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Նինվեն"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Ռեխովոտ Իրը"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Ռեխովոտ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Իր"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Քալախը"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Քալախը"
+    }
+  ],
+  "timestamp": "2026-09-05T18:12:56.140999290Z",
+  "model": "glm-5.3"
+}

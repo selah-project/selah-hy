@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 33:43",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 33,
+  "translation": "Եվ շարժվեցին Պունոնից, և բանակեցին Օվոթում։",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "և շարժվեցին"
+    },
+    {
+      "surface": "מפונן",
+      "gloss": "Պունոնից"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "և բանակեցին"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "Օվոթում"
+    }
+  ],
+  "timestamp": "2026-09-05T19:29:43.530637577Z",
+  "model": "glm-5.3"
+}

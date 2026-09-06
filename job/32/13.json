@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 32:13",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Թող չասեք՝ գտանք իմաստություն. Էլն է մղում նրան, ոչ թե մարդը։",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "թող չ"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ասեք"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "գտանք"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "իմաստություն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Էլ"
+    },
+    {
+      "surface": "ידפנו",
+      "gloss": "մղում է նրան"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:48:26.207151924Z",
+  "model": "glm-5.3"
+}

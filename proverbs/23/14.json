@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 23:14",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Դու մտրակով կհարվածես նրան, և նրա նեֆեշը Շեոլից կփրկես։",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "մտրակով"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "կհարվածես նրան"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "և նրա նեֆեշը"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "Շեոլից"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "կփրկես"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:22.452112941Z",
+  "model": "glm-5.3"
+}

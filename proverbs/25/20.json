@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 25:20",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Ինչպես հանդերձ հանելը ցրտի օրը, և ինչպես քացաքը նիտրի վրա, այնպես երգ երգողը տխուր սրտի վրա ⟨է⟩։",
+  "tokens": [
+    {
+      "surface": "מעדה",
+      "gloss": "հանելը"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "հանդերձ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "ցրտի"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "քացաքը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "נתר",
+      "gloss": "նիտրի"
+    },
+    {
+      "surface": "ושר",
+      "gloss": "և երգ երգողը"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "երգեր"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սրտի"
+    },
+    {
+      "surface": "רע",
+      "gloss": "տխուր"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:22.264272924Z",
+  "model": "glm-5.3"
+}

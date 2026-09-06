@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 33,
+  "translation": "Թագավորը չի փրկվում մեծ զորքով, հզորը չի ազատվում մեծ ուժով։",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "չկա ⟨է⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "թագավորը"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "չի փրկվում"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "զորքով"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "հզորը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "չի ազատվում"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ուժով"
+    }
+  ],
+  "timestamp": "2026-09-05T23:00:09.641122666Z",
+  "model": "glm-5.3"
+}

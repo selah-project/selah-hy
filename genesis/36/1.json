@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 36,
+  "translation": "Եվ ահա այս ⟨են⟩ սերունդները Էսավի (Եսավ)՝ նա Էդոմն է։",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Եվ ահա այս"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "սերունդները"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Էսավի"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Էդոմն է"
+    }
+  ],
+  "timestamp": "2026-09-06T01:28:51.768124343Z",
+  "model": "glm-5.3"
+}

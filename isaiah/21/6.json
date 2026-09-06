@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 21:6",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Քանի որ այսպես ասաց ինձ Ադոնայ. գնա, դիտորդին կանգնեցրու, որ ինչ տեսնի, հայտնի։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "այսպես"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ադոնայ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "գնա"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "կանգնեցրու"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "դիտորդին"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "տեսնի"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "հայտնի"
+    }
+  ],
+  "timestamp": "2026-09-05T21:19:47.983865584Z",
+  "model": "glm-5.3"
+}

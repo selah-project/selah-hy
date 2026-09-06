@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ Քալեբի՝ Յեֆունեի որդու որդիները՝ Իրուն, Էլան և Նաամը, իսկ Էլայի որդիները՝ Քենազը։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Քալեբի"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Յեֆունեի"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "Իրուն"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Էլան"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "և Նաամը"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Էլայի"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "և Քենազը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:16.435207488Z",
+  "model": "glm-5.3"
+}

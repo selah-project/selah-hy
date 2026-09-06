@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 5:22",
+  "book": "daniel",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ դու, նրա որդի՛, Բելշացար, չհամեստացրեցիր քո սիրտը, երբ այս ամենը գիտեիր.",
+  "tokens": [
+    {
+      "surface": "ואנתה",
+      "gloss": "Եվ դու"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "որդի"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "Բելշացար"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "השפלת",
+      "gloss": "համեստացրեցիր"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "քո սիրտը"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամենը"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "երբ"
+    },
+    {
+      "surface": "די",
+      "gloss": "որ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "այս ամեն"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "գիտեիր"
+    }
+  ],
+  "timestamp": "2026-09-06T01:21:51.079647348Z",
+  "model": "glm-5.3"
+}

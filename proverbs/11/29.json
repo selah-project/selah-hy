@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 11:29",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Իր տունը խանգարողը քամի կժառանգի, և հիմարը ծառա է սրտով իմաստունին։",
+  "tokens": [
+    {
+      "surface": "עוכר",
+      "gloss": "խանգարողը"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "իր տունը"
+    },
+    {
+      "surface": "ינחל",
+      "gloss": "կժառանգի"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "քամի"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "և ծառա է"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "հիմարը"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "իմաստունին"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սրտով"
+    }
+  ],
+  "timestamp": "2026-09-05T23:32:13.927356595Z",
+  "model": "glm-5.3"
+}

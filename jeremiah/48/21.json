@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 48,
+  "translation": "Եվ դատաստանը եկավ հարթավայրի երկրի վրա՝ Խոլոնի (Հոլոն), Յահցահի և Մոֆաատի վրա։",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "Եվ դատաստանը"
+    },
+    {
+      "surface": "בא",
+      "gloss": "եկավ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մեջ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկրի"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "հարթավայրի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "վրա՝"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "Խոլոնի"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և վրա"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Յահցահի"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "և վրա"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "Մոֆաատի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:02:58.869625196Z",
+  "model": "glm-5.3"
+}

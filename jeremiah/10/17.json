@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Հավաքի՛ր երկրից քո իրերդ, դո՛ւ, որ պաշարման տակ ես բնակվում։",
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "Հավաքի՛ր"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "երկրից"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "քո իրերդ"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "բնակվողդ"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "պաշարման տակ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:43:22.308497161Z",
+  "model": "glm-5.3"
+}

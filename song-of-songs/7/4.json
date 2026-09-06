@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 7:4",
+  "book": "song-of-songs",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Քո երկու կրծքերը՝ ինչպես երկու երիտասարդ եղջերուներ, ջեյրանի զույգեր։",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "երկու"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "կրծքերդ"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "ինչպես երկու"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "երիտասարդ եղջերուներ"
+    },
+    {
+      "surface": "תאמי",
+      "gloss": "զույգեր"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "ջեյրանի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:54:43.706577014Z",
+  "model": "glm-5.3"
+}

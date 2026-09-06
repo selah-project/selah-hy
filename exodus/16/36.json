@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Իսկ օմերը ⟨է⟩ էյֆայի տասներորդ մասը։",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "Իսկ օմերը"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "տասներորդ մասը"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "էյֆայի"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨է⟩"
+    }
+  ],
+  "timestamp": "2026-09-06T02:02:14.899271476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 13:26",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Եվ ես էլ մերկացրի քո ծալքերը քո երեսի վրա, և երևաց քո ամոթը։",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "և նույնպես"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ես"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "մերկացրի"
+    },
+    {
+      "surface": "שוליך",
+      "gloss": "քո ծալքերը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "քո երեսի"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "և երևաց"
+    },
+    {
+      "surface": "קלונך",
+      "gloss": "քո ամոթը"
+    }
+  ],
+  "timestamp": "2026-09-05T21:46:18.120595195Z",
+  "model": "glm-5.3"
+}

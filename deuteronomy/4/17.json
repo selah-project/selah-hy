@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "պատկեր ամեն անասունի, որ երկրի վրա է, պատկեր ամեն թևավոր թռչունի, որ երկնքում է թռչում։",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "պատկեր"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "անասունի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրի վրա է"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "պատկեր"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "թռչունի"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "թևավոր"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "է թռչում"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "երկնքում"
+    }
+  ],
+  "timestamp": "2026-09-05T19:34:30.684723612Z",
+  "model": "glm-5.3"
+}

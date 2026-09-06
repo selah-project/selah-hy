@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 14,
+  "translation": "Յահվեն կպատերազմի ձեզ համար, իսկ դուք՝ լռեք:",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "կպատերազմի"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ համար"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "իսկ դուք"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "լռեք"
+    }
+  ],
+  "timestamp": "2026-09-05T18:40:03.246201344Z",
+  "model": "glm-5.3"
+}

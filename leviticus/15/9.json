@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Եվ ամեն թամբ, որի վրա հեծի հոսքավորը, պիղծ կլինի։",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Եվ ամեն"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "թամբը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "հեծի"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "դրա վրա"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "հոսքավորը"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "պիղծ կլինի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:03:56.853301031Z",
+  "model": "glm-5.3"
+}

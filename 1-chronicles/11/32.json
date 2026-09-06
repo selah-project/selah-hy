@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Խուրայ՝ Գաաշի հուռութներից, Ավիել Արբաթցին։",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "Խուրայ"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "հուռութներից"
+    },
+    {
+      "surface": "געש",
+      "gloss": "Գաաշի"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "Ավիել"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "Արբաթցին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:31:49.135381062Z",
+  "model": "glm-5.3"
+}

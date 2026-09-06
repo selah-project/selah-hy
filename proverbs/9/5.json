@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եկե՛ք, կերե՛ք իմ հացից, և խմե՛ք գինին, որ ես խառնեցի։",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "եկե՛ք"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "կերե՛ք"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "իմ հացից"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "և խմե՛ք"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "գինին"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "որ ես խառնեցի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:30:36.430828914Z",
+  "model": "glm-5.3"
+}

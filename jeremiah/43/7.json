@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 43:7",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 43,
+  "translation": "Եվ եկան Միցրայիմի երկիր, որովհետև չլսեցին Յահվեի ձայնին, և եկան մինչև Տախպանխես։",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Եվ եկան"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկիր"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Միցրայիմի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "լսեցին"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ձայնին"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "և եկան"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "תחפנחס",
+      "gloss": "Տախպանխես"
+    }
+  ],
+  "timestamp": "2026-09-05T22:00:51.813224996Z",
+  "model": "glm-5.3"
+}

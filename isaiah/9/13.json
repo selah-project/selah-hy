@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 9:13",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ կտրեց Յահվեն Իսրայելից գլուխ և պոչ, արմավի ճյուղ և եղեգ՝ մեկ օրում։",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "և կտրեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Իսրայելից"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "գլուխ"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "և պոչ"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "արմավի ճյուղ"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "և եղեգ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "օր"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:17:28.346077945Z",
+  "model": "glm-5.3"
+}

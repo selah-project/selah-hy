@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 40,
+  "translation": "Սփոփե՛ք, սփոփե՛ք ժողովուրդս՝ ասում է ձեր Էլոհիմը։",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "սփոփեք"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "սփոփեք"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ժողովուրդս"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ասում է"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ձեր Էլոհիմը"
+    }
+  ],
+  "timestamp": "2026-09-05T21:30:36.938817033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 82,
+  "translation": "Վե՛ր կաց, Էլոհիմ, դատիր երկիրը, որովհետև դու կժառանգես բոլոր ազգերին։",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Վե՛ր կաց"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմ"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "դատիր"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "կժառանգես"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ազգերին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:11:38.821902721Z",
+  "model": "glm-5.3"
+}

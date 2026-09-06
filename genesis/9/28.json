@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ ապրեց Նոյը Ջրհեղեղից հետո երեք հարյուր տարի և հիսուն տարի։",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "և ապրեց"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Նոյը"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "հետո"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "Ջրհեղեղից"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "և հիսուն"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "տարի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:10:17.646724807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Շեմի որդիները՝ Էյլամը և Աշուրը, և Արփաքշադը, և Լուդը, և Արամը։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Շեմի"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Էյլամը"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "և Աշուրը"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "և Արփաքշադը"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "և Լուդը"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "և Արամը"
+    }
+  ],
+  "timestamp": "2026-09-05T18:11:59.404184638Z",
+  "model": "glm-5.3"
+}

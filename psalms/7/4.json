@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Յահվե, Էլոհիմ իմ, եթե այս արեցի, եթե անիրավություն կա իմ ձեռքերում՝",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Էլոհիմ իմ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "արեցի"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "այս"
+    },
+    {
+      "surface": "אם",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "יש",
+      "gloss": "կա"
+    },
+    {
+      "surface": "עול",
+      "gloss": "անիրավություն"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "իմ ձեռքերում"
+    }
+  ],
+  "timestamp": "2026-09-05T22:52:48.635280995Z",
+  "model": "glm-5.3"
+}

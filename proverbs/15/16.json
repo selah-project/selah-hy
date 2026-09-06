@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 15:16",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Լավ է քիչը՝ Յահվեի երկյուղով, քան մեծ գանձ՝ և խռովություն նրա հետ։",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Լավ է"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "քիչը"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "երկյուղով"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "מאוצר",
+      "gloss": "քան գանձ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "ומהומה",
+      "gloss": "և խռովություն"
+    },
+    {
+      "surface": "בו",
+      "gloss": "նրա հետ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:32:48.066601880Z",
+  "model": "glm-5.3"
+}

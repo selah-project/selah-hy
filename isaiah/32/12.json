@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 32:12",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 32,
+  "translation": "Կրծքերի վրայ՝ կոծ անողներ՝ ցանկալի դաշտերի, պտղաբեր որթատունկի համար։",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "վրայ՝"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "Կրծքերի"
+    },
+    {
+      "surface": "ספדים",
+      "gloss": "կոծ անողներ"
+    },
+    {
+      "surface": "על",
+      "gloss": "՝"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "դաշտերի"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "ցանկալի"
+    },
+    {
+      "surface": "על",
+      "gloss": "համար"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "որթատունկի"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "պտղաբեր"
+    }
+  ],
+  "timestamp": "2026-09-05T21:23:32.405256427Z",
+  "model": "glm-5.3"
+}

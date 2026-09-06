@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Եվ դա ինձ շատ վատ թվաց, և ես արտաքսեցի ⟨את⟩ Տովիայի տան բոլոր անոթները սենյակից դուրս։",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "և վատ թվաց"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "շատ"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "և ես արտաքսեցի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "բոլոր անոթները"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "անոթները"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տան"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Տովիայի"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "դուրս"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ից"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "սենյակ"
+    }
+  ],
+  "timestamp": "2026-09-06T00:26:30.062729884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Թող օրհնի Յահվեն քեզ և թող պահի քեզ.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "թող օրհնի քեզ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "և թող պահի քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:14:07.707672925Z",
+  "model": "glm-5.3"
+}

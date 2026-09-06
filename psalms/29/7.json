@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Յահվեի ձայնը կտրտում է կրակի բոցերը։",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ձայնը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "կտրտում է"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "բոցերը"
+    },
+    {
+      "surface": "אש",
+      "gloss": "կրակի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:58:09.314082203Z",
+  "model": "glm-5.3"
+}

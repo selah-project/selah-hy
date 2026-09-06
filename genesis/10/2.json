@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Յաֆեթի որդիները՝ Գոմեր և Մագոգ, և Մադայ, և Յավան, և Տուբալ, և Մեշեխ և Տիրաս։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Յաֆեթի"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Գոմեր"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "և Մագոգ"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "և Մադայ"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "և Յավան"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "և Տուբալ"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "և Մեշեխ"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "և Տիրաս"
+    }
+  ],
+  "timestamp": "2026-09-05T18:11:12.305020397Z",
+  "model": "glm-5.3"
+}

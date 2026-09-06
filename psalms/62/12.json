@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 62,
+  "translation": "Մեկ անգամ խոսեց Էլոհիմը, երկուսը՝ սա լսեցի, որ ուժը Էլոհիմինն է։",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "մեկ անգամ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսեց"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "երկուսը"
+    },
+    {
+      "surface": "זו",
+      "gloss": "սա"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "լսեցի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ուժը"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Էլոհիմինն է"
+    }
+  ],
+  "timestamp": "2026-09-05T23:06:47.996404007Z",
+  "model": "glm-5.3"
+}

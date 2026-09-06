@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Նաև դուք՝ կուշիներ, իմ սրի խոցյալները դուք եք։",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Նաև"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "դուք"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "կուշիներ"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "խոցյալները"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "իմ սրի"
+    },
+    {
+      "surface": "המה",
+      "gloss": "դուք եք"
+    }
+  ],
+  "timestamp": "2026-09-05T22:45:19.662319373Z",
+  "model": "glm-5.3"
+}

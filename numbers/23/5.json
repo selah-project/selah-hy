@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "և Յահվեն խոսք դրեց Բիլամի բերանում և ասաց. «Վերադարձիր Բալակի մոտ և այսպես կխոսես»։",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "և դրեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսք"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "բերանում"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Բիլամի"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "վերադարձիր"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Բալակի"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "և այսպես"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "կխոսես"
+    }
+  ],
+  "timestamp": "2026-09-05T19:25:28.670289438Z",
+  "model": "glm-5.3"
+}

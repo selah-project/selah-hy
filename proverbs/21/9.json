@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 21,
+  "translation": "Լավ է տանիքի անկյունում նստել, քան կռվարար կնոջ և ընդհանուր տան հետ։",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Լավ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "նստել"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ում"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "անկյուն"
+    },
+    {
+      "surface": "גג",
+      "gloss": "տանիքի"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "քան կնոջ"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "կռվարար"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "և տան"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ընդհանուր"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:10.477579880Z",
+  "model": "glm-5.3"
+}

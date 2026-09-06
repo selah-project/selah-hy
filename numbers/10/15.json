@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "և Իսսաքարի որդիների ցեղի զորքի վրա ⟨է⟩ Նեթանելը՝ Ցուարի որդին։",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "և…վրա"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "զորքի"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ցեղի"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիների"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Իսսաքարի"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Նեթանելը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Ցուարի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:16:45.119738378Z",
+  "model": "glm-5.3"
+}

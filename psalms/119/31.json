@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Կպա քո վկայություններին, Յահվե՛, ինձ ամոթի մի տա։",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "կպա"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "քո վկայություններին"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "ինձ ամոթի տա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:22:12.021479012Z",
+  "model": "glm-5.3"
+}

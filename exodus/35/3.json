@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 35,
+  "translation": "Կրակ մի վառեք ձեր բոլոր բնակավայրերում՝ Շաբաթի օրը։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "վառեք"
+    },
+    {
+      "surface": "אש",
+      "gloss": "կրակ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "ձեր բնակավայրերում"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Շաբաթի"
+    }
+  ],
+  "timestamp": "2026-09-05T18:53:06.508407279Z",
+  "model": "glm-5.3"
+}

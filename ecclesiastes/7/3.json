@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Լավ է տխրությունը քան ծիծաղը, քանի որ երեսի մռայլությամբ սիրտը կբարվոքվի։",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Լավ է"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "տխրությունը"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "քան ծիծաղը"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "մռայլությամբ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "երեսի"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "կբարվոքվի"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սիրտը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:41.045459227Z",
+  "model": "glm-5.3"
+}

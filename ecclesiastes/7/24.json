@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Հեռու է այն, ինչ եղել է, և խորը՝ խորը. ո՞վ կարող է գտնել այն։",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "հեռու"
+    },
+    {
+      "surface": "מה",
+      "gloss": "այն, ինչ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "եղել է"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "և խորը"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "խոր"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "կգտնի այն"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:23.357564807Z",
+  "model": "glm-5.3"
+}

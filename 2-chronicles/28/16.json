@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Այդ ժամանակ արքա Ախազը ուղարկեց Աշուրի արքաների մոտ՝ իրեն օգնելու։",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "ժամանակին"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ուղարկեց"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "արքան"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ախազը"
+    },
+    {
+      "surface": "על",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "արքաների"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Աշուրի"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "օգնելու"
+    },
+    {
+      "surface": "לו",
+      "gloss": "իրեն"
+    }
+  ],
+  "timestamp": "2026-09-06T00:51:09.881666217Z",
+  "model": "glm-5.3"
+}

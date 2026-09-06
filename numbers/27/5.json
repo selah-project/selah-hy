@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 27,
+  "translation": "Եվ մոտեցրեց Մոշեն ⟨את⟩ նրանց գործը Յահվեի առջև։",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "եվ մոտեցրեց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "նրանց գործը"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "նրանց գործը"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:26:23.406370591Z",
+  "model": "glm-5.3"
+}

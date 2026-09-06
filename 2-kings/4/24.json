@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 4:24",
+  "book": "2-kings",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ լծեց էշը և ասաց իր պատանուն՝ քշի՛ր և գնա, մի ինձ կանգնեցրու հեծկալուց, եթե միայն ասեմ քեզ։",
+  "tokens": [
+    {
+      "surface": "ותחבש",
+      "gloss": "և լծեց"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "էշը"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "אל",
+      "gloss": "առ"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "իր պատանուն"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "քշի՛ր"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "և գնա"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תעצר",
+      "gloss": "կանգնեցրու"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "հեծկալուց"
+    },
+    {
+      "surface": "כי",
+      "gloss": "եթե"
+    },
+    {
+      "surface": "אם",
+      "gloss": "միայն"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ասեմ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:00:12.762118064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 119:49",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Հիշիր խոսքդ ծառուիդ համար՝ այն, որի վրա ինձ հույս տվել ես։",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Հիշիր"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքդ"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ծառուիդ համար"
+    },
+    {
+      "surface": "על",
+      "gloss": "այն վրա"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יחלתני",
+      "gloss": "հույս տվել ես ինձ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:22:28.215557799Z",
+  "model": "glm-5.3"
+}

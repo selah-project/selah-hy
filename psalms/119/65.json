@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Լավ գործեցիր քո ծառայի հետ, Յահվե, ըստ քո խոսքի։",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Լավ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "գործեցիր"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "քո ծառայի"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ըստ քո խոսքի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:22:23.373200251Z",
+  "model": "glm-5.3"
+}

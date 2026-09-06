@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 7:9",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Վերջացավ ամպը և գնաց, այնպես էլ՝ Շեոլ իջնողը չի բարձրանա։",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "վերջացավ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ամպը"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "և գնաց"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այնպես էլ"
+    },
+    {
+      "surface": "יורד",
+      "gloss": "իջնողը"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Շեոլ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "չի բարձրանա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:40:24.460460061Z",
+  "model": "glm-5.3"
+}

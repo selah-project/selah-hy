@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 116,
+  "translation": "Կքայլեմ Յահվեի առջև՝ կենդանիների երկրներում։",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "կքայլեմ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "առջև"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "երկրներում"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "կենդանիների"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:31.733674182Z",
+  "model": "glm-5.3"
+}

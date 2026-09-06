@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "deuteronomy 28:39",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Խաղողանոցներ կտնկես և կմշակես, բայց գինի չես խմի և չես հավաքի, որովհետև որդը կուտի այն։",
+  "tokens": [
+    {
+      "surface": "כרמים",
+      "gloss": "խաղողանոցներ"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "կտնկես"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "և կմշակես"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "և գինի"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ես խմի"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "תאגר",
+      "gloss": "ես հավաքի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "կուտի այն"
+    },
+    {
+      "surface": "התלעת",
+      "gloss": "որդը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:45:39.278044961Z",
+  "model": "glm-5.3"
+}

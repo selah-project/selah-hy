@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Սերունդ կա՝ իր հորը անիծում է, և ⟨את⟩ իր մորը չի օրհնում։",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "սերունդ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "իր հորը"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "անիծում է"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "իր մորը"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "իր մորը"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "օրհնում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:14.208442471Z",
+  "model": "glm-5.3"
+}

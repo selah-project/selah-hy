@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 71,
+  "translation": "Էլոհիմ իմ, ազատիր ինձ չարի ձեռքից՝ անիրավ ու բռնակալի ափից։",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Էլոհիմ իմ"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "ազատիր ինձ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ձեռքից"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "չարի"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "ափից"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "անիրավ"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "և բռնակալի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:08:59.494077980Z",
+  "model": "glm-5.3"
+}

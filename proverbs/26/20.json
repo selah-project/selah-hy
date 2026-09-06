@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 26,
+  "translation": "Առանց փայտի հանգչում է կրակը, և առանց զրպարաչի դադարում է վեճը։",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "Առանց"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "փայտի"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "հանգչում է"
+    },
+    {
+      "surface": "אש",
+      "gloss": "կրակը"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "և առանց"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "զրպարաչի"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "դադարում է"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "վեճը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:49.039545617Z",
+  "model": "glm-5.3"
+}

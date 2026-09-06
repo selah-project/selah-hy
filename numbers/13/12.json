@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Դանի ցեղից՝ Ամիելը, Գեմալիի որդին։",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ցեղից"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Դանի"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ամիելը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "Գեմալիի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:18:05.420809971Z",
+  "model": "glm-5.3"
+}

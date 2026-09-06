@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ չես պատասխանի՛ քո մերձավորի դեմ՝ սուտ վկայություն։",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "պատասխանի՛"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "քո մերձավորի դեմ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "վկայություն"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "սուտ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:33:00.702315891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Եվ երևաց քերուբիմի մեջ մարդու ձեռքի տեսք՝ իրենց թևերի տակ։",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Եվ երևաց"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "քերուբիմի մեջ"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "տեսք"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ձեռքի"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "իրենց թևերի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:11:09.718500705Z",
+  "model": "glm-5.3"
+}

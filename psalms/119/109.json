@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Իմ նեֆեշը անընդհատ իմ ափի մեջ է, և քո Թորան չեմ մոռացել։",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "իմ նեֆեշը"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "իմ ափի մեջ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "անընդհատ"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "և քո Թորան"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "եմ մոռացել"
+    }
+  ],
+  "timestamp": "2026-09-05T23:23:22.353169536Z",
+  "model": "glm-5.3"
+}

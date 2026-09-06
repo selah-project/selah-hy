@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Աչքս վշտացրեց անձս՝ իմ քաղաքի ամբողջ դուստրերից։",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Աչքս"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "վշտացրեց"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "անձս"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "դուստրերից"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "քաղաքի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:56:47.375482195Z",
+  "model": "glm-5.3"
+}

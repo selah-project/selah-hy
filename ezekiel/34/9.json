@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "hy",
+  "chapter": 34,
+  "translation": "Արդ՝ հովիվներ, լսե՛ք Յահվեի խոսքը։",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Արդ"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "հովիվներ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "լսե՛ք"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    }
+  ],
+  "timestamp": "2026-09-05T22:22:26.457321396Z",
+  "model": "glm-5.3"
+}

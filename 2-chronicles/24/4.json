@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 24:4",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Եվ եղավ դրանից հետո, եղավ Յոաշի սրտում նորոգել ⟨את⟩ Յահվեի տունը։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "և եղավ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "հետո"
+    },
+    {
+      "surface": "כן",
+      "gloss": "դրանից"
+    },
+    {
+      "surface": "היה",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "հետ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սրտում"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Յոաշի"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "նորոգել"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յահվեի տունը"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տունը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:49:18.268020348Z",
+  "model": "glm-5.3"
+}

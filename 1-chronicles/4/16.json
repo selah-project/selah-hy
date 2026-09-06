@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Եվ Յեհալելելի որդիները՝ Զիֆը, Զիֆան, Տիրյան և Աշարելը։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "և որդիները"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "Յեհալելելի"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Զիֆը"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "և Զիֆան"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "Տիրյան"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "և Աշարելը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:29:16.435326717Z",
+  "model": "glm-5.3"
+}

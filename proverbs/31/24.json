@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 31:24",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Սադին արեց և վաճառեց, և գոտի տվեց քանանացուն։",
+  "tokens": [
+    {
+      "surface": "סדין",
+      "gloss": "Սադին (վերնազգեստ)"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "արեց"
+    },
+    {
+      "surface": "ותמכר",
+      "gloss": "և վաճառեց"
+    },
+    {
+      "surface": "וחגור",
+      "gloss": "և գոտի"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "տվեց"
+    },
+    {
+      "surface": "לכנעני",
+      "gloss": "քանանացուն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:38:31.001819052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Չարություն կա, որ ես տեսա արևի տակ՝ որպես սխալ, որ դուրս է գալիս իշխանի երեսից։",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "կա"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "չարություն"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ես տեսա"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "արևի"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "որպես սխալ"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "որ դուրս է գալիս"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "երեսից"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "իշխանի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:08.012299831Z",
+  "model": "glm-5.3"
+}

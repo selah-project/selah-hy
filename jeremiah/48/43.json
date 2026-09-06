@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 48:43",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 48,
+  "translation": "Ահ և փոս և ծուղակ՝ քեզ վրա, ո՛վ Մոաբի բնակիչ, Յահվեի ասքն է։",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "Ահ"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "և փոս"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "և ծուղակ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "քեզ վրա"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "բնակիչ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Մոաբի"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ասքն է"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:03:25.448477500Z",
+  "model": "glm-5.3"
+}

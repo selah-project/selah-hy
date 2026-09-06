@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 102,
+  "translation": "Բայց դու ⟨նույնն⟩ ես, և քո տարիները չեն սպառվի։",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Բայց դու"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նույնն ես"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "և քո տարիները"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չեն"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "սպառվի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:16:48.394024264Z",
+  "model": "glm-5.3"
+}

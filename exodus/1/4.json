@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Դան և Նաֆտալի, Գադ և Աշեր։",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Դան"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "և Նաֆտալի"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Գադ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "և Աշեր"
+    }
+  ],
+  "timestamp": "2026-09-05T18:34:19.728580250Z",
+  "model": "glm-5.3"
+}

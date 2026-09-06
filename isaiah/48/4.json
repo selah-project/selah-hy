@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 48,
+  "translation": "Գիտեի, որ դու խիստ համառ ես, և պողպատե ջիլ է քո վիզը, և քո ճակատը բրոնզ է։",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "Գիտեի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "խիստ համառ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "և ջիլ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "պողպատե"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "քո վիզը"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "և քո ճակատը"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "բրոնզ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:32:14.968641590Z",
+  "model": "glm-5.3"
+}

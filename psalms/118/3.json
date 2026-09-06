@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 118,
+  "translation": "Թո՛ղ ասեն Ահարոնի տունը՝ որ հավիտյան է իր խեսեդը։",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Թո՛ղ ասեն"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ահա"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տունը"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ահարոնի"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "հավիտյան"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "իր խեսեդը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:41.210929087Z",
+  "model": "glm-5.3"
+}

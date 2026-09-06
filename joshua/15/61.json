@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "joshua 15:61",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Անապատում՝ Բեթ Հաարավան, Միդին և Սեխակա։",
+  "tokens": [
+    {
+      "surface": "במדבר",
+      "gloss": "անապատում"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Բեթ"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Հաարավա"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Միդին"
+    },
+    {
+      "surface": "וסככה",
+      "gloss": "և Սեխակա"
+    }
+  ],
+  "timestamp": "2026-09-05T19:57:05.449285930Z",
+  "model": "glm-5.3"
+}

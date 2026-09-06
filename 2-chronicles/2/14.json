@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 2:14",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Իսկ հիմա ցորենը, գարին, յուղը և գինին, որ ասաց իմ տերը, թող ուղարկի իր ծառաներին։",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Իսկ հիմա"
+    },
+    {
+      "surface": "החטים",
+      "gloss": "ցորենը"
+    },
+    {
+      "surface": "והשערים",
+      "gloss": "և գարին"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "յուղը"
+    },
+    {
+      "surface": "והיין",
+      "gloss": "և գինին"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "իմ տերը"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "թող ուղարկի"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "իր ծառաներին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:42:15.979941477Z",
+  "model": "glm-5.3"
+}

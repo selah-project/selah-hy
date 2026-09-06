@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 72,
+  "translation": "Եվ թող նա տիրի ծովից մինչև ծով, և գետից մինչև երկրի ծայրերը։",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "և թող նա տիրի"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ծովից"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ծով"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "և գետից"
+    },
+    {
+      "surface": "עד",
+      "gloss": "մինչև"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ծայրերը"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկրի"
+    }
+  ],
+  "timestamp": "2026-09-06T02:08:51.749627127Z",
+  "model": "glm-5.3"
+}

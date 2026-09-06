@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Եվ լսեց Յահվեն Խիզկիյահուին և բուժեց ⟨את⟩ ժողովրդին։",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "եվ լսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Խիզկիյահուին"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Խիզկիյահուին"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "և բուժեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ժողովրդին"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ժողովրդին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:58:15.509785112Z",
+  "model": "glm-5.3"
+}

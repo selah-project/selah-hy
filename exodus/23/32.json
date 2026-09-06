@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Ոչ Բրիթ կկտրես նրանց հետ և նրանց աստվածների հետ։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "կկտրես"
+    },
+    {
+      "surface": "להם",
+      "gloss": "նրանց հետ"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "և նրանց աստվածների հետ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Բրիթ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:45:22.737444986Z",
+  "model": "glm-5.3"
+}

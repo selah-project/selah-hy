@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 6:10",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "և ութերորդ օրը բերի երկու տատրակ կամ երկու աղավնու ձագ՝ քահանայի մոտ, հանդիպման վրանի մուտքի մոտ։",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "և օրը"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ութերորդ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "բերի"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "երկու"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "տատրակ"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "երկու"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ձագ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "աղավնու"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "քահանայի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "մուտքի"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "վրանի"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "հանդիպման"
+    }
+  ],
+  "timestamp": "2026-09-05T19:14:39.951644215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "և Ռեմեթը, և Էն-Գանիմը, և Էն-Խադան, և Բեյթ Պածեծը։",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "և Ռեմեթը"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "և Էն-"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "Գանիմը"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "և Էն-"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "Խադան"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "և Բեյթ "
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "Պածեծը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:58:39.102383096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 4:9",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Կտա քո գլխին շնորհի պսակ, փառքի թագ կպաշտպանի քեզ։",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "կտա"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "քո գլխին"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "պսակ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "շնորհի"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "թագ"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "փառքի"
+    },
+    {
+      "surface": "תמגנך",
+      "gloss": "կպաշտպանի քեզ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:28:41.682567096Z",
+  "model": "glm-5.3"
+}

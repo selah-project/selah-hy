@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 1:19",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Այսպես են ուղիները ամեն անօրեն շահի տեր մարդու՝ ⟨את⟩ նեֆեշը իր տիրոջից խլում է։",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Այսպես"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ուղիները"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "շահի տեր"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "անօրեն շահ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "նեֆեշը"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "նեֆեշ"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "իր տիրոջից"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "խլում է"
+    }
+  ],
+  "timestamp": "2026-09-05T23:27:52.888725715Z",
+  "model": "glm-5.3"
+}

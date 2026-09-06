@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 17:8",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 17,
+  "translation": "Եվ նրանց ասես. Իսրայելի տան որևէ մարդ կամ օտարը, որ բնակվում է նրանց մեջ, ով եթե բարձրացնի ողջակեզ կամ զոհ.",
+  "tokens": [
+    {
+      "surface": "ואלהם",
+      "gloss": "և նրանց"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ասես"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "որևէ մարդ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "տան"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "կամ և մի"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "օտարը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "բնակվում է"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "նրանց մեջ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ով"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "բարձրացնի"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ողջակեզ"
+    },
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "զոհ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:05:15.290782292Z",
+  "model": "glm-5.3"
+}

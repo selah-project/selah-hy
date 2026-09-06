@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 19:18",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Եվ դատավորները հետաքննեն լավ, և ահա՝ եթե վկան սուտ վկա ⟨է⟩, սուտ վկայել է իր եղբոր դեմ՝",
+  "tokens": [
+    {
+      "surface": "ודרשו",
+      "gloss": "և հետաքննեն"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "դատավորները"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "լավ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "և ահա"
+    },
+    {
+      "surface": "עד",
+      "gloss": "վկան"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "սուտ"
+    },
+    {
+      "surface": "העד",
+      "gloss": "վկան"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "սուտ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "վկայել է"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "իր եղբոր դեմ"
+    }
+  ],
+  "timestamp": "2026-09-06T01:07:16.754949441Z",
+  "model": "glm-5.3"
+}

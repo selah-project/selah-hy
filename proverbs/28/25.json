@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 28:25",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Լայն նեֆեշը հրահրում է վեճ, իսկ Յահվեի վրա հույս դնողը կյուղատաս։",
+  "tokens": [
+    {
+      "surface": "רחב",
+      "gloss": "լայն"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "նեֆեշ"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "հրահրում է"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "վեճ"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "իսկ հույս դնողը"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "ידשן",
+      "gloss": "կյուղատաս"
+    }
+  ],
+  "timestamp": "2026-09-05T23:38:07.315329515Z",
+  "model": "glm-5.3"
+}

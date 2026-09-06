@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 20:26",
+  "book": "1-samuel",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Եվ ոչինչ չասաց Շաուլը այդ օրը, քանի որ ասաց՝ պատահար է այն, նա մաքուր չէ, որովհետև մաքուր չէ։",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "եվ ոչ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսեց"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Շաուլը"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ոչինչ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "օրը"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "այդ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "պատահար"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "է այն"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "մաքուր"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "է նա"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որովհետև"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "մաքուր"
+    }
+  ],
+  "timestamp": "2026-09-05T20:23:39.214263743Z",
+  "model": "glm-5.3"
+}

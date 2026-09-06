@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 15:42",
+  "book": "joshua",
+  "lang": "hy",
+  "chapter": 15,
+  "translation": "Լիվնան (Լիբնա), և Էտերը, և Աշանը։",
+  "tokens": [
+    {
+      "surface": "לבנה",
+      "gloss": "Լիվնան"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "և Էտերը"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "և Աշանը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:56:54.729921435Z",
+  "model": "glm-5.3"
+}

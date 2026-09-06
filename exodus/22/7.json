@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 22:7",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Եթե գողը չգտնվի՝ տան տերը մոտենա Էլոհիմին, թե իր ձեռքը չմեկնի իր ընկերոջ գործի վրա։",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "գտնվի"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "գողը"
+    },
+    {
+      "surface": "ונקרב",
+      "gloss": "մոտենա"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "տերը"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "տան"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Էլոհիմին"
+    },
+    {
+      "surface": "אם",
+      "gloss": "թե"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "մեկնի"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "իր ձեռքը"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "գործի վրա"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "իր ընկերոջ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:45:20.999409390Z",
+  "model": "glm-5.3"
+}

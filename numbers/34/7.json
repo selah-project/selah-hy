@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 34:7",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 34,
+  "translation": "Եվ այս ⟨է⟩ լինելու ձեզ համար հյուսիսային սահմանը՝ մեծ ծովից նշեցեք ձեզ համար Հոր լեռը։",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Եվ այս"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨է⟩ լինելու"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ համար"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "սահմանը"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "հյուսիսային"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ից"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ծովի"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "նշեցեք"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ձեզ համար"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Հոր"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "լեռը"
+    }
+  ],
+  "timestamp": "2026-09-05T19:29:52.035871020Z",
+  "model": "glm-5.3"
+}

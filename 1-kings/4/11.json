@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 4:11",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Բեն-Ավինադավը՝ ամբողջ Դորի շրջանը. Թաֆաթը՝ Շլոմոյի դուստրը, կին էր նրան։",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Ավինադավ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "շրջանը"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Դորի"
+    },
+    {
+      "surface": "טפת",
+      "gloss": "Թաֆաթը"
+    },
+    {
+      "surface": "בת",
+      "gloss": "դուստրը"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Շլոմոյի"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "էր"
+    },
+    {
+      "surface": "לו",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "կին"
+    }
+  ],
+  "timestamp": "2026-09-05T20:44:01.356828274Z",
+  "model": "glm-5.3"
+}

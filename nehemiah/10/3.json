@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 10:3",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Սերայա, Ազարյա, Յերմիյա։",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "Սերայա"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Ազարյա"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Յերմիյա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:24:54.195339438Z",
+  "model": "glm-5.3"
+}

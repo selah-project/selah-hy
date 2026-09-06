@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 5:22",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Կամ գտնի կորուստ և ստի ⟨դրանում⟩, և երդվի ստի վրա՝ մեկի վրա ⟨ամենից⟩ այն ամենից, ինչ մարդ անի՝ դրանով մեղ գործելով։",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "կամ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "գտնի"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "կորուստ"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "և ստի"
+    },
+    {
+      "surface": "בה",
+      "gloss": "դրանում"
+    },
+    {
+      "surface": "ונשבע",
+      "gloss": "և երդվի"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ստի"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "մեկի"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ամեն ...ից"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ինչ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "անի"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "մեղ գործելու"
+    },
+    {
+      "surface": "בהנה",
+      "gloss": "դրանով"
+    }
+  ],
+  "timestamp": "2026-09-05T18:58:31.656477584Z",
+  "model": "glm-5.3"
+}

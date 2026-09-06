@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Եվ Դավիդը չհեռացրեց ⟨את⟩ տապանակը իր մոտ՝ Դավիդի քաղաք, այլ թեքեց այն դեպի Օվեդ-Եդոմ Գաթացու տուն։",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "հեռացրեց"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Դավիդը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "տապանակը"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "տապանակը"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "իր մոտ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "քաղաք"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Դավիդի"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "թեքեց այն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տուն"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Օվեդ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Եդոմ"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Գաթացու"
+    }
+  ],
+  "timestamp": "2026-09-06T00:32:57.757958959Z",
+  "model": "glm-5.3"
+}

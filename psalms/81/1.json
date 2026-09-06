@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 81,
+  "translation": "Երգչապետի համար՝ գիթիթ նվագի վրա, Ասափինը։",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Երգչապետի համար"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "գիթիթ նվագի"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Ասափինը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:11:50.532294516Z",
+  "model": "glm-5.3"
+}

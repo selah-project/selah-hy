@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 8:12",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Երբ դեռ կանաչ է և չի կտրվել, ամեն խոտից առաջ չորանում է։",
+  "tokens": [
+    {
+      "surface": "עדנו",
+      "gloss": "Երբ դեռ"
+    },
+    {
+      "surface": "באבו",
+      "gloss": "կանաչ է"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יקטף",
+      "gloss": "կտրվել"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "և առաջ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "խոտից"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "չորանում է"
+    }
+  ],
+  "timestamp": "2026-09-05T23:40:18.299570602Z",
+  "model": "glm-5.3"
+}

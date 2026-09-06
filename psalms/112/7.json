@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 112,
+  "translation": "Չար լուրից չի վախենա. նրա սիրտը ամուր ⟨է⟩՝ վստահած Յահվեին։",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "լուր"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "չար"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "վախենա"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ամուր ⟨է⟩"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "նրա սիրտը"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "վստահած"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Յահվեին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:20:40.343023785Z",
+  "model": "glm-5.3"
+}

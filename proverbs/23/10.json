@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Մի՛ տար հավերժության սահմանը, և որբերի դաշտեր մի՛ մտնիր։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "տար"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "սահմանը"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "հավերժության"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "և դաշտեր"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "որբերի"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "մտնիր"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:23.004935031Z",
+  "model": "glm-5.3"
+}

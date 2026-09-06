@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 29,
+  "translation": "Յահվե ջրհեղեղի վրա նստեց, և նստեց Յահվեն՝ թագավոր՝ հավերժ։",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "ջրհեղեղի վրա"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "նստեց"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "և նստեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավոր"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "հավերժ"
+    }
+  ],
+  "timestamp": "2026-09-05T22:57:50.717076778Z",
+  "model": "glm-5.3"
+}

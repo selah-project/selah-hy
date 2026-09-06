@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 115,
+  "translation": "Ականջներ ունեն և չեն լսում, քիթ ունեն և չեն հոտ առնում։",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "ականջներ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ունեն իրենց"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չեն"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "լսում"
+    },
+    {
+      "surface": "אף",
+      "gloss": "քիթ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ունեն իրենց"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չեն"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "հոտ առնում"
+    }
+  ],
+  "timestamp": "2026-09-05T23:20:53.256340500Z",
+  "model": "glm-5.3"
+}

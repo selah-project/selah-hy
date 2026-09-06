@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 13:4",
+  "book": "judges",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Իսկ հիմա զգուշացիր ախր, և գինի մի խմիր ու թունդ խմիչք, և ոչ մի պիղատ բան մի ուտիր։",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "իսկ հիմա"
+    },
+    {
+      "surface": "השמרי",
+      "gloss": "զգուշացիր"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ախր"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և մի"
+    },
+    {
+      "surface": "תשתי",
+      "gloss": "խմիր"
+    },
+    {
+      "surface": "יין",
+      "gloss": "գինի"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "թունդ խմիչք"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "և մի"
+    },
+    {
+      "surface": "תאכלי",
+      "gloss": "ուտիր"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ոչ մի"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "պիղատ"
+    }
+  ],
+  "timestamp": "2026-09-05T20:08:36.469594577Z",
+  "model": "glm-5.3"
+}

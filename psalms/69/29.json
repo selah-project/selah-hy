@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 69,
+  "translation": "Թող ջնջվեն կենդանիների գրքից, և արդարների հետ թող չգրվեն։",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "ջնջվեն"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "գրքից"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "կենդանիների"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "և ⟨հետ⟩"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "արդարների"
+    },
+    {
+      "surface": "אל",
+      "gloss": "թող չ"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "գրվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T23:09:03.989559833Z",
+  "model": "glm-5.3"
+}

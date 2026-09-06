@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Զտված է չափազանց քո խոսքը, և քո ծառան սիրում է այն։",
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "Զտված"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "քո խոսքը"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "չափազանց"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "և քո ծառան"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "սիրում է"
+    }
+  ],
+  "timestamp": "2026-09-05T23:23:23.129351211Z",
+  "model": "glm-5.3"
+}

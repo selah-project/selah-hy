@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 19,
+  "translation": "Դրա համար ես եմ պատվիրում քեզ՝ ասելով. երեք քաղաք առանձնացրու քեզ համար։",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Դրա համար"
+    },
+    {
+      "surface": "כן",
+      "gloss": "համար"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ես եմ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "պատվիրում քեզ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "երեք"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "քաղաք"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "առանձնացրու"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:41:27.913394131Z",
+  "model": "glm-5.3"
+}

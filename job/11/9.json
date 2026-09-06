@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 11:9",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 11,
+  "translation": "Դրա չափն ավելի երկար է երկրից, և ավելի լայն՝ ծովից։",
+  "tokens": [
+    {
+      "surface": "ארכה",
+      "gloss": "երկար"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "երկրից"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "չափը"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "և լայն"
+    },
+    {
+      "surface": "מני",
+      "gloss": "—ից քան"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ծովը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:42:26.281744671Z",
+  "model": "glm-5.3"
+}

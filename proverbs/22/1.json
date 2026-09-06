@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Ընտրելի է անունը մեծ հարստությունից, արծաթից և ոսկուց՝ բարի շնորհը։",
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "Ընտրելի է"
+    },
+    {
+      "surface": "שם",
+      "gloss": "անունը"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "հարստությունից"
+    },
+    {
+      "surface": "רב",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "արծաթից"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "և ոսկուց"
+    },
+    {
+      "surface": "חן",
+      "gloss": "շնորհը"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "բարի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:35:06.163437834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Որովհետև շնորհի պսակ են նրանք քո գլխիդ, և վզնոցներ՝ քո վզիդ։",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "պսակ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "շնորհի"
+    },
+    {
+      "surface": "הם",
+      "gloss": "նրանք"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "քո գլխիդ"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "և վզնոցներ"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "քո վզիդ"
+    }
+  ],
+  "timestamp": "2026-09-06T01:18:13.534219938Z",
+  "model": "glm-5.3"
+}

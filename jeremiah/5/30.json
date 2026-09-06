@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Սարսափելի և զզվելի բան եղավ երկրում։",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Սարսափելի"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "և զզվելի բան"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "եղավ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "երկրում"
+    }
+  ],
+  "timestamp": "2026-09-05T21:41:42.333944961Z",
+  "model": "glm-5.3"
+}

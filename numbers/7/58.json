@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "numbers 7:58",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "մեկ այծեղջյուր՝ մեղքի զոհի համար։",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "այծեղջյուր"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "այծերի"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "մեկ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "մեղքի զոհի համար"
+    }
+  ],
+  "timestamp": "2026-09-05T19:15:01.105771022Z",
+  "model": "glm-5.3"
+}

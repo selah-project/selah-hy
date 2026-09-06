@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 83,
+  "translation": "Եվ իմանան, որ Դու՝ քո անունով Յահվե, միայն Դու ⟨ես⟩ Էլյոն՝ ամբողջ երկրի վրայ։",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "եվ իմանան"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Դու"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "քո անունով"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "միայն Դու"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Էլյոն"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրայ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամբողջ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկրի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:16:58.500592433Z",
+  "model": "glm-5.3"
+}

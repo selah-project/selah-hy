@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 7:27",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Նոնը՝ նրա որդին, Յեհոշուան՝ նրա որդին։",
+  "tokens": [
+    {
+      "surface": "נון",
+      "gloss": "Նոնը"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Յեհոշուան"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "նրա որդին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:40.290573549Z",
+  "model": "glm-5.3"
+}

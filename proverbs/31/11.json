@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Ամուսնու սիրտը վստահում է նրան, և ավար նա չի պակասի։",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "վստահում է"
+    },
+    {
+      "surface": "בה",
+      "gloss": "նրան"
+    },
+    {
+      "surface": "לב",
+      "gloss": "սիրտը"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ամուսնու"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "և ավար"
+    },
+    {
+      "surface": "לא",
+      "gloss": "չի"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "պակասի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:38:26.763946838Z",
+  "model": "glm-5.3"
+}

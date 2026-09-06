@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 119,
+  "translation": "Երկմտանիներին ատեցի, իսկ քո Թորան՝ սիրեցի։",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "Երկմտանիներին"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ատեցի"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "իսկ քո Թորան"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "սիրեցի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:23:04.030095814Z",
+  "model": "glm-5.3"
+}

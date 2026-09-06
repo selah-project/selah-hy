@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Լավ է լսել իմաստունի հանդիմանը, քան մարդու՝ հիմարների երգ լսելը։",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "լավ է"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "լսել"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "հանդիմանը"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "իմաստունի"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "քան մարդու"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "լսելը"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "երգ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "հիմարների"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:04.468399162Z",
+  "model": "glm-5.3"
+}

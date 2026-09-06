@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 8:14",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "և Ախիոն, և Շաշակը, և Յերեմոտը։",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "և Ախիոն"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "Շաշակը"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "և Յերեմոտը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:30:52.465682990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Քար և քար, էյֆա և էյֆա՝ երկուսն էլ Յահվեի զզվելիքն են։",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "Քար"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "և քար"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "էյֆա"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "և էյֆա"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "զզվելիք"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "גם",
+      "gloss": "երկուսն էլ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "երկուսն էլ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:34:02.577226262Z",
+  "model": "glm-5.3"
+}

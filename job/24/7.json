@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 24:7",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Մերկ են գիշերում՝ առանց հանդերձ, և ծածկոց չկա ցրտին։",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "Մերկ"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "են գիշերում"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "առանց"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "հանդերձ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "և չկա"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "ծածկոց"
+    },
+    {
+      "surface": "בקרה",
+      "gloss": "ցրտին"
+    }
+  ],
+  "timestamp": "2026-09-05T23:46:35.228865324Z",
+  "model": "glm-5.3"
+}

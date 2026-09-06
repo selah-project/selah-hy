@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 22:23",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Եթե լինի աղջիկ՝ կույս, նշանված մի մարդու, և գտնի նրան մի մարդ քաղաքում և պառկի նրա հետ,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Եթե"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "נער",
+      "gloss": "աղջիկ"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "կույս"
+    },
+    {
+      "surface": "מארשה",
+      "gloss": "նշանված"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "մի մարդու"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "և գտնի նրան"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մի մարդ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "քաղաքում"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "և պառկի"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "նրա հետ"
+    }
+  ],
+  "timestamp": "2026-09-05T19:44:47.930378028Z",
+  "model": "glm-5.3"
+}

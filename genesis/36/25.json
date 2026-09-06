@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 36,
+  "translation": "Եվ սրանք են Անահի որդիները՝ Դիշոնը և Օհոլիբաման, Անահի դուստրը։",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Եվ սրանք"
+    },
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Անահի"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "Դիշոնը"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "և Օհոլիբաման"
+    },
+    {
+      "surface": "בת",
+      "gloss": "դուստրը"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Անահի"
+    }
+  ],
+  "timestamp": "2026-09-06T01:29:14.654580590Z",
+  "model": "glm-5.3"
+}

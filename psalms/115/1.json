@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 115,
+  "translation": "Ոչ մեզ, Յահվե, ոչ մեզ, այլ Քո անվան տուր փառք՝ Քո խեսեդի համար, Քո ճշմարտության համար։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ոչ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "մեզ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ոչ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "մեզ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "այլ"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Քո անվան"
+    },
+    {
+      "surface": "תן",
+      "gloss": "տուր"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "փառք"
+    },
+    {
+      "surface": "על",
+      "gloss": "համար"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "Քո խեսեդի"
+    },
+    {
+      "surface": "על",
+      "gloss": "համար"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "Քո ճշմարտության"
+    }
+  ],
+  "timestamp": "2026-09-05T23:21:07.911615058Z",
+  "model": "glm-5.3"
+}

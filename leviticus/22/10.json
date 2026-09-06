@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Եվ ոչ մի օտար չի ուտի սուրբ բան. քահանայի բնակիչը և վարձուն չի ուտի սուրբ բան։",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "և ամեն"
+    },
+    {
+      "surface": "זר",
+      "gloss": "օտար"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "կուտի"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "սուրբ բան"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "բնակիչը"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "քահանայի"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "և վարձուն"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "կուտի"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "սուրբ բան"
+    }
+  ],
+  "timestamp": "2026-09-05T19:07:37.118951270Z",
+  "model": "glm-5.3"
+}

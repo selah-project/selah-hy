@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Եվ կուտակեցին ⟨את⟩ դրանց կույտ-կույտ, և գարշեց երկիրը։",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "Եվ կուտակեցին"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "դրանց"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "կույտ"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "կույտ"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "և գարշեց"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    }
+  ],
+  "timestamp": "2026-09-05T18:37:50.091714444Z",
+  "model": "glm-5.3"
+}

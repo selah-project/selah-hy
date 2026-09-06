@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Նաև սա տեսա ես՝ իմաստություն արևի տակ, և մեծ է այն իմ համար։",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Նաև"
+    },
+    {
+      "surface": "זה",
+      "gloss": "սա"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "տեսա ես"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "իմաստություն"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "տակ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "արևի"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "և մեծ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "այն"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "իմ համար"
+    }
+  ],
+  "timestamp": "2026-09-06T01:19:40.783160075Z",
+  "model": "glm-5.3"
+}

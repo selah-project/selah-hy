@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 31,
+  "translation": "Այսպես Էլոհիմը հեռացրեց ⟨את⟩ ձեր հոր անասունները և տվեց ինձ։",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "հեռացրեց"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմը"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ձեր հոր անասունները"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "անասունները"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "ձեր հոր"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "և տվեց"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    }
+  ],
+  "timestamp": "2026-09-05T18:22:43.828432944Z",
+  "model": "glm-5.3"
+}

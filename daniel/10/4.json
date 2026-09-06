@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 10:4",
+  "book": "daniel",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Եվ առաջին ամսվա քսանչորսերորդ օրը ես էի մեծ գետի ափին, նա Խդեկելն (Տիգրիս) է։",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "և օրվա"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "քսան"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "և չորս"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ամսվա"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "առաջին"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "և ես"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "էի"
+    },
+    {
+      "surface": "על",
+      "gloss": "մոտ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ափ"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "գետի"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "մեծ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "նա"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "Խդեկել"
+    }
+  ],
+  "timestamp": "2026-09-06T00:13:09.036518381Z",
+  "model": "glm-5.3"
+}

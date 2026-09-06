@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Պահ՝ սպանելու, և պահ՝ բուժելու, պահ՝ քանդելու, և պահ՝ կառուցելու։",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "պահ"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "սպանելու"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "և պահ"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "բուժելու"
+    },
+    {
+      "surface": "עת",
+      "gloss": "պահ"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "քանդելու"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "և պահ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "կառուցելու"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:53.232048085Z",
+  "model": "glm-5.3"
+}

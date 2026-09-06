@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 13,
+  "translation": "Զվուլունի ցեղից՝ Գադիելը, Սոդիի որդին։",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ցեղից"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Զվուլունի"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "Գադիելը"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "Սոդիի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:18:05.420609161Z",
+  "model": "glm-5.3"
+}

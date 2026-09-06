@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 81,
+  "translation": "Քեզ մեջ օտար աստված չլինի, և օտար աստծուն չես երկրպագել։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "չ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "լինի"
+    },
+    {
+      "surface": "בך",
+      "gloss": "քեզ մեջ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "աստված"
+    },
+    {
+      "surface": "זר",
+      "gloss": "օտար"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և չ"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "երկրպագես"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "աստծուն"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "օտար"
+    }
+  ],
+  "timestamp": "2026-09-05T23:11:28.461728041Z",
+  "model": "glm-5.3"
+}

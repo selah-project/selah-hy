@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 20:1",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Եվ պատասխանեց Ծոֆար հա-Նաամաթին ու ասաց․",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "և պատասխանեց"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "Ծոֆար"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "հա-Նաամաթին"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:45:31.624919361Z",
+  "model": "glm-5.3"
+}

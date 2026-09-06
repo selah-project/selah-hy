@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Լավ է, որ բռնես այս, և նաև այդից մի թողես ⟨את⟩ ձեռքդ, քանի որ Էլոհիմից վախեցողը դուրս կգա ⟨את⟩ բոլորից։",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "լավ է"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "բռնես"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "այս"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "և նաև"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "այդից"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "թողես"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ձեռքդ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ձեռքդ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "վախեցող"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմից"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "դուրս կգա"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "բոլորից"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "բոլորից"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:57.226927892Z",
+  "model": "glm-5.3"
+}

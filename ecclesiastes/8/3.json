@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Մի շտապիր հեռանալ նրա երեսից, մի՛ կանգնիր չար գործում, քանի որ ամեն ինչ, որ կամենա, կանի։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "շտապիր"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "նրա երեսից"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "գնաս"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "կանգնիր"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "գործում"
+    },
+    {
+      "surface": "רע",
+      "gloss": "չար"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ամեն ինչ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "կամենա"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "կանի"
+    }
+  ],
+  "timestamp": "2026-09-06T00:01:44.605562054Z",
+  "model": "glm-5.3"
+}

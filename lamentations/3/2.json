@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Ինձ ⟨את⟩ քշեց և առաջնորդեց խավարի մեջ, և ոչ լույսի։",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ինձ",
+      "marks": "Ինձ"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "քշեց"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "և առաջնորդեց"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "խավար"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "լույս"
+    }
+  ],
+  "timestamp": "2026-09-05T23:57:00.293195187Z",
+  "model": "glm-5.3"
+}

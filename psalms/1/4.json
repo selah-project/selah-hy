@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 1,
+  "translation": "Ոչ այնպես են ամբարշտները, այլ ինչպես փուշն է, որ քամին քշում է հեռու։",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ոչ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այնպես"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ամբարշտները"
+    },
+    {
+      "surface": "כי",
+      "gloss": "այլ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "այլ"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "փուշ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "քշում է հեռու"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "քամին"
+    }
+  ],
+  "timestamp": "2026-09-06T02:51:42.918548447Z",
+  "model": "glm-5.3"
+}

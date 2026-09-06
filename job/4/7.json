@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 4:7",
+  "book": "job",
+  "lang": "hy",
+  "chapter": 4,
+  "translation": "Հիշի՛ր այժմ՝ ո՞վ է անմեղը կորչել, և ո՞ւր են ուղիղները բնաջնջվել։",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Հիշի՛ր"
+    },
+    {
+      "surface": "נא",
+      "gloss": "այժմ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ո՞վ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "է"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "անմեղը"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "կորչել"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "և ո՞ւր"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ուղիղները"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "բնաջնջվել"
+    }
+  ],
+  "timestamp": "2026-09-05T23:38:45.180817359Z",
+  "model": "glm-5.3"
+}

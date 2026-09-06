@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ ⟨את⟩ Պորատան, և ⟨את⟩ Ադալյան, և ⟨את⟩ Արիդատան․",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Պորատան"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "Պորատա"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Ադալյան"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "Ադալյա"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "և ⟨את⟩",
+      "marks": "Արիդատան"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "Արիդատա"
+    }
+  ],
+  "timestamp": "2026-09-06T00:05:19.937556800Z",
+  "model": "glm-5.3"
+}

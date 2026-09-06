@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 44:27",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 44,
+  "translation": "Վե՛ր կաց, օգնություն եղիր մեզ, և փրկիր մեզ քո խեսեդի համար։",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Վե՛ր կաց"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "օգնություն"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "մեզ"
+    },
+    {
+      "surface": "ופדנו",
+      "gloss": "և փրկիր մեզ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "համար"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "քո խեսեդի"
+    }
+  ],
+  "timestamp": "2026-09-05T23:02:55.238992364Z",
+  "model": "glm-5.3"
+}

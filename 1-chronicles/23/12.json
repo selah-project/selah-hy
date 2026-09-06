@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Կեհատի (Քահաթ) որդիները՝ Ամրամը, Յիցհարը, Խեվրոնը և Ուզիելը՝ չորսը։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Կեհատի"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Ամրամը"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Յիցհարը"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Խեվրոնը"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "և Ուզիելը"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "չորսը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:37:12.255151185Z",
+  "model": "glm-5.3"
+}

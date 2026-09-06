@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 3,
+  "translation": "Եվ ասաց՝ Ո՞վ պատմեց քեզ, որ մերկ ես։ Միթե այն ծառից, որից պատվիրեցի քեզ, թե չուտես դրանից, կերա՞ր։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ո՞վ"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "պատմեց"
+    },
+    {
+      "surface": "לך",
+      "gloss": "քեզ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "մերկ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ես"
+    },
+    {
+      "surface": "המן",
+      "gloss": "միթե"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ծառից"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որից"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "պատվիրեցի քեզ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "թե չ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ուտես"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "դրանից"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "կերար"
+    }
+  ],
+  "timestamp": "2026-09-05T18:08:30.337941112Z",
+  "model": "glm-5.3"
+}

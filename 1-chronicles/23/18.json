@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 23:18",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 23,
+  "translation": "Յիցհարի որդիները՝ Շելոմիթը գլուխը։",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "որդիները"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Յիցհարի"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Շելոմիթը"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "գլուխը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:37:22.966679931Z",
+  "model": "glm-5.3"
+}

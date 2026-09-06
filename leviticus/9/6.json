@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 9:6",
+  "book": "leviticus",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ ասաց Մոշեն. «Ահա ⟨այս⟩ խոսքը, որ պատվիրեց Յահվե. արեք, և Յահվեի փառքը կերևա ձեզ»։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշեն"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ահա ⟨այս⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "պատվիրեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "արեք"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "կերևա"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ձեզ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "փառքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:00:15.972811798Z",
+  "model": "glm-5.3"
+}

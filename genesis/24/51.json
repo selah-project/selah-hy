@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 24:51",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 24,
+  "translation": "Ահա՝ Ռիբկահն առջևդ. վերցրու և գնա, և թող լինի կին տիրոջդ որդու՝ ինչպես ասել է Յահվեն։",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ահա"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ռիբկահը"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "առջևդ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "վերցրու"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "և գնա"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "և թող լինի"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "կին"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "որդու"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "տիրոջդ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ինչպես"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ասել է"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    }
+  ],
+  "timestamp": "2026-09-05T18:18:43.392836182Z",
+  "model": "glm-5.3"
+}

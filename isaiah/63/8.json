@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 63:8",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 63,
+  "translation": "Եվ ասաց՝ իրոք, իմ ժողովուրդն են նրանք, որդիներ, որ չեն ստի, և նա եղավ նրանց փրկիչ։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "և ասաց"
+    },
+    {
+      "surface": "אך",
+      "gloss": "իրոք"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "իմ ժողովուրդը"
+    },
+    {
+      "surface": "המה",
+      "gloss": "նրանք"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "որդիներ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ישקרו",
+      "gloss": "կստի"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "և եղավ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "նրանց"
+    },
+    {
+      "surface": "למושיע",
+      "gloss": "փրկիչ"
+    }
+  ],
+  "timestamp": "2026-09-05T21:37:39.473729609Z",
+  "model": "glm-5.3"
+}

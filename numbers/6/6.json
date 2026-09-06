@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 6,
+  "translation": "Իր նվիրման բոլոր օրերին՝ Յահվեի համար, մեռած նեֆեշի վրա չի մտնի։",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "օրերին՝"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "իր նվիրման"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "նեֆեշի"
+    },
+    {
+      "surface": "מת",
+      "gloss": "մեռած"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "կմտնի"
+    }
+  ],
+  "timestamp": "2026-09-05T19:14:15.062084326Z",
+  "model": "glm-5.3"
+}

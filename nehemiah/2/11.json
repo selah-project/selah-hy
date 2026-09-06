@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ եկա Երուշալայիմ և եղա այնտեղ երեք օր։",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "Եվ եկա"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨դեպի⟩"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Երուշալայիմ"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "և եղա"
+    },
+    {
+      "surface": "שם",
+      "gloss": "այնտեղ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "օր"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "երեք"
+    }
+  ],
+  "timestamp": "2026-09-06T00:21:50.702374157Z",
+  "model": "glm-5.3"
+}

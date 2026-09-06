@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 20:43",
+  "book": "1-kings",
+  "lang": "hy",
+  "chapter": 20,
+  "translation": "Եվ գնաց Իսրայելի արքան իր տուն՝ սրտնեղ և զայրացած, և եկավ Շոմրոն։",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "գնաց"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "արքան"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "על",
+      "gloss": "դեպի"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "իր տուն"
+    },
+    {
+      "surface": "סר",
+      "gloss": "սրտնեղ"
+    },
+    {
+      "surface": "וזעף",
+      "gloss": "զայրացած"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "եկավ"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "Շոմրոն"
+    }
+  ],
+  "timestamp": "2026-09-05T20:56:21.761465161Z",
+  "model": "glm-5.3"
+}

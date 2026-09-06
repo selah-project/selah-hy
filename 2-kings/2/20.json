@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 2:20",
+  "book": "2-kings",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ նա ասաց՝ վերցրե՛ք ինձ նոր անոթ և դրե՛ք այնտեղ աղ։ Եվ վերցրին ⟨այն⟩ նրա մոտ։",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ասաց"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "վերցրեք"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ինձ"
+    },
+    {
+      "surface": "צלחית",
+      "gloss": "անոթ"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "նոր"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "և դրեք"
+    },
+    {
+      "surface": "שם",
+      "gloss": "այնտեղ"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "աղ"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "վերցրին"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "նրա մոտ"
+    }
+  ],
+  "timestamp": "2026-09-05T20:59:00.157534001Z",
+  "model": "glm-5.3"
+}

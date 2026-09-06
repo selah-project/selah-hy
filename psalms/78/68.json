@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 78,
+  "translation": "Եվ ընտրեց ⟨את⟩ Յեհուդայի ցեղը, ⟨את⟩ Ցիոն լեռը, որ սիրեց։",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "Եվ ընտրեց"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Յեհուդայի ցեղը"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ցեղը"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Յեհուդայի"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ցիոն լեռը"
+    },
+    {
+      "surface": "הר",
+      "gloss": "լեռը"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ցիոն"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "սիրեց"
+    }
+  ],
+  "timestamp": "2026-09-05T23:11:00.824772539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 7:5",
+  "book": "isaiah",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Որովհետև Արամը չար խորհեց քեզ դեմ, Էֆրայիմը և Ռեմալյահուի որդին՝ ասելով.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Որովհետև"
+    },
+    {
+      "surface": "כי",
+      "gloss": "որ"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "խորհեց"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "քեզ դեմ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Արամը"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "չար"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Էֆրայիմը"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "և որդին"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Ռեմալյահուի"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T21:14:41.167130506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 22:26",
+  "book": "deuteronomy",
+  "lang": "hy",
+  "chapter": 22,
+  "translation": "Իսկ աղջկան ոչինչ մի՛ արա, քանի որ աղջկա մեղք մահվան չկա, որովհետև ինչպես որ մարդ ելնի իր ընկերոջ դեմ և սպանի նրա անձը, այնպես է այս գործը։",
+  "tokens": [
+    {
+      "surface": "ולנער",
+      "gloss": "Իսկ աղջկան"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "արա"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ոչինչ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չկա"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "աղջկա"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "մեղք"
+    },
+    {
+      "surface": "מות",
+      "gloss": "մահվան"
+    },
+    {
+      "surface": "כי",
+      "gloss": "քանի որ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ինչպես որ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ելնի"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "על",
+      "gloss": "դեմ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "իր ընկերոջ"
+    },
+    {
+      "surface": "ורצחו",
+      "gloss": "և սպանի"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "անձ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "այնպես"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "գործը"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "այս"
+    }
+  ],
+  "timestamp": "2026-09-05T19:43:35.407870984Z",
+  "model": "glm-5.3"
+}

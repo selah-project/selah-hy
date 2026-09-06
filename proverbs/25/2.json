@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Էլոհիմի փառքն է խոսքը ծածկելը, իսկ թագավորների փառքը՝ խոսքը հետազոտելը։",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "փառք"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Էլոհիմի"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "ծածկել"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսք"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "իսկ փառք"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "թագավորների"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "հետազոտել"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսք"
+    }
+  ],
+  "timestamp": "2026-09-05T23:36:29.004180697Z",
+  "model": "glm-5.3"
+}

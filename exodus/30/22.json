@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 30:22",
+  "book": "exodus",
+  "lang": "hy",
+  "chapter": 30,
+  "translation": "Եվ խոսեց Յահվեն Մոշեի (Մովսեսի) հետ՝ ասելով.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "և խոսեց"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մոտ՝ հետ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Մոշե (Մովսես)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ասելով"
+    }
+  ],
+  "timestamp": "2026-09-05T18:49:12.853900571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "hy",
+  "chapter": 10,
+  "translation": "Եվ Գոմերի որդիները՝ Աշքենազ և Ռիֆաթ և Թոգարմա։",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Եվ որդիները"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Գոմերի"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Աշքենազ"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "և Ռիֆաթ"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "և Թոգարմա"
+    }
+  ],
+  "timestamp": "2026-09-05T18:11:12.305372006Z",
+  "model": "glm-5.3"
+}

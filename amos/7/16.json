@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "amos 7:16",
+  "book": "amos",
+  "lang": "hy",
+  "chapter": 7,
+  "translation": "Այժմ լսի՛ր Յահվեի խոսքը. դու ասում ես՝ մի մարգարեացիր Իսրայելի դեմ և մի կաթիր Իսխակի տան դեմ։",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Այժմ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "լսի՛ր"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "խոսքը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ասում ես"
+    },
+    {
+      "surface": "לא",
+      "gloss": "մի"
+    },
+    {
+      "surface": "תנבא",
+      "gloss": "մարգարեացիր"
+    },
+    {
+      "surface": "על",
+      "gloss": "դեմ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Իսրայելի"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և մի"
+    },
+    {
+      "surface": "תטיף",
+      "gloss": "կաթիր"
+    },
+    {
+      "surface": "על",
+      "gloss": "դեմ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տան"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "Իսխակի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:37:55.376120583Z",
+  "model": "glm-5.3"
+}

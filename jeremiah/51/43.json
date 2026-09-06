@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 51:43",
+  "book": "jeremiah",
+  "lang": "hy",
+  "chapter": 51,
+  "translation": "Ավերակ դարձան նրա քաղաքները՝ չոր երկիր և անապատ, երկիր, որտեղ ոչ մի մարդ չի բնակվի, և որով մարդու որդին չի անցնի։",
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "դարձան"
+    },
+    {
+      "surface": "עריה",
+      "gloss": "նրա քաղաքները"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "ավերակ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկիր"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "չոր"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "և անապատ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "երկիր"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ոչ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "բնակվի"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "որտեղ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ոչ մի"
+    },
+    {
+      "surface": "איש",
+      "gloss": "մարդ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "և ոչ"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "անցնի"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "որով"
+    },
+    {
+      "surface": "בן",
+      "gloss": "որդին"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "մարդու"
+    }
+  ],
+  "timestamp": "2026-09-05T22:05:47.821305489Z",
+  "model": "glm-5.3"
+}

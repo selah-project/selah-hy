@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 38,
+  "translation": "Մի՛ թող ինձ, Յահվե, իմ Էլոհիմ, մի՛ հեռու եղիր ինձանից։",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "թող ինձ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվե"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "իմ Էլոհիմ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "մի՛"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "հեռու եղիր"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ինձանից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:01:32.261262578Z",
+  "model": "glm-5.3"
+}

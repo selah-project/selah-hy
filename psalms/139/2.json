@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 139,
+  "translation": "Դու իմացել ես նստելս և վեր կենալս, հասկանում ես մտքս հեռվից։",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Դու"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "իմացել ես"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "նստելս"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "և վեր կենալս"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "հասկանում ես"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "մտքս"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "հեռվից"
+    }
+  ],
+  "timestamp": "2026-09-05T23:25:55.287457814Z",
+  "model": "glm-5.3"
+}

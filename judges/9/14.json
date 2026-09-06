@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 9:14",
+  "book": "judges",
+  "lang": "hy",
+  "chapter": 9,
+  "translation": "Եվ ասացին բոլոր ծառերը փշաթուփին. արի՛ դու, թագավորիր մեզ վրա։",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Եվ ասացին"
+    },
+    {
+      "surface": "כל",
+      "gloss": "բոլոր"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ծառերը"
+    },
+    {
+      "surface": "אל",
+      "gloss": "փշաթուփին"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "փշաթուփին"
+    },
+    {
+      "surface": "לך",
+      "gloss": "արի՛"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "դու"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավորիր"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "մեզ վրա"
+    }
+  ],
+  "timestamp": "2026-09-05T20:06:31.406614074Z",
+  "model": "glm-5.3"
+}

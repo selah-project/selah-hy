@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 33:24",
+  "book": "numbers",
+  "lang": "hy",
+  "chapter": 33,
+  "translation": "Եվ շարժվեցին Շաֆեր լեռից, և բանակեցին Խարադահում։",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Եվ շարժվեցին"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "լեռից"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "Շաֆեր"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "և բանակեցին"
+    },
+    {
+      "surface": "בחרדה",
+      "gloss": "Խարադահում"
+    }
+  ],
+  "timestamp": "2026-09-05T19:29:53.329024235Z",
+  "model": "glm-5.3"
+}

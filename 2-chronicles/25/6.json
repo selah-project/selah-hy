@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "hy",
+  "chapter": 25,
+  "translation": "Եվ վարձեց Իսրայելից հարյուր հազար հզոր մարտիկ՝ հարյուր կիկար արծաթով։",
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "Եվ վարձեց"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Իսրայելից"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "հազար"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "հզոր"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "մարտիկ"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "հարյուր"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "կիկար"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "արծաթով"
+    }
+  ],
+  "timestamp": "2026-09-06T00:50:55.929990589Z",
+  "model": "glm-5.3"
+}

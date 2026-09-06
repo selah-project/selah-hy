@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 102,
+  "translation": "Իմ օրերը ինչպես ձգված ստվեր ⟨են⟩, և ես ինչպես խոտ չորացա։",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "իմ օրերը"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "ինչպես ստվեր"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "ձգված"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "և ես"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "ինչպես խոտ"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "չորացա"
+    }
+  ],
+  "timestamp": "2026-09-05T23:15:59.175748861Z",
+  "model": "glm-5.3"
+}

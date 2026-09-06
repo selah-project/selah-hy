@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Եվ սա ⟨է⟩ այն գրությունը, որ գրվեց՝ Մենե, Մենե, Տեկել, ու Պարսին։",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "Եվ սա"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "գրությունը"
+    },
+    {
+      "surface": "די",
+      "gloss": "որ"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "գրվեց"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "Մենե"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "Մենե"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "Տեկել"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "ու Պարսին"
+    }
+  ],
+  "timestamp": "2026-09-06T00:07:58.823895993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "hy",
+  "chapter": 5,
+  "translation": "Որբեր դարձանք, հայր չունենալով, մեր մայրերը՝ ինչպես այրիներ։",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "որբեր"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "դարձանք"
+    },
+    {
+      "surface": "אין",
+      "gloss": "չունենալով"
+    },
+    {
+      "surface": "אב",
+      "gloss": "հայր"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "մեր մայրերը"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "ինչպես այրիներ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:59:03.899480488Z",
+  "model": "glm-5.3"
+}

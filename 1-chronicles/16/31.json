@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 16:31",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 16,
+  "translation": "Ուրախանան երկինքը և ցնծա երկիրը, և ասեն ազգերի մեջ՝ Յահվեն թագավորեց։",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "Ուրախանան"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "երկինքը"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "և ցնծա"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "երկիրը"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "և ասեն"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ազգերի մեջ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեն"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավորեց"
+    }
+  ],
+  "timestamp": "2026-09-06T00:34:40.055657987Z",
+  "model": "glm-5.3"
+}

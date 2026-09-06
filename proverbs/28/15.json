@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "hy",
+  "chapter": 28,
+  "translation": "Մռնչացող առյուծ և սովամահ արջ՝ չարագործ տիրակալը աղքատ ժողովրդի վրա։",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "առյուծ"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "մռնչացող"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "և արջ"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "սովամահ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "տիրակալը"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "չարագործ"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ժողովրդի"
+    },
+    {
+      "surface": "דל",
+      "gloss": "աղքատ"
+    }
+  ],
+  "timestamp": "2026-09-05T23:37:29.577273044Z",
+  "model": "glm-5.3"
+}

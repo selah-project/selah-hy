@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 2:11",
+  "book": "2-samuel",
+  "lang": "hy",
+  "chapter": 2,
+  "translation": "Եվ եղավ օրերի թվի՝ որ Դավիդը թագավոր էր Խեվրոնում՝ Յեհուդայի տան վրա՝ յոթ տարի և վեց ամիս։",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Եվ եղավ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "թվի"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "օրերի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "էր"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Դավիդը"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "թագավոր"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Խեվրոնում"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "בית",
+      "gloss": "տան"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Յեհուդայի"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "յոթ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "տարի"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "և վեց"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ամիս"
+    }
+  ],
+  "timestamp": "2026-09-05T20:29:56.512162064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 8,
+  "translation": "Երգչապետին՝ գիթիթի վրա, Դավթի խոսք։",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "երգչապետին"
+    },
+    {
+      "surface": "על",
+      "gloss": "վրա"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "գիթիթի"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "խոսք"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Դավթի"
+    }
+  ],
+  "timestamp": "2026-09-05T22:53:19.716244658Z",
+  "model": "glm-5.3"
+}

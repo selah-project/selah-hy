@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 104,
+  "translation": "Կհագենան Յահվեի ծառերը՝ Լիբանանի մայրիները, որ նա տնկել է։",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "կհագենան"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ծառերը"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Յահվեի"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "մայրիները"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Լիբանանի"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "որ"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "տնկել է"
+    }
+  ],
+  "timestamp": "2026-09-05T23:16:50.497678777Z",
+  "model": "glm-5.3"
+}

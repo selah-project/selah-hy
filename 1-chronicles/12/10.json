@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "hy",
+  "chapter": 12,
+  "translation": "Եզեր ⟨առաջինը⟩, Օվադյահ երկրորդը, Էլիավ երրորդը։",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "Եզեր"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "առաջինը"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Օվադյահ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "երկրորդը"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Էլիավ"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "երրորդը"
+    }
+  ],
+  "timestamp": "2026-09-06T00:31:34.124536792Z",
+  "model": "glm-5.3"
+}

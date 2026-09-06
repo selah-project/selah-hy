@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "hy",
+  "chapter": 89,
+  "translation": "Պղրեցիր քո ծառայի Բրիթը, պղծեցիր երկրի վրա նրա թագը։",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "Պղրեցիր"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Բրիթը"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "քո ծառայի"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "պղծեցիր"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "երկրի վրա"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "նրա թագը"
+    }
+  ],
+  "timestamp": "2026-09-05T23:12:37.091022327Z",
+  "model": "glm-5.3"
+}
