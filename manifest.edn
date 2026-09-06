@@ -63,7 +63,7 @@
               "Յահվեյի ×3 genitive (Jer 3:10, 3:12, 2 Kgs 22:19) — needs a native ear"
               "rail gaps: האדון (Mal 3:1) and Aramaic מרא (Dan 2:47) have no D1 row"
               "capitalized generic Աստված (Deut 4:7, 1 Sam 28:13)"]},
-            :status :rendering,
+            :status :live,
             :adjudication
             {:chair 62,
              :date "2026-09-05",
@@ -95,10 +95,10 @@
             :version "v1",
             :lineage
             {:git
-             {:repo nil,
+             {:repo "selah-project/selah-hy",
               :ref "v1-final",
-              :commit nil,
-              :tags [],
-              :branches []},
+              :commit "6f10ff24",
+              :tags ["v1-final"],
+              :branches ["main"]},
              :parents []},
             :lang :hy}
