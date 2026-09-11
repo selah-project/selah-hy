@@ -51,3 +51,8 @@ gloss count; ⟨את⟩ markers are never deleted or added; the D1 Names
 (Յահվե, Էլոհիմ…) never yield to titles — not *Տէր*, not *Յեհովա*,
 not *Աստված* at the Name seat; שאול is Շեոլ, never *դժոխք*;
 supplied words only in ⟨⟩. Letter-faithfulness outranks readability.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
