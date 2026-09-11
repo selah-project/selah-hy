@@ -129,7 +129,7 @@ Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
 
 ## Աջակցի՛ր Սելահին
 
-<https://selahproject.org>
+<https://selahproject.com>
 
 ---
 

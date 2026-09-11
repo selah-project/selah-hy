@@ -12,7 +12,7 @@ International (CC BY-SA 4.0)** լիցենզիայով։
 
 Ազատ ես կիսվել և վերամշակել այս գործը ցանկացած նպատակով — ներառյալ
 առևտրայինը — եթե պատշաճ կերպով նշում ես **Սելահ-ծրագիրը**
-(https://selahproject.org), նշում ես քո փոփոխությունները, և ածանցյալ
+(https://selahproject.com), նշում ես քո փոփոխությունները, և ածանցյալ
 գործերը տարածում ես նույն լիցենզիայով։
 
 Հիմքում ընկած եբրայերեն տեքստը OpenScriptures Hebrew Bible (WLC) է,
@@ -26,7 +26,7 @@ of the Hebrew Bible (one rendering per verse and one gloss per
 word-unit), together with its full revision history. Published under
 **CC BY-SA 4.0**. You are free to share and adapt this work for any
 purpose, including commercially, provided you give appropriate credit
-to the **Selah project** (https://selahproject.org), state your
+to the **Selah project** (https://selahproject.com), state your
 changes, and distribute derivatives under the same license. The
 underlying Hebrew text is the OpenScriptures Hebrew Bible (WLC), in
 the public domain; the rendering, glosses, markers and revision
