@@ -9,7 +9,7 @@
 - Բա՛ց արա **Issue** պահոցում՝
   <https://github.com/selah-project/selah-hy>
 - Կամ, եթե ինքդ էլ կարող ես ուղղել, բա՛ց արա **Pull request**։
-- Կամ գրի՛ր մեզ՝ <support@selahproject.com>
+- Կամ գրի՛ր մեզ՝ <https://s33k3r.com/learn/support>
 
 ## Ինչ պետք է լինի հաղորդման մեջ
 
@@ -46,7 +46,7 @@
 
 **English.** Contributions welcome: open an Issue or Pull request at
 <https://github.com/selah-project/selah-hy>, or write to
-<support@selahproject.com>. One file = one verse; unit count equals
+<https://s33k3r.com/learn/support>. One file = one verse; unit count equals
 gloss count; ⟨את⟩ markers are never deleted or added; the D1 Names
 (Յահվե, Էլոհիմ…) never yield to titles — not *Տէր*, not *Յեհովա*,
 not *Աստված* at the Name seat; שאול is Շեոլ, never *դժոխք*;
